@@ -10,7 +10,8 @@
 <meta name="author" content="Jon Phipps, Diane Hillmann, James Hennelly, Deborah Fritz, Richard Fritz, Gordon Dunsire">
 <meta name="viewport" content="width=device-width">
 <!-- InstanceBeginEditable name="Title" -->
-<title>RDA Registry | Home</title>
+@@("")@@
+<title>Focus | R-Balls</title>
 <!-- InstanceEndEditable -->
 <!-- Icons-->
 <link rel="shortcut icon" href="http://www.rdatoolkit.org/sites/default/files/garland_favicon.ico" type="image/x-icon">
@@ -60,38 +61,20 @@
   <article id="page" class="page">
    <div class="page-content">
     <div class="rg-pagecontent">
-     <h1><!-- InstanceBeginEditable name="PageTitle" -->R-Balls<!-- InstanceEndEditable --></h1>
+     <h1><!-- InstanceBeginEditable name="PageTitle" -->@@("")@@R-Balls<!-- InstanceEndEditable --></h1>
      <!-- InstanceBeginEditable name="PageContent" -->
+     <h2><!-- TemplateBeginEditable name="RballTitle" -->R-Ball title<!-- TemplateEndEditable --></h2>
      <div class="row">
       <div class="col-md-6">
-       <ul>
-        <li><a href="../">R-Balls</a> (Home)</li>
-        <li><a href="focus/">Focus</a> (Topic of R-ball)
-         <ul>
-          <li><a href="focus/p/">Persons</a></li>
-          <li><a href="focus/w/">Works</a></li>
-         </ul>
-        </li>
-        <li><a href="rgValues/">RIMMF</a> (RDA data editor)</li>
-        <li><a href="about/">About</a> (More about r-balls)</li>
-        <li><a href="faq">FAQ</a> (Answers to frequently asked questions)</li>
-        <li><a href="https://github.com/RDARegistry/RDA-Vocabularies" target="_blank">Project</a> (RDA-Vocabularies project on GitHub)</li>
-        <li><a href="http://access.rdatoolkit.org" target="_blank">RDA Toolkit</a> (Full text of RDA - subscription required)</li>
-       </ul>
+       <!-- TemplateBeginEditable name="RBallDescription" -->R-Ball description<!-- TemplateEndEditable -->
       </div>
       <div class="col-md-6">
-       <h2>Welcome to r-balls!</h2>
-       <p>An r-ball contains linked data and Semantic Web representations of cultural heritage resources described using RDA: resource description and access.</p>
-       <p>An r-ball is created and maintained using RIMMF (RDA in Many Metadata Formats).</p>
-       <p>Please use the contacts below for more information.</p>
-       <p>Contacts:</p>
+       <h3>Downloads</h3>
+       <!-- TemplateBeginEditable name="RballDownload" -->
        <ul>
-        <li><a href="mailto:gordon@gordondunsire.com">Gordon Dunsire</a></li>
-        <li><a href="mailto:metadata.maven@gmail.com">Diane Hillmann</a></li>
-        <li><a href="mailto:jon@managemetadata.com">Jon Phipps</a></li>
+        <li>File</li>
        </ul>
-       <p>If you discover a problem with r-balls, or have a question, or even wish to engage in a philosophical or practical discussion, please <a href="https://github.com/RDARegistry/RDA-Vocabularies/issues" target="_blank">raise an issue!</a></p>
-       <p><a href="https://github.com/RDARegistry/RDA-Vocabularies" target="_blank">View the project on GitHub.</a></p>
+       <!-- TemplateEndEditable -->
       </div>
      </div>
      <!-- InstanceEndEditable -->
@@ -109,24 +92,18 @@
      <strong><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">R-Balls</span></strong> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative Commons Attribution 4.0 International License</a>. Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://rballs.info" rel="dct:source">http://rballs.info</a>.
     </div>
     <div class="col-md-6">
-     <img src="rgLogos/RDAlogo_rgbSized.gif" width="184" height="50" alt="RDA logo">
+     <img src="../rgLogos/RDAlogo_rgbSized.gif" width="184" height="50" alt="RDA logo">
     </div>
    </div>
    <div class="date-updated">
-    <p>This page was last updated <!-- InstanceBeginEditable name="DateUpdated" -->11 Jan 2015<!-- InstanceEndEditable -->.</p>
+    <p>This page was last updated <!-- InstanceBeginEditable name="DateUpdated" -->Date updated<!-- InstanceEndEditable -->.</p>
    </div>
   </div>
  </footer>
 </div>
 <!-- Scripts--> 
 <!-- InstanceBeginEditable name="Scripts" --> 
-<script defer src="/vendor/prettify.js">
-</script><script defer src="/vendor/jquery/dist/jquery.js">
-</script><script defer src="/vendor/bootstrap/dist/js/bootstrap.js">
-</script><script defer src="/vendor/log.js">
-</script><script defer src="/vendor/modernizr.js">
-</script><script defer src="/scripts/script.js">
-</script> 
+<script defer src="/vendor/prettify.js"></script><script defer src="/vendor/jquery/dist/jquery.js"></script><script defer src="/vendor/bootstrap/dist/js/bootstrap.js"></script><script defer src="/vendor/log.js"></script><script defer src="/vendor/modernizr.js"></script><script defer src="/scripts/script.js"></script> 
 <!-- InstanceEndEditable -->
 </body>
 <!-- InstanceEnd --></html>
