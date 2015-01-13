@@ -66,6 +66,8 @@
      <ul>
       <li><a href="#faq1">1. What is an r-ball?</a></li>
       <li><a href="#faq2">2. What kinds of resources can be found in an r-ball?</a></li>
+      <li><a href="#faq3">3. How is an r-ball created and developed?</a></li>
+      <li><a href="#faq4">4. Is an r-ball linked data?</a></li>
      </ul>
      <div class="faq-q">
       <p><a id="faq1">1.</a> What is an r-ball?</p>
@@ -77,13 +79,27 @@
        <li><strong>RDA</strong> ball: Data about a set of related entities, consistent with RDA.</li>
        <li><strong>RDF</strong> ball: Data about a set of related entities using Resource Description Framework (RDF) syntax.</li>
        <li><strong>Resource</strong> ball: Metadata for a set of related information resources.</li>
+       <li><strong>Record</strong> ball: Metadata for a single information resources.</li>
       </ul>
      </div>
      <div class="faq-q">
       <p><a id="faq2">2.</a> What kinds of resources can be found in an r-ball?</p>
      </div>
      <div class="faq-a">
-      <p>An r-ball contains RDA data describing of all kinds of bibliographic and cultural heritage resources. An r-ball usually has a focus: a specific <em>RDA Person</em> or <em>RDA Work</em> entity. For example, the focus of the Jane Austen r-ball is the Person known as &quot;Jane Austen&quot;, and the focus of the Blade Runner r-ball is the Work known as &quot;Blade Runner&quot;. An r-ball contains data about the attributes of the entity in focus, together with relationships to other entities and their attributes and relationships, and so on.</p>
+      <p>An r-ball contains RDA data describing of all kinds of bibliographic and cultural heritage resources. An r-ball usually has a focus: a specific <em>RDA Person</em> or <em>RDA Work</em> entity. For example, the focus of the <a href="topics/p/jane/">Jane Austen</a> r-ball is the Person known as &quot;Jane Austen&quot;, and the focus of the <a href="topics/p/jane/">Blade Runner</a> r-ball is the Work known as &quot;Blade Runner&quot;. An r-ball contains data about the attributes of the entity in focus, together with relationships to other entities and their attributes and relationships, and so on.</p>
+     </div>
+    <div class="faq-q">
+      <p><a id="faq3">3.</a> How is an r-ball created?</</p>
+     </div>
+     <div class="faq-a">
+      <p>An r-ball is created and maintained using <a href="http://www.rdaregistry.info/rimmf/">RIMMF</a> (RDA in Many Metadata Formats), a free downloadable editor for data consistent with the RDA element set and <a href="http://www.rdaregistry.info/">RDA Registry</a>. RIMMF can import MARC21 and RDF data and automatically create r-balls from it.</p>
+     </div>
+    <div class="faq-q">
+      <p><a id="faq4">4.</a> Is an r-ball linked data?</</p>
+     </div>
+     <div class="faq-a">
+      <p>Yes.</p>
+	  <p>An r-ball uses a data format that is local to <a href="http://www.rdaregistry.info/rimmf/">RIMMF</a> to identify and link metadata for specific entities. RIMMF can export r-balls in Resource Description Framework (RDF) format, the global format for linked open data and the Semantic Web. The export data file can be added to a triple store, used to generate an RDF graph, and consumed by linked data applications and services.</p>
      </div>
      <!-- InstanceEndEditable -->
     </div>
@@ -104,7 +120,7 @@
     </div>
    </div>
    <div class="date-updated">
-    <p>This page was last updated <!-- InstanceBeginEditable name="DateUpdated" -->11 Jan 2015<!-- InstanceEndEditable -->.</p>
+    <p>This page was last updated <!-- InstanceBeginEditable name="DateUpdated" -->13 Jan 2015<!-- InstanceEndEditable -->.</p>
    </div>
   </div>
  </footer>
