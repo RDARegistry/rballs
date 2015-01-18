@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en"><!-- InstanceBegin template="/Templates/rballs.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en"><!-- InstanceBegin template="/Templates/rballstopicspage.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <!-- Meta-->
 <meta charset="utf-8">
@@ -9,9 +9,10 @@
 <meta name="keywords" content="RDA, RIMMF, datasets, documentation">
 <meta name="author" content="Jon Phipps, Diane Hillmann, Deborah Fritz, Richard Fritz, Gordon Dunsire">
 <meta name="viewport" content="width=device-width">
-<!-- InstanceBeginEditable name="Title" -->
-<title>R-Balls | FAQ</title>
-<!-- InstanceEndEditable -->
+
+
+<title>R-Balls | Topics</title>
+
 <!-- Icons-->
 <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.css" />
 <link rel="stylesheet" href="http://www.rdaregistry.info/styles/style.css" />
@@ -61,74 +62,43 @@
 <article id="page" class="page">
 <div class="page-content">
 <div class="rg-pagecontent">
-<h1><!-- InstanceBeginEditable name="PageTitle" -->Frequently Asked Questions<!-- InstanceEndEditable --></h1>
-<!-- InstanceBeginEditable name="PageContent" -->
+<h1>R-Balls</h1>
+
+     <h2><!-- InstanceBeginEditable name="RballTitle" -->Ur-ball for Jane Austen's Emma<!-- InstanceEndEditable --></h2>
      <div class="row">
-      <div class="col-md-1">
-       <p>What is</p>
+      <div class="col-md-9">
+       <!-- InstanceBeginEditable name="RBallDescription" -->
+       <p>The focus of this r-ball is the novel by Jane Austen with the title &quot;Emma&quot;, published in 1816 in London by John Murray. The <a href="http://digital.nls.uk/jma/" target="_blank">John Murray Archive</a> contains letters from Austen to Murray dated <a href="http://digital.nls.uk/jma/gallery/title.cfm?id=39" target="_blank">23 November 1815</a> and <a href="http://digital.nls.uk/jma/gallery/title.cfm?id=40" target="_blank">11 December 1815</a> about the publication and its dedication to the Prince Regent.</p>
+       <p><a href="http://upload.wikimedia.org/wikipedia/commons/f/f2/EmmaTitlePage.jpg" target="_blank"><img src="../../../images/EmmaTitlePageWee.jpg" width="300" height="527" alt="Title page of first edition of Jane Austen's Emma"></a></p>
+       <p> The ur-ball contains four entities:</p>
+       <ul>
+        <li>the Person named &quot;Jane Austen&quot;</li>
+        <li>the Work titled &quot;Emma&quot;</li>
+        <li>the Expression of the English text</li>
+        <li>the Manifestation published in 1816</li>
+       </ul>
+       <p>This r-ball is contained in the <a href="janebase.html">Jane Austen base</a> r-ball.</p>
+       <h3><a id="emmaurrdf">RDF graph</a></h3>
+       <p>This is part of the <a href="../../../images/janeemmaur.png">RDF graph of the ur-ball of Jane Austen's Emma</a> generated using the <a href="../../../about/rdfballs.html#smallgraphs">RDF graphs for small r-balls</a> method.</p>
+       <p><a href="../../../images/janeemmaur.png"><img src="../../../images/janeemmaurpart.png" width="350" height="198" alt="RDF graph of ur-ball of Jane Austen's Emma"></a></p>
+       <!-- InstanceEndEditable -->
       </div>
       <div class="col-md-3">
+       <h3>Downloads</h3>
+       <!-- InstanceBeginEditable name="RballDownload" -->
        <ul>
-        <li><a href="#faqdic1">An r-ball?</a></li>
-        <li><a href="#faqdic2">A RIMMF-ball?</a></li>
-        <li><a href="#faqdic3">An RDF-ball?</a></li>
-        <li><a href="#faqdic4">An ur-ball?</a></li>
+        <li><a href="http://rballs.info/zip/JaneEmmaUr.zip">RIMMF ball</a> (application/zip)</li>
+        <li><a href="http://rballs.info/nt/JaneEmmaUr.nt">RDF ball</a> (text/rdf+nt)</li>
+       </ul>
+       <!-- InstanceEndEditable -->
+       <p>More about:</p>
+       <ul>
+        <li><a href="../../../about/rimmfballs.html">RIMMF-balls</a></li>
+        <li><a href="../../../about/rdfballs.html">RDF-balls</a></li>
        </ul>
       </div>
-      <div class="col-md-8">
-       <ul>
-        <li><a href="#faq1">What kinds of resources can be found in an r-ball?</a></li>
-        <li><a href="#faq2">How is an r-ball created and developed?</a></li>
-        <li><a href="#faq3">Is an r-ball linked data?</a></li>
-       </ul>
-      </div>
      </div>
-     <div class="faq-q">
-      <p><a id="faqdic1">Q:</a> What is an r-ball?</p>
-     </div>
-     <div class="faq-a">
-      <p>An <em>r-ball</em> can be a:</p>
-      <ul>
-       <li><strong>RIMMF</strong>-ball: Data about a set of related entities, using local RDA in Many Metadata Formats (<a href="http://www.rdaregistry.info/rimmf/">RIMMF</a>) syntax.</li>
-       <li><strong>RDA</strong>-ball: Data about a set of related entities, consistent with RDA.</li>
-       <li><strong>RDF</strong>-ball: Data about a set of related entities using Resource Description Framework (RDF) syntax.</li>
-       <li><strong>Resource</strong>-ball: Metadata for a set of related information resources.</li>
-       <li><strong>Record</strong>-ball: Metadata for a single information resource.</li>
-      </ul>
-      <p>More:</p>
-      <ul>
-       <li><a href="about/rimmfballs.html">RIMMF-balls</a></li>
-       <li><a href="about/rdfballs.html">RDF-balls</a></li>
-       <li><a href="#faqdic4">ur-balls</a></li>
-      </ul>
-     </div>
-     <div class="faq-q">
-      <p><a id="faq1">Q:</a> What kinds of resources can be found in an r-ball?</p>
-     </div>
-     <div class="faq-a">
-      <p>An r-ball contains RDA data describing of all kinds of bibliographic and cultural heritage resources. An r-ball usually has a focus: a specific <em>RDA Person</em> or <em>RDA Work</em> entity. For example, the focus of the <a href="topics/p/jane/">Jane Austen</a> r-ball is the Person known as &quot;Jane Austen&quot;, and the focus of the <a href="topics/p/jane/">Blade Runner</a> r-ball is the Work known as &quot;Blade Runner&quot;. An r-ball contains data about the attributes of the entity in focus, together with relationships to other entities and their attributes and relationships, and so on.</p>
-     </div>
-     <div class="faq-q">
-      <p><a id="faq2">Q:</a> How is an r-ball created?</</p>
-     </div>
-     <div class="faq-a">
-      <p>An r-ball is created and maintained using <a href="http://www.rdaregistry.info/rimmf/">RIMMF</a> (RDA in Many Metadata Formats), a free downloadable editor for data consistent with the RDA element set and <a href="http://www.rdaregistry.info/">RDA Registry</a>. RIMMF can import MARC21 and RDF data and automatically create r-balls from it.</p>
-     </div>
-     <div class="faq-q">
-      <p><a id="faq3">Q:</a> Is an r-ball linked data?</</p>
-     </div>
-     <div class="faq-a">
-      <p>Yes.</p>
-      <p>An r-ball uses a data format that is local to <a href="http://www.rdaregistry.info/rimmf/">RIMMF</a> to identify and link metadata for specific entities. RIMMF can export r-balls in Resource Description Framework (RDF) format, the global format for linked open data and the Semantic Web. The export data file can be added to a triple store, used to generate an RDF graph, and consumed by linked data applications and services.</p>
-     </div>
-     <div class="faq-q">
-      <p><a id="faqdic4">Q:</a> What is an ur-ball?</</p>
-     </div>
-     <div class="faq-a">
-      <p>An ur-ball is an r-ball with a focus of the original Manifestation of a Work. For example the focus of the <a href="topics/p/jane/janeemmaur.html">ur-ball for Jane Austen's Emma</a> is the Manifestation published in 1816 in London by John Murray.</p>
-      <p>An ur-ball is a type of <em>record-ball</em>.</p>
-     </div>
-     <!-- InstanceEndEditable -->
+     
 </div>
 </div>
 </article>
@@ -165,7 +135,7 @@
 </div>
 <div class="col-md-4">
 <div class="rg-footer-part">
-<img src="images/RDAlogo_rgbSized.gif" width="184" height="50" alt="RDA logo">
+<img src="../../../images/RDAlogo_rgbSized.gif" width="184" height="50" alt="RDA logo">
 </div>
 </div>
 </div>
@@ -179,6 +149,14 @@
 <script defer src="/bower_components/jquery/dist/jquery.js"></script>
 <script defer src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
 <script defer src="/bower_components/modernizer/modernizr.js"></script>
-<!-- InstanceBeginEditable name="Scripts" --> <!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="Scripts" --> 
+<script defer src="/vendor/prettify.js">
+</script><script defer src="/vendor/jquery/dist/jquery.js">
+</script><script defer src="/vendor/bootstrap/dist/js/bootstrap.js">
+</script><script defer src="/vendor/log.js">
+</script><script defer src="/vendor/modernizr.js">
+</script><script defer src="/scripts/script.js">
+</script> 
+<!-- InstanceEndEditable -->
 </body>
 <!-- InstanceEnd --></html>
