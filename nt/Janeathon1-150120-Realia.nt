@@ -1,0 +1,835 @@
+<http://rimmfdata.com/r/jais00000050> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/jais00000050> <http://rimmf.com/vocab/sourceConsultedPerson> "Jane Austen's letters to her sister Cassandra, 1932" .
+<http://rimmfdata.com/r/jais00000050> <http://rdaregistry.info/Elements/a/P50117> "Austen, Cassandra" .
+<http://rimmfdata.com/r/jais00000050> <http://rdaregistry.info/Elements/a/P50103> "Austen, Cassandra Elizabeth" .
+<http://rimmfdata.com/r/jais00000050> <http://rdaregistry.info/Elements/a/P50121> "1773" .
+<http://rimmfdata.com/r/jais00000050> <http://rdaregistry.info/Elements/a/P50120> "1845" .
+<http://rimmfdata.com/r/jais00000050> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  82071586" .
+<http://rimmfdata.com/r/jais00000050> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00768369" .
+<http://rimmfdata.com/r/jais00000050> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n82071586> .
+<http://rimmfdata.com/r/jais00000050> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Austen, Cassandra, 1773-1845" .
+<http://rimmfdata.com/r/jais00000050> <http://rimmf.com/vocab/variantAccessPointPerson> "Austen, Cassandra Elizabeth, 1773-1845" .
+<http://rimmfdata.com/r/jais00000050> <http://rdaregistry.info/Elements/a/P50192> <http://rimmfdata.com/r/jais00000052> .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Austen, Jane, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50117> "Austen, Jane" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Ao-ssu-ting" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043C" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u0623\u0648\u0633\u062A\u0646\u060C \u062C\u064A\u0646\u060C" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Ao-ssu-ting, Chien" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Aosiding" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Aosiding, Jian" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u0100s\u1E6Din\u0332, J\u0113n\u0332" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Austenov\u00E1, Jane" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Osten, Dzhe\u012Dn" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Ostin, Dzhein" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043D" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50121> "1775 December 16" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50120> "1817 July 18" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50116> "female" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50119> "Steventon, Hampshire, England" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50118> "Winchester, England" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50097> "Bath, England" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50102> "English" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50104> "Author" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  79032879" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00266512" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n79032879> .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Ao-ssu-ting, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0623\u0648\u0633\u062A\u0646\u060C \u062C\u064A\u0646\u060C, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043C, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF, 1775\u05BE1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0623\u0648\u0633\u062A\u0646\u060C \u062C\u064A\u0646\u060C 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Ao-ssu-ting, Chien, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Aosiding, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Aosiding, Jian, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0100s\u1E6Din\u0332, J\u0113n\u0332, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Austenov\u00E1, Jane, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Osten, Dzhe\u012Dn, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Ostin, Dzhein, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043D, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Ao-ssu-ting yen chiu, 1985: t.p. (Ao-ssu-ting) p. 367 (Chien Ao-ssu-ting)" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Genieva, E.I\u0361U. Dzhe\u012Dn Osten, 1986" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Ema, 1934: t.p. (Jane Austenov\u00E1)" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Kaly\u0101\u1E47ak kan\u0332avuka\u1E37, 2007: t.p. (J\u0113n\u0332 \u0100s\u1E6Din\u0332)" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Wikipedia, via WWW, Feb. 8, 2012 (b. December 16, 1775 in Steventon, Hampshire; d. 18 July 1817 in Winchester, Hampshire; an English novelist; moved to Bath in 1800)" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/cataloguersNotePerson> "Machine-derived non-Latin script reference project" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/cataloguersNotePerson> "Non-Latin script references not evaluated" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000013" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000032" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000035" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000040" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000052" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000053" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/janebase00000056> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000062" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000075" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/janebase00000116> .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "janebase00000119" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "blr00000095" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> "eawm00000026" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiag00000031" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> <http://rimmfdata.com/r/jaiak00000014> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> <http://rimmfdata.com/r/jaiak00000018> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> <http://rimmfdata.com/r/jaiam00000013> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> <http://rimmfdata.com/r/jaiam00000023> .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaian00000021" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "jail00000071" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> "jain00000026" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> <http://rimmfdata.com/r/jais00000038> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> <http://rimmfdata.com/r/jais00000042> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> <http://rimmfdata.com/r/jais00000045> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> <http://rimmfdata.com/r/jais00000049> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> <http://rimmfdata.com/r/jais00000052> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> <http://rimmfdata.com/r/jais00000056> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> <http://rimmfdata.com/r/jaiu00000021> .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiv00000027" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiv00000032" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiv00000044" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiw00000014" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiw00000018" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiw00000023" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> "jaiy00000085" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "jatb00000065" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jatb00000069" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jatb00000073" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "jatb00000078" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jatb00000079" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jatc00000018" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jatc00000031" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "jatg00000070" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jatj00000025" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jatj00000034" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jatj00000038" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jdata00000025" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jdata00000032" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jdata00000136" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jdata00000137" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jdata00000149" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jdata00000149" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "rlm00000069" .
+<http://rimmfdata.com/r/jatk00000025> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Austen, Cassandra, 1773-1845" .
+<http://rimmfdata.com/r/jatk00000025> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/jatk00000025> <http://rimmf.com/vocab/sourceConsultedPerson> "Jane Austen's letters to her sister Cassandra, 1932" .
+<http://rimmfdata.com/r/jatk00000025> <http://rdaregistry.info/Elements/a/P50117> "Austen, Cassandra" .
+<http://rimmfdata.com/r/jatk00000025> <http://rdaregistry.info/Elements/a/P50103> "Austen, Cassandra Elizabeth" .
+<http://rimmfdata.com/r/jatk00000025> <http://rdaregistry.info/Elements/a/P50121> "1773" .
+<http://rimmfdata.com/r/jatk00000025> <http://rdaregistry.info/Elements/a/P50120> "1845" .
+<http://rimmfdata.com/r/jatk00000025> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  82071586" .
+<http://rimmfdata.com/r/jatk00000025> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00768369" .
+<http://rimmfdata.com/r/jatk00000025> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n82071586> .
+<http://rimmfdata.com/r/jatk00000025> <http://rimmf.com/vocab/variantAccessPointPerson> "Austen, Cassandra Elizabeth, 1773-1845" .
+<http://rimmfdata.com/r/jatk00000025> <http://rdaregistry.info/Elements/a/P50159> <http://rimmfdata.com/r/jatk00000024> .
+<http://rimmfdata.com/r/jaiak00000013> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jaiak00000013> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Edgar Allan Poe action figure, c2004: container (Accoutrements, Seattle Washington)" .
+<http://rimmfdata.com/r/jaiak00000013> <http://rdaregistry.info/Elements/a/P50041> "Accoutrements (Firm)" .
+<http://rimmfdata.com/r/jaiak00000013> <http://rdaregistry.info/Elements/a/P50006> "LCCN no2010058413" .
+<http://rimmfdata.com/r/jaiak00000013> <http://rdaregistry.info/Elements/a/P50006> "(OCoLC)oca08452997" .
+<http://rimmfdata.com/r/jaiak00000013> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/no2010058413> .
+<http://rimmfdata.com/r/jaiak00000013> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "Accoutrements (Firm)" .
+<http://rimmfdata.com/r/jaiak00000013> <http://rdaregistry.info/Elements/a/P50203> <http://rimmfdata.com/r/jaiak00000012> .
+<http://rimmfdata.com/r/jaiak00000028> <http://rdaregistry.info/Elements/a/P50041> "Literary Bookmarks, etc." .
+<http://rimmfdata.com/r/jaiak00000028> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Found on &#34;Mansfield Park Bookmark&#34;." .
+<http://rimmfdata.com/r/jaiak00000028> <http://rdaregistry.info/Elements/a/P50203> <http://rimmfdata.com/r/jaiak00000020> .
+<http://rimmfdata.com/r/jaiam00000014> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "Archie McPhee (Retail store)" .
+<http://rimmfdata.com/r/jaiam00000014> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jaiam00000014> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Who would buy this?, c2008: t.p. (Archie McPhee) p. 6 (retail store)" .
+<http://rimmfdata.com/r/jaiam00000014> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Archie McPhee website, Apr. 27, 2009 (Archie McPhee has been supplying gifts and toys to Seattle since 1983; store; a one stop shop for party supplies, crafts, costumes, miniatures and the weirdest collection of toys and candy that you've ever seen) http://www.archiemcpheeseattle.com" .
+<http://rimmfdata.com/r/jaiam00000014> <http://rdaregistry.info/Elements/a/P50041> "Archie McPhee (Retail store)" .
+<http://rimmfdata.com/r/jaiam00000014> <http://rdaregistry.info/Elements/a/P50006> "LCCN no2009199239" .
+<http://rimmfdata.com/r/jaiam00000014> <http://rdaregistry.info/Elements/a/P50006> "(OCoLC)oca08334751" .
+<http://rimmfdata.com/r/jaiam00000014> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/no2009199239> .
+<http://rimmfdata.com/r/jaiam00000014> <http://rdaregistry.info/Elements/a/P50204> <http://rimmfdata.com/r/jaiam00000013> .
+<http://rimmfdata.com/r/jais00000035> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jais00000035> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Who would buy this?, c2008: t.p. (Archie McPhee) p. 6 (retail store)" .
+<http://rimmfdata.com/r/jais00000035> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Archie McPhee website, Apr. 27, 2009 (Archie McPhee has been supplying gifts and toys to Seattle since 1983; store; a one stop shop for party supplies, crafts, costumes, miniatures and the weirdest collection of toys and candy that you've ever seen) http://www.archiemcpheeseattle.com" .
+<http://rimmfdata.com/r/jais00000035> <http://rdaregistry.info/Elements/a/P50041> "Archie McPhee (Retail store)" .
+<http://rimmfdata.com/r/jais00000035> <http://rdaregistry.info/Elements/a/P50006> "LCCN no2009199239" .
+<http://rimmfdata.com/r/jais00000035> <http://rdaregistry.info/Elements/a/P50006> "(OCoLC)oca08334751" .
+<http://rimmfdata.com/r/jais00000035> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/no2009199239> .
+<http://rimmfdata.com/r/jais00000035> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "Archie McPhee (Retail store)" .
+<http://rimmfdata.com/r/jais00000035> <http://rdaregistry.info/Elements/a/P50203> <http://rimmfdata.com/r/jais00000037> .
+<http://rimmfdata.com/r/jais00000048> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jais00000048> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Its Annual report of the trustees. 49th- 1905/06" .
+<http://rimmfdata.com/r/jais00000048> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "LC data base, 4/17/89 (hdg.: London. National Portrait Gallery)" .
+<http://rimmfdata.com/r/jais00000048> <http://rdaregistry.info/Elements/a/P50041> "National Portrait Gallery (Great Britain)" .
+<http://rimmfdata.com/r/jais00000048> <http://rdaregistry.info/Elements/a/P50025> "London (England). National Portrait Gallery" .
+<http://rimmfdata.com/r/jais00000048> <http://rdaregistry.info/Elements/a/P50025> "Great Britain. National Portrait Gallery" .
+<http://rimmfdata.com/r/jais00000048> <http://rdaregistry.info/Elements/a/P50025> "London. National Portrait Gallery" .
+<http://rimmfdata.com/r/jais00000048> <http://rdaregistry.info/Elements/a/P50006> "LCCN n  79113062" .
+<http://rimmfdata.com/r/jais00000048> <http://rdaregistry.info/Elements/a/P50006> "(OCoLC)oca00344867" .
+<http://rimmfdata.com/r/jais00000048> <http://rdaregistry.info/Elements/a/P50006> "(DLC)n  79113062" .
+<http://rimmfdata.com/r/jais00000048> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/n79113062> .
+<http://rimmfdata.com/r/jais00000048> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "National Portrait Gallery (Great Britain)" .
+<http://rimmfdata.com/r/jais00000048> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "London (England). National Portrait Gallery" .
+<http://rimmfdata.com/r/jais00000048> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "Great Britain. National Portrait Gallery" .
+<http://rimmfdata.com/r/jais00000048> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "London. National Portrait Gallery" .
+<http://rimmfdata.com/r/jais00000048> <http://rdaregistry.info/Elements/a/P50199> <http://rimmfdata.com/r/jais00000047> .
+<http://rimmfdata.com/r/jaiu00000012> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jaiu00000012> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Who would buy this?, c2008: t.p. (Archie McPhee) p. 6 (retail store)" .
+<http://rimmfdata.com/r/jaiu00000012> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Archie McPhee website, Apr. 27, 2009 (Archie McPhee has been supplying gifts and toys to Seattle since 1983; store; a one stop shop for party supplies, crafts, costumes, miniatures and the weirdest collection of toys and candy that you've ever seen) http://www.archiemcpheeseattle.com" .
+<http://rimmfdata.com/r/jaiu00000012> <http://rdaregistry.info/Elements/a/P50041> "Archie McPhee (Retail store)" .
+<http://rimmfdata.com/r/jaiu00000012> <http://rdaregistry.info/Elements/a/P50006> "LCCN no2009199239" .
+<http://rimmfdata.com/r/jaiu00000012> <http://rdaregistry.info/Elements/a/P50006> "(OCoLC)oca08334751" .
+<http://rimmfdata.com/r/jaiu00000012> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/no2009199239> .
+<http://rimmfdata.com/r/jaiu00000012> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "Archie McPhee (Retail store)" .
+<http://rimmfdata.com/r/jaiu00000012> <http://rdaregistry.info/Elements/a/P50203> <http://rimmfdata.com/r/jaiu00000013> .
+<http://rimmfdata.com/r/jaiu00000014> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jaiu00000014> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Edgar Allan Poe action figure, c2004: container (Accoutrements, Seattle Washington)" .
+<http://rimmfdata.com/r/jaiu00000014> <http://rdaregistry.info/Elements/a/P50041> "Accoutrements (Firm)" .
+<http://rimmfdata.com/r/jaiu00000014> <http://rdaregistry.info/Elements/a/P50006> "LCCN no2010058413" .
+<http://rimmfdata.com/r/jaiu00000014> <http://rdaregistry.info/Elements/a/P50006> "(OCoLC)oca08452997" .
+<http://rimmfdata.com/r/jaiu00000014> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/no2010058413> .
+<http://rimmfdata.com/r/jaiu00000014> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "Accoutrements (Firm)" .
+<http://rimmfdata.com/r/jaiu00000014> <http://rdaregistry.info/Elements/a/P50202> <http://rimmfdata.com/r/jaiu00000013> .
+<http://rimmfdata.com/r/jaiu00000024> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jaiu00000024> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Persuasion (Victoria, B.C.). Persuasion, 16th Dec. 1979: t.p. (Jane Austen Society of North America) p. 2 (JASNA)" .
+<http://rimmfdata.com/r/jaiu00000024> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "NLC 12/08/85 (ACCR 2: Jane Austen Society of North America)" .
+<http://rimmfdata.com/r/jaiu00000024> <http://rdaregistry.info/Elements/a/P50041> "Jane Austen Society of North America" .
+<http://rimmfdata.com/r/jaiu00000024> <http://rdaregistry.info/Elements/a/P50025> "JASNA" .
+<http://rimmfdata.com/r/jaiu00000024> <http://rdaregistry.info/Elements/a/P50006> "LCCN n  85088895" .
+<http://rimmfdata.com/r/jaiu00000024> <http://rdaregistry.info/Elements/a/P50006> "(OCoLC)oca01340622" .
+<http://rimmfdata.com/r/jaiu00000024> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/n85088895> .
+<http://rimmfdata.com/r/jaiu00000024> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "Jane Austen Society of North America" .
+<http://rimmfdata.com/r/jaiu00000024> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "JASNA" .
+<http://rimmfdata.com/r/jaiu00000024> <http://rdaregistry.info/Elements/a/P50203> <http://rimmfdata.com/r/jaiu00000023> .
+<http://rimmfdata.com/r/jatk00000019> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jatk00000019> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Its Annual report of the trustees. 49th- 1905/06" .
+<http://rimmfdata.com/r/jatk00000019> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "LC data base, 4/17/89 (hdg.: London. National Portrait Gallery)" .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50041> "National Portrait Gallery (Great Britain)" .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50025> "London (England). National Portrait Gallery" .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50025> "Great Britain. National Portrait Gallery" .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50025> "London. National Portrait Gallery" .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50006> "LCCN n  79113062" .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50006> "(OCoLC)oca00344867" .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50006> "(DLC)n  79113062" .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/n79113062> .
+<http://rimmfdata.com/r/jatk00000019> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "National Portrait Gallery (Great Britain)" .
+<http://rimmfdata.com/r/jatk00000019> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "London (England). National Portrait Gallery" .
+<http://rimmfdata.com/r/jatk00000019> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "Great Britain. National Portrait Gallery" .
+<http://rimmfdata.com/r/jatk00000019> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "London. National Portrait Gallery" .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50181> <http://rimmfdata.com/r/jatk00000018> .
+<http://rimmfdata.com/r/jatk00000019> <http://rdaregistry.info/Elements/a/P50203> <http://rimmfdata.com/r/jatk00000022> .
+<http://rimmfdata.com/r/jaiak00000012> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen Bandages. 2012" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen Bandages" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30128> "Bandages" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30088> "Seattle, WA" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30011> "2012" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30008> "2012" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30087> "China" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30175> "Accountrements, LLC" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30007> "c2012" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30004> "12361" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rimmf.com/vocab/extentStatement> "15 assorted plasters" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30169> "3&#34; x 1&#34; x 1&#34;" .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30083> <http://rimmfdata.com/r/jaiak00000013> .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jaiak00000016> .
+<http://rimmfdata.com/r/jaiak00000012> <http://rdaregistry.info/Elements/m/P30137> "&#34;Free Prize Inside&#34; statement on box." .
+<http://rimmfdata.com/r/jaiak00000017> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen Finger Puppet & Fridge Magnet. Unemployed Philosophers Guild. 2011. Object" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen Finger Puppet & Fridge Magnet" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30142> "Finger Puppet and Fridge Magnet" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30128> "Finger Puppet & Fridge Magnet" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30176> "Unemployed Philosophers Guild" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30011> "2011" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30087> "Brooklyn, NY" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30175> "Unemployed Philosophers Guild" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30157> "Magnet Personalities" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30004> "14229000069" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rimmf.com/vocab/extentStatement> "1" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30169> "3&#34; * 3&#34;* 1/1&#34;" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30208> "cloth" .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jaiak00000019> .
+<http://rimmfdata.com/r/jaiak00000017> <http://rdaregistry.info/Elements/m/P30050> "Tag contains a brief biography of Jane Austen" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rimmf.com/vocab/descriptionManifestation> "Mansfield Park Bookmark. Literary Bookmarks, etc. Object" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30156> "Mansfield Park Bookmark" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30142> "Fanny and The Bertrams" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30176> "Literary Bookmarks, etc." .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rimmf.com/vocab/extentStatement> "1 bookmark" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rimmf.com/vocab/typeOfUnitText> "bookmark" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30169> "2&#34; * 5&#34;" .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jaiak00000027> .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30176> "Literary Bookmarks, etc." .
+<http://rimmfdata.com/r/jaiak00000020> <http://rdaregistry.info/Elements/m/P30083> <http://rimmfdata.com/r/jaiak00000028> .
+<http://rimmfdata.com/r/jaiam00000012> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen Action Figure. Archie McPhee. Object" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30134> "Jane Austen Action Figure" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen Action Figure" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30142> "includes book & quill" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30111> "Seattle : Archie McPhee." .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30088> "Seattle" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30176> "Archie McPhee" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30011> "[2013]" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30109> "China : Accoutrements LLC." .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30087> "China" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30175> "Accoutrements LLC" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30007> "2013" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30050> "Item # 12443; white dress with pink jacket" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30169> "15 x 7 cm" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30208> "plastic" .
+<http://rimmfdata.com/r/jaiam00000012> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jaiam00000015> .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30134> "Jane Austen Action Figure" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen Action Figure" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30111> "Archie McPhee" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30088> "Seatttle" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30011> "2013" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30108> "Accoutrements LLC" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30085> "China" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30007> "2013" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30050> "Includes writing table and book. Figure has white dress and green jacket." .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30169> "15 x 7 cm." .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30208> "plastic" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen Action Figure. 2013. Object" .
+<http://rimmfdata.com/r/jaiam00000018> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jaiam00000015> .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30134> "Austen bobblehead" .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30156> "Austen bobblehead" .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30111> "Greenwood Press" .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30109> "AdVantage Industries" .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30087> "China" .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30063> "Promotion by Greenwood Press to promote All Things Austen" .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30050> "ASI 31570" .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jaiam00000022> <http://rdaregistry.info/Elements/m/P30169> "22 x 5 cm." .
+<http://rimmfdata.com/r/jaiam00000022> <http://rimmf.com/vocab/descriptionManifestation> "Austen bobblehead. Object" .
+<http://rimmfdata.com/r/jais00000037> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen air freshener. Archie McPhee. Card" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen air freshener" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30088> "Seattle, WA" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30176> "Archie McPhee" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30087> "China" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30175> "Accoutrements LLC" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30007> "2013" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30004> "739048124378" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30004> "12437" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30137> "Sensibly scented" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30001> "card" .
+<http://rimmfdata.com/r/jais00000037> <http://rimmf.com/vocab/extentStatement> "1 card in case" .
+<http://rimmfdata.com/r/jais00000037> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/jais00000037> <http://rimmf.com/vocab/typeOfUnitText> "card in packaging" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30169> "10 x 8 cm" .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jais00000040> .
+<http://rimmfdata.com/r/jais00000037> <http://rdaregistry.info/Elements/m/P30083> <http://rimmfdata.com/r/jais00000035> .
+<http://rimmfdata.com/r/jais00000041> <http://rimmf.com/vocab/descriptionManifestation> "Pride and prejudice purse : Steele, Diane, 2006. Object" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30156> "Pride and prejudice purse" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30105> "Made for Lynn Fields by Diane Steele" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30086> "Wood River, IL" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30174> "Steele, Diane" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30009> "2006" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30054> "Purse created from a hardcover copy of Pride and Predjudice, with illustrations glued to cover and beaded handles and ribbon closure" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jais00000041> <http://rimmf.com/vocab/extentStatement> "1 purse" .
+<http://rimmfdata.com/r/jais00000041> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/jais00000041> <http://rimmf.com/vocab/typeOfUnitText> "purse" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30169> "15 x 22 cm" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30208> "textile on board" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30084> "Printed paper" .
+<http://rimmfdata.com/r/jais00000041> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jais00000043> .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30156> "Homage to Jane Austen knitting pattern" .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30105> "designed by Noreen Crone-Findlay" .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30176> "Crone-Findlay Creations" .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30011> "2008" .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30173> "Ravelry LLC" .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30001> "sheet" .
+<http://rimmfdata.com/r/jais00000044> <http://rimmf.com/vocab/extentStatement> "6 pages" .
+<http://rimmfdata.com/r/jais00000044> <http://rimmf.com/vocab/numberOfUnits> "6" .
+<http://rimmfdata.com/r/jais00000044> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30169> "28 x 22 cm" .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30160> "Available for purchase from Ravelry.com" .
+<http://rimmfdata.com/r/jais00000044> <http://rimmf.com/vocab/descriptionManifestation> "Homage to Jane Austen knitting pattern. Crone-Findlay Creations. 2008. Sheet" .
+<http://rimmfdata.com/r/jais00000044> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jais00000046> .
+<http://rimmfdata.com/r/jais00000047> <http://rimmf.com/vocab/descriptionManifestation> "Wallet of Jane Austen writing paper. Right Note. Object" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30156> "Wallet of Jane Austen writing paper" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30128> "Jane Austen writing paper" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30105> "Designed and produced for National Portrait Gallery by Right Note" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30088> "United Kingdom" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30176> "Right Note" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30085> "London" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30173> "National Portrait Gallery" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jais00000047> <http://rimmf.com/vocab/extentStatement> "1 (10 case folded sheets)" .
+<http://rimmfdata.com/r/jais00000047> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/jais00000047> <http://rimmf.com/vocab/numberOfSubunits> "10" .
+<http://rimmfdata.com/r/jais00000047> <http://rimmf.com/vocab/typeOfUnitText> "case" .
+<http://rimmfdata.com/r/jais00000047> <http://rimmf.com/vocab/typeOfSubunitText> "folded sheets" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30169> "22 x 16 cm" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30061> "Includes 10 envelopes" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30060> "Sheets 21 x 28 cm, folded to 21 x 14 cm" .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30080> <http://rimmfdata.com/r/jais00000048> .
+<http://rimmfdata.com/r/jais00000047> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jais00000051> .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30156> "Wallet of Jane Austen correspondence cards" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30128> "Jane Austen correspondence cards" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30105> "Designed and produced for National Portrait Gallery by Right Note" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30088> "United Kingdom" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30176> "Right Note" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30085> "London" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30173> "National Portrait Gallery" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jais00000055> <http://rimmf.com/vocab/extentStatement> "1 (10 case folded sheets)" .
+<http://rimmfdata.com/r/jais00000055> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/jais00000055> <http://rimmf.com/vocab/numberOfSubunits> "5" .
+<http://rimmfdata.com/r/jais00000055> <http://rimmf.com/vocab/typeOfUnitText> "case" .
+<http://rimmfdata.com/r/jais00000055> <http://rimmf.com/vocab/typeOfSubunitText> "cards" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30169> "16 x 10 cm" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30061> "Includes 5 envelopes" .
+<http://rimmfdata.com/r/jais00000055> <http://rimmf.com/vocab/descriptionManifestation> "Wallet of Jane Austen correspondence cards. Right Note. Object" .
+<http://rimmfdata.com/r/jais00000055> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jais00000057> .
+<http://rimmfdata.com/r/jaiu00000013> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen. Archie McPhee. [2013]. Sheet" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30142> "22 temporary tattoos" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30128> "Jane Austen tattoos" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30088> "Seattle USA" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30176> "Archie McPhee" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30011> "[2013]" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30087> "China" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30175> "Accoutrements, LLC" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30007> "\u00A92013" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30004> "Item #12441" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30004> "739048124415" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30001> "sheet" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rimmf.com/vocab/extentStatement> "4 sheets in case" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30169> "10 x 10 cm" .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30083> <http://rimmfdata.com/r/jaiu00000012> .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30082> <http://rimmfdata.com/r/jaiu00000014> .
+<http://rimmfdata.com/r/jaiu00000013> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jaiu00000016> .
+<http://rimmfdata.com/r/jaiu00000017> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen tea strainer. Publisher not identified. Date of publication not identified. Object" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen tea strainer" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30088> "Place of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30176> "Publisher not identified" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30011> "Date of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30137> "&#34;Tea passed pleasantly and nobody seemed in a hurry to move.&#34;--Back of plate." .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30063> "Title supplied by cataloger." .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rimmf.com/vocab/extentStatement> "1 object" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30169> "17 x 5 cm" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30208> "metal" .
+<http://rimmfdata.com/r/jaiu00000017> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jaiu00000019> .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30156> "Pride and Prejudice bookmark" .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30128> "Pride and Prejudice, Elizabeth and Mr. Darcy" .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30088> "Place of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30176> "Literary Bookmarks, etc." .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30011> "Date of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30137> "Text on bookmark: &#34;Pride and prejudice, Elizabeth and Mr. Darcy&#34;" .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30063> "Title supplied by cataloger." .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30001> "card" .
+<http://rimmfdata.com/r/jaiu00000020> <http://rimmf.com/vocab/extentStatement> "1 card" .
+<http://rimmfdata.com/r/jaiu00000020> <http://rdaregistry.info/Elements/m/P30169> "16 x 6 cm" .
+<http://rimmfdata.com/r/jaiu00000020> <http://rimmf.com/vocab/descriptionManifestation> "Pride and Prejudice bookmark. Literary Bookmarks, etc. Date of publication not identified. Card" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30156> "A year with Jane Austen" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30142> "a calendar for 2014" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30176> "Jane Austin Society of North America, Wisconsin Region" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30011> "[2013]" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30007> "\u00A92013" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rimmf.com/vocab/extentStatement> "1 volume (unpaged)" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30169> "23 x 32 cm" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rimmf.com/vocab/descriptionManifestation> "A year with Jane Austen. Jane Austin Society of North America, Wisconsin Region. [2013]. Volume" .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30083> <http://rimmfdata.com/r/jaiu00000024> .
+<http://rimmfdata.com/r/jaiu00000023> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jaiu00000026> .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen mug" .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30128> "Mug" .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30105> "Designed and produced for the National Portrait Gallery, London by Right Note." .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30088> "UK" .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30176> "Right Note" .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30011> "[between 2000-2012]" .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30063> "Title devised by cataloger" .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jatk00000018> <http://rimmf.com/vocab/extentStatement> "1 mug" .
+<http://rimmfdata.com/r/jatk00000018> <http://rimmf.com/vocab/numberOfUnits> "1 mug" .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30170> "9 x 7 cm" .
+<http://rimmfdata.com/r/jatk00000018> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen mug. Right Note. [between 2000-2012]. Object" .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30079> <http://rimmfdata.com/r/jatk00000019> .
+<http://rimmfdata.com/r/jatk00000018> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jatk00000021> .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen paperweight" .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30128> "paperweight" .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30088> "[London, England]" .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30176> "National Portrait Gallery" .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30011> "[between 2000-2012?]" .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30063> "Title devised by cataloger." .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jatk00000022> <http://rimmf.com/vocab/extentStatement> "1 paperweight" .
+<http://rimmfdata.com/r/jatk00000022> <http://rimmf.com/vocab/numberOfUnits> "1 paperweight" .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30170> "2 x 7 cm" .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30207> "acetate" .
+<http://rimmfdata.com/r/jatk00000022> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen paperweight. National Portrait Gallery. [between 2000-2012?]. Object" .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30083> <http://rimmfdata.com/r/jatk00000019> .
+<http://rimmfdata.com/r/jatk00000022> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jatk00000024> .
+<http://rimmfdata.com/r/jatk00000026> <http://rimmf.com/vocab/descriptionManifestation> "Persuasion [bookmark]. Literary Bookmarks. [Between 2000-2012]. Object" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30156> "Persuasion [bookmark]" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30128> "Bookmark" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30088> "[England?]" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30176> "Literary Bookmarks" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30011> "[Between 2000-2012]" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30001> "object" .
+<http://rimmfdata.com/r/jatk00000026> <http://rimmf.com/vocab/extentStatement> "1 bookmark" .
+<http://rimmfdata.com/r/jatk00000026> <http://rimmf.com/vocab/numberOfUnits> "1 bookmark" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30169> "4 x 10 cm" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30208> "hardboard" .
+<http://rimmfdata.com/r/jatk00000026> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jatk00000028> .
+<http://rimmfdata.com/r/jaiak00000016> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Jane Austen Bandages. Tactile three-dimensional form" .
+<http://rimmfdata.com/r/jaiak00000016> <http://rdaregistry.info/Elements/e/P20001> "Tactile three-dimensional form" .
+<http://rimmfdata.com/r/jaiak00000016> <http://rdaregistry.info/Elements/e/P20214> "2012" .
+<http://rimmfdata.com/r/jaiak00000016> <http://rimmf.com/vocab/sourceConsultedExpression> "Jane Austen Bandages, 2012" .
+<http://rimmfdata.com/r/jaiak00000016> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jaiak00000014> .
+<http://rimmfdata.com/r/jaiak00000016> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jaiak00000012> .
+<http://rimmfdata.com/r/jaiak00000019> <http://rdaregistry.info/Elements/e/P20214> "2011" .
+<http://rimmfdata.com/r/jaiak00000019> <http://rdaregistry.info/Elements/e/P20069> "Finger puppet depicting Jane Austen in a pink dress with magnet." .
+<http://rimmfdata.com/r/jaiak00000019> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Jane Austen Finger Puppet & Fridge Magnet" .
+<http://rimmfdata.com/r/jaiak00000019> <http://rimmf.com/vocab/sourceConsultedExpression> "Jane Austen Finger Puppet & Fridge Magnet, 2011" .
+<http://rimmfdata.com/r/jaiak00000019> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jaiak00000018> .
+<http://rimmfdata.com/r/jaiak00000019> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jaiak00000017> .
+<http://rimmfdata.com/r/jaiak00000027> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Mansfield Park Bookmark" .
+<http://rimmfdata.com/r/jaiak00000027> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jaiak00000027> <http://rdaregistry.info/Elements/e/P20069> "Reproduction of illustration from Jane Austen's &#34;Mansfield Park&#34;, titled &#34;Fanny and the Bertrams&#34;" .
+<http://rimmfdata.com/r/jaiak00000027> <http://rdaregistry.info/Elements/e/P20207> "illustration" .
+<http://rimmfdata.com/r/jaiak00000027> <http://rdaregistry.info/Elements/e/P20222> "black and white" .
+<http://rimmfdata.com/r/jaiak00000027> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jaiak00000026> .
+<http://rimmfdata.com/r/jaiak00000027> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jaiak00000020> .
+<http://rimmfdata.com/r/jaiak00000027> <http://rimmf.com/vocab/detailsOfIllustrativeContent> "Domestic scene depicting characters from Jane Austen's &#34;Mansfield Park&#34;, titled &#34;Fanny and the Bertrams&#34;" .
+<http://rimmfdata.com/r/jaiam00000015> <http://rdaregistry.info/Elements/e/P20001> "Three-dimensional form" .
+<http://rimmfdata.com/r/jaiam00000015> <http://rdaregistry.info/Elements/e/P20214> "2013" .
+<http://rimmfdata.com/r/jaiam00000015> <http://rdaregistry.info/Elements/e/P20003> "Pink jacket" .
+<http://rimmfdata.com/r/jaiam00000015> <http://rdaregistry.info/Elements/e/P20206> "Includes book and quill" .
+<http://rimmfdata.com/r/jaiam00000015> <http://rdaregistry.info/Elements/e/P20224> "Color" .
+<http://rimmfdata.com/r/jaiam00000015> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Archie McPhee (Retail store). Jane Austen Action Figure. Three-dimensional form" .
+<http://rimmfdata.com/r/jaiam00000015> <http://rimmf.com/vocab/sourceConsultedExpression> "Jane Austen Action Figure" .
+<http://rimmfdata.com/r/jaiam00000015> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jaiam00000013> .
+<http://rimmfdata.com/r/jaiam00000015> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jaiam00000012> .
+<http://rimmfdata.com/r/jaiam00000015> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jaiam00000018> .
+<http://rimmfdata.com/r/jaiam00000019> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Archie McPhee (Retail store). Jane Austen Action Figure. Three-dimensional form. Green jacket" .
+<http://rimmfdata.com/r/jaiam00000019> <http://rdaregistry.info/Elements/e/P20001> "Three-dimensional form" .
+<http://rimmfdata.com/r/jaiam00000019> <http://rdaregistry.info/Elements/e/P20214> "2013" .
+<http://rimmfdata.com/r/jaiam00000019> <http://rdaregistry.info/Elements/e/P20003> "Green jacket" .
+<http://rimmfdata.com/r/jaiam00000019> <http://rdaregistry.info/Elements/e/P20206> "Includes writing desk with book and quill" .
+<http://rimmfdata.com/r/jaiam00000019> <http://rdaregistry.info/Elements/e/P20224> "Color" .
+<http://rimmfdata.com/r/jaiam00000019> <http://rimmf.com/vocab/sourceConsultedExpression> "Jane Austen Action Figure" .
+<http://rimmfdata.com/r/jaiam00000019> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jaiam00000013> .
+<http://rimmfdata.com/r/jaiam00000024> <http://rdaregistry.info/Elements/e/P20206> "Promotion by Greenwood Press to promote All Things Austen" .
+<http://rimmfdata.com/r/jaiam00000024> <http://rdaregistry.info/Elements/e/P20224> "color" .
+<http://rimmfdata.com/r/jaiam00000024> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Austen bobblehead" .
+<http://rimmfdata.com/r/jaiam00000024> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jaiam00000023> .
+<http://rimmfdata.com/r/jais00000040> <http://rdaregistry.info/Elements/e/P20001> "Three-dimensional form" .
+<http://rimmfdata.com/r/jais00000040> <http://rdaregistry.info/Elements/e/P20069> "One scented card in packaging" .
+<http://rimmfdata.com/r/jais00000040> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Jane Austen air freshener. Three-dimensional form" .
+<http://rimmfdata.com/r/jais00000040> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jais00000038> .
+<http://rimmfdata.com/r/jais00000040> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jais00000037> .
+<http://rimmfdata.com/r/jais00000043> <http://rdaregistry.info/Elements/e/P20001> "Three-dimensional form" .
+<http://rimmfdata.com/r/jais00000043> <http://rdaregistry.info/Elements/e/P20214> "2006" .
+<http://rimmfdata.com/r/jais00000043> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Pride and prejudice purse" .
+<http://rimmfdata.com/r/jais00000043> <http://rimmf.com/vocab/sourceConsultedExpression> "Pride and prejudice purse" .
+<http://rimmfdata.com/r/jais00000043> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jais00000042> .
+<http://rimmfdata.com/r/jais00000043> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jais00000041> .
+<http://rimmfdata.com/r/jais00000046> <http://rdaregistry.info/Elements/e/P20001> "Text" .
+<http://rimmfdata.com/r/jais00000046> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jais00000046> <http://rdaregistry.info/Elements/e/P20214> "2008" .
+<http://rimmfdata.com/r/jais00000046> <http://rdaregistry.info/Elements/e/P20069> "Pattern and instructions for knitting a Jane Austen doll" .
+<http://rimmfdata.com/r/jais00000046> <http://rdaregistry.info/Elements/e/P20207> "charts" .
+<http://rimmfdata.com/r/jais00000046> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Homage to Jane Austen knitting pattern. Text" .
+<http://rimmfdata.com/r/jais00000046> <http://rimmf.com/vocab/sourceConsultedExpression> "Homage to Jane Austen knitting pattern, 2008" .
+<http://rimmfdata.com/r/jais00000046> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jais00000045> .
+<http://rimmfdata.com/r/jais00000046> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jais00000044> .
+<http://rimmfdata.com/r/jais00000051> <http://rdaregistry.info/Elements/e/P20207> "portraits" .
+<http://rimmfdata.com/r/jais00000051> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Wallet of Jane Austen writing paper" .
+<http://rimmfdata.com/r/jais00000051> <http://rimmf.com/vocab/sourceConsultedExpression> "Wallet of Jane Austen writing paper" .
+<http://rimmfdata.com/r/jais00000051> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jais00000049> .
+<http://rimmfdata.com/r/jais00000051> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jais00000047> .
+<http://rimmfdata.com/r/jais00000057> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Wallet of Jane Austen correspondence cards" .
+<http://rimmfdata.com/r/jais00000057> <http://rimmf.com/vocab/sourceConsultedExpression> "Wallet of Jane Austen correspondence cards" .
+<http://rimmfdata.com/r/jais00000057> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jais00000056> .
+<http://rimmfdata.com/r/jais00000057> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jais00000055> .
+<http://rimmfdata.com/r/jaiu00000016> <http://rdaregistry.info/Elements/e/P20222> "color" .
+<http://rimmfdata.com/r/jaiu00000016> <http://rdaregistry.info/Elements/e/P20001> "Still image" .
+<http://rimmfdata.com/r/jaiu00000016> <http://rdaregistry.info/Elements/e/P20214> "2013" .
+<http://rimmfdata.com/r/jaiu00000016> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jaiu00000016> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jaiu00000013> .
+<http://rimmfdata.com/r/jaiu00000016> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jaiu00000015> .
+<http://rimmfdata.com/r/jaiu00000016> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Jane Austen. Still image" .
+<http://rimmfdata.com/r/jaiu00000016> <http://rimmf.com/vocab/sourceConsultedExpression> "Jane Austen, 2013" .
+<http://rimmfdata.com/r/jaiu00000019> <http://rdaregistry.info/Elements/e/P20001> "Three-dimensional form" .
+<http://rimmfdata.com/r/jaiu00000019> <http://rdaregistry.info/Elements/e/P20214> "Date of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000019> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jaiu00000019> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Jane Austen tea strainer" .
+<http://rimmfdata.com/r/jaiu00000019> <http://rimmf.com/vocab/sourceConsultedExpression> "Jane Austen tea strainer, Date of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000019> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jaiu00000018> .
+<http://rimmfdata.com/r/jaiu00000019> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jaiu00000017> .
+<http://rimmfdata.com/r/jaiu00000026> <http://rdaregistry.info/Elements/e/P20001> "Text" .
+<http://rimmfdata.com/r/jaiu00000026> <http://rdaregistry.info/Elements/e/P20214> "2013" .
+<http://rimmfdata.com/r/jaiu00000026> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jaiu00000026> <http://rdaregistry.info/Elements/e/P20207> "illustrations" .
+<http://rimmfdata.com/r/jaiu00000026> <http://rdaregistry.info/Elements/e/P20224> "color" .
+<http://rimmfdata.com/r/jaiu00000026> <http://rimmf.com/vocab/authorizedAccessPointExpression> "A year with Jane Austen" .
+<http://rimmfdata.com/r/jaiu00000026> <http://rimmf.com/vocab/sourceConsultedExpression> "A year with Jane Austen, 2013" .
+<http://rimmfdata.com/r/jaiu00000026> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jaiu00000025> .
+<http://rimmfdata.com/r/jaiu00000026> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jaiu00000023> .
+<http://rimmfdata.com/r/jatk00000021> <http://rdaregistry.info/Elements/e/P20214> "between 2000-2012" .
+<http://rimmfdata.com/r/jatk00000021> <http://rdaregistry.info/Elements/e/P20222> "black and white" .
+<http://rimmfdata.com/r/jatk00000021> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Jane Austen mug" .
+<http://rimmfdata.com/r/jatk00000021> <http://rimmf.com/vocab/sourceConsultedExpression> "Jane Austen mug, between 2000-2012" .
+<http://rimmfdata.com/r/jatk00000021> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jatk00000020> .
+<http://rimmfdata.com/r/jatk00000021> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jatk00000018> .
+<http://rimmfdata.com/r/jatk00000024> <http://rdaregistry.info/Elements/e/P20001> "Three-dimensional form" .
+<http://rimmfdata.com/r/jatk00000024> <http://rdaregistry.info/Elements/e/P20214> "between 2000-2012?" .
+<http://rimmfdata.com/r/jatk00000024> <http://rdaregistry.info/Elements/e/P20069> "Paperweight features the sketch of Jane Austen done by her sister Cassandra." .
+<http://rimmfdata.com/r/jatk00000024> <http://rdaregistry.info/Elements/e/P20222> "sepia" .
+<http://rimmfdata.com/r/jatk00000024> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Jane Austen paperweight. Three-dimensional form" .
+<http://rimmfdata.com/r/jatk00000024> <http://rimmf.com/vocab/sourceConsultedExpression> "Jane Austen paperweight, between 2000-2012?" .
+<http://rimmfdata.com/r/jatk00000024> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jatk00000023> .
+<http://rimmfdata.com/r/jatk00000024> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jatk00000022> .
+<http://rimmfdata.com/r/jatk00000024> <http://rdaregistry.info/Elements/e/P20051> <http://rimmfdata.com/r/jatk00000025> .
+<http://rimmfdata.com/r/jatk00000028> <http://rdaregistry.info/Elements/e/P20214> "Between 2000-2012" .
+<http://rimmfdata.com/r/jatk00000028> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Persuasion bookmark" .
+<http://rimmfdata.com/r/jatk00000028> <http://rimmf.com/vocab/sourceConsultedExpression> "Persuasion [bookmark], Between 2000-2012" .
+<http://rimmfdata.com/r/jatk00000028> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jatk00000027> .
+<http://rimmfdata.com/r/jatk00000028> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jatk00000026> .
+<http://rimmfdata.com/r/jaiak00000014> <http://rimmf.com/vocab/authorizedAccessPointWork> "Jane Austen Bandages" .
+<http://rimmfdata.com/r/jaiak00000014> <http://rimmf.com/vocab/variantAccessPoint> "Bandages" .
+<http://rimmfdata.com/r/jaiak00000014> <http://rdaregistry.info/Elements/w/P10223> "Jane Austen Bandages" .
+<http://rimmfdata.com/r/jaiak00000014> <http://rdaregistry.info/Elements/w/P10086> "Bandages" .
+<http://rimmfdata.com/r/jaiak00000014> <http://rdaregistry.info/Elements/w/P10219> "2012" .
+<http://rimmfdata.com/r/jaiak00000014> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen Bandages, 2012" .
+<http://rimmfdata.com/r/jaiak00000014> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jaiak00000016> .
+<http://rimmfdata.com/r/jaiak00000014> <http://rdaregistry.info/Elements/w/P10222> "Metal Box of bandages with images of Jane Austen" .
+<http://rimmfdata.com/r/jaiak00000014> <http://rdaregistry.info/Elements/w/P10049> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jaiak00000018> <http://rimmf.com/vocab/authorizedAccessPointWork> "Jane Austen Finger Puppet & Fridge Magnet" .
+<http://rimmfdata.com/r/jaiak00000018> <http://rdaregistry.info/Elements/w/P10223> "Jane Austen Finger Puppet & Fridge Magnet" .
+<http://rimmfdata.com/r/jaiak00000018> <http://rdaregistry.info/Elements/w/P10086> "Finger Puppet & Fridge Magnet" .
+<http://rimmfdata.com/r/jaiak00000018> <http://rdaregistry.info/Elements/w/P10219> "2011" .
+<http://rimmfdata.com/r/jaiak00000018> <http://rdaregistry.info/Elements/w/P10218> "Brooklyn, NY" .
+<http://rimmfdata.com/r/jaiak00000018> <http://rdaregistry.info/Elements/w/P10003> "Finger Puppet depicting Jane Austen" .
+<http://rimmfdata.com/r/jaiak00000018> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen Finger Puppet & Fridge Magnet, 2011" .
+<http://rimmfdata.com/r/jaiak00000018> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jaiak00000019> .
+<http://rimmfdata.com/r/jaiak00000018> <http://rdaregistry.info/Elements/w/P10049> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jaiak00000026> <http://rimmf.com/vocab/authorizedAccessPointWork> "Mansfield Park Bookmark" .
+<http://rimmfdata.com/r/jaiak00000026> <http://rdaregistry.info/Elements/w/P10223> "Mansfield Park Bookmark" .
+<http://rimmfdata.com/r/jaiak00000026> <http://rdaregistry.info/Elements/w/P10086> "Fanny and the Bertrams" .
+<http://rimmfdata.com/r/jaiak00000026> <http://rdaregistry.info/Elements/w/P10004> "bookmark" .
+<http://rimmfdata.com/r/jaiak00000026> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/janebase00000116> .
+<http://rimmfdata.com/r/jaiak00000026> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jaiak00000027> .
+<http://rimmfdata.com/r/jaiam00000013> <http://rimmf.com/vocab/authorizedAccessPointWork> "Archie McPhee (Retail store). Jane Austen Action Figure" .
+<http://rimmfdata.com/r/jaiam00000013> <http://rdaregistry.info/Elements/w/P10223> "Jane Austen Action Figure" .
+<http://rimmfdata.com/r/jaiam00000013> <http://rdaregistry.info/Elements/w/P10219> "2013" .
+<http://rimmfdata.com/r/jaiam00000013> <http://rdaregistry.info/Elements/w/P10003> "Plastic action figure of Jane Austen" .
+<http://rimmfdata.com/r/jaiam00000013> <http://rdaregistry.info/Elements/w/P10217> "Not intended for children under the age of 12" .
+<http://rimmfdata.com/r/jaiam00000013> <http://rdaregistry.info/Elements/w/P10065> <http://rimmfdata.com/r/jaiam00000014> .
+<http://rimmfdata.com/r/jaiam00000013> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen Action Figure" .
+<http://rimmfdata.com/r/jaiam00000013> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jaiam00000015> .
+<http://rimmfdata.com/r/jaiam00000013> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jaiam00000019> .
+<http://rimmfdata.com/r/jaiam00000013> <http://rdaregistry.info/Elements/w/P10049> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jaiam00000023> <http://rimmf.com/vocab/authorizedAccessPointWork> "Austen bobblehead" .
+<http://rimmfdata.com/r/jaiam00000023> <http://rdaregistry.info/Elements/w/P10223> "Austen bobblehead" .
+<http://rimmfdata.com/r/jaiam00000023> <http://rdaregistry.info/Elements/w/P10210> "a promotion by Greenwood Press to promote All Things Austen" .
+<http://rimmfdata.com/r/jaiam00000023> <http://rimmf.com/vocab/sourceConsultedWork> "Austen bobblehead" .
+<http://rimmfdata.com/r/jaiam00000023> <http://rdaregistry.info/Elements/w/P10049> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jaiam00000023> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jaiam00000024> .
+<http://rimmfdata.com/r/jaiam00000023> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/jaiam00000025> .
+<http://rimmfdata.com/r/jaiam00000025> <http://rimmf.com/vocab/authorizedAccessPointWork> "jaiam00000025" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rimmf.com/vocab/sourceConsultedWork> "All things Austen, 2008" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rdaregistry.info/Elements/w/P10223> "All things Austen" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rdaregistry.info/Elements/w/P10219> "2008" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rimmf.com/vocab/subjectWork> "LCC: PR4036 .A276 2008" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rimmf.com/vocab/subjectWork> "DDC: 823.7 22" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rimmf.com/vocab/subjectWork> "LCSH: Austen, Jane, 1775-1817 -- Encyclopedias" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rimmf.com/vocab/subjectWork> "LCSH: Novelists, English -- 19th century -- Biography -- Encyclopedias" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rimmf.com/vocab/subjectWork> "LCSH: England -- Social life and customs -- 19th century -- Encyclopedias" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rimmf.com/vocab/variantAccessPointWork> "All things Austen" .
+<http://rimmfdata.com/r/jaiam00000025> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/jaiam00000023> .
+<http://rimmfdata.com/r/jais00000038> <http://rimmf.com/vocab/authorizedAccessPointWork> "Jane Austen air freshener" .
+<http://rimmfdata.com/r/jais00000038> <http://rdaregistry.info/Elements/w/P10223> "Jane Austen air freshener" .
+<http://rimmfdata.com/r/jais00000038> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen air freshener" .
+<http://rimmfdata.com/r/jais00000038> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jais00000040> .
+<http://rimmfdata.com/r/jais00000038> <http://rdaregistry.info/Elements/w/P10049> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jais00000042> <http://rdaregistry.info/Elements/w/P10223> "Pride and prejudice purse" .
+<http://rimmfdata.com/r/jais00000042> <http://rdaregistry.info/Elements/w/P10219> "2006" .
+<http://rimmfdata.com/r/jais00000042> <http://rimmf.com/vocab/authorizedAccessPointWork> "Pride and prejudice purse" .
+<http://rimmfdata.com/r/jais00000042> <http://rimmf.com/vocab/sourceConsultedWork> "Pride and prejudice purse" .
+<http://rimmfdata.com/r/jais00000042> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jais00000043> .
+<http://rimmfdata.com/r/jais00000042> <http://rdaregistry.info/Elements/w/P10047> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jais00000042> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/janebase00000056> .
+<http://rimmfdata.com/r/jais00000045> <http://rdaregistry.info/Elements/w/P10223> "Homage to Jane Austen knitting pattern" .
+<http://rimmfdata.com/r/jais00000045> <http://rdaregistry.info/Elements/w/P10219> "2008" .
+<http://rimmfdata.com/r/jais00000045> <http://rimmf.com/vocab/authorizedAccessPointWork> "Homage to Jane Austen knitting pattern" .
+<http://rimmfdata.com/r/jais00000045> <http://rimmf.com/vocab/sourceConsultedWork> "Homage to Jane Austen knitting pattern, 2008" .
+<http://rimmfdata.com/r/jais00000045> <http://rimmf.com/vocab/sourceConsultedWork> <http://www.ravelry.com/patterns/library/homage-to-jane-austen> .
+<http://rimmfdata.com/r/jais00000045> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jais00000046> .
+<http://rimmfdata.com/r/jais00000045> <http://rdaregistry.info/Elements/w/P10047> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jais00000049> <http://rdaregistry.info/Elements/w/P10223> "Wallet of Jane Austen writing paper" .
+<http://rimmfdata.com/r/jais00000049> <http://rdaregistry.info/Elements/w/P10086> "Jane Austen writing paper" .
+<http://rimmfdata.com/r/jais00000049> <http://rimmf.com/vocab/authorizedAccessPointWork> "Wallet of Jane Austen writing paper" .
+<http://rimmfdata.com/r/jais00000049> <http://rimmf.com/vocab/sourceConsultedWork> "Wallet of Jane Austen writing paper" .
+<http://rimmfdata.com/r/jais00000049> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jais00000051> .
+<http://rimmfdata.com/r/jais00000049> <http://rdaregistry.info/Elements/w/P10049> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jais00000049> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/jais00000052> .
+<http://rimmfdata.com/r/jais00000052> <http://rdaregistry.info/Elements/w/P10223> "Pencil and water-colour portrait of Jane Austen, 1775-1817" .
+<http://rimmfdata.com/r/jais00000052> <http://rdaregistry.info/Elements/w/P10058> <http://rimmfdata.com/r/jais00000050> .
+<http://rimmfdata.com/r/jais00000052> <http://rimmf.com/vocab/authorizedAccessPointWork> "Austen, Cassandra, 1773-1845. Pencil and water-colour portrait of Jane Austen, 1775-1817" .
+<http://rimmfdata.com/r/jais00000052> <http://rimmf.com/vocab/variantAccessPointWork> "Pencil and water-colour portrait of Jane Austen, 1775-1817" .
+<http://rimmfdata.com/r/jais00000052> <http://rimmf.com/vocab/sourceConsultedWork> "Wallet of Jane Austen writing paper" .
+<http://rimmfdata.com/r/jais00000052> <http://rdaregistry.info/Elements/w/P10049> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jais00000052> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/jais00000049> .
+<http://rimmfdata.com/r/jais00000052> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/jais00000056> .
+<http://rimmfdata.com/r/jais00000056> <http://rdaregistry.info/Elements/w/P10223> "Wallet of Jane Austen correspondence cards" .
+<http://rimmfdata.com/r/jais00000056> <http://rdaregistry.info/Elements/w/P10086> "Jane Austen correspondence cards" .
+<http://rimmfdata.com/r/jais00000056> <http://rimmf.com/vocab/authorizedAccessPointWork> "Wallet of Jane Austen correspondence cards" .
+<http://rimmfdata.com/r/jais00000056> <http://rimmf.com/vocab/sourceConsultedWork> "Wallet of Jane Austen correspondence cards" .
+<http://rimmfdata.com/r/jais00000056> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jais00000057> .
+<http://rimmfdata.com/r/jais00000056> <http://rdaregistry.info/Elements/w/P10049> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jais00000056> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/jais00000052> .
+<http://rimmfdata.com/r/jaiu00000015> <http://rimmf.com/vocab/authorizedAccessPointWork> "Jane Austen" .
+<http://rimmfdata.com/r/jaiu00000015> <http://rdaregistry.info/Elements/w/P10223> "Jane Austen" .
+<http://rimmfdata.com/r/jaiu00000015> <http://rdaregistry.info/Elements/w/P10086> "Jane Austen tattoos" .
+<http://rimmfdata.com/r/jaiu00000015> <http://rdaregistry.info/Elements/w/P10219> "2013" .
+<http://rimmfdata.com/r/jaiu00000015> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen, 2013" .
+<http://rimmfdata.com/r/jaiu00000015> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jaiu00000016> .
+<http://rimmfdata.com/r/jaiu00000018> <http://rdaregistry.info/Elements/w/P10223> "Jane Austen tea strainer" .
+<http://rimmfdata.com/r/jaiu00000018> <http://rdaregistry.info/Elements/w/P10219> "Date of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000018> <http://rimmf.com/vocab/authorizedAccessPointWork> "Jane Austen tea strainer" .
+<http://rimmfdata.com/r/jaiu00000018> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen tea strainer, Date of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000018> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jaiu00000019> .
+<http://rimmfdata.com/r/jaiu00000021> <http://rdaregistry.info/Elements/w/P10223> "Pride and Prejudice bookmark" .
+<http://rimmfdata.com/r/jaiu00000021> <http://rdaregistry.info/Elements/w/P10086> "Pride and Prejudice, Elizabeth and Mr. Darcy" .
+<http://rimmfdata.com/r/jaiu00000021> <http://rdaregistry.info/Elements/w/P10219> "Date of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000021> <http://rimmf.com/vocab/authorizedAccessPointWork> "Pride and Prejudice bookmark" .
+<http://rimmfdata.com/r/jaiu00000021> <http://rimmf.com/vocab/sourceConsultedWork> "Pride and Prejudice bookmark, Date of publication not identified" .
+<http://rimmfdata.com/r/jaiu00000021> <http://rdaregistry.info/Elements/w/P10049> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jaiu00000021> <http://rdaregistry.info/Elements/w/P10190> <http://rimmfdata.com/r/janebase00000056> .
+<http://rimmfdata.com/r/jaiu00000025> <http://rdaregistry.info/Elements/w/P10223> "A year with Jane Austen" .
+<http://rimmfdata.com/r/jaiu00000025> <http://rdaregistry.info/Elements/w/P10219> "2013" .
+<http://rimmfdata.com/r/jaiu00000025> <http://rimmf.com/vocab/authorizedAccessPointWork> "A year with Jane Austen" .
+<http://rimmfdata.com/r/jaiu00000025> <http://rimmf.com/vocab/sourceConsultedWork> "A year with Jane Austen, 2013" .
+<http://rimmfdata.com/r/jaiu00000025> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jaiu00000026> .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/authorizedAccessPointWork> "Austen, Jane, 1775-1817. Pride and prejudice" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10223> "Pride and prejudice" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10086> "Pride & prejudice" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10004> "Novel" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10219> "1813" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10002> "LCCN n 2002041181" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10002> "(OCoLC)oca05839277" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10002> <http://id.loc.gov/authorities/names/n2002041181> .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/variantAccessPointWork> "Pride and prejudice" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Pride & prejudice" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/variantAccessPointWork> "Pride & prejudice" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/sourceConsultedWork> "Wikipedia, via WWW, Nov. 30, 2012 (Pride and Prejudice; novel by Jane Austen; first published in 1813; adapted in numerous film, theater, and television productions)" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectWork> "LCC: PR4034 .P7" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectWork> "DDC: 823/.7" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectWork> "gsafd: Domestic fiction" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectWork> "gsafd: Love stories" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectWork> "LCSH: Sisters -- England -- Fiction" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectWork> "LCSH: Young women -- England -- Fiction" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectWork> "LCSH: Courtship -- Fiction" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectWork> "LCSH: Social classes -- England -- Fiction" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectWork> "LCSH: England -- Social life and customs -- 19th century -- Fiction" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10102> "janebase00000059" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10025> "Pride & prejudice (Motion picture : 2003)" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000058" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000060" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000101" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000102" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000103" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000104" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000105" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000106" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000107" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000100" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "janebase00000108" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10148> "blr00000078" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10102> "blr00000095" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10148> "icvgw00000016" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10025> "jaiae00000036" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10085> "jaiag00000031" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10102> "jaig00000067" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10155> "jaik00000014" .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectOfWork> "jaik00000021" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10155> "jail00000071" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10020> "jail00000075" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10144> "jaip00000014" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/jais00000042> .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10148> <http://rimmfdata.com/r/jaiu00000021> .
+<http://rimmfdata.com/r/janebase00000056> <http://rimmf.com/vocab/subjectOfWork> "jaiw00000028" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10121> "jaiw00000028" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10198> "jatb00000065" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10019> "jatc00000018" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10019> "jatc00000026" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10020> "jath00000014" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10020> "jath00000023" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10229> "jath00000029" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10020> "jath00000033" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/jatk00000027> .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "jaian00000015" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "jaian00000016" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "jaig00000061" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "jaii00000020" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "jaii00000023" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "jatc00000013" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "jatc00000014" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "jatf00000021" .
+<http://rimmfdata.com/r/janebase00000056> <http://rdaregistry.info/Elements/w/P10078> "jatf00000023" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/authorizedAccessPointWork> "Austen, Jane, 1775-1817. Mansfield Park" .
+<http://rimmfdata.com/r/janebase00000116> <http://rdaregistry.info/Elements/w/P10223> "Mansfield Park" .
+<http://rimmfdata.com/r/janebase00000116> <http://rdaregistry.info/Elements/w/P10219> "1814" .
+<http://rimmfdata.com/r/janebase00000116> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/variantAccessPointWork> "Mansfield Park" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/sourceConsultedWork> "Mansfield Park, 1814" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "LCC: PZ3.A93 M PR4034.M3" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "gsafd: Love stories" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "lcsh: Domestic fiction" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "LCSH: Young women -- Fiction" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "LCSH: Children of the rich -- Fiction" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "LCSH: Country homes -- Fiction" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "LCSH: Adoptees -- Fiction" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "LCSH: Cousins -- Fiction" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "LCSH: England -- Fiction" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectWork> "LCSH: Uncles -- Fiction" .
+<http://rimmfdata.com/r/janebase00000116> <http://rdaregistry.info/Elements/w/P10078> "janebase00000115" .
+<http://rimmfdata.com/r/janebase00000116> <http://rdaregistry.info/Elements/w/P10102> "blr00000095" .
+<http://rimmfdata.com/r/janebase00000116> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/jaiak00000026> .
+<http://rimmfdata.com/r/janebase00000116> <http://rdaregistry.info/Elements/w/P10118> "jaik00000023" .
+<http://rimmfdata.com/r/janebase00000116> <http://rimmf.com/vocab/subjectOfWork> "jaik00000023" .
+<http://rimmfdata.com/r/janebase00000116> <http://rdaregistry.info/Elements/w/P10144> "jaim00000039" .
+<http://rimmfdata.com/r/jatk00000020> <http://rdaregistry.info/Elements/w/P10223> "Jane Austen mug" .
+<http://rimmfdata.com/r/jatk00000020> <http://rdaregistry.info/Elements/w/P10086> "Mug" .
+<http://rimmfdata.com/r/jatk00000020> <http://rdaregistry.info/Elements/w/P10219> "between 2000-2012" .
+<http://rimmfdata.com/r/jatk00000020> <http://rimmf.com/vocab/authorizedAccessPointWork> "Jane Austen mug" .
+<http://rimmfdata.com/r/jatk00000020> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen mug, between 2000-2012" .
+<http://rimmfdata.com/r/jatk00000020> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jatk00000021> .
+<http://rimmfdata.com/r/jatk00000023> <http://rdaregistry.info/Elements/w/P10223> "Jane Austen paperweight" .
+<http://rimmfdata.com/r/jatk00000023> <http://rdaregistry.info/Elements/w/P10086> "paperweight" .
+<http://rimmfdata.com/r/jatk00000023> <http://rdaregistry.info/Elements/w/P10219> "between 2000-2012?" .
+<http://rimmfdata.com/r/jatk00000023> <http://rimmf.com/vocab/authorizedAccessPointWork> "Jane Austen paperweight" .
+<http://rimmfdata.com/r/jatk00000023> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen paperweight, between 2000-2012?" .
+<http://rimmfdata.com/r/jatk00000023> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jatk00000024> .
+<http://rimmfdata.com/r/jatk00000027> <http://rimmf.com/vocab/authorizedAccessPointWork> "Persuasion bookmark" .
+<http://rimmfdata.com/r/jatk00000027> <http://rdaregistry.info/Elements/w/P10223> "Persuasion [bookmark]" .
+<http://rimmfdata.com/r/jatk00000027> <http://rdaregistry.info/Elements/w/P10086> "Bookmark" .
+<http://rimmfdata.com/r/jatk00000027> <http://rdaregistry.info/Elements/w/P10219> "Between 2000-2012" .
+<http://rimmfdata.com/r/jatk00000027> <http://rimmf.com/vocab/sourceConsultedWork> "Persuasion [bookmark], Between 2000-2012" .
+<http://rimmfdata.com/r/jatk00000027> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jatk00000028> .
+<http://rimmfdata.com/r/jatk00000027> <http://rdaregistry.info/Elements/w/P10198> <http://rimmfdata.com/r/janebase00000056> .

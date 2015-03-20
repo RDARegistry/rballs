@@ -1,0 +1,534 @@
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Austen, Jane, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50117> "Austen, Jane" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Ao-ssu-ting" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043C" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u0623\u0648\u0633\u062A\u0646\u060C \u062C\u064A\u0646\u060C" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Ao-ssu-ting, Chien" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Aosiding" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Aosiding, Jian" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u0100s\u1E6Din\u0332, J\u0113n\u0332" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Austenov\u00E1, Jane" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Osten, Dzhe\u012Dn" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "Ostin, Dzhein" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50103> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043D" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50121> "1775 December 16" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50120> "1817 July 18" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50116> "female" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50119> "Steventon, Hampshire, England" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50118> "Winchester, England" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50097> "Bath, England" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50102> "English" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50104> "Author" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  79032879" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00266512" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n79032879> .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Ao-ssu-ting, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0623\u0648\u0633\u062A\u0646\u060C \u062C\u064A\u0646\u060C, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043C, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF, 1775\u05BE1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0623\u0648\u0633\u062A\u0646\u060C \u062C\u064A\u0646\u060C 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Ao-ssu-ting, Chien, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Aosiding, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Aosiding, Jian, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0100s\u1E6Din\u0332, J\u0113n\u0332, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Austenov\u00E1, Jane, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Osten, Dzhe\u012Dn, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "Ostin, Dzhein, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/variantAccessPointPerson> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043D, 1775-1817" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Ao-ssu-ting yen chiu, 1985: t.p. (Ao-ssu-ting) p. 367 (Chien Ao-ssu-ting)" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Genieva, E.I\u0361U. Dzhe\u012Dn Osten, 1986" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Ema, 1934: t.p. (Jane Austenov\u00E1)" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Kaly\u0101\u1E47ak kan\u0332avuka\u1E37, 2007: t.p. (J\u0113n\u0332 \u0100s\u1E6Din\u0332)" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/sourceConsultedPerson> "Wikipedia, via WWW, Feb. 8, 2012 (b. December 16, 1775 in Steventon, Hampshire; d. 18 July 1817 in Winchester, Hampshire; an English novelist; moved to Bath in 1800)" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/cataloguersNotePerson> "Machine-derived non-Latin script reference project" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/cataloguersNotePerson> "Non-Latin script references not evaluated" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000013" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000032" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000035" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000040" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000052" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000053" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000056" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000062" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000075" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "janebase00000116" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "janebase00000119" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "blr00000095" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> "eawm00000026" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiag00000031" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> "jaiak00000014" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> "jaiak00000018" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> "jaiam00000013" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> "jaiam00000023" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaian00000021" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "jail00000071" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> "jain00000026" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> "jais00000038" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> "jais00000042" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> "jais00000045" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> "jais00000049" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> "jais00000052" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> "jais00000056" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50166> "jaiu00000021" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiv00000027" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiv00000032" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiv00000044" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiw00000014" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiw00000018" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jaiw00000023" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50131> "jaiy00000085" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/jatb00000065> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> <http://rimmfdata.com/r/jatb00000069> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> <http://rimmfdata.com/r/jatb00000073> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/jatb00000078> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jatb00000079" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> <http://rimmfdata.com/r/jatc00000018> .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jatc00000031" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "jatg00000070" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jatj00000025" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jatj00000034" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jatj00000038" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jdata00000025" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jdata00000032" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> <http://rimmfdata.com/r/jdata00000136> .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jdata00000137" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50204> "jdata00000149" .
+<http://rimmfdata.com/r/janebase00000012> <http://rimmf.com/vocab/subjectOfWork> "jdata00000149" .
+<http://rimmfdata.com/r/janebase00000012> <http://rdaregistry.info/Elements/a/P50195> "rlm00000069" .
+<http://rimmfdata.com/r/jatb00000072> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/jatb00000072> <http://rimmf.com/vocab/sourceConsultedPerson> "Her James the critic, 1984: CIP t.p. (Vivien Jones) data sheet (b. 10/11/52) info. from publr. (lecturer in English, Univ. of Leeds)" .
+<http://rimmfdata.com/r/jatb00000072> <http://rdaregistry.info/Elements/a/P50117> "Jones, Vivien" .
+<http://rimmfdata.com/r/jatb00000072> <http://rdaregistry.info/Elements/a/P50121> "1952" .
+<http://rimmfdata.com/r/jatb00000072> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  84030740" .
+<http://rimmfdata.com/r/jatb00000072> <http://rdaregistry.info/Elements/a/P50094> "(DLC)n  84030740" .
+<http://rimmfdata.com/r/jatb00000072> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n84030740> .
+<http://rimmfdata.com/r/jatb00000072> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Jones, Vivien, 1952-" .
+<http://rimmfdata.com/r/jatb00000072> <http://rdaregistry.info/Elements/a/P50161> <http://rimmfdata.com/r/jatb00000071> .
+<http://rimmfdata.com/r/jatb00000076> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/jatb00000076> <http://rimmf.com/vocab/sourceConsultedPerson> "The poetry of Jane Austen and the Austen family, 1997: t.p. (David Selwyn)" .
+<http://rimmfdata.com/r/jatb00000076> <http://rimmf.com/vocab/sourceConsultedPerson> "Guardian (online), viewed Apr. 23, 2013 (David Selwyn; b. Nov. 21, 1951, Bristol; d. Apr. 9, 2013; Jane Austen scholar who was particularly interested in the role of children and leisure in her novels)" .
+<http://rimmfdata.com/r/jatb00000076> <http://rimmf.com/vocab/cataloguersNotePerson> "Not the same as Selwyn, D. G. (David Gordon) (n88623121)" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50117> "Selwyn, David" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50121> "1951 November 21" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50120> "2013 April 9" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50116> "male" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50119> "Bristol, England" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50101> "Bristol Grammar School (Bristol, England)" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50102> "English" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50100> "Austen, Jane, 1775-1817" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50104> "Literary scholar" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50104> "Teacher" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50094> "LCCN no 97034993" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca04358210" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50094> "(Uk)004584017" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/no97034993> .
+<http://rimmfdata.com/r/jatb00000076> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Selwyn, David" .
+<http://rimmfdata.com/r/jatb00000076> <http://rdaregistry.info/Elements/a/P50189> <http://rimmfdata.com/r/jatb00000078> .
+<http://rimmfdata.com/r/jatc00000021> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/jatc00000021> <http://rimmf.com/vocab/sourceConsultedPerson> "Siedentop, D. Physical education, c1986: t.p. (Andrew Taggart, Ohio State Univ.)" .
+<http://rimmfdata.com/r/jatc00000021> <http://rimmf.com/vocab/sourceConsultedPerson> "Adolescents and sport, 1997: cover (A. Taggart) p. 83 (Andrew Taggart)" .
+<http://rimmfdata.com/r/jatc00000021> <http://rdaregistry.info/Elements/a/P50117> "Taggart, Andrew" .
+<http://rimmfdata.com/r/jatc00000021> <http://rdaregistry.info/Elements/a/P50103> "Taggart, A. (Andrew)" .
+<http://rimmfdata.com/r/jatc00000021> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  86146097" .
+<http://rimmfdata.com/r/jatc00000021> <http://rdaregistry.info/Elements/a/P50094> "(DLC)n  86146097" .
+<http://rimmfdata.com/r/jatc00000021> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n86146097> .
+<http://rimmfdata.com/r/jatc00000021> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Taggart, Andrew" .
+<http://rimmfdata.com/r/jatc00000021> <http://rimmf.com/vocab/variantAccessPointPerson> "Taggart, A. (Andrew)" .
+<http://rimmfdata.com/r/jatc00000021> <http://rdaregistry.info/Elements/a/P50161> <http://rimmfdata.com/r/jatc00000020> .
+<http://rimmfdata.com/r/jatc00000024> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/jatc00000024> <http://rimmf.com/vocab/sourceConsultedPerson> "Barron's THEA, c2010: t.p. (revised by Andrew Taggart; Ph.D.; Dept. of English, Manhattan College)" .
+<http://rimmfdata.com/r/jatc00000024> <http://rimmf.com/vocab/sourceConsultedPerson> "LinkedIn website, Apr. 6, 2010: (Andrew Taggart; Ph.D. in Literature and Philosophy Univ. of Wisconsin-Madison)" .
+<http://rimmfdata.com/r/jatc00000024> <http://rimmf.com/vocab/cataloguersNotePerson> "THIS 1XX FIELD CANNOT BE USED UNDER RDA UNTIL THIS RECORD HAS BEEN REVIEWED AND/OR UPDATED" .
+<http://rimmfdata.com/r/jatc00000024> <http://rdaregistry.info/Elements/a/P50117> "Taggart, Andrew" .
+<http://rimmfdata.com/r/jatc00000024> <http://rdaregistry.info/Elements/a/P50110> "Ph.D" .
+<http://rimmfdata.com/r/jatc00000024> <http://rdaregistry.info/Elements/a/P50094> "LCCN no2010056969" .
+<http://rimmfdata.com/r/jatc00000024> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca08451184" .
+<http://rimmfdata.com/r/jatc00000024> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/no2010056969> .
+<http://rimmfdata.com/r/jatc00000024> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Taggart, Andrew, Ph.D" .
+<http://rimmfdata.com/r/jatc00000024> <http://rdaregistry.info/Elements/a/P50153> <http://rimmfdata.com/r/jatc00000023> .
+<http://rimmfdata.com/r/jatc00000024> <http://rdaregistry.info/Elements/a/P50189> <http://rimmfdata.com/r/jatc00000026> .
+<http://rimmfdata.com/r/jatb00000077> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jatb00000077> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Its Report for the period ... Dec. 1943-Oct. 1946: t.p. (Jane Austen Society) p. 2 of cover (Alton, Hampshire; founded 1940)" .
+<http://rimmfdata.com/r/jatb00000077> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Jane Austen and the North Atlantic, 2006: p. 5 (JAS (Jane Austen Society) UK)" .
+<http://rimmfdata.com/r/jatb00000077> <http://rdaregistry.info/Elements/a/P50041> "Jane Austen Society" .
+<http://rimmfdata.com/r/jatb00000077> <http://rdaregistry.info/Elements/a/P50025> "JAS" .
+<http://rimmfdata.com/r/jatb00000077> <http://rdaregistry.info/Elements/a/P50006> "LCCN no 90027505" .
+<http://rimmfdata.com/r/jatb00000077> <http://rdaregistry.info/Elements/a/P50006> "(DLC)no 90027505" .
+<http://rimmfdata.com/r/jatb00000077> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/no90027505> .
+<http://rimmfdata.com/r/jatb00000077> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "Jane Austen Society" .
+<http://rimmfdata.com/r/jatb00000077> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "JAS" .
+<http://rimmfdata.com/r/jatb00000077> <http://rdaregistry.info/Elements/a/P50161> <http://rimmfdata.com/r/jatb00000075> .
+<http://rimmfdata.com/r/jatc00000025> <http://rdaregistry.info/Elements/a/P50006> "LCCN n 2011023996" .
+<http://rimmfdata.com/r/jatc00000025> <http://rdaregistry.info/Elements/a/P50006> <http://id.loc.gov/authorities/names/n2011023996> .
+<http://rimmfdata.com/r/jatc00000025> <http://rdaregistry.info/Elements/a/P50041> "Canterbury Classics (Firm)" .
+<http://rimmfdata.com/r/jatc00000025> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Jane Austen, 2011: ECIP t.p. data view (Canterbury Classics, San Diego, CA; imprint of Baker & Taylor)" .
+<http://rimmfdata.com/r/jatc00000025> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/jatc00000025> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "Canterbury Classics (Firm)" .
+<http://rimmfdata.com/r/jatb00000063> <http://rimmf.com/vocab/descriptionManifestation> "Four novels : Sense and sensibility, Pride and prejudice, Emma, Northanger Abbey. Baker & Taylor Pub.Group. [2009]. Volume" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30156> "Four novels" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30142> "Sense and sensibility, Pride and prejudice, Emma, Northanger Abbey" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30105> "Jane Austen" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30088> "San Diego" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30176> "Baker & Taylor Pub. Group" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30011> "[2009]" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30007> "\u00A92009" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30157> "Canterbury classics" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9781607100683 (hc)" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30004> "ISBN 1607100681 (hc)" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/jatb00000063> <http://rimmf.com/vocab/extentStatement> "808 pages" .
+<http://rimmfdata.com/r/jatb00000063> <http://rimmf.com/vocab/numberOfUnits> "808" .
+<http://rimmfdata.com/r/jatb00000063> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30169> "24 cm" .
+<http://rimmfdata.com/r/jatb00000063> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jatb00000064> .
+<http://rimmfdata.com/r/jatb00000067> <http://rimmf.com/vocab/descriptionManifestation> "Lesley Castle. Hesperus. 2005. Volume" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30156> "Lesley Castle" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30105> "Jane Austen" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30088> "London" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30176> "Hesperus" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30011> "2005" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30157> "Hesperus classics" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30004> "ISBN 1843911159" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9781843911159 (pbk.)" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30137> "&#34;Et remotissima prope.&#34;" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/jatb00000067> <http://rimmf.com/vocab/extentStatement> "113 pages" .
+<http://rimmfdata.com/r/jatb00000067> <http://rimmf.com/vocab/numberOfUnits> "113" .
+<http://rimmfdata.com/r/jatb00000067> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30169> "20 cm" .
+<http://rimmfdata.com/r/jatb00000067> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jatb00000068> .
+<http://rimmfdata.com/r/jatb00000070> <http://rimmf.com/vocab/descriptionManifestation> "Selected letters. Oxford University Press. 2004. Volume" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30156> "Selected letters" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30105> "Jane Austen" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30105> "selected with an introduction and notes by Vivien Jones" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30088> "Oxford" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30088> "New York" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30176> "Oxford University Press" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30011> "2004" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30157> "Oxford world's classics" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30004> "ISBN 0192801848 (pbk.)" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9780192801845 (pbk.)" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/jatb00000070> <http://rimmf.com/vocab/extentStatement> "li, 294 pages" .
+<http://rimmfdata.com/r/jatb00000070> <http://rimmf.com/vocab/numberOfUnits> "li, 294" .
+<http://rimmfdata.com/r/jatb00000070> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30169> "20 cm" .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30154> <http://catdir.loc.gov/catdir/enhancements/fy0723/2004049257-b.html> .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30154> <http://catdir.loc.gov/catdir/enhancements/fy0618/2004049257-d.html> .
+<http://rimmfdata.com/r/jatb00000070> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jatb00000071> .
+<http://rimmfdata.com/r/jatb00000074> <http://rimmf.com/vocab/descriptionManifestation> "The poetry of Jane Austen and the Austen family. University of Iowa Press in association with the Jane Austen Society. [1997]. Volume" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30156> "The poetry of Jane Austen and the Austen family" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30105> "edited by David Selwyn" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30088> "Iowa City" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30176> "University of Iowa Press in association with the Jane Austen Society" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30011> "[1997]" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30007> "\u00A91997" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30004> "ISBN 0877455805" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9780877455806" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/jatb00000074> <http://rimmf.com/vocab/extentStatement> "xvii, 106 pages" .
+<http://rimmfdata.com/r/jatb00000074> <http://rimmf.com/vocab/numberOfUnits> "xvii, 106" .
+<http://rimmfdata.com/r/jatb00000074> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30169> "20 cm" .
+<http://rimmfdata.com/r/jatb00000074> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jatb00000075> .
+<http://rimmfdata.com/r/jatc00000019> <http://rimmf.com/vocab/descriptionManifestation> "Jane Austen : Four Novels. Thunder Bay Press. 2012. Online resource" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30156> "Jane Austen" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30142> "Four Novels" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30105> "Jane Austen" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30105> "Andrew Taggert" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30107> "Revised edition" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30111> "San Diego : Thunder Bay Press, 2012." .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30088> "San Diego" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30176> "Thunder Bay Press" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30011> "2012" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30002> "computer" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30001> "online resource" .
+<http://rimmfdata.com/r/jatc00000019> <http://rimmf.com/vocab/extentStatement> "online resource (xvi, 824 pages)" .
+<http://rimmfdata.com/r/jatc00000019> <http://rimmf.com/vocab/typeOfUnitOther> "online resource" .
+<http://rimmfdata.com/r/jatc00000019> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/jatc00000019> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jatc00000023> .
+<http://rimmfdata.com/r/jatc00000022> <http://rimmf.com/vocab/descriptionManifestation> "jatc00000022" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30156> "Four novels" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30128> "Jane Austen : four novels" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30105> "Jane Austen" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30105> "introduction by Andrew Taggart" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30088> "San Diego, CA" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30176> "Canterbury Classics/Baker & Taylor Publishing Group" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30011> "[2011]" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30007> "\u00A92011" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30157> "Canterbury Classics" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30004> "LCCN   2011014315" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9781607103110 (hbk.)" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30004> "ISBN 1607103117 (hbk.)" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30004> <http://lccn.loc.gov/2011014315> .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/jatc00000022> <http://rimmf.com/vocab/extentStatement> "xvi, 808 p." .
+<http://rimmfdata.com/r/jatc00000022> <http://rimmf.com/vocab/numberOfUnits> "xvi, 808" .
+<http://rimmfdata.com/r/jatc00000022> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30169> "24 cm" .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30154> <http://www.loc.gov/catdir/enhancements/fy1205/2011014315-b.html> .
+<http://rimmfdata.com/r/jatc00000022> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jatc00000023> .
+<http://rimmfdata.com/r/jdata00000133> <http://rimmf.com/vocab/descriptionManifestation> "Lady Susan, the Watsons. Little, Brown and company. 1902. Volume" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30156> "Lady Susan, the Watsons" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30105> "with a memoir by her nephew, J.E. Austen Leigh" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30088> "Boston" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30176> "Little, Brown and company" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30011> "1902" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30007> "1892" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30157> "Novels of Jane Austen" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/jdata00000133> <http://rimmf.com/vocab/extentStatement> "352 pages" .
+<http://rimmfdata.com/r/jdata00000133> <http://rimmf.com/vocab/numberOfUnits> "352" .
+<http://rimmfdata.com/r/jdata00000133> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30169> "18 cm" .
+<http://rimmfdata.com/r/jdata00000133> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/jdata00000134> .
+<http://rimmfdata.com/r/jatb00000064> <http://rimmf.com/vocab/authorizedAccessPointExpression> "jatb00000064" .
+<http://rimmfdata.com/r/jatb00000064> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/jatb00000064> <http://rdaregistry.info/Elements/e/P20214> "2009" .
+<http://rimmfdata.com/r/jatb00000064> <http://rdaregistry.info/Elements/e/P20207> "illustrations" .
+<http://rimmfdata.com/r/jatb00000064> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jatb00000064> <http://rimmf.com/vocab/sourceConsultedExpression> "Four novels, 2009" .
+<http://rimmfdata.com/r/jatb00000064> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jatb00000065> .
+<http://rimmfdata.com/r/jatb00000064> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jatb00000063> .
+<http://rimmfdata.com/r/jatb00000068> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Austen, Jane, 1775-1817. Lesley Castle. Text" .
+<http://rimmfdata.com/r/jatb00000068> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/jatb00000068> <http://rdaregistry.info/Elements/e/P20214> "2005" .
+<http://rimmfdata.com/r/jatb00000068> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jatb00000068> <http://rdaregistry.info/Elements/e/P20069> "This inspired novella, with its outrageous cast of superficial characters, brilliantly showcases Jane Austen's comic genius. As Miss Margaret Lesley and Miss Charlotte Lutterell divulge their innermost secrets through a series of letters, each reveals where her true priorities lie: if a bridegroom is fatally wounded the night before his wedding, the first concern must inexorably be for the luxurious food that will be laid to waste. As one plot gives way to the next, and as the heroines exchange wisdom on adultery, elopement, divorce, and remarriage, they increasingly fall prey to the merciless and lambasting sword of Jane Austen's wit. Author of the masterpieces Pride and Prejudice and Emma, Jane Austen (1775-1817) is one of the world's best-loved novelists." .
+<http://rimmfdata.com/r/jatb00000068> <http://rimmf.com/vocab/sourceConsultedExpression> "Lesley Castle, 2005" .
+<http://rimmfdata.com/r/jatb00000068> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jatb00000069> .
+<http://rimmfdata.com/r/jatb00000068> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jatb00000067> .
+<http://rimmfdata.com/r/jatb00000071> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Austen, Jane, 1775-1817. Correspondence. Selections. Text" .
+<http://rimmfdata.com/r/jatb00000071> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/jatb00000071> <http://rdaregistry.info/Elements/e/P20053> <http://rimmfdata.com/r/jatb00000072> .
+<http://rimmfdata.com/r/jatb00000071> <http://rdaregistry.info/Elements/e/P20214> "2004" .
+<http://rimmfdata.com/r/jatb00000071> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jatb00000071> <http://rimmf.com/vocab/sourceConsultedExpression> "Selected letters, 2004" .
+<http://rimmfdata.com/r/jatb00000071> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jatb00000073> .
+<http://rimmfdata.com/r/jatb00000071> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jatb00000070> .
+<http://rimmfdata.com/r/jatb00000075> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Selwyn, David. The poetry of Jane Austen and the Austen family. Text" .
+<http://rimmfdata.com/r/jatb00000075> <http://rimmf.com/vocab/sourceConsultedExpression> "The poetry of Jane Austen and the Austen family, 1997" .
+<http://rimmfdata.com/r/jatb00000075> <http://rdaregistry.info/Elements/e/P20214> "1997" .
+<http://rimmfdata.com/r/jatb00000075> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/jatb00000075> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jatb00000075> <http://rdaregistry.info/Elements/e/P20069> "As in many households in the late eighteenth century, writing verses was a pastime with the Austen family, and the composition of ingenious riddles and charades provided a source of lively entertainment. This volume of verses by Jane Austen and her family contains all the known poems by Jane herself as well as a selection of work by her mother, her sister Cassandra, four of her brothers, her uncle James, her nieces Anna and Fanny, her nephew James Edward and other relatives. David Selwyn provides an introduction and full explanatory notes; his transcriptions, taken from autograph manuscripts or from the earliest copies, are precise in terms of spelling punctuation and layout" .
+<http://rimmfdata.com/r/jatb00000075> <http://rdaregistry.info/Elements/e/P20053> <http://rimmfdata.com/r/jatb00000077> .
+<http://rimmfdata.com/r/jatb00000075> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jatb00000078> .
+<http://rimmfdata.com/r/jatb00000075> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jatb00000074> .
+<http://rimmfdata.com/r/jatc00000020> <http://rdaregistry.info/Elements/e/P20001> "computer dataset" .
+<http://rimmfdata.com/r/jatc00000020> <http://rdaregistry.info/Elements/e/P20053> <http://rimmfdata.com/r/jatc00000021> .
+<http://rimmfdata.com/r/jatc00000020> <http://rdaregistry.info/Elements/e/P20214> "2012" .
+<http://rimmfdata.com/r/jatc00000020> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jatc00000020> <http://rdaregistry.info/Elements/e/P20069> "Jane Austen's stories of clever women, elusive love, and social mores have struck a chord with millions of fans who consider her work compelling, heartwarming, and essential. Adapted time and time again for screen and stage, these enduring classics remain as enjoyable as ever. This revised edition collects Austen's acclaimed novels Sense and Sensibility , Pride and Prejudice , Emma , and Northanger Abbey . New readers will be enchanted by these brilliant stories, while readers familiar with Austen's genius will enjoy the introduction from an acclaimed Austen scholar that provides background and context for the works they've always loved. Lexile score: 1120L" .
+<http://rimmfdata.com/r/jatc00000020> <http://rimmf.com/vocab/sourceConsultedExpression> "Jane Austen, 2012" .
+<http://rimmfdata.com/r/jatc00000023> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Austen, Jane, 1775-1817. Novels. Selections. Text. 2011" .
+<http://rimmfdata.com/r/jatc00000023> <http://rimmf.com/vocab/sourceConsultedExpression> "Four novels, 2011" .
+<http://rimmfdata.com/r/jatc00000023> <http://rdaregistry.info/Elements/e/P20214> "2011" .
+<http://rimmfdata.com/r/jatc00000023> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/jatc00000023> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jatc00000023> <http://rdaregistry.info/Elements/e/P20207> "portraits" .
+<http://rimmfdata.com/r/jatc00000023> <http://rdaregistry.info/Elements/e/P20045> <http://rimmfdata.com/r/jatc00000024> .
+<http://rimmfdata.com/r/jatc00000023> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jatc00000018> .
+<http://rimmfdata.com/r/jatc00000023> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jatc00000022> .
+<http://rimmfdata.com/r/jatc00000023> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jatc00000019> .
+<http://rimmfdata.com/r/jatc00000023> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jatc00000026> .
+<http://rimmfdata.com/r/jdata00000134> <http://rimmf.com/vocab/authorizedAccessPointExpression> "Austen, Jane, 1775-1817. Novels. Selections. Text. 1902" .
+<http://rimmfdata.com/r/jdata00000134> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/jdata00000134> <http://rdaregistry.info/Elements/e/P20214> "1902" .
+<http://rimmfdata.com/r/jdata00000134> <http://rdaregistry.info/Elements/e/P20207> "portraits" .
+<http://rimmfdata.com/r/jdata00000134> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/jdata00000134> <http://rimmf.com/vocab/sourceConsultedExpression> "Lady Susan, the Watsons, 1902" .
+<http://rimmfdata.com/r/jdata00000134> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/jdata00000133> .
+<http://rimmfdata.com/r/jdata00000134> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/jdata00000136> .
+<http://rimmfdata.com/r/jdata00000134> <http://rdaregistry.info/Elements/e/P20231> "janebase00000032" .
+<http://rimmfdata.com/r/jdata00000134> <http://rdaregistry.info/Elements/e/P20231> "jdata00000137" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/authorizedAccessPointWork> "Austen, Jane, 1775-1817. Novels. Selections" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/sourceConsultedWork> "Four novels, 2009" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10223> "Novels. Selections" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10086> "Four novels" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10086> "Canterbury classics" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10219> "2009" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10198> "janebase00000062" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10198> "janebase00000056" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10198> "janebase00000013" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10198> "janebase00000040" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10147> "Sense And Sensibility -- Pride And Prejudice -- Emma -- Northanger Abbey" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "LCC: PR4032 2009" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "fast: Courtship.  (OCoLC)fst00881873" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "fast: Families.  (OCoLC)fst01728849" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "fast: Manners and customs.  (OCoLC)fst01007815" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "fast: Sisters.  (OCoLC)fst01119758" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "fast: Social classes.  (OCoLC)fst01122346" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "fast: Young women.  (OCoLC)fst01183301" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "fast: England.  (OCoLC)fst01219920" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "fast: Fiction.  (OCoLC)fst01423787" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "DDC: 823.7 22" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "LCSH: Social classes -- Fiction" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "LCSH: Young women -- Fiction" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "LCSH: Sisters -- Fiction" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "LCSH: England -- Fiction" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "LCSH: Courtship -- England -- Fiction" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "LCSH: Families -- England -- Fiction" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/subjectWork> "LCSH: England -- Social life and customs -- 19th century -- Fiction" .
+<http://rimmfdata.com/r/jatb00000065> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jatb00000064> .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/variantAccessPointWork> "Novels. Selections" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/variantAccessPointWork> "Four novels" .
+<http://rimmfdata.com/r/jatb00000065> <http://rimmf.com/vocab/variantAccessPointWork> "Canterbury classics" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/authorizedAccessPointWork> "jatb00000069" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/sourceConsultedWork> "Lesley Castle, 2005" .
+<http://rimmfdata.com/r/jatb00000069> <http://rdaregistry.info/Elements/w/P10223> "Lesley Castle" .
+<http://rimmfdata.com/r/jatb00000069> <http://rdaregistry.info/Elements/w/P10219> "2005" .
+<http://rimmfdata.com/r/jatb00000069> <http://rdaregistry.info/Elements/w/P10065> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jatb00000069> <http://rdaregistry.info/Elements/w/P10147> "Lesley Castle -- The history of England -- Catharine, or, The bower" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/subjectWork> "LCC: PR4034 .L46 2005" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/subjectWork> "DDC: 823.7 22" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/subjectWork> "LCSH: Women -- Conduct of life -- Fiction" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/subjectWork> "LCSH: Great Britain -- Social life and customs -- Fiction" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/subjectWork> "fast: Manners and customs.  (OCoLC)fst01007815" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/subjectWork> "fast: Women -- Conduct of life.  (OCoLC)fst01176610" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/subjectWork> "fast: Great Britain.  (OCoLC)fst01204623" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/subjectWork> "gsafd: Humorous stories" .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/subjectWork> "fast: Fiction.  (OCoLC)fst01423787" .
+<http://rimmfdata.com/r/jatb00000069> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jatb00000068> .
+<http://rimmfdata.com/r/jatb00000069> <http://rimmf.com/vocab/variantAccessPointWork> "Lesley Castle" .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/authorizedAccessPointWork> "Austen, Jane, 1775-1817. Correspondence. Selections" .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/sourceConsultedWork> "Selected letters, 2004" .
+<http://rimmfdata.com/r/jatb00000073> <http://rdaregistry.info/Elements/w/P10223> "Correspondence. Selections" .
+<http://rimmfdata.com/r/jatb00000073> <http://rdaregistry.info/Elements/w/P10086> "Selected letters" .
+<http://rimmfdata.com/r/jatb00000073> <http://rdaregistry.info/Elements/w/P10086> "Oxford world's classics" .
+<http://rimmfdata.com/r/jatb00000073> <http://rdaregistry.info/Elements/w/P10219> "2004" .
+<http://rimmfdata.com/r/jatb00000073> <http://rdaregistry.info/Elements/w/P10065> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/subjectWork> "LCC: PR4036 .A4 2004" .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/subjectWork> "DDC: 823/.7 22" .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/subjectWork> "LCSH: Austen, Jane, 1775-1817 -- Correspondence" .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/subjectWork> "LCSH: Novelists, English -- 19th century -- Correspondence" .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/subjectWork> "Austen, Jane, 1775-1817 -- Correspondence" .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/subjectWork> "Austen, Jane. swd" .
+<http://rimmfdata.com/r/jatb00000073> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jatb00000071> .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/variantAccessPointWork> "Selected letters" .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/variantAccessPointWork> "Correspondence. Selections" .
+<http://rimmfdata.com/r/jatb00000073> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Selected letters" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/authorizedAccessPointWork> "Selwyn, David. The poetry of Jane Austen and the Austen family" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/sourceConsultedWork> "The poetry of Jane Austen and the Austen family, 1997" .
+<http://rimmfdata.com/r/jatb00000078> <http://rdaregistry.info/Elements/w/P10223> "The poetry of Jane Austen and the Austen family" .
+<http://rimmfdata.com/r/jatb00000078> <http://rdaregistry.info/Elements/w/P10219> "1997" .
+<http://rimmfdata.com/r/jatb00000078> <http://rdaregistry.info/Elements/w/P10198> "jatb00000079" .
+<http://rimmfdata.com/r/jatb00000078> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jatb00000078> <http://rdaregistry.info/Elements/w/P10055> <http://rimmfdata.com/r/jatb00000076> .
+<http://rimmfdata.com/r/jatb00000078> <http://rdaregistry.info/Elements/w/P10147> "Jane Austen (1775-1817) -- Family verse -- Mrs. Austen (1739-1827) -- James Austen (1765-1819) -- James Leigh Perrot (1735-1817) -- Cassandra Elizabeth Austen (1773-1845) -- Francis William Austen (1774-1865) -- Charles John Austen (1779-1852) -- Henry Thomas Austen (1771-1850) -- George Knight (1795-1867) -- Jane Anna Elizabeth Austen (Anna Lefroy) (1793-1872) -- Fanny Knight (1793-1882) -- James Edward Austen-Leigh (1798-1874) -- Carolin Mary Craven Austen (1805-80)" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "LCC: PR4036 .P58 1997" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "fast: Novelists.  (OCoLC)fst01039684" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "swd: Lyrik" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "fast: Poetry.  (OCoLC)fst01423828" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "Austen, Jane, 1775-1817 fast (OCoLC)fst00032929" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "Austin family. fast (OCoLC)fst00213923" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "Austen Familie. swd" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "Austen, Jane. swd" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "DDC: 821/.7 21" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "18.05 bcl" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "HL 1681 rvk" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "HL 1685 rvk" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "LCSH: Austen, Jane, 1775-1817 -- Poetry" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "LCSH: Austin family -- Poetry" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "LCSH: Novelists -- Poetry" .
+<http://rimmfdata.com/r/jatb00000078> <http://rimmf.com/vocab/subjectWork> "Po\uFFFDesie anglaise -- 18e si\uFFFDecle -- Anthologies" .
+<http://rimmfdata.com/r/jatb00000078> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jatb00000075> .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/authorizedAccessPointWork> "Austen, Jane, 1775-1817. Novels. Selections" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/sourceConsultedWork> "Her Northanger Abbey ; Lady Susan ; The Watsons ; and Sanditon, 1990" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/sourceConsultedWork> "Her The works of Jane Austen, 1995: CIP t.p. (Emma; Pride and prejudice; Sense and sensibility)" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/sourceConsultedWork> "Northanger Abbey ; Lady Susan ; The Watsons ; Sandition, 2003" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/sourceConsultedWork> "Four complete novels, 2009" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen, 2011: ECIP t.p. (four novels)" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/sourceConsultedWork> "Four classic novels, 2012" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10223> "Novels. Selections" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10086> "Works of Jane Austen" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10086> "Four complete novels" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10086> "4 complete novels" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10086> "Jane Austen" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10086> "Four classic novels" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10002> "LCCN n  90607862" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10002> "(DLC)n  90607862" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10002> <http://id.loc.gov/authorities/names/n90607862> .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10065> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Works of Jane Austen" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Novels. Selections" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Jane Austen" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Four complete novels" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Four classic novels" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Works of Jane Austen" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Jane Austen" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Four complete novels" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Four classic novels" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. 4 complete novels" .
+<http://rimmfdata.com/r/jatc00000018> <http://rimmf.com/vocab/variantAccessPointWork> "4 complete novels" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jatc00000023> .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10147> "janebase00000056" .
+<http://rimmfdata.com/r/jatc00000018> <http://rdaregistry.info/Elements/w/P10147> "janebase00000062" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10223> "Novels. Selections" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10086> "Jane Austen" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10086> "Four novels" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10086> "4 novels" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10219> "2011" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10055> <http://rimmfdata.com/r/jatc00000024> .
+<http://rimmfdata.com/r/jatc00000026> <http://rimmf.com/vocab/authorizedAccessPointWork> "Taggart, Andrew, Ph.D. Novels. Selections (2011)" .
+<http://rimmfdata.com/r/jatc00000026> <http://rimmf.com/vocab/variantAccessPointWork> "Four novels" .
+<http://rimmfdata.com/r/jatc00000026> <http://rimmf.com/vocab/variantAccessPointWork> "4 novels" .
+<http://rimmfdata.com/r/jatc00000026> <http://rimmf.com/vocab/variantAccessPointWork> "Jane Austen" .
+<http://rimmfdata.com/r/jatc00000026> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Jane Austen" .
+<http://rimmfdata.com/r/jatc00000026> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen, 2011: ECIP t.p. (four novels)" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10147> "janebase00000062" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10147> "janebase00000056" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10147> "janebase00000013" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10147> "janebase00000040" .
+<http://rimmfdata.com/r/jatc00000026> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jatc00000023> .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/authorizedAccessPointWork> "Austen, Jane, 1775-1817. Novels. Selections" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/sourceConsultedWork> "Her Northanger Abbey ; Lady Susan ; The Watsons ; and Sanditon, 1990" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/sourceConsultedWork> "Her The works of Jane Austen, 1995: CIP t.p. (Emma; Pride and prejudice; Sense and sensibility)" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/sourceConsultedWork> "Northanger Abbey ; Lady Susan ; The Watsons ; Sandition, 2003" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/sourceConsultedWork> "Four complete novels, 2009" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen, 2011: ECIP t.p. (four novels)" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/sourceConsultedWork> "Four classic novels, 2012" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10223> "Novels. Selections" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10086> "Works of Jane Austen" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10086> "Four complete novels" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10086> "4 complete novels" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10086> "Jane Austen" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10086> "Four classic novels" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10002> "LCCN n  90607862" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10002> "(DLC)n  90607862" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10002> <http://id.loc.gov/authorities/names/n90607862> .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10065> <http://rimmfdata.com/r/janebase00000012> .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Works of Jane Austen" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Novels. Selections" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Jane Austen" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Four complete novels" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Four classic novels" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Works of Jane Austen" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Jane Austen" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Four complete novels" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. Four classic novels" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "Austen, Jane, 1775-1817. 4 complete novels" .
+<http://rimmfdata.com/r/jdata00000136> <http://rimmf.com/vocab/variantAccessPointWork> "4 complete novels" .
+<http://rimmfdata.com/r/jdata00000136> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/jdata00000134> .
