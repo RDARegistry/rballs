@@ -1,0 +1,392 @@
+<http://rimmfdata.com/r/cja00000057> <http://rdaregistry.info/Elements/a/P50117> "McKee, John" .
+<http://rimmfdata.com/r/cja00000057> <http://rdaregistry.info/Elements/a/P50104> "Actor" .
+<http://rimmfdata.com/r/cja00000057> <http://rimmf.com/vocab/authorizedAccessPointPerson> "cja00000057" .
+<http://rimmfdata.com/r/cja00000057> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/cja00000057> <http://rimmf.com/vocab/sourceConsultedPerson> "Loving ways, [2010?]" .
+<http://rimmfdata.com/r/cja00000057> <http://rimmf.com/vocab/sourceConsultedPerson> <https://nz.linkedin.com/pub/john-mckee/9a/40b/b05> .
+<http://rimmfdata.com/r/cja00000057> <http://rdaregistry.info/Elements/a/P50081> <http://rimmfdata.com/r/cja00000055> .
+<http://rimmfdata.com/r/cja00000076> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "cja00000076" .
+<http://rimmfdata.com/r/cja00000076> <http://rdaregistry.info/Elements/a/P50041> "Word Pictures" .
+<http://rimmfdata.com/r/cja00000076> <http://rdaregistry.info/Elements/a/P50025> "WordPictures" .
+<http://rimmfdata.com/r/cja00000076> <http://rdaregistry.info/Elements/a/P50025> "WordPictures AudioBooks" .
+<http://rimmfdata.com/r/cja00000076> <http://rdaregistry.info/Elements/a/P50237> "Firm" .
+<http://rimmfdata.com/r/cja00000076> <http://rdaregistry.info/Elements/a/P50023> "English" .
+<http://rimmfdata.com/r/cja00000076> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "WordPictures" .
+<http://rimmfdata.com/r/cja00000076> <http://rimmf.com/vocab/variantAccessPointCorporateBody> "WordPictures AudioBooks" .
+<http://rimmfdata.com/r/cja00000076> <http://rimmf.com/vocab/statusOfIdentificationCorporateBody> "fully established" .
+<http://rimmfdata.com/r/cja00000076> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Kate Sheppard, 1993: Word Pictures " .
+<http://rimmfdata.com/r/cja00000076> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "Loving ways, 2010?: WordPictures AudioBooks" .
+<http://rimmfdata.com/r/cja00000076> <http://rimmf.com/vocab/sourceConsultedCorporateBody> "The best-loved bear and other stories, c1997: Word Pictures Ltd" .
+<http://rimmfdata.com/r/cja00000076> <http://rdaregistry.info/Elements/a/P50203> <http://rimmfdata.com/r/cja00000054> .
+<http://rimmfdata.com/r/cjawork00000074> <http://rdaregistry.info/Elements/a/P50117> "Goetthans, Anita" .
+<http://rimmfdata.com/r/cjawork00000074> <http://rdaregistry.info/Elements/a/P50121> "1955" .
+<http://rimmfdata.com/r/cjawork00000074> <http://rimmf.com/vocab/authorizedAccessPointPerson> "cjawork00000074" .
+<http://rimmfdata.com/r/cjawork00000074> <http://rimmf.com/vocab/sourceConsultedPerson> "Contextual studies for liaison interpreters : New Zealand settings, 2006 : by Ineke Crezee ; with contributions written by Anita Goetthans." .
+<http://rimmfdata.com/r/cjawork00000074> <http://rimmf.com/vocab/sourceConsultedPerson> <http://www.germantranslations.co.nz/about-us.html> .
+<http://rimmfdata.com/r/cjawork00000074> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/spkn00000089> .
+<http://rimmfdata.com/r/spkn00000072> <http://rimmf.com/vocab/authorizedAccessPointPerson> "spkn00000072" .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50097> "N.Z." .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50121> "1931" .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50115> "Maurice Gough" .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  81043166" .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00588756" .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n81043166> .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50117> "Gee, Maurice" .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50103> "Gee, Maurice Gough" .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50119> "Whakatane, N.Z." .
+<http://rimmfdata.com/r/spkn00000072> <http://rimmf.com/vocab/sourceConsultedPerson> "His In my father's den, 1972" .
+<http://rimmfdata.com/r/spkn00000072> <http://rimmf.com/vocab/sourceConsultedPerson> "Info. converted from 678, 2012-10-02 (b. 1931)" .
+<http://rimmfdata.com/r/spkn00000072> <http://rimmf.com/vocab/sourceConsultedPerson> <https://en.wikipedia.org/wiki/Maurice_Gee> .
+<http://rimmfdata.com/r/spkn00000072> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/spkn00000072> <http://rimmf.com/vocab/variantAccessPointPerson> "Gee, Maurice Gough" .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/spkn00000079> .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/spkn00000090> .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/qpq00003578> .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/cja00000031> .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/cja00000056> .
+<http://rimmfdata.com/r/spkn00000072> <http://rdaregistry.info/Elements/a/P50249> <http://rimmfdata.com/r/spkn00000075> .
+<http://rimmfdata.com/r/spkn00000076> <http://rdaregistry.info/Elements/a/P50097> "N.Z." .
+<http://rimmfdata.com/r/spkn00000076> <http://rdaregistry.info/Elements/a/P50121> "1963" .
+<http://rimmfdata.com/r/spkn00000076> <http://rdaregistry.info/Elements/a/P50115> "Rachel Elizabeth" .
+<http://rimmfdata.com/r/spkn00000076> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  93005476" .
+<http://rimmfdata.com/r/spkn00000076> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca03302844" .
+<http://rimmfdata.com/r/spkn00000076> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n93005476> .
+<http://rimmfdata.com/r/spkn00000076> <http://rdaregistry.info/Elements/a/P50117> "Barrowman, Rachel" .
+<http://rimmfdata.com/r/spkn00000076> <http://rimmf.com/vocab/sourceConsultedPerson> "Her A popular vision, 1991: t.p. (Rachel Barrowman) cover (b. 1963)" .
+<http://rimmfdata.com/r/spkn00000076> <http://rimmf.com/vocab/sourceConsultedPerson> "NZ files, Aug. 15, 2003 (x-ref.: Barrowman, Rachel Elizabeth, 1963-)" .
+<http://rimmfdata.com/r/spkn00000076> <http://rimmf.com/vocab/sourceConsultedPerson> <http://www.bookcouncil.org.nz/Writers/Profiles/Barrowman,%20Rachel> .
+<http://rimmfdata.com/r/spkn00000076> <http://rimmf.com/vocab/statusOfIdentificationPerson> "fully established" .
+<http://rimmfdata.com/r/spkn00000076> <http://rimmf.com/vocab/authorizedAccessPointPerson> "spkn00000076" .
+<http://rimmfdata.com/r/spkn00000076> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/spkn00000075> .
+<http://rimmfdata.com/r/cja00000054> <http://rimmf.com/vocab/descriptionManifestation> "cja00000054" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30156> "Loving ways" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30105> "Maurice Gee" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30105> "read by John McKee" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30107> "Abridged" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30133> "Abridged" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30111> "Auckland : WordPictures AudioBooks, [2010?]." .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30088> "Auckland" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30176> "WordPictures AudioBooks" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30011> "[2010?]" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30083> <http://rimmfdata.com/r/cja00000076> .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30003> "multipart monograph" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30004> "ISBN 978-1-877141-08-9" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30004> "(eLGAR).b24886853" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30004> "(Nz)13316668" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30004> "(OCoLC)651633292" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30063> "Title from disc label" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30002> "audio" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30001> "audio disc" .
+<http://rimmfdata.com/r/cja00000054> <http://rimmf.com/vocab/extentStatement> "4 audio discs" .
+<http://rimmfdata.com/r/cja00000054> <http://rimmf.com/vocab/numberOfUnits> "4" .
+<http://rimmfdata.com/r/cja00000054> <http://rimmf.com/vocab/typeOfUnitOther> "audio discs" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30169> "12 cm" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30172> "digital" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30206> "optical" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30184> "stereo" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30018> "audio file" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30096> "CD audio" .
+<http://rimmfdata.com/r/cja00000054> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/cja00000055> .
+<http://rimmfdata.com/r/cja00000088> <http://rimmf.com/vocab/descriptionManifestation> "cja00000088" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30156> "Loving ways" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30105> "Maurice Gee" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30111> "London : Faber and Faber, 1997." .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30088> "London" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30176> "Faber and Faber" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30011> "1997" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30004> "ISBN 0-571-17958-4 (pbk.)" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30004> "(nzNZBN)10187435" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/cja00000088> <http://rimmf.com/vocab/extentStatement> "214 pages" .
+<http://rimmfdata.com/r/cja00000088> <http://rimmf.com/vocab/numberOfUnits> "214" .
+<http://rimmfdata.com/r/cja00000088> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30169> "22 cm" .
+<http://rimmfdata.com/r/cja00000088> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/cja00000089> .
+<http://rimmfdata.com/r/cjan00000308> <http://rimmf.com/vocab/descriptionManifestation> "cjan00000308" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30156> "Live bodies" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30105> "Maurice Gee" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30111> "North Shore, New Zealand : Penguin, 2010." .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30088> "North Shore, New Zealand" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30176> "Penguin" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30011> "2010" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30157> "New Zealand popular Penguins" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30004> "ISBN 978-0-14-320595-1 (paperback)" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/cjan00000308> <http://rimmf.com/vocab/extentStatement> "264 pages" .
+<http://rimmfdata.com/r/cjan00000308> <http://rimmf.com/vocab/numberOfUnits> "264" .
+<http://rimmfdata.com/r/cjan00000308> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30169> "18 cm" .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/spkn00000092> .
+<http://rimmfdata.com/r/cjan00000308> <http://rdaregistry.info/Elements/m/P30016> <http://rimmfdata.com/r/spkn00000091> .
+<http://rimmfdata.com/r/qpq00003576> <http://rimmf.com/vocab/descriptionManifestation> "qpq00003576" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30156> "Access Road" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30105> "Maurice Gee" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30111> "Rosedale, New Zealand : Penguin, 2009." .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30088> "Rosedale, New Zealand" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30176> "Penguin" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30011> "2009" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30004> "LCCN   2009529016" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30004> "ISBN 978-0-14-320244-8 (paperback)" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30004> <http://lccn.loc.gov/2009529016> .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/qpq00003576> <http://rimmf.com/vocab/extentStatement> "204 pages" .
+<http://rimmfdata.com/r/qpq00003576> <http://rimmf.com/vocab/numberOfUnits> "204" .
+<http://rimmfdata.com/r/qpq00003576> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30169> "23 cm" .
+<http://rimmfdata.com/r/qpq00003576> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00003577> .
+<http://rimmfdata.com/r/spkn00000073> <http://rimmf.com/vocab/descriptionManifestation> "spkn00000073" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30156> "Maurice Gee" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30142> "life and work" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30105> "Rachel Barrowman" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30111> "Wellington : Victoria University Press, 2015." .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30088> "Wellington" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30176> "Victoria University Press" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30011> "2015" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30007> "\u00A92015" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30004> "ISBN 978-0-86473-992-6" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30004> "(NLNZils)1717872" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/spkn00000073> <http://rimmf.com/vocab/extentStatement> "543 pages, 28 unnumbered pages of plates" .
+<http://rimmfdata.com/r/spkn00000073> <http://rimmf.com/vocab/numberOfUnits> "543" .
+<http://rimmfdata.com/r/spkn00000073> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/spkn00000073> <http://rimmf.com/vocab/numberOfUnits> "28" .
+<http://rimmfdata.com/r/spkn00000073> <http://rimmf.com/vocab/typeOfUnitText> "unnumbered pages of plates" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30169> "24 cm" .
+<http://rimmfdata.com/r/spkn00000073> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/spkn00000074> .
+<http://rimmfdata.com/r/spkn00000077> <http://rimmf.com/vocab/descriptionManifestation> "spkn00000077" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30156> "Under the mountain" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30105> "Maurice Gee" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30111> "Wellington ; New York : Oxford University Press, [1979?]." .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30088> "Wellington" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30088> "New York" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30176> "Oxford University Press" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30011> "[1979?]" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30004> "ISBN 0-19-558040-0" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30004> "(nzNZBN)1837467" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/spkn00000077> <http://rimmf.com/vocab/extentStatement> "155 pages" .
+<http://rimmfdata.com/r/spkn00000077> <http://rimmf.com/vocab/numberOfUnits> "155" .
+<http://rimmfdata.com/r/spkn00000077> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30169> "22 cm" .
+<http://rimmfdata.com/r/spkn00000077> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/spkn00000078> .
+<http://rimmfdata.com/r/spkn00000088> <http://rimmf.com/vocab/descriptionManifestation> "spkn00000088" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30156> "Lebende fracht" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30105> "Maurice Gee" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30105> "u\u00A8bersetzt von Anita Goetthans" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30111> "Scheuring : Black Ink, [2002]." .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30088> "Scheuring " .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30176> "Black Ink" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30011> "[2002]" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30007> "\u00A92002" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30004> "ISBN 3-930654-14-8 (pbk.)" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/spkn00000088> <http://rimmf.com/vocab/extentStatement> "228 pages" .
+<http://rimmfdata.com/r/spkn00000088> <http://rimmf.com/vocab/numberOfUnits> "228" .
+<http://rimmfdata.com/r/spkn00000088> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30169> "19 cm" .
+<http://rimmfdata.com/r/spkn00000088> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/spkn00000089> .
+<http://rimmfdata.com/r/spkn00000091> <http://rimmf.com/vocab/descriptionManifestation> "spkn00000091" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30156> "Live bodies" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30105> "Maurice Gee" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30111> "North Shore, New Zealand : Penguin Books, [2010]." .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30088> "North Shore, New Zealand" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30176> "Penguin Books" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30011> "2010" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30007> "\u00A91998" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30004> "ISBN 978-1-74-228793-5 " .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30002> "computer" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30001> "online resource" .
+<http://rimmfdata.com/r/spkn00000091> <http://rimmf.com/vocab/extentStatement> "1 online resource" .
+<http://rimmfdata.com/r/spkn00000091> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/spkn00000091> <http://rimmf.com/vocab/typeOfUnitOther> "online resource" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30018> "text file" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30096> "ePUB" .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30154> <https://www.penguin.com.au/products/9781742287935/live-bodies> .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/spkn00000092> .
+<http://rimmfdata.com/r/spkn00000091> <http://rdaregistry.info/Elements/m/P30136> <http://rimmfdata.com/r/cjan00000308> .
+<http://rimmfdata.com/r/cja00000055> <http://rimmf.com/vocab/authorizedAccessPointExpression> "cja00000055" .
+<http://rimmfdata.com/r/cja00000055> <http://rdaregistry.info/Elements/e/P20001> "Spoken word" .
+<http://rimmfdata.com/r/cja00000055> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/cja00000055> <http://rdaregistry.info/Elements/e/P20214> "1997" .
+<http://rimmfdata.com/r/cja00000055> <http://rdaregistry.info/Elements/e/P20003> "Abridged" .
+<http://rimmfdata.com/r/cja00000055> <http://rdaregistry.info/Elements/e/P20069> "In an isolated inlet on New Zealand's South Island, a manipulative dying father sends for his second son, whom neither his other son nor his daughter has seen for 35 years. Alan turns up, a quiet, religious, former army officer, and is mysteriously attracted to his brother's estranged wife" .
+<http://rimmfdata.com/r/cja00000055> <http://rdaregistry.info/Elements/e/P20219> "3 hr." .
+<http://rimmfdata.com/r/cja00000055> <http://rimmf.com/vocab/statusOfIdentificationExpression> "fully established" .
+<http://rimmfdata.com/r/cja00000055> <http://rimmf.com/vocab/sourceConsultedExpression> "Loving ways, c1997" .
+<http://rimmfdata.com/r/cja00000055> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/cja00000056> .
+<http://rimmfdata.com/r/cja00000055> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/cja00000054> .
+<http://rimmfdata.com/r/cja00000055> <http://rdaregistry.info/Elements/e/P20022> <http://rimmfdata.com/r/cja00000057> .
+<http://rimmfdata.com/r/cja00000089> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/cja00000089> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/cja00000089> <http://rdaregistry.info/Elements/e/P20214> "1996" .
+<http://rimmfdata.com/r/cja00000089> <http://rdaregistry.info/Elements/e/P20069> "In an isolated inlet on New Zealand's South Island, a manipulative dying father sends for his second son, whom neither his other son nor his daughter has seen for 35 years. Alan turns up, a quiet, religious, former army officer, and is mysteriously attracted to his brother's estranged wife." .
+<http://rimmfdata.com/r/cja00000089> <http://rimmf.com/vocab/authorizedAccessPointExpression> "cja00000089" .
+<http://rimmfdata.com/r/cja00000089> <http://rimmf.com/vocab/statusOfIdentificationExpression> "fully established" .
+<http://rimmfdata.com/r/cja00000089> <http://rimmf.com/vocab/sourceConsultedExpression> "Loving ways, 1997" .
+<http://rimmfdata.com/r/cja00000089> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/cja00000056> .
+<http://rimmfdata.com/r/cja00000089> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/cja00000088> .
+<http://rimmfdata.com/r/qpq00003577> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/qpq00003577> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/qpq00003577> <http://rdaregistry.info/Elements/e/P20214> "2009" .
+<http://rimmfdata.com/r/qpq00003577> <http://rdaregistry.info/Elements/e/P20069> "&#34;This is a novel of family secrets and tensions, and distant past grievances, set like so much of Maurice Gee's fiction in the West Auckland town of Loomis. It is also vintage Maurice Gee, widely recognised as New Zealand's finest living fiction writer.Three brothers and sisters, all now in their eighties, two of them living in the old family home, are struggling to cope with events that have happened way back in the past. It all bursts into the open when an old school friend visits Loomis, with malice in his heart. He keeps the biggest secret of all, about the disappearance of a girl many years before. As the novel reaches its climax, the tensions reach breaking point, and violence breaks out. The death of one of the protagonists seems inevitable&#34;--Publisher's description." .
+<http://rimmfdata.com/r/qpq00003577> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00003577" .
+<http://rimmfdata.com/r/qpq00003577> <http://rimmf.com/vocab/statusOfIdentificationExpression> "fully established" .
+<http://rimmfdata.com/r/qpq00003577> <http://rimmf.com/vocab/sourceConsultedExpression> "Access Road, 2009" .
+<http://rimmfdata.com/r/qpq00003577> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00003578> .
+<http://rimmfdata.com/r/qpq00003577> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00003576> .
+<http://rimmfdata.com/r/spkn00000074> <http://rimmf.com/vocab/authorizedAccessPointExpression> "spkn00000074" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20001> "still image" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20214> "2015" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20207> "illustrations" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20224> "black and white" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20224> "colour" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20206> "Includes bibliography" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20206> "Includes index" .
+<http://rimmfdata.com/r/spkn00000074> <http://rimmf.com/vocab/statusOfIdentificationExpression> "fully established" .
+<http://rimmfdata.com/r/spkn00000074> <http://rimmf.com/vocab/sourceConsultedExpression> "Maurice Gee, 2015" .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/spkn00000075> .
+<http://rimmfdata.com/r/spkn00000074> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/spkn00000073> .
+<http://rimmfdata.com/r/spkn00000078> <http://rimmf.com/vocab/authorizedAccessPointExpression> "spkn00000078" .
+<http://rimmfdata.com/r/spkn00000078> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/spkn00000078> <http://rdaregistry.info/Elements/e/P20214> "1979" .
+<http://rimmfdata.com/r/spkn00000078> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/spkn00000078> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/spkn00000077> .
+<http://rimmfdata.com/r/spkn00000078> <http://rdaregistry.info/Elements/e/P20069> "While vacationing with relatives in Auckland, twins Theo and Rachel discover that they are endowed with special powers to oppose mysterious giant creatures that are determined to destroy the world. " .
+<http://rimmfdata.com/r/spkn00000078> <http://rdaregistry.info/Elements/e/P20005> "Storylines Gaelyn Gordon Award, 2004" .
+<http://rimmfdata.com/r/spkn00000078> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/spkn00000079> .
+<http://rimmfdata.com/r/spkn00000078> <http://rimmf.com/vocab/sourceConsultedExpression> "Under the mountain, 1979?" .
+<http://rimmfdata.com/r/spkn00000078> <http://rimmf.com/vocab/statusOfIdentificationExpression> "fully established" .
+<http://rimmfdata.com/r/spkn00000089> <http://rimmf.com/vocab/authorizedAccessPointExpression> "spkn00000089" .
+<http://rimmfdata.com/r/spkn00000089> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/spkn00000089> <http://rdaregistry.info/Elements/e/P20214> "2002" .
+<http://rimmfdata.com/r/spkn00000089> <http://rdaregistry.info/Elements/e/P20006> "German" .
+<http://rimmfdata.com/r/spkn00000089> <http://rimmf.com/vocab/variantAccessPointExpression> "Gee, Maurice. Lebende fracht. Text. German" .
+<http://rimmfdata.com/r/spkn00000089> <http://rimmf.com/vocab/variantAccessPointExpression> "Lebende fracht. Text. German" .
+<http://rimmfdata.com/r/spkn00000089> <http://rimmf.com/vocab/statusOfIdentificationExpression> "fully established" .
+<http://rimmfdata.com/r/spkn00000089> <http://rimmf.com/vocab/sourceConsultedExpression> "Lebende fracht, 2002" .
+<http://rimmfdata.com/r/spkn00000089> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/spkn00000090> .
+<http://rimmfdata.com/r/spkn00000089> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/spkn00000088> .
+<http://rimmfdata.com/r/spkn00000089> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/cjawork00000074> .
+<http://rimmfdata.com/r/spkn00000092> <http://rdaregistry.info/Elements/e/P20001> "text" .
+<http://rimmfdata.com/r/spkn00000092> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/spkn00000092> <http://rdaregistry.info/Elements/e/P20214> "1998" .
+<http://rimmfdata.com/r/spkn00000092> <http://rimmf.com/vocab/authorizedAccessPointExpression> "spkn00000092" .
+<http://rimmfdata.com/r/spkn00000092> <http://rimmf.com/vocab/variantAccessPointExpression> "Live bodies. Text. English" .
+<http://rimmfdata.com/r/spkn00000092> <http://rimmf.com/vocab/statusOfIdentificationExpression> "fully established" .
+<http://rimmfdata.com/r/spkn00000092> <http://rimmf.com/vocab/sourceConsultedExpression> "Live bodies, 2013?" .
+<http://rimmfdata.com/r/spkn00000092> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/spkn00000090> .
+<http://rimmfdata.com/r/spkn00000092> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/spkn00000091> .
+<http://rimmfdata.com/r/spkn00000092> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/cjan00000308> .
+<http://rimmfdata.com/r/cja00000031> <http://rimmf.com/vocab/authorizedAccessPointWork> "cja00000031" .
+<http://rimmfdata.com/r/cja00000031> <http://rdaregistry.info/Elements/w/P10223> "Salt trilogy" .
+<http://rimmfdata.com/r/cja00000031> <http://rdaregistry.info/Elements/w/P10004> "Series" .
+<http://rimmfdata.com/r/cja00000031> <http://rdaregistry.info/Elements/w/P10219> "2008" .
+<http://rimmfdata.com/r/cja00000031> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/spkn00000072> .
+<http://rimmfdata.com/r/cja00000031> <http://rimmf.com/vocab/variantAccessPointWork> "Salt trilogy" .
+<http://rimmfdata.com/r/cja00000031> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/cja00000031> <http://rimmf.com/vocab/sourceConsultedWork> "Cool, 2008: t.p. (Salt, 2009, c2007: t.p. (The Salt trilogy)" .
+<http://rimmfdata.com/r/cja00000031> <http://rdaregistry.info/Elements/w/P10002> "LCCN no2010055129" .
+<http://rimmfdata.com/r/cja00000031> <http://rdaregistry.info/Elements/w/P10002> "(OCoLC)oca08448983" .
+<http://rimmfdata.com/r/cja00000031> <http://rdaregistry.info/Elements/w/P10002> <http://id.loc.gov/authorities/names/no2010055129> .
+<http://rimmfdata.com/r/cja00000056> <http://rimmf.com/vocab/authorizedAccessPointWork> "cja00000056" .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10223> "Loving ways" .
+<http://rimmfdata.com/r/cja00000056> <http://rimmf.com/vocab/variantAccessPointWork> "Loving ways" .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10004> "Novel" .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10219> "1996" .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/spkn00000072> .
+<http://rimmfdata.com/r/cja00000056> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/cja00000056> <http://rimmf.com/vocab/sourceConsultedWork> <https://en.wikipedia.org/wiki/Maurice_Gee> .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10256> "DDC: NZ823.2 21" .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Families -- New Zealand -- Fiction" .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Nelson (N.Z.) -- Fiction" .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10256> "LCSH: New Zealand fiction -- 20th century" .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/cja00000055> .
+<http://rimmfdata.com/r/cja00000056> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/cja00000089> .
+<http://rimmfdata.com/r/cjan00000309> <http://rdaregistry.info/Elements/w/P10223> "New Zealand popular Penguins" .
+<http://rimmfdata.com/r/cjan00000309> <http://rdaregistry.info/Elements/w/P10004> "Series" .
+<http://rimmfdata.com/r/cjan00000309> <http://rdaregistry.info/Elements/w/P10219> "2009" .
+<http://rimmfdata.com/r/cjan00000309> <http://rimmf.com/vocab/authorizedAccessPointWork> "cjan00000309" .
+<http://rimmfdata.com/r/cjan00000309> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/cjan00000309> <http://rimmf.com/vocab/sourceConsultedWork> "Mutuwhenua, 2010: series t.p. (New Zealand popular Penguins)" .
+<http://rimmfdata.com/r/cjan00000309> <http://rimmf.com/vocab/sourceConsultedWork> <http://beattiesbookblog.blogspot.co.nz/2010/08/new-zealand-popular-penguins-following.html> .
+<http://rimmfdata.com/r/cjan00000309> <http://rdaregistry.info/Elements/w/P10141> <http://rimmfdata.com/r/spkn00000090> .
+<http://rimmfdata.com/r/cjan00000309> <http://rdaregistry.info/Elements/w/P10002> "LCCN no2010156748" .
+<http://rimmfdata.com/r/cjan00000309> <http://rdaregistry.info/Elements/w/P10002> "(OCoLC)oca08637652" .
+<http://rimmfdata.com/r/cjan00000309> <http://rdaregistry.info/Elements/w/P10002> <http://lccn.loc.gov/no2010156748> .
+<http://rimmfdata.com/r/qpq00003578> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00003578" .
+<http://rimmfdata.com/r/qpq00003578> <http://rdaregistry.info/Elements/w/P10223> "Access Road" .
+<http://rimmfdata.com/r/qpq00003578> <http://rimmf.com/vocab/variantAccessPointWork> "Access Road" .
+<http://rimmfdata.com/r/qpq00003578> <http://rdaregistry.info/Elements/w/P10004> "Novel" .
+<http://rimmfdata.com/r/qpq00003578> <http://rdaregistry.info/Elements/w/P10219> "2009" .
+<http://rimmfdata.com/r/qpq00003578> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/spkn00000072> .
+<http://rimmfdata.com/r/qpq00003578> <http://rimmf.com/vocab/sourceConsultedWork> "Access Road, 2009" .
+<http://rimmfdata.com/r/qpq00003578> <http://rimmf.com/vocab/sourceConsultedWork> <https://en.wikipedia.org/wiki/Maurice_Gee> .
+<http://rimmfdata.com/r/qpq00003578> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00003577> .
+<http://rimmfdata.com/r/qpq00003578> <http://rdaregistry.info/Elements/w/P10256> "LCC: PR9639.3.G4 A25 2009" .
+<http://rimmfdata.com/r/qpq00003578> <http://rdaregistry.info/Elements/w/P10256> "DDC: 823/.914 22" .
+<http://rimmfdata.com/r/qpq00003578> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Families -- Fiction" .
+<http://rimmfdata.com/r/qpq00003578> <http://rdaregistry.info/Elements/w/P10256> "LCSH: New Zealand -- Fiction" .
+<http://rimmfdata.com/r/spkn00000075> <http://rimmf.com/vocab/authorizedAccessPointWork> "spkn00000075" .
+<http://rimmfdata.com/r/spkn00000075> <http://rdaregistry.info/Elements/w/P10223> "Maurice Gee" .
+<http://rimmfdata.com/r/spkn00000075> <http://rdaregistry.info/Elements/w/P10219> "2015" .
+<http://rimmfdata.com/r/spkn00000075> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/spkn00000076> .
+<http://rimmfdata.com/r/spkn00000075> <http://rimmf.com/vocab/variantAccessPointWork> "Maurice Gee" .
+<http://rimmfdata.com/r/spkn00000075> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/spkn00000075> <http://rimmf.com/vocab/sourceConsultedWork> "Maurice Gee, 2015" .
+<http://rimmfdata.com/r/spkn00000075> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/spkn00000074> .
+<http://rimmfdata.com/r/spkn00000075> <http://rdaregistry.info/Elements/w/P10256> "DDC: NZ823.2 23" .
+<http://rimmfdata.com/r/spkn00000075> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Gee, Maurice -- Criticism and interpretation" .
+<http://rimmfdata.com/r/spkn00000075> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Authors, New Zealand -- 20th century -- Biography" .
+<http://rimmfdata.com/r/spkn00000075> <http://rdaregistry.info/Elements/w/P10261> <http://rimmfdata.com/r/spkn00000072> .
+<http://rimmfdata.com/r/spkn00000079> <http://rimmf.com/vocab/authorizedAccessPointWork> "spkn00000079" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10223> "Under the mountain" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10004> "Novel" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10219> "1979" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10217> "Primary, intermediate" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/spkn00000072> .
+<http://rimmfdata.com/r/spkn00000079> <http://rimmf.com/vocab/variantAccessPointWork> "Under the mountain" .
+<http://rimmfdata.com/r/spkn00000079> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/spkn00000079> <http://rimmf.com/vocab/sourceConsultedWork> "Under the mountain, 1979?" .
+<http://rimmfdata.com/r/spkn00000079> <http://rimmf.com/vocab/sourceConsultedWork> <https://en.wikipedia.org/wiki/Maurice_Gee> .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/spkn00000078> .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10256> "LCC: PZ7.G2578 Un" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10256> "DDC: [Fic.] 19" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10256> "LCAC: Fantasy" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10256> "LCAC: Brothers and sisters -- Fiction" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10256> "LCAC: Twins -- Fiction" .
+<http://rimmfdata.com/r/spkn00000079> <http://rdaregistry.info/Elements/w/P10256> "LCAC: New Zealand -- Fiction" .
+<http://rimmfdata.com/r/spkn00000090> <http://rimmf.com/vocab/variantAccessPointWork> "Live bodies" .
+<http://rimmfdata.com/r/spkn00000090> <http://rimmf.com/vocab/variantAccessPointWork> "Gee, Maurice. Lebende fracht" .
+<http://rimmfdata.com/r/spkn00000090> <http://rimmf.com/vocab/variantAccessPointWork> "Lebende fracht" .
+<http://rimmfdata.com/r/spkn00000090> <http://rimmf.com/vocab/authorizedAccessPointWork> "spkn00000090" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10223> "Live bodies" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10086> "Lebende fracht" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10004> "Novel" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10219> "1998" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/spkn00000072> .
+<http://rimmfdata.com/r/spkn00000090> <http://rimmf.com/vocab/statusOfIdentificationWork> "fully established" .
+<http://rimmfdata.com/r/spkn00000090> <http://rimmf.com/vocab/sourceConsultedWork> "Lebende fracht, 2002" .
+<http://rimmfdata.com/r/spkn00000090> <http://rimmf.com/vocab/sourceConsultedWork> <https://en.wikipedia.org/wiki/Maurice_Gee> .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/spkn00000092> .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/spkn00000089> .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10256> "DDC: NZ823.2 21" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Jewish refugees -- New Zealand -- Fiction" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10256> "LCSH: World War, 1939-1945 -- Jews -- Fiction" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10256> "LCSH: World War, 1939-1945 -- New Zealand -- Refugees -- Fiction" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10256> "lcsh: New Zealand fiction -- 20th century" .
+<http://rimmfdata.com/r/spkn00000090> <http://rdaregistry.info/Elements/w/P10102> <http://rimmfdata.com/r/cjan00000309> .
