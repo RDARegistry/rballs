@@ -1,0 +1,60 @@
+<http://rimmfdata.com/r/rdaex00002615> <http://rdaregistry.info/Elements/a/P50041> "European Conference on Encoded Archival Description and Context (EAD and EAC)" .
+<http://rimmfdata.com/r/rdaex00002615> <http://rdaregistry.info/Elements/a/P50039> "2004" .
+<http://rimmfdata.com/r/rdaex00002615> <http://rdaregistry.info/Elements/a/P50024> "Paris, France" .
+<http://rimmfdata.com/r/rdaex00002615> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "rdaex00002615" .
+<http://rimmfdata.com/r/rdaex00002615> <http://rdaregistry.info/Elements/a/P50204> <http://rimmfdata.com/r/rdaex00002614> .
+<http://rimmfdata.com/r/rdaex00002617> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002617" .
+<http://rimmfdata.com/r/rdaex00002617> <http://rdaregistry.info/Elements/a/P50117> "Stockting, Bill" .
+<http://rimmfdata.com/r/rdaex00002617> <http://rdaregistry.info/Elements/a/P50103> "Bill Stockting" .
+<http://rimmfdata.com/r/rdaex00002617> <http://rdaregistry.info/Elements/a/P50156> <http://rimmfdata.com/r/rdaex00002616> .
+<http://rimmfdata.com/r/rdaex00002618> <http://rdaregistry.info/Elements/a/P50117> "Queyroux, Fabienne" .
+<http://rimmfdata.com/r/rdaex00002618> <http://rdaregistry.info/Elements/a/P50103> "Fabienne Queyroux" .
+<http://rimmfdata.com/r/rdaex00002618> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002618" .
+<http://rimmfdata.com/r/rdaex00002618> <http://rdaregistry.info/Elements/a/P50156> <http://rimmfdata.com/r/rdaex00002616> .
+<http://rimmfdata.com/r/rdaex00002620> <http://rdaregistry.info/Elements/a/P50117> "Goulet, Anne" .
+<http://rimmfdata.com/r/rdaex00002620> <http://rdaregistry.info/Elements/a/P50103> "Anne Goulet" .
+<http://rimmfdata.com/r/rdaex00002620> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002620" .
+<http://rimmfdata.com/r/rdaex00002620> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/rdaex00002619> .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30156> "Encoding across frontiers" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30142> "proceedings of the European Conference on Encoded Archival Description and Context (EAD and EAC), Paris, France, 7-8 October 2004" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30105> "Bill Stockting, Fabienne Queyroux, editors" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30088> "New York" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30088> "London" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30088> "Victoria (AU)" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30176> "The Haworth Information Press\u00AE, an imprint of The Haworth Press, Inc." .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30011> "[2005]" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30007> "\u00A92005" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30004> "ISBN 978-0-7890-3026-9" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30004> "ISBN 0-7890-3026-8" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30004> "ISBN 978-0-7890-3027-6 (paperback)" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30004> "ISBN 0-7890-3027-6 (paperback)" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rimmf.com/vocab/extentStatement> "286 pages" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rimmf.com/vocab/numberOfUnits> "286" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rimmf.com/vocab/typeOfUnitText> "pages" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30169> "23 cm" .
+<http://rimmfdata.com/r/rdaex00002613> <http://rdaregistry.info/Elements/m/P30141> <http://www.HaworthPress.com> .
+<http://rimmfdata.com/r/rdaex00002613> <http://rimmf.com/vocab/descriptionManifestation> "rdaex00002613" .
+<http://rimmfdata.com/r/rdaex00002616> <http://rdaregistry.info/Elements/e/P20001> "Text" .
+<http://rimmfdata.com/r/rdaex00002616> <http://rdaregistry.info/Elements/e/P20006> "English" .
+<http://rimmfdata.com/r/rdaex00002616> <http://rdaregistry.info/Elements/e/P20207> "illustrations" .
+<http://rimmfdata.com/r/rdaex00002616> <http://rdaregistry.info/Elements/e/P20206> "Includes bibliographical references and index" .
+<http://rimmfdata.com/r/rdaex00002616> <http://rimmf.com/vocab/authorizedAccessPointExpression> "rdaex00002616" .
+<http://rimmfdata.com/r/rdaex00002616> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/rdaex00002614> .
+<http://rimmfdata.com/r/rdaex00002616> <http://rdaregistry.info/Elements/e/P20048> <http://rimmfdata.com/r/rdaex00002617> .
+<http://rimmfdata.com/r/rdaex00002616> <http://rdaregistry.info/Elements/e/P20048> <http://rimmfdata.com/r/rdaex00002618> .
+<http://rimmfdata.com/r/rdaex00002614> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002614" .
+<http://rimmfdata.com/r/rdaex00002614> <http://rdaregistry.info/Elements/w/P10223> "Encoding across frontiers" .
+<http://rimmfdata.com/r/rdaex00002614> <http://rdaregistry.info/Elements/w/P10219> "2005" .
+<http://rimmfdata.com/r/rdaex00002614> <http://rdaregistry.info/Elements/w/P10065> <http://rimmfdata.com/r/rdaex00002615> .
+<http://rimmfdata.com/r/rdaex00002614> <http://rdaregistry.info/Elements/w/P10256> "Encoded Archival Description (Document type definition)" .
+<http://rimmfdata.com/r/rdaex00002614> <http://rdaregistry.info/Elements/w/P10256> "Encoded Archival Context (Document type definition)" .
+<http://rimmfdata.com/r/rdaex00002614> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/rdaex00002616> .
+<http://rimmfdata.com/r/rdaex00002614> <http://rdaregistry.info/Elements/w/P10147> <http://rimmfdata.com/r/rdaex00002619> .
+<http://rimmfdata.com/r/rdaex00002619> <http://rdaregistry.info/Elements/w/P10223> "Giving structure to legacy finding aids before conversion to EAD" .
+<http://rimmfdata.com/r/rdaex00002619> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/rdaex00002620> .
+<http://rimmfdata.com/r/rdaex00002619> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002619" .
+<http://rimmfdata.com/r/rdaex00002619> <http://rimmf.com/vocab/variantAccessPointWork> "Giving structure to legacy finding aids before conversion to EAD" .
+<http://rimmfdata.com/r/rdaex00002619> <http://rdaregistry.info/Elements/w/P10019> <http://rimmfdata.com/r/rdaex00002614> .
