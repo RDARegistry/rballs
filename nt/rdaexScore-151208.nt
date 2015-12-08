@@ -1,0 +1,38 @@
+<http://rimmfdata.com/r/rdaex00002623> <http://rdaregistry.info/Elements/a/P50117> "Brouwer, Margaret" .
+<http://rimmfdata.com/r/rdaex00002623> <http://rdaregistry.info/Elements/a/P50103> "Margaret Brouwer" .
+<http://rimmfdata.com/r/rdaex00002623> <http://rdaregistry.info/Elements/a/P50121> "1940" .
+<http://rimmfdata.com/r/rdaex00002623> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002623" .
+<http://rimmfdata.com/r/rdaex00002623> <http://rdaregistry.info/Elements/a/P50187> <http://rimmfdata.com/r/rdaex00002622> .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30156> "Concerto for violin and chamber music" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30105> "Margaret Brouwer" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30088> "[United States?]" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30176> "Brouwer New Music Publishing" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30011> "[2007]" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30003> "single unit" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30002> "unmediated" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30001> "volume" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rimmf.com/vocab/extentStatement> "1 score (76 pages)" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rimmf.com/vocab/typeOfUnitNotatedMusic> "score" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rimmf.com/vocab/numberOfSubunits> "76" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rimmf.com/vocab/typeOfSubunitText> "pages" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30169> "42 cm" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rimmf.com/vocab/descriptionManifestation> "rdaex00002621" .
+<http://rimmfdata.com/r/rdaex00002621> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/rdaex00002624> .
+<http://rimmfdata.com/r/rdaex00002624> <http://rdaregistry.info/Elements/e/P20001> "Notated music" .
+<http://rimmfdata.com/r/rdaex00002624> <http://rdaregistry.info/Elements/e/P20214> "2007" .
+<http://rimmfdata.com/r/rdaex00002624> <http://rdaregistry.info/Elements/e/P20064> "staff notation" .
+<http://rimmfdata.com/r/rdaex00002624> <http://rdaregistry.info/Elements/e/P20219> "25 min." .
+<http://rimmfdata.com/r/rdaex00002624> <http://rimmf.com/vocab/authorizedAccessPointExpression> "rdaex00002624" .
+<http://rimmfdata.com/r/rdaex00002624> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/rdaex00002622> .
+<http://rimmfdata.com/r/rdaex00002624> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/rdaex00002621> .
+<http://rimmfdata.com/r/rdaex00002622> <http://rdaregistry.info/Elements/w/P10223> "Concertos, violin, orchestra" .
+<http://rimmfdata.com/r/rdaex00002622> <http://rdaregistry.info/Elements/w/P10086> "Concerto for violin and chamber music" .
+<http://rimmfdata.com/r/rdaex00002622> <http://rdaregistry.info/Elements/w/P10219> "2007" .
+<http://rimmfdata.com/r/rdaex00002622> <http://rdaregistry.info/Elements/w/P10053> <http://rimmfdata.com/r/rdaex00002623> .
+<http://rimmfdata.com/r/rdaex00002622> <http://rdaregistry.info/Elements/w/P10220> "violin, orchestra" .
+<http://rimmfdata.com/r/rdaex00002622> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002622" .
+<http://rimmfdata.com/r/rdaex00002622> <http://rimmf.com/vocab/variantAccessPointWork> "Concerto for violin and chamber music" .
+<http://rimmfdata.com/r/rdaex00002622> <http://rimmf.com/vocab/variantAccessPointWork> "Brouwer, Margaret, 1940- Concerto for violin and chamber music" .
+<http://rimmfdata.com/r/rdaex00002622> <http://rimmf.com/vocab/variantAccessPointWork> "Concertos, violin, orchestra" .
+<http://rimmfdata.com/r/rdaex00002622> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/rdaex00002624> .
