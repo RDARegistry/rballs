@@ -1,7 +1,8 @@
-<http://rimmfdata.com/r/rdaex00002580> <http://rdaregistry.info/Elements/a/P50117> "Munro, Alice, 1931-" .
+<http://rimmfdata.com/r/rdaex00002580> <http://rimmf.com/vocab/variantAccessPointPerson> "Alice Munro, 1931-" .
+<http://rimmfdata.com/r/rdaex00002580> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002580" .
+<http://rimmfdata.com/r/rdaex00002580> <http://rdaregistry.info/Elements/a/P50117> "Munro, Alice" .
 <http://rimmfdata.com/r/rdaex00002580> <http://rdaregistry.info/Elements/a/P50103> "Alice Munro" .
 <http://rimmfdata.com/r/rdaex00002580> <http://rdaregistry.info/Elements/a/P50121> "1931" .
-<http://rimmfdata.com/r/rdaex00002580> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002580" .
 <http://rimmfdata.com/r/rdaex00002580> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/rdaex00002578> .
 <http://rimmfdata.com/r/rdaex00002581> <http://rdaregistry.info/Elements/a/P50117> "Fraser, Ruth" .
 <http://rimmfdata.com/r/rdaex00002581> <http://rdaregistry.info/Elements/a/P50103> "Ruth Fraser" .
@@ -46,14 +47,14 @@
 <http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30096> "CD audio" .
 <http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30160> "$29.95 (Canada)" .
 <http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30160> "$24.95 (United States)" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30141> <http://www.gooselane.com> .
 <http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/rdaex00002579> .
 <http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30048> "Originally broadcast on CBC Radio 1981" .
 <http://rimmfdata.com/r/rdaex00002579> <http://rimmf.com/vocab/authorizedAccessPointExpression> "rdaex00002579" .
-<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20001> "Text" .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20001> "Spoken word" .
 <http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20006> "English" .
 <http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20069> "&#34;Born on the backward 'Flats Road,' Del Jordan is a 'nice girl' with big dreams in a small  town that expects little from women beyond marriage and babies. In linked short  stories, Del suffers embarrassment at the hands of her encyclopedia-selling mother,  endures her body's insistent desires, and falls passionately in love with a young  lumberyard worker, only to lose her chance for a university scholarship&#34;\u2014Container." .
 <http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20219> "61:46, 62:09, 61:18" .
-<http://rimmfdata.com/r/rdaex00002579> <http://rimmf.com/vocab/sourceConsultedExpression> "Lives of girls and women, date of publication not identified" .
 <http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/rdaex00002578> .
 <http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/rdaex00002577> .
 <http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20205> "Abridgement of the first print edition published by McGraw-Hill Ryerson, 1971" .
