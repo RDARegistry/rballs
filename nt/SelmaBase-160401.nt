@@ -1,0 +1,990 @@
+<http://rimmfdata.com/r/qpq00010540> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010540> <http://rimmf.com/vocab/sourceConsultedPerson> "Palmborg, R. P. The private life of Greta Garbo, 1931" .
+<http://rimmfdata.com/r/qpq00010540> <http://rimmf.com/vocab/sourceConsultedPerson> "Gronowicz, A. Garbo, c1990: t.p. verso (Garbo, Greta, 1905-1990)" .
+<http://rimmfdata.com/r/qpq00010540> <http://rimmf.com/vocab/sourceConsultedPerson> "Internet movie database, 10/23/96: (Greta Garbo; real name, Greta Louisa Gustafsson; born 18 September 1905, Sweden; died, 15 April 1990, New York)" .
+<http://rimmfdata.com/r/qpq00010540> <http://rdaregistry.info/Elements/a/P50117> "Garbo, Greta" .
+<http://rimmfdata.com/r/qpq00010540> <http://rdaregistry.info/Elements/a/P50103> "Gustafsson, Greta Louisa" .
+<http://rimmfdata.com/r/qpq00010540> <http://rdaregistry.info/Elements/a/P50121> "1905" .
+<http://rimmfdata.com/r/qpq00010540> <http://rdaregistry.info/Elements/a/P50120> "1990" .
+<http://rimmfdata.com/r/qpq00010540> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  79040098" .
+<http://rimmfdata.com/r/qpq00010540> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00273587" .
+<http://rimmfdata.com/r/qpq00010540> <http://rdaregistry.info/Elements/a/P50094> "(DLC)n  79040098" .
+<http://rimmfdata.com/r/qpq00010540> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n79040098> .
+<http://rimmfdata.com/r/qpq00010540> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Garbo, Greta, 1905-1990" .
+<http://rimmfdata.com/r/qpq00010540> <http://rimmf.com/vocab/variantAccessPointPerson> "Gustafsson, Greta Louisa, 1905-1990" .
+<http://rimmfdata.com/r/qpq00010540> <http://rdaregistry.info/Elements/a/P50147> <http://rimmfdata.com/r/qpq00010543> .
+<http://rimmfdata.com/r/qpq00010541> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010541> <http://rimmf.com/vocab/sourceConsultedPerson> "Idestam-Almquist. Den svenska filmens drama: Sj\u00F6str\u00F6m [och] Stiller ... 1939" .
+<http://rimmfdata.com/r/qpq00010541> <http://rdaregistry.info/Elements/a/P50117> "Stiller, Mauritz" .
+<http://rimmfdata.com/r/qpq00010541> <http://rdaregistry.info/Elements/a/P50121> "1883" .
+<http://rimmfdata.com/r/qpq00010541> <http://rdaregistry.info/Elements/a/P50120> "1928" .
+<http://rimmfdata.com/r/qpq00010541> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  80063110" .
+<http://rimmfdata.com/r/qpq00010541> <http://rdaregistry.info/Elements/a/P50094> "(DLC)n  80063110" .
+<http://rimmfdata.com/r/qpq00010541> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n80063110> .
+<http://rimmfdata.com/r/qpq00010541> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Stiller, Mauritz, 1883-1928" .
+<http://rimmfdata.com/r/qpq00010541> <http://rdaregistry.info/Elements/a/P50205> <http://rimmfdata.com/r/qpq00010542> .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/authorizedAccessPointPerson> "viklun00000018" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "NE" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "E-ru-sa-re-mu / Seruma Ragerurefu saku ; Maeda Akira yaku, 1942" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Kiyoshi konoyoru / Seruma R\u0101gerur\u0113vu saku ; Dominiku Rukur\u0113ru e ; Nakamura Taeko yaku, 1992" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Dalarnes meita : romans / Zelma Lagerlef ; no zviedru valodas tulkojusi L. Skalbe, 1920" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Carot od Portugalija / Selma Lagerlef ; prevod od \u0161vedski jazik  Ivica \u010Celikovi\u1E31, 2005" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "\u010Cudnoto p\u0103tuvane na Nils Cholgerson / Selma Lagerl\u02B9of ; prevede ot \u0161vedski Stojan Kajnarov ; iljustracii Bertil Ljubek, 1980" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Al-bad\u012Bl / Salm\u00E1 L\u0101gharl\u016Bf, ta\u02BCl\u012Bf ; May Fagharbayragh, rus\u016Bm ; Sukaynah Ibrah\u012Bm, al-na\u1E63\u1E63 al-\u02BCarab\u012By bi-qalam, 1998" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "\u0100shuftig\u0101n-i sh\u012Bftah / nivishtah-\u02BEi Silm\u0101 L\u0101girl\u016Bv ; tarjamah-yi Parviz-i D\u0101ry\u016Bsh, 1987" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Arnes kunga manta / Selma Lagerlefa ; tulk. Aleksandrs Sehja, 1935" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "\u02BBAg\u0101d\u00F4t wisip\u00FBr\u00EEm / S\u00E6lm\u0103h Lag\u00E6rl\u00E6p ; \u02BCibr\u00EEt: J. Likt\u00E6nbom, 1963" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Antikristovy z\u00E1zraky : roman / od Selmy Lagerl\u00F6fov\u00E9 ; ze \u0161v\u00E9dsk\u00E9ho p\u0159elo\u017Eil O.S. Veti, s.a" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "VIAF (2012-06-27)" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Anna Sv\u00E4rdov\u00E1 : rom\u00E1n / Selma Lagerl\u00F6fov\u00E1 ; [prelozil Karel V. Ryp\u00E1cek], 1933" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "\u010Cudesna mandrivka Nil'sa Hol'hersona z dykymy hus'my : povist\u02B9-kazka dlja molod\u0161oho \u0161kil\u02B9noho viku / Sel'ma Laherlef ; skoro\u010Dennyj pereklad zi \u0161vedsko\u00EF Ol\u02B9hy Senjuk, 1978" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Lagerl\u00F6f, Selma. Jerusalem, 1901-1902: t.p. (Selma Lagerl\u00F6f)" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Niersi qi e li xian ji. 1 /  Lageluofu Saierma, zhu ; Shi Qin'e, yi, 2006" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "G\u0113stas Berlinga s\u0101ga / Selma L\u0101gerl\u0113va ; no zviedru valodas tulkojusi Elija Kliene, 2006" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Selma Lagerl\u0153f : Selma Lankerleph : melet\u0113, 1958" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Gesuta Beruringe / Seruma Ragerureefu saku ; [\u00F6vers. i sammandrag av Yaeko Nogami], 1921" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Pluimpje : Toonselspel in 3 bedrijven naar een novelle van Selma Lagerloef ; Met de toestemming van de schrijfster bewerkt, 1924" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/sourceConsultedPerson> "Cu\u00F4c lu hanh ky di\u00EAu cua Nilx H\u00F4lyerx\u00F4n vong quanh nuoc Thuy Di\u00EAn. T\u00E2p 1. /  Xelma Layerlop ; Hoang Thi\u00EAu Son, dich, gioi thi\u00EAu va chu thich, 2003" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/cataloguersNotePerson> "Uppdaterat. 2012-06-27. S/NB/evaabr" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50117> "Lagerl\u00F6f, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerl\u00F6f, Selma Ottiliana Lovisa" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagelroep'\u016D, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "L\u0101gharl\u016Bf, Salm\u00E1" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "L\u0101girl\u016Bv, Silm\u0101" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lag\u00E6rl\u00E6p, S\u00E6lm\u0103h" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Layerlop, Xelma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "L\u0101gerl\u0113va, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerlefa, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerl\u00F6fov\u00E9, Selmy" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerl\u00F6fov\u00E1, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lageluofu, Saierma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerl\u02B9of, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Logerlof, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerlyof, Sel'ma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "R\u0101gerur\u0113vu, Seruma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Ragerurefu, Seruma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Ragerureefu, Seruma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "\u041B\u0430\u0433\u0435\u0440\u043B\u0451\u0444, \u0421\u0435\u043B\u044C\u043C\u0430" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "\u041B\u0430\u0433\u0435\u0440\u043B\u044C\u043E\u0444, \u0421\u0435\u043B\u043C\u0430" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "\u041B\u0430\u0433\u0435\u0440\u043B\u0435\u0444, \u0421\u0435\u043B\u043C\u0430" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerlef, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerl\u0153f, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerloef, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lankerleph, Selma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lagerlef, Zelma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Laherlef, Sel'ma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50103> "Lajiruf, Salma" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50121> "1858" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50120> "1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50113> "Sk\u00F6nlitter\u00E4r f\u00F6rfattare, nobelpristagare 1909, f\u00F6rsta kvinnliga ledamot av Svenska akademien 1914" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50094> <http://dbpedia.org/resource/Selma_Lagerl%C3%B6f> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50094> "(LIBRIS)A000038591" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerl\u00F6f, Selma Ottiliana Lovisa, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagelroep'\u016D, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "L\u0101gharl\u016Bf, Salm\u00E1, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "L\u0101girl\u016Bv, Silm\u0101, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lag\u00E6rl\u00E6p, S\u00E6lm\u0103h, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Layerlop, Xelma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "L\u0101gerl\u0113va, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerlefa, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerl\u00F6fov\u00E9, Selmy, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerl\u00F6fov\u00E1, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lageluofu, Saierma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerl\u02B9of, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Logerlof, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerlyof, Sel'ma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "R\u0101gerur\u0113vu, Seruma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Ragerurefu, Seruma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Ragerureefu, Seruma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "\u041B\u0430\u0433\u0435\u0440\u043B\u0451\u0444, \u0421\u0435\u043B\u044C\u043C\u0430, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "\u041B\u0430\u0433\u0435\u0440\u043B\u044C\u043E\u0444, \u0421\u0435\u043B\u043C\u0430, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "\u041B\u0430\u0433\u0435\u0440\u043B\u0435\u0444, \u0421\u0435\u043B\u043C\u0430, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerlef, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerl\u0153f, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerloef, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lankerleph, Selma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lagerlef, Zelma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Laherlef, Sel'ma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rimmf.com/vocab/variantAccessPointPerson> "Lajiruf, Salma, 1858-1940" .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/viklun00000020> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/viklun00000021> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/viklun00000022> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/viklun00000017> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/viklun00000070> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/viklun00000071> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/viklun00000019> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/w/P10283> <http://rimmfdata.com/r/viklun00000128> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/qpq00010560> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/qpq00010561> .
+<http://rimmfdata.com/r/viklun00000018> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/qpq00010566> .
+<http://rimmfdata.com/r/viklun00000038> <http://rimmf.com/vocab/authorizedAccessPointPerson> "viklun00000038" .
+<http://rimmfdata.com/r/viklun00000038> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000038> <http://rimmf.com/vocab/sourceConsultedPerson> "Lagerl\u00F6f, Selma. The miracles of Antichrist, 1899: t.p. (Pauline Bancroft Flach)" .
+<http://rimmfdata.com/r/viklun00000038> <http://rimmf.com/vocab/sourceConsultedPerson> "LC (Flach, Pauline Bancroft)" .
+<http://rimmfdata.com/r/viklun00000038> <http://rimmf.com/vocab/sourceConsultedPerson> "Wikipedia (svenska) 2016-03-03 (Under uppslag om \u00C5llon\u00F6 &#34;1905 k\u00F6ptes det av kommend\u00F6rkapten Carl Gustaf Flach (1860-1911) och hans hustru Pauline Bancroft (1869-1966), barnbarn till George Bancroft.&#34;" .
+<http://rimmfdata.com/r/viklun00000038> <http://rimmf.com/vocab/cataloguersNotePerson> "Uppdaterat 2016-03-03. S/NB/evaabr" .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50117> "Flach, Pauline Bancroft" .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50121> "1869" .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50120> "1966" .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50113> "Amerikansk-svensk \u00F6vers\u00E4ttare. Har \u00F6versatt flera av Selma Lagerl\u00F6fs verk" .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50145> "viklun00000037" .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50145> "viklun00000047" .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/viklun00000051> .
+<http://rimmfdata.com/r/viklun00000038> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/viklun00000157> .
+<http://rimmfdata.com/r/viklun00000060> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000060> <http://rimmf.com/vocab/sourceConsultedPerson> "Bly, Robert. Eating the honey of words, 1999" .
+<http://rimmfdata.com/r/viklun00000060> <http://rimmf.com/vocab/sourceConsultedPerson> "NE" .
+<http://rimmfdata.com/r/viklun00000060> <http://rimmf.com/vocab/sourceConsultedPerson> "F\u00F6rfattarens webbplats: http://www.robertbly.com" .
+<http://rimmfdata.com/r/viklun00000060> <http://rdaregistry.info/Elements/a/P50117> "Bly, Robert" .
+<http://rimmfdata.com/r/viklun00000060> <http://rdaregistry.info/Elements/a/P50121> "1926" .
+<http://rimmfdata.com/r/viklun00000060> <http://rdaregistry.info/Elements/a/P50113> "Amerikansk sk\u00F6nlitter\u00E4r f\u00F6rfattare" .
+<http://rimmfdata.com/r/viklun00000060> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Bly, Robert, 1926-" .
+<http://rimmfdata.com/r/viklun00000060> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/viklun00000058> .
+<http://rimmfdata.com/r/viklun00000063> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000063> <http://rimmf.com/vocab/sourceConsultedPerson> "Das Archiv fremdsprachiger Autoren und ihrer \u00DCbersetzer http://194.49.7.251/openwiki/ow.asp?KlaiberPauline" .
+<http://rimmfdata.com/r/viklun00000063> <http://rdaregistry.info/Elements/a/P50117> "Klaiber-Gottschau, Pauline" .
+<http://rimmfdata.com/r/viklun00000063> <http://rdaregistry.info/Elements/a/P50103> "Klaiber, Pauline" .
+<http://rimmfdata.com/r/viklun00000063> <http://rdaregistry.info/Elements/a/P50103> "Gottschau, Pauline Klaiber-" .
+<http://rimmfdata.com/r/viklun00000063> <http://rdaregistry.info/Elements/a/P50121> "1855" .
+<http://rimmfdata.com/r/viklun00000063> <http://rdaregistry.info/Elements/a/P50120> "1944" .
+<http://rimmfdata.com/r/viklun00000063> <http://rdaregistry.info/Elements/a/P50113> "Tysk \u00F6vers\u00E4ttare (svenska och norska)" .
+<http://rimmfdata.com/r/viklun00000063> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Klaiber-Gottschau, Pauline, 1855-1944" .
+<http://rimmfdata.com/r/viklun00000063> <http://rimmf.com/vocab/variantAccessPointPerson> "Klaiber, Pauline, 1855-1944" .
+<http://rimmfdata.com/r/viklun00000063> <http://rimmf.com/vocab/variantAccessPointPerson> "Gottschau, Pauline Klaiber-, 1855-1944" .
+<http://rimmfdata.com/r/viklun00000063> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/viklun00000055> .
+<http://rimmfdata.com/r/viklun00000069> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000069> <http://rimmf.com/vocab/sourceConsultedPerson> "M\u00E6rin \u00E1 menntabraut, 1997: t.p. (Arnhei\u00F0ur Sigur\u00F0ard\u00F3ttir) jkt. (Arnhei\u00F0ur Sigur\u00F0ard\u00F3ttir fr\u00E1 Arnarvatni)" .
+<http://rimmfdata.com/r/viklun00000069> <http://rdaregistry.info/Elements/a/P50117> "Arnhei\u00F0ur Sigur\u00F0ard\u00F3ttir" .
+<http://rimmfdata.com/r/viklun00000069> <http://rdaregistry.info/Elements/a/P50103> "Sigur\u00F0ard\u00F3ttir, Arnhei\u00F0ur" .
+<http://rimmfdata.com/r/viklun00000069> <http://rdaregistry.info/Elements/a/P50103> "Arnhei\u00F0ur Sigur\u00F0ard\u00F3ttir fr\u00E1 Arnarvatni" .
+<http://rimmfdata.com/r/viklun00000069> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  99001991" .
+<http://rimmfdata.com/r/viklun00000069> <http://rdaregistry.info/Elements/a/P50094> "(DLC)n  99001991" .
+<http://rimmfdata.com/r/viklun00000069> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n99001991> .
+<http://rimmfdata.com/r/viklun00000069> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Arnhei\u00F0ur Sigur\u00F0ard\u00F3ttir" .
+<http://rimmfdata.com/r/viklun00000069> <http://rimmf.com/vocab/variantAccessPointPerson> "Sigur\u00F0ard\u00F3ttir, Arnhei\u00F0ur" .
+<http://rimmfdata.com/r/viklun00000069> <http://rimmf.com/vocab/variantAccessPointPerson> "Arnhei\u00F0ur Sigur\u00F0ard\u00F3ttir fr\u00E1 Arnarvatni" .
+<http://rimmfdata.com/r/viklun00000069> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/viklun00000067> .
+<http://rimmfdata.com/r/viklun00000076> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/viklun00000076> <http://rimmf.com/vocab/sourceConsultedPerson> "A maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia, 1936" .
+<http://rimmfdata.com/r/viklun00000076> <http://rdaregistry.info/Elements/a/P50117> "Osswald, Maria de Castro Henriques" .
+<http://rimmfdata.com/r/viklun00000076> <http://rdaregistry.info/Elements/a/P50121> "1892" .
+<http://rimmfdata.com/r/viklun00000076> <http://rdaregistry.info/Elements/a/P50120> "1988" .
+<http://rimmfdata.com/r/viklun00000076> <http://rdaregistry.info/Elements/a/P50094> <http://rimmfdata.com/provisional/osswaldMariaDeCastroHenriques18921988> .
+<http://rimmfdata.com/r/viklun00000076> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Osswald, Maria de Castro Henriques, 1892-1988" .
+<http://rimmfdata.com/r/viklun00000076> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/viklun00000075> .
+<http://rimmfdata.com/r/viklun00000130> <http://rimmf.com/vocab/authorizedAccessPointPerson> "viklun00000130" .
+<http://rimmfdata.com/r/viklun00000130> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000130> <http://rdaregistry.info/Elements/a/P50117> "Vinge, Louise" .
+<http://rimmfdata.com/r/viklun00000130> <http://rdaregistry.info/Elements/a/P50121> "1931" .
+<http://rimmfdata.com/r/viklun00000130> <http://rdaregistry.info/Elements/a/P50113> "Professor i litteraturhistoria i Lund" .
+<http://rimmfdata.com/r/viklun00000130> <http://rdaregistry.info/Elements/a/P50097> "Sweden" .
+<http://rimmfdata.com/r/viklun00000130> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000130> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1001> .
+<http://rimmfdata.com/r/viklun00000130> <http://rdaregistry.info/Elements/a/P50094> "(LIBRIS)9923656039" .
+<http://rimmfdata.com/r/viklun00000130> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/viklun00000128> .
+<http://rimmfdata.com/r/viklun00000135> <http://rimmf.com/vocab/authorizedAccessPointPerson> "viklun00000135" .
+<http://rimmfdata.com/r/viklun00000135> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000135> <http://rimmf.com/vocab/sourceConsultedPerson> "NE" .
+<http://rimmfdata.com/r/viklun00000135> <http://rimmf.com/vocab/sourceConsultedPerson> "Wikipedia" .
+<http://rimmfdata.com/r/viklun00000135> <http://rdaregistry.info/Elements/a/P50117> "Ahlstr\u00F6m, Gunnar" .
+<http://rimmfdata.com/r/viklun00000135> <http://rdaregistry.info/Elements/a/P50121> "1906" .
+<http://rimmfdata.com/r/viklun00000135> <http://rdaregistry.info/Elements/a/P50120> "1982" .
+<http://rimmfdata.com/r/viklun00000135> <http://rdaregistry.info/Elements/a/P50113> "Litteraturhistoriker" .
+<http://rimmfdata.com/r/viklun00000135> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/viklun00000135> <http://rdaregistry.info/Elements/a/P50097> "Sweden" .
+<http://rimmfdata.com/r/viklun00000135> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000135> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/viklun00000133> .
+<http://rimmfdata.com/r/viklun00000154> <http://rimmf.com/vocab/authorizedAccessPointPerson> "viklun00000154" .
+<http://rimmfdata.com/r/viklun00000154> <http://rimmf.com/vocab/variantAccessPointPerson> "Trotz, Selma, 1861-1953" .
+<http://rimmfdata.com/r/viklun00000154> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000154> <http://rimmf.com/vocab/sourceConsultedPerson> "The miracles of Antichrist, 1899" .
+<http://rimmfdata.com/r/viklun00000154> <http://rimmf.com/vocab/sourceConsultedPerson> "Sveriges d\u00F6dbok " .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50097> "Sweden" .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50121> "1861" .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50120> "1953" .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1001> .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50117> "Ahlstr\u00F6m Trotz, Selma" .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50103> "Trotz, Selma" .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50094> <http://rimmfdata.com/provisional/ahlstr\u00F6mTrotzSelma> .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50094> <http://rimmfdata.com/provisional/ahlstr\u00F6mTrotzSelma> .
+<http://rimmfdata.com/r/viklun00000154> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/viklun00000153> .
+<http://rimmfdata.com/r/viklun00000162> <http://rimmf.com/vocab/authorizedAccessPointPerson> "viklun00000162" .
+<http://rimmfdata.com/r/viklun00000162> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000162> <http://rimmf.com/vocab/sourceConsultedPerson> "NE" .
+<http://rimmfdata.com/r/viklun00000162> <http://rdaregistry.info/Elements/a/P50117> "Myrberg, Per" .
+<http://rimmfdata.com/r/viklun00000162> <http://rdaregistry.info/Elements/a/P50121> "1933" .
+<http://rimmfdata.com/r/viklun00000162> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000162> <http://rdaregistry.info/Elements/a/P50113> "Sk\u00E5despelare" .
+<http://rimmfdata.com/r/viklun00000162> <http://rdaregistry.info/Elements/a/P50081> <http://rimmfdata.com/r/viklun00000161> .
+<http://rimmfdata.com/r/qpq00010542> <http://rimmf.com/vocab/variantAccessPointWork> "Saga of Gosta Berling" .
+<http://rimmfdata.com/r/qpq00010542> <http://rimmf.com/vocab/variantAccessPointWork> "Story of Gosta Berling" .
+<http://rimmfdata.com/r/qpq00010542> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010542" .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10223> "G\u00F6sta Berlings saga" .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10086> "Story of Gosta Berling" .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10086> "Saga of Gosta Berling" .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10004> "0" .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10219> "1924" .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10218> "Sweden" .
+<http://rimmfdata.com/r/qpq00010542> <http://rimmf.com/vocab/sourceConsultedWork> "G\u00F6sta Berlings saga, 1993" .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010543> .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10066> <http://rimmfdata.com/r/qpq00010541> .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10129> <http://rimmfdata.com/r/viklun00000020> .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Feature films -- Sweden" .
+<http://rimmfdata.com/r/qpq00010542> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Silent films -- Sweden" .
+<http://rimmfdata.com/r/qpq00010560> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010560" .
+<http://rimmfdata.com/r/qpq00010560> <http://rimmf.com/vocab/variantAccessPointWork> "En saga om en saga och andra sagor" .
+<http://rimmfdata.com/r/qpq00010560> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Saga om en saga och andra sagor" .
+<http://rimmfdata.com/r/qpq00010560> <http://rimmf.com/vocab/variantAccessPointWork> "Saga om en saga och andra sagor" .
+<http://rimmfdata.com/r/qpq00010560> <http://rimmf.com/vocab/sourceConsultedWork> "En saga om en saga och andra sagor, 1908" .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10223> "En saga om en saga och andra sagor" .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10086> "Saga om en saga och andra sagor" .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10004> "Compilation" .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10219> "1908" .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10256> "DDC: 839.73" .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10256> "Hc.016 kssb/8" .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010559> .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10147> <http://rimmfdata.com/r/qpq00010561> .
+<http://rimmfdata.com/r/qpq00010560> <http://rdaregistry.info/Elements/w/P10147> <http://rimmfdata.com/r/qpq00010566> .
+<http://rimmfdata.com/r/qpq00010561> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010561" .
+<http://rimmfdata.com/r/qpq00010561> <http://rdaregistry.info/Elements/w/P10223> "En saga om en saga" .
+<http://rimmfdata.com/r/qpq00010561> <http://rdaregistry.info/Elements/w/P10086> "Saga om en saga" .
+<http://rimmfdata.com/r/qpq00010561> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/qpq00010561> <http://rdaregistry.info/Elements/w/P10219> "1902" .
+<http://rimmfdata.com/r/qpq00010561> <http://rimmf.com/vocab/variantAccessPointWork> "En saga om en saga" .
+<http://rimmfdata.com/r/qpq00010561> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Saga om en saga" .
+<http://rimmfdata.com/r/qpq00010561> <http://rimmf.com/vocab/variantAccessPointWork> "Saga om en saga" .
+<http://rimmfdata.com/r/qpq00010561> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010563> .
+<http://rimmfdata.com/r/qpq00010561> <http://rdaregistry.info/Elements/w/P10019> <http://rimmfdata.com/r/qpq00010560> .
+<http://rimmfdata.com/r/qpq00010566> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010566" .
+<http://rimmfdata.com/r/qpq00010566> <http://rimmf.com/vocab/variantAccessPointWork> "T\u00F6sen fr\u00E5n Stormyrtorpet" .
+<http://rimmfdata.com/r/qpq00010566> <http://rimmf.com/vocab/sourceConsultedWork> "T\u00F6sen fr\u00E5n Stormyrtorpet, 1924" .
+<http://rimmfdata.com/r/qpq00010566> <http://rdaregistry.info/Elements/w/P10223> "T\u00F6sen fr\u00E5n Stormyrtorpet" .
+<http://rimmfdata.com/r/qpq00010566> <http://rdaregistry.info/Elements/w/P10219> "1905" .
+<http://rimmfdata.com/r/qpq00010566> <http://rdaregistry.info/Elements/w/P10256> "DDC: 839.78" .
+<http://rimmfdata.com/r/qpq00010566> <http://rdaregistry.info/Elements/w/P10256> "Hc kssb" .
+<http://rimmfdata.com/r/qpq00010566> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/qpq00010566> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010565> .
+<http://rimmfdata.com/r/qpq00010566> <http://rdaregistry.info/Elements/w/P10019> <http://rimmfdata.com/r/qpq00010560> .
+<http://rimmfdata.com/r/viklun00000017> <http://rimmf.com/vocab/authorizedAccessPointWork> "viklun00000017" .
+<http://rimmfdata.com/r/viklun00000017> <http://rimmf.com/vocab/sourceConsultedWork> "NE" .
+<http://rimmfdata.com/r/viklun00000017> <http://rimmf.com/vocab/sourceConsultedWork> "Anna Sv\u00E4rd / Selma Lagerl\u00F6f, 1984" .
+<http://rimmfdata.com/r/viklun00000017> <http://rimmf.com/vocab/cataloguersNoteWork> "Uppgraderad. 2009-02-25. NB/evaabr" .
+<http://rimmfdata.com/r/viklun00000017> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000017> <http://rdaregistry.info/Elements/w/P10223> "Anna Sv\u00E4rd" .
+<http://rimmfdata.com/r/viklun00000017> <http://rdaregistry.info/Elements/w/P10086> "Anna, das M\u00E4dchen aus Dalarne" .
+<http://rimmfdata.com/r/viklun00000017> <http://rdaregistry.info/Elements/w/P10219> "1928" .
+<http://rimmfdata.com/r/viklun00000017> <http://rdaregistry.info/Elements/w/P10210> "Del tre i trilogin L\u00F6wensk\u00F6ldska ringen" .
+<http://rimmfdata.com/r/viklun00000017> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/viklun00000017> <http://rimmf.com/vocab/variantAccessPointWork> "Anna Sv\u00E4rd" .
+<http://rimmfdata.com/r/viklun00000017> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Anna, das M\u00E4dchen aus Dalarne" .
+<http://rimmfdata.com/r/viklun00000017> <http://rimmf.com/vocab/variantAccessPointWork> "Anna, das M\u00E4dchen aus Dalarne" .
+<http://rimmfdata.com/r/viklun00000017> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000055> .
+<http://rimmfdata.com/r/viklun00000017> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000062> .
+<http://rimmfdata.com/r/viklun00000017> <http://rdaregistry.info/Elements/w/P10102> <http://rimmfdata.com/r/viklun00000070> .
+<http://rimmfdata.com/r/viklun00000019> <http://rimmf.com/vocab/authorizedAccessPointWork> "viklun00000019" .
+<http://rimmfdata.com/r/viklun00000019> <http://rimmf.com/vocab/variantAccessPointWork> "Charlotte L\u00F6wensk\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000019> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Karlotta L\u00F6venskj\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000019> <http://rimmf.com/vocab/variantAccessPointWork> "Karlotta L\u00F6venskj\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000019> <http://rimmf.com/vocab/sourceConsultedWork> "Lagerl\u00F6f, Selma. L\u00F6wensk\u00F6ldska ringen och Charlotte L\u00F6wensk\u00F6ld, 2008" .
+<http://rimmfdata.com/r/viklun00000019> <http://rimmf.com/vocab/cataloguersNoteWork> "2009-02-25. NB/evaabr" .
+<http://rimmfdata.com/r/viklun00000019> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000019> <http://rdaregistry.info/Elements/w/P10223> "Charlotte L\u00F6wensk\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000019> <http://rdaregistry.info/Elements/w/P10086> "Karlotta L\u00F6venskj\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000019> <http://rdaregistry.info/Elements/w/P10219> "1925" .
+<http://rimmfdata.com/r/viklun00000019> <http://rdaregistry.info/Elements/w/P10210> "Andra delen i trilogin L\u00F6wensk\u00F6ldska ringen" .
+<http://rimmfdata.com/r/viklun00000019> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/viklun00000019> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000065> .
+<http://rimmfdata.com/r/viklun00000019> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000067> .
+<http://rimmfdata.com/r/viklun00000019> <http://rdaregistry.info/Elements/w/P10102> <http://rimmfdata.com/r/viklun00000070> .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/authorizedAccessPointWork> "viklun00000020" .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/variantAccessPointWork> "G\u00F6sta Berlings saga" .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. The story of G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/variantAccessPointWork> "The story of G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Story of G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/variantAccessPointWork> "Story of G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/sourceConsultedWork> "G\u00F6sta Berlings saga / Selma Lagerl\u00F6f, 2005" .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10223> "G\u00F6sta Berlings saga" .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10086> "G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10086> "The story of G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10086> "Story of G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10219> "1891" .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000020> <http://rimmf.com/vocab/variantAccessPointWork> "G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000051> .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000053> .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000058> .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000161> .
+<http://rimmfdata.com/r/viklun00000020> <http://rdaregistry.info/Elements/w/P10025> <http://rimmfdata.com/r/qpq00010542> .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/authorizedAccessPointWork> "viklun00000021" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/sourceConsultedWork> "Lagerl\u00F6f, Selma. Nils Holgerssons underbara resa genom Sverige, 1906-1907: t.p. (Selma Lagerl\u00F6f)" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10223> "Nils Holgerssons underbara resa genom Sverige" .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10086> "Nils Holgerssons underbara resa" .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10086> "Nils Holgersson" .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10086> "A maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia" .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10086> "Maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia" .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10219> "1906" .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10210> "Utgiven 1906-07 i tv\u00E5 volymer" .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/variantAccessPointWork> "Nils Holgerssons underbara resa genom Sverige" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. A maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/variantAccessPointWork> "A maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/variantAccessPointWork> "Maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Nils Holgerssons underbara resa" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/variantAccessPointWork> "Nils Holgerssons underbara resa" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Nils Holgersson" .
+<http://rimmfdata.com/r/viklun00000021> <http://rimmf.com/vocab/variantAccessPointWork> "Nils Holgersson" .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000073> .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000075> .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10283> <http://rimmfdata.com/r/viklun00000133> .
+<http://rimmfdata.com/r/viklun00000021> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000164> .
+<http://rimmfdata.com/r/viklun00000022> <http://rimmf.com/vocab/authorizedAccessPointWork> "viklun00000022" .
+<http://rimmfdata.com/r/viklun00000022> <http://rimmf.com/vocab/variantAccessPointWork> "Antikrists mirakler" .
+<http://rimmfdata.com/r/viklun00000022> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Miraces of Antichrist" .
+<http://rimmfdata.com/r/viklun00000022> <http://rimmf.com/vocab/variantAccessPointWork> "Miraces of Antichrist" .
+<http://rimmfdata.com/r/viklun00000022> <http://rimmf.com/vocab/sourceConsultedWork> "Antikrists mirakler : roman / af Selma Lagerl\u00F6f, 1897" .
+<http://rimmfdata.com/r/viklun00000022> <http://rimmf.com/vocab/cataloguersNoteWork> "2011-01-20. S/NB/evaabr" .
+<http://rimmfdata.com/r/viklun00000022> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000022> <http://rdaregistry.info/Elements/w/P10223> "Antikrists mirakler" .
+<http://rimmfdata.com/r/viklun00000022> <http://rdaregistry.info/Elements/w/P10086> "Miraces of Antichrist" .
+<http://rimmfdata.com/r/viklun00000022> <http://rdaregistry.info/Elements/w/P10219> "1897" .
+<http://rimmfdata.com/r/viklun00000022> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/viklun00000022> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000149> .
+<http://rimmfdata.com/r/viklun00000022> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000153> .
+<http://rimmfdata.com/r/viklun00000022> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000157> .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/authorizedAccessPointWork> "viklun00000070" .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/variantAccessPointWork> "L\u00F6wensk\u00F6ldska ringen (trilogi)" .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/variantAccessPointWork> "L\u00F6wensk\u00F6ldska ringen" .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/sourceConsultedWork> "Anna Sv\u00E4rd : (troisi\u00E8me volume du &#34;Tryptique des L\u00F6wensk\u00F6ld&#34;) : roman / traduit du su\u00E9dois par T. Hammar et M. Metzger, 1936" .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/sourceConsultedWork> "NE" .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/cataloguersNoteWork> "Alla delar i trilogin har publicerats separat. 2009-02-25. NB/evaabr" .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000070> <http://rdaregistry.info/Elements/w/P10223> "L\u00F6wensk\u00F6ldska ringen" .
+<http://rimmfdata.com/r/viklun00000070> <http://rdaregistry.info/Elements/w/P10086> "L\u00F6wensk\u00F6ldcykeln" .
+<http://rimmfdata.com/r/viklun00000070> <http://rdaregistry.info/Elements/w/P10086> "Tryptique des L\u00F6wensk\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000070> <http://rdaregistry.info/Elements/w/P10004> "0" .
+<http://rimmfdata.com/r/viklun00000070> <http://rdaregistry.info/Elements/w/P10210> "En sl\u00E4kthistoria" .
+<http://rimmfdata.com/r/viklun00000070> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. Tryptique des L\u00F6wensk\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/variantAccessPointWork> "Tryptique des L\u00F6wensk\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/variantAccessPointWork> "Lagerl\u00F6f, Selma, 1858-1940. L\u00F6wensk\u00F6ldcykeln" .
+<http://rimmfdata.com/r/viklun00000070> <http://rimmf.com/vocab/variantAccessPointWork> "L\u00F6wensk\u00F6ldcykeln" .
+<http://rimmfdata.com/r/viklun00000070> <http://rdaregistry.info/Elements/w/P10141> <http://rimmfdata.com/r/viklun00000017> .
+<http://rimmfdata.com/r/viklun00000070> <http://rdaregistry.info/Elements/w/P10141> <http://rimmfdata.com/r/viklun00000019> .
+<http://rimmfdata.com/r/viklun00000070> <http://rdaregistry.info/Elements/w/P10141> <http://rimmfdata.com/r/viklun00000071> .
+<http://rimmfdata.com/r/viklun00000071> <http://rimmf.com/vocab/authorizedAccessPointWork> "viklun00000071" .
+<http://rimmfdata.com/r/viklun00000071> <http://rimmf.com/vocab/sourceConsultedWork> "NE" .
+<http://rimmfdata.com/r/viklun00000071> <http://rimmf.com/vocab/sourceConsultedWork> "L\u00F6wensk\u00F6ldska ringen ; Charlotte L\u00F6wensk\u00F6ld / Selma Lagerl\u00F6f, 2005" .
+<http://rimmfdata.com/r/viklun00000071> <http://rimmf.com/vocab/cataloguersNoteWork> "Uppgraderad. 2009-02-25. NB/evaabr" .
+<http://rimmfdata.com/r/viklun00000071> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/viklun00000071> <http://rdaregistry.info/Elements/w/P10223> "L\u00F6wensk\u00F6ldska ringen" .
+<http://rimmfdata.com/r/viklun00000071> <http://rdaregistry.info/Elements/w/P10210> "Del ett i trilogin L\u00F6wensk\u00F6ldska ringen" .
+<http://rimmfdata.com/r/viklun00000071> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/viklun00000071> <http://rimmf.com/vocab/variantAccessPointWork> "L\u00F6wensk\u00F6ldska ringen" .
+<http://rimmfdata.com/r/viklun00000071> <http://rdaregistry.info/Elements/w/P10102> <http://rimmfdata.com/r/viklun00000070> .
+<http://rimmfdata.com/r/viklun00000071> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000078> .
+<http://rimmfdata.com/r/viklun00000128> <http://rimmf.com/vocab/authorizedAccessPointWork> "viklun00000128" .
+<http://rimmfdata.com/r/viklun00000128> <http://rimmf.com/vocab/sourceConsultedWork> "I Selmas s\u00E4llskap, 2013" .
+<http://rimmfdata.com/r/viklun00000128> <http://rdaregistry.info/Elements/w/P10223> "I Selmas s\u00E4llskap" .
+<http://rimmfdata.com/r/viklun00000128> <http://rdaregistry.info/Elements/w/P10219> "2013" .
+<http://rimmfdata.com/r/viklun00000128> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000130> .
+<http://rimmfdata.com/r/viklun00000128> <http://rdaregistry.info/Elements/w/P10256> "DDC: 839.7372 23/swe" .
+<http://rimmfdata.com/r/viklun00000128> <http://rdaregistry.info/Elements/w/P10256> "KAO: Litteraturvetenskap -- f\u00F6rfattare -- Sverige -- 1800-talet -- 1900-talet" .
+<http://rimmfdata.com/r/viklun00000128> <http://rdaregistry.info/Elements/w/P10256> "KAO//ENG: KVIN Literary studies -- authors -- Sweden -- 19th century -- 20th century" .
+<http://rimmfdata.com/r/viklun00000128> <http://rdaregistry.info/Elements/w/P10256> <http://rimmfdata.com/r/viklun00000018> .
+<http://rimmfdata.com/r/viklun00000128> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000127> .
+<http://rimmfdata.com/r/viklun00000128> <http://rimmf.com/vocab/variantAccessPointWork> "I Selmas s\u00E4llskap" .
+<http://rimmfdata.com/r/viklun00000133> <http://rimmf.com/vocab/authorizedAccessPointWork> "viklun00000133" .
+<http://rimmfdata.com/r/viklun00000133> <http://rimmf.com/vocab/sourceConsultedWork> "Den underbara resan, 1942" .
+<http://rimmfdata.com/r/viklun00000133> <http://rdaregistry.info/Elements/w/P10223> "Den underbara resan" .
+<http://rimmfdata.com/r/viklun00000133> <http://rdaregistry.info/Elements/w/P10086> "Underbara resan" .
+<http://rimmfdata.com/r/viklun00000133> <http://rdaregistry.info/Elements/w/P10219> "1942" .
+<http://rimmfdata.com/r/viklun00000133> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/viklun00000135> .
+<http://rimmfdata.com/r/viklun00000133> <http://rdaregistry.info/Elements/w/P10256> "Gcz Lagerl\u00F6f, Selma kssb/6" .
+<http://rimmfdata.com/r/viklun00000133> <http://rdaregistry.info/Elements/w/P10256> <http://rimmfdata.com/r/viklun00000021> .
+<http://rimmfdata.com/r/viklun00000133> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/viklun00000132> .
+<http://rimmfdata.com/r/viklun00000133> <http://rimmf.com/vocab/variantAccessPointWork> "Den underbara resan" .
+<http://rimmfdata.com/r/viklun00000133> <http://rimmf.com/vocab/variantAccessPointWork> "Ahlstr\u00F6m, Gunnar, 1906-1982. Underbara resan" .
+<http://rimmfdata.com/r/viklun00000133> <http://rimmf.com/vocab/variantAccessPointWork> "Underbara resan" .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1023> .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20214> "1934" .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20071> "This version, re-edited in 1934 by Hylten-Cavallius, is considerably shorter than the original" .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20007> "Silent film with English subtitles" .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20224> "colour" .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20225> <http://rdaregistry.info/termList/soundCont/1002> .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20219> "85 min." .
+<http://rimmfdata.com/r/qpq00010543> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010543" .
+<http://rimmfdata.com/r/qpq00010543> <http://rimmf.com/vocab/sourceConsultedExpression> "G\u00F6sta Berlings saga, 1993" .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010542> .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010539> .
+<http://rimmfdata.com/r/qpq00010543> <http://rdaregistry.info/Elements/e/P20039> <http://rimmfdata.com/r/qpq00010540> .
+<http://rimmfdata.com/r/qpq00010559> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010559" .
+<http://rimmfdata.com/r/qpq00010559> <http://rimmf.com/vocab/sourceConsultedExpression> "En saga om en saga och andra sagor, 1908" .
+<http://rimmfdata.com/r/qpq00010559> <http://rdaregistry.info/Elements/e/P20214> "1908" .
+<http://rimmfdata.com/r/qpq00010559> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010559> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/qpq00010559> <http://rdaregistry.info/Elements/e/P20207> "0" .
+<http://rimmfdata.com/r/qpq00010559> <http://rdaregistry.info/Elements/e/P20224> "colour" .
+<http://rimmfdata.com/r/qpq00010559> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010560> .
+<http://rimmfdata.com/r/qpq00010559> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010558> .
+<http://rimmfdata.com/r/qpq00010563> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010563" .
+<http://rimmfdata.com/r/qpq00010563> <http://rdaregistry.info/Elements/e/P20214> "1902" .
+<http://rimmfdata.com/r/qpq00010563> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010563> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/qpq00010563> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010561> .
+<http://rimmfdata.com/r/qpq00010565> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010565" .
+<http://rimmfdata.com/r/qpq00010565> <http://rimmf.com/vocab/sourceConsultedExpression> "T\u00F6sen fr\u00E5n Stormyrtorpet, 1924" .
+<http://rimmfdata.com/r/qpq00010565> <http://rdaregistry.info/Elements/e/P20214> "1905" .
+<http://rimmfdata.com/r/qpq00010565> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010565> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/qpq00010565> <http://rdaregistry.info/Elements/e/P20207> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/qpq00010565> <http://rdaregistry.info/Elements/e/P20267> "Illustrationer med filmbilder" .
+<http://rimmfdata.com/r/qpq00010565> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010566> .
+<http://rimmfdata.com/r/qpq00010565> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010564> .
+<http://rimmfdata.com/r/viklun00000051> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000051" .
+<http://rimmfdata.com/r/viklun00000051> <http://rimmf.com/vocab/variantAccessPointExpression> "Lagerl\u00F6f, Selma, 1858-1940. The story of G\u00F6sta Berling. Text. English. Flach" .
+<http://rimmfdata.com/r/viklun00000051> <http://rimmf.com/vocab/variantAccessPointExpression> "The story of G\u00F6sta Berling. Text. English. Flach" .
+<http://rimmfdata.com/r/viklun00000051> <http://rimmf.com/vocab/variantAccessPointExpression> "Lagerl\u00F6f, Selma, 1858-1940. Story of G\u00F6sta Berling. Text. English. Flach" .
+<http://rimmfdata.com/r/viklun00000051> <http://rimmf.com/vocab/variantAccessPointExpression> "Story of G\u00F6sta Berling. Text. English. Flach" .
+<http://rimmfdata.com/r/viklun00000051> <http://rimmf.com/vocab/sourceConsultedExpression> "The story of G\u00F6sta Berling, 1898" .
+<http://rimmfdata.com/r/viklun00000051> <http://rdaregistry.info/Elements/e/P20214> "1898" .
+<http://rimmfdata.com/r/viklun00000051> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000051> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/viklun00000051> <http://rdaregistry.info/Elements/e/P20003> "(Flach)" .
+<http://rimmfdata.com/r/viklun00000051> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/viklun00000038> .
+<http://rimmfdata.com/r/viklun00000051> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000020> .
+<http://rimmfdata.com/r/viklun00000051> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000050> .
+<http://rimmfdata.com/r/viklun00000053> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000053" .
+<http://rimmfdata.com/r/viklun00000053> <http://rimmf.com/vocab/sourceConsultedExpression> "G\u00F6sta Berlings saga, 1891" .
+<http://rimmfdata.com/r/viklun00000053> <http://rdaregistry.info/Elements/e/P20214> "1891" .
+<http://rimmfdata.com/r/viklun00000053> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000053> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000053> <http://rdaregistry.info/Elements/e/P20069> "Selma Lagerl\u00F6fs debutroman. Den f\u00F6r dryckeskap avsatta pr\u00E4sten och kvinnotjusaren G\u00F6sta Berling lever ett \u00E5r i sus och dus med kavaljererna p\u00E5 Ekeby efter att ha jagat ut majorskan fr\u00E5n sitt hem" .
+<http://rimmfdata.com/r/viklun00000053> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000020> .
+<http://rimmfdata.com/r/viklun00000053> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000052> .
+<http://rimmfdata.com/r/viklun00000055> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000055" .
+<http://rimmfdata.com/r/viklun00000055> <http://rimmf.com/vocab/variantAccessPointExpression> "Lagerl\u00F6f, Selma, 1858-1940. Anna, das M\u00E4dchen aus Dalarne. Text. German" .
+<http://rimmfdata.com/r/viklun00000055> <http://rimmf.com/vocab/variantAccessPointExpression> "Anna, das M\u00E4dchen aus Dalarne. Text. German" .
+<http://rimmfdata.com/r/viklun00000055> <http://rimmf.com/vocab/sourceConsultedExpression> "Anna, das M\u00E4dchen aus Dalarne, 1929" .
+<http://rimmfdata.com/r/viklun00000055> <http://rdaregistry.info/Elements/e/P20214> "1929" .
+<http://rimmfdata.com/r/viklun00000055> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000055> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/ger> .
+<http://rimmfdata.com/r/viklun00000055> <http://rdaregistry.info/Elements/e/P20003> "Klaiber-Gottschau" .
+<http://rimmfdata.com/r/viklun00000055> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000017> .
+<http://rimmfdata.com/r/viklun00000055> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000054> .
+<http://rimmfdata.com/r/viklun00000055> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/viklun00000063> .
+<http://rimmfdata.com/r/viklun00000058> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000058" .
+<http://rimmfdata.com/r/viklun00000058> <http://rimmf.com/vocab/sourceConsultedExpression> "The story of G\u00F6sta Berling, 1982" .
+<http://rimmfdata.com/r/viklun00000058> <http://rdaregistry.info/Elements/e/P20214> "1982" .
+<http://rimmfdata.com/r/viklun00000058> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000058> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/viklun00000058> <http://rdaregistry.info/Elements/e/P20003> "Bly" .
+<http://rimmfdata.com/r/viklun00000058> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/viklun00000060> .
+<http://rimmfdata.com/r/viklun00000058> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000020> .
+<http://rimmfdata.com/r/viklun00000058> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000057> .
+<http://rimmfdata.com/r/viklun00000062> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000062" .
+<http://rimmfdata.com/r/viklun00000062> <http://rimmf.com/vocab/sourceConsultedExpression> "Anna Sv\u00E4rd, 1928" .
+<http://rimmfdata.com/r/viklun00000062> <http://rdaregistry.info/Elements/e/P20214> "1928" .
+<http://rimmfdata.com/r/viklun00000062> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000062> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000062> <http://rdaregistry.info/Elements/e/P20069> "Som en kr\u00F6nande syntes i L:s f\u00F6rfattarskap avtecknar sig trilogin L\u00F6wensk\u00F6ldska ringen (1925), Charlotte L\u00F6wensk\u00F6ld (1925) och Anna Sv\u00E4rd (1928), en sl\u00E4kthistoria best\u00E4md av skuld och h\u00E4mnd som i det klassiska dramat. 2005-04-21 K\u00E4lla Nationalencyklopedin" .
+<http://rimmfdata.com/r/viklun00000062> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000017> .
+<http://rimmfdata.com/r/viklun00000062> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000061> .
+<http://rimmfdata.com/r/viklun00000065> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000065" .
+<http://rimmfdata.com/r/viklun00000065> <http://rimmf.com/vocab/sourceConsultedExpression> "Charlotte L\u00F6wensk\u00F6ld, 1925" .
+<http://rimmfdata.com/r/viklun00000065> <http://rdaregistry.info/Elements/e/P20214> "1925" .
+<http://rimmfdata.com/r/viklun00000065> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000065> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000065> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000019> .
+<http://rimmfdata.com/r/viklun00000065> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000064> .
+<http://rimmfdata.com/r/viklun00000067> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000067" .
+<http://rimmfdata.com/r/viklun00000067> <http://rimmf.com/vocab/variantAccessPointExpression> "Lagerl\u00F6f, Selma, 1858-1940. Karlotta L\u00F6venskj\u00F6ld. Text. Icelandic" .
+<http://rimmfdata.com/r/viklun00000067> <http://rimmf.com/vocab/variantAccessPointExpression> "Karlotta L\u00F6venskj\u00F6ld. Text. " .
+<http://rimmfdata.com/r/viklun00000067> <http://rimmf.com/vocab/sourceConsultedExpression> "Karlotta L\u00F6venskj\u00F6ld, 1964" .
+<http://rimmfdata.com/r/viklun00000067> <http://rdaregistry.info/Elements/e/P20214> "1964" .
+<http://rimmfdata.com/r/viklun00000067> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000067> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/ice> .
+<http://rimmfdata.com/r/viklun00000067> <http://rdaregistry.info/Elements/e/P20003> "Arnhei\u00F0ur Sigur\u00F0ard\u00F3ttir" .
+<http://rimmfdata.com/r/viklun00000067> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000019> .
+<http://rimmfdata.com/r/viklun00000067> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000066> .
+<http://rimmfdata.com/r/viklun00000067> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/viklun00000069> .
+<http://rimmfdata.com/r/viklun00000073> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000073" .
+<http://rimmfdata.com/r/viklun00000073> <http://rimmf.com/vocab/sourceConsultedExpression> "Nils Holgerssons underbara resa genom Sverige, 1906-1907" .
+<http://rimmfdata.com/r/viklun00000073> <http://rdaregistry.info/Elements/e/P20214> "1906" .
+<http://rimmfdata.com/r/viklun00000073> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000073> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000073> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000021> .
+<http://rimmfdata.com/r/viklun00000073> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000072> .
+<http://rimmfdata.com/r/viklun00000075> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000075" .
+<http://rimmfdata.com/r/viklun00000075> <http://rimmf.com/vocab/variantAccessPointExpression> "Lagerl\u00F6f, Selma, 1858-1940. A maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia. Text. Portuguese" .
+<http://rimmfdata.com/r/viklun00000075> <http://rimmf.com/vocab/variantAccessPointExpression> "A maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia. Text. Portuguese" .
+<http://rimmfdata.com/r/viklun00000075> <http://rimmf.com/vocab/variantAccessPointExpression> "Lagerl\u00F6f, Selma, 1858-1940. Maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia. Text. Portuguese" .
+<http://rimmfdata.com/r/viklun00000075> <http://rimmf.com/vocab/variantAccessPointExpression> "Maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia. Text. Portuguese" .
+<http://rimmfdata.com/r/viklun00000075> <http://rimmf.com/vocab/sourceConsultedExpression> "A maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia, 1936" .
+<http://rimmfdata.com/r/viklun00000075> <http://rdaregistry.info/Elements/e/P20214> "1936" .
+<http://rimmfdata.com/r/viklun00000075> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000075> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/por> .
+<http://rimmfdata.com/r/viklun00000075> <http://rdaregistry.info/Elements/e/P20003> "Osswald" .
+<http://rimmfdata.com/r/viklun00000075> <http://rdaregistry.info/Elements/e/P20207> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/viklun00000075> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/viklun00000076> .
+<http://rimmfdata.com/r/viklun00000075> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000021> .
+<http://rimmfdata.com/r/viklun00000075> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000074> .
+<http://rimmfdata.com/r/viklun00000078> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000078" .
+<http://rimmfdata.com/r/viklun00000078> <http://rimmf.com/vocab/sourceConsultedExpression> "L\u00F6wensk\u00F6ldska ringen, 1925" .
+<http://rimmfdata.com/r/viklun00000078> <http://rdaregistry.info/Elements/e/P20214> "1925" .
+<http://rimmfdata.com/r/viklun00000078> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000078> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000078> <http://rdaregistry.info/Elements/e/P20069> "General L\u00F6wensk\u00F6ld f\u00E5r en dyrbar guldring med sig i graven. Ringen blir stulen av en bonde, B\u00E5rd, som drabbas av olyckor. Bondens son, Ingulf, hittas d\u00F6d i skogen av tre m\u00E4n som anklagas f\u00F6r st\u00F6ld och avr\u00E4ttas. Trettio \u00E5r senare uppt\u00E4cker f\u00E4stm\u00F6n till en av de avr\u00E4ttade ringen i en m\u00F6ssa som f\u00E4stmannen bytt ut mot bondsonens utan att veta om ringen" .
+<http://rimmfdata.com/r/viklun00000078> <http://rdaregistry.info/Elements/e/P20207> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/viklun00000078> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000071> .
+<http://rimmfdata.com/r/viklun00000078> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000077> .
+<http://rimmfdata.com/r/viklun00000127> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000127" .
+<http://rimmfdata.com/r/viklun00000127> <http://rimmf.com/vocab/sourceConsultedExpression> "I Selmas s\u00E4llskap, 2013" .
+<http://rimmfdata.com/r/viklun00000127> <http://rdaregistry.info/Elements/e/P20214> "2013" .
+<http://rimmfdata.com/r/viklun00000127> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000127> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000127> <http://rdaregistry.info/Elements/e/P20207> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/viklun00000127> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000128> .
+<http://rimmfdata.com/r/viklun00000127> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000126> .
+<http://rimmfdata.com/r/viklun00000132> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000132" .
+<http://rimmfdata.com/r/viklun00000132> <http://rimmf.com/vocab/sourceConsultedExpression> "Den underbara resan, 1942" .
+<http://rimmfdata.com/r/viklun00000132> <http://rdaregistry.info/Elements/e/P20214> "1942" .
+<http://rimmfdata.com/r/viklun00000132> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000132> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000132> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000133> .
+<http://rimmfdata.com/r/viklun00000132> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000131> .
+<http://rimmfdata.com/r/viklun00000149> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000149" .
+<http://rimmfdata.com/r/viklun00000149> <http://rimmf.com/vocab/sourceConsultedExpression> "Antikrists mirakler, 1897" .
+<http://rimmfdata.com/r/viklun00000149> <http://rdaregistry.info/Elements/e/P20214> "1897" .
+<http://rimmfdata.com/r/viklun00000149> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000149> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000149> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000022> .
+<http://rimmfdata.com/r/viklun00000149> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000148> .
+<http://rimmfdata.com/r/viklun00000149> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000151> .
+<http://rimmfdata.com/r/viklun00000153> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000153" .
+<http://rimmfdata.com/r/viklun00000153> <http://rimmf.com/vocab/sourceConsultedExpression> "The miracles of Antichrist, 1899" .
+<http://rimmfdata.com/r/viklun00000153> <http://rdaregistry.info/Elements/e/P20214> "1899" .
+<http://rimmfdata.com/r/viklun00000153> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000153> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/viklun00000153> <http://rdaregistry.info/Elements/e/P20003> "Ahlstr\u00F6m Trotz" .
+<http://rimmfdata.com/r/viklun00000153> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/viklun00000154> .
+<http://rimmfdata.com/r/viklun00000153> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000022> .
+<http://rimmfdata.com/r/viklun00000153> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000152> .
+<http://rimmfdata.com/r/viklun00000157> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000157" .
+<http://rimmfdata.com/r/viklun00000157> <http://rimmf.com/vocab/sourceConsultedExpression> "The miracles of Antichrist, 1899" .
+<http://rimmfdata.com/r/viklun00000157> <http://rdaregistry.info/Elements/e/P20214> "1899" .
+<http://rimmfdata.com/r/viklun00000157> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/viklun00000157> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/viklun00000157> <http://rdaregistry.info/Elements/e/P20003> "Flach" .
+<http://rimmfdata.com/r/viklun00000157> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/viklun00000038> .
+<http://rimmfdata.com/r/viklun00000157> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000022> .
+<http://rimmfdata.com/r/viklun00000157> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000156> .
+<http://rimmfdata.com/r/viklun00000161> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000161" .
+<http://rimmfdata.com/r/viklun00000161> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1013> .
+<http://rimmfdata.com/r/viklun00000161> <http://rdaregistry.info/Elements/e/P20214> "1991" .
+<http://rimmfdata.com/r/viklun00000161> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000161> <http://rdaregistry.info/Elements/e/P20219> "12 hr." .
+<http://rimmfdata.com/r/viklun00000161> <http://rimmf.com/vocab/sourceConsultedExpression> "G\u00F6sta Berlings saga, 1991" .
+<http://rimmfdata.com/r/viklun00000161> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000020> .
+<http://rimmfdata.com/r/viklun00000161> <http://rdaregistry.info/Elements/e/P20022> <http://rimmfdata.com/r/viklun00000162> .
+<http://rimmfdata.com/r/viklun00000161> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000159> .
+<http://rimmfdata.com/r/viklun00000161> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000163> .
+<http://rimmfdata.com/r/viklun00000164> <http://rimmf.com/vocab/authorizedAccessPointExpression> "viklun00000164" .
+<http://rimmfdata.com/r/viklun00000164> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1013> .
+<http://rimmfdata.com/r/viklun00000164> <http://rdaregistry.info/Elements/e/P20214> "2015" .
+<http://rimmfdata.com/r/viklun00000164> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/viklun00000164> <http://rdaregistry.info/Elements/e/P20003> "Holger" .
+<http://rimmfdata.com/r/viklun00000164> <http://rdaregistry.info/Elements/e/P20219> "22 hr., 32 min" .
+<http://rimmfdata.com/r/viklun00000164> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/viklun00000021> .
+<http://rimmfdata.com/r/viklun00000164> <http://rdaregistry.info/Elements/e/P20022> "Calov, Holger" .
+<http://rimmfdata.com/r/viklun00000164> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/viklun00000165> .
+<http://rimmfdata.com/r/qpq00010539> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010539" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30156> "G\u00F6sta Berlings saga" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30128> "Story of Gosta Berling" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30128> "Saga of Gosta Berling" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30105> "directed by Mauritz Stiller" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30088> "North Hollywood, CA" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30176> "Timeless Video" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30011> "1993" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30157> "Silent film collection" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30004> "(OCoLC)ocn688903209" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30004> "ISBN 1557846286" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30004> "Timeless Video HSV 5540" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30057> "Cast: Greta Garbo, Lars Hanson, Gerda Lundeqvist, Jenny Hasselqvist, Ellen Cederstr\u00F6m, Mona M\u00E5rtensson" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30057> "Credits: Adaptation, Mauritz Stiller and Ragnar Hylten-Cavallius ; photography, J. Julius ; set design, Vilhelm Bryde" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30137> "Originally released as motion picture in Sweden in 1924" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1008> .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1052> .
+<http://rimmfdata.com/r/qpq00010539> <http://rimmf.com/vocab/extentStatement> "1 videocassette (85 min.)" .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30182> "1 videocassette (85 min.)" .
+<http://rimmfdata.com/r/qpq00010539> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/qpq00010539> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1092> .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30169> "1/2 in." .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30104> <http://rdaregistry.info/termList/videoFormat/1015> .
+<http://rimmfdata.com/r/qpq00010539> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010543> .
+<http://rimmfdata.com/r/qpq00010558> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010558" .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30156> "En saga om en saga och andra sagor" .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30105> "av Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30133> "Tredje upplagan" .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30176> "Albert Bonniers F\u00F6rlag" .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30011> "1908" .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010558> <http://rimmf.com/vocab/extentStatement> "249 pages" .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30182> "249 pages" .
+<http://rimmfdata.com/r/qpq00010558> <http://rimmf.com/vocab/numberOfUnits> "249" .
+<http://rimmfdata.com/r/qpq00010558> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010558> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010559> .
+<http://rimmfdata.com/r/qpq00010564> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010564" .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30156> "T\u00F6sen fr\u00E5n Stormyrtorpet" .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30142> "ber\u00E4ttelse" .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30105> "Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30176> "Bonnier" .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30011> "1924" .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010564> <http://rimmf.com/vocab/extentStatement> "112 pages" .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30182> "112 pages" .
+<http://rimmfdata.com/r/qpq00010564> <http://rimmf.com/vocab/numberOfUnits> "112" .
+<http://rimmfdata.com/r/qpq00010564> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010564> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010565> .
+<http://rimmfdata.com/r/viklun00000050> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000050" .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30156> "The story of G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30105> "translated by Pauline Bancroft Flach" .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30111> "London ; Boston, 1898." .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30088> "London" .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30088> "Boston" .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30011> "1898" .
+<http://rimmfdata.com/r/viklun00000050> <http://rimmf.com/vocab/extentStatement> "473 pages" .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30182> "473 pages" .
+<http://rimmfdata.com/r/viklun00000050> <http://rimmf.com/vocab/numberOfUnits> "473" .
+<http://rimmfdata.com/r/viklun00000050> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000050> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000051> .
+<http://rimmfdata.com/r/viklun00000052> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000052" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30156> "G\u00F6sta Berlings saga" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30105> "Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30176> "Hellberg" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30011> "1891" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30087> "Stockholm" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30175> "Gernandt" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000052> <http://rimmf.com/vocab/extentStatement> "2 vol." .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30182> "2 vol." .
+<http://rimmfdata.com/r/viklun00000052> <http://rimmf.com/vocab/extentStatement> "2 volumes" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30182> "2 volumes" .
+<http://rimmfdata.com/r/viklun00000052> <http://rimmf.com/vocab/numberOfUnits> "2" .
+<http://rimmfdata.com/r/viklun00000052> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000052> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000053> .
+<http://rimmfdata.com/r/viklun00000054> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000054" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30156> "Anna, das M\u00E4dchen aus Dalarne" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30142> "Roman" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30105> "einzige berechtigte \u00DCbers.aus dem Schwedischen von Pauline Klaiber-Gottschau" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30088> "M\u00FCnchen" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30176> "Albert Langen" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30011> "1929" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30137> "Ny uppl. 1936 (318 s.) i Deutsche Hausb\u00FCcheriei, Bd 3 der 20 Jahresreihe" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000054> <http://rimmf.com/vocab/extentStatement> "310 pages" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30182> "310 pages" .
+<http://rimmfdata.com/r/viklun00000054> <http://rimmf.com/vocab/numberOfUnits> "310" .
+<http://rimmfdata.com/r/viklun00000054> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000054> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000055> .
+<http://rimmfdata.com/r/viklun00000057> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000057" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30156> "The story of G\u00F6sta Berling" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30105> "Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30105> "transl. by Robert Bly" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30088> "Karlstad" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30176> "Press" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30011> "1982" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30087> "Karlstad" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30175> "Press' f\u00F6rlagstr." .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30004> "ISBN 91-7400-154-X" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000057> <http://rimmf.com/vocab/extentStatement> "310 pages" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30182> "310 pages" .
+<http://rimmfdata.com/r/viklun00000057> <http://rimmf.com/vocab/numberOfUnits> "310" .
+<http://rimmfdata.com/r/viklun00000057> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30169> "19 cm" .
+<http://rimmfdata.com/r/viklun00000057> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000058> .
+<http://rimmfdata.com/r/viklun00000061> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000061" .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30156> "Anna Sv\u00E4rd" .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30105> "av Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30176> "Bonnier" .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30011> "1928" .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000061> <http://rimmf.com/vocab/extentStatement> "441 pages" .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30182> "441 pages" .
+<http://rimmfdata.com/r/viklun00000061> <http://rimmf.com/vocab/numberOfUnits> "441" .
+<http://rimmfdata.com/r/viklun00000061> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000061> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000062> .
+<http://rimmfdata.com/r/viklun00000064> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000064" .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30156> "Charlotte L\u00F6wensk\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30105> "av Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30133> "F\u00F6rsta - tionde tusendet" .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30176> "Bonnier" .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30011> "1925" .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000064> <http://rimmf.com/vocab/extentStatement> "381 pages" .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30182> "381 pages" .
+<http://rimmfdata.com/r/viklun00000064> <http://rimmf.com/vocab/numberOfUnits> "381" .
+<http://rimmfdata.com/r/viklun00000064> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000064> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000065> .
+<http://rimmfdata.com/r/viklun00000066> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000066" .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30156> "Karlotta L\u00F6venskj\u00F6ld" .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30105> "Arnhei\u00F0ur Sigur\u00F0ard\u00F3ttir \u00FE\u00FDddi" .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30088> "Reykjav\u00EDk" .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30176> "Setberg" .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30011> "1964" .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000066> <http://rimmf.com/vocab/extentStatement> "259 pages" .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30182> "259 pages" .
+<http://rimmfdata.com/r/viklun00000066> <http://rimmf.com/vocab/numberOfUnits> "259" .
+<http://rimmfdata.com/r/viklun00000066> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000066> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000067> .
+<http://rimmfdata.com/r/viklun00000072> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000072" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30156> "Nils Holgerssons underbara resa genom Sverige" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30105> "av Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30176> "Bonnier" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30011> "1906-1907" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30157> "L\u00E4seb\u00F6cker f\u00F6r Sveriges barndomsskolor" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30166> "99-0345047-8" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30014> "1" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000072> <http://rimmf.com/vocab/extentStatement> "2 volumes" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30182> "2 volumes" .
+<http://rimmfdata.com/r/viklun00000072> <http://rimmf.com/vocab/numberOfUnits> "2" .
+<http://rimmfdata.com/r/viklun00000072> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30169> "20 cm" .
+<http://rimmfdata.com/r/viklun00000072> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000073> .
+<http://rimmfdata.com/r/viklun00000074> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000074" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30156> "A maravilhosa viagem de Nils Holgersson atrav\u00E9s da Su\u00E9cia" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30105> "Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30105> "tradu\u00E7ao de Maria de Castro Henriques Osswald" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30111> "P\u00F4rto : Educa\u00E7\u00E3o nacional, 1936." .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30088> "P\u00F4rto" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30176> "Educa\u00E7\u00E3o nacional" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30011> "1936" .
+<http://rimmfdata.com/r/viklun00000074> <http://rimmf.com/vocab/extentStatement> "450 pages" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30182> "450 pages" .
+<http://rimmfdata.com/r/viklun00000074> <http://rimmf.com/vocab/numberOfUnits> "450" .
+<http://rimmfdata.com/r/viklun00000074> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000074> <http://rimmf.com/vocab/extentStatement> "450, [2] s., 3 pl.bl" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30182> "450, [2] s., 3 pl.bl" .
+<http://rimmfdata.com/r/viklun00000074> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000075> .
+<http://rimmfdata.com/r/viklun00000077> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000077" .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30156> "L\u00F6wensk\u00F6ldska ringen" .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30105> "av Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30176> "Bonnier" .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30011> "1925" .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000077> <http://rimmf.com/vocab/extentStatement> "186 s." .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30182> "186 s." .
+<http://rimmfdata.com/r/viklun00000077> <http://rimmf.com/vocab/extentStatement> "186 pages" .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30182> "186 pages" .
+<http://rimmfdata.com/r/viklun00000077> <http://rimmf.com/vocab/numberOfUnits> "186" .
+<http://rimmfdata.com/r/viklun00000077> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000077> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000078> .
+<http://rimmfdata.com/r/viklun00000126> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000126" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30156> "I Selmas s\u00E4llskap" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30105> "Louise Vinge" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30088> "M\u00F6klinta" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30176> "Gidlund" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30011> "2013" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30087> "Lettland" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9789178448722" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30004> "(BOKR)9789178448722" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000126> <http://rimmf.com/vocab/extentStatement> "152 pages" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30182> "152 pages" .
+<http://rimmfdata.com/r/viklun00000126> <http://rimmf.com/vocab/numberOfUnits> "152" .
+<http://rimmfdata.com/r/viklun00000126> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30169> "20 cm" .
+<http://rimmfdata.com/r/viklun00000126> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000127> .
+<http://rimmfdata.com/r/viklun00000131> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000131" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30156> "Den underbara resan" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30142> "en bok om Selma Lagerl\u00F6fs Nils Holgersson" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30105> "Gunnar Ahlstr\u00F6m" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30088> "Lund" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30176> "Gleerup" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30011> "1942" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30087> "Malm\u00F6" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30175> "Nya litografen" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000131> <http://rimmf.com/vocab/extentStatement> "271 pages" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30182> "271 pages" .
+<http://rimmfdata.com/r/viklun00000131> <http://rimmf.com/vocab/numberOfUnits> "271" .
+<http://rimmfdata.com/r/viklun00000131> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000131> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000132> .
+<http://rimmfdata.com/r/viklun00000148> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000148" .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30156> "Antikrists mirakler" .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30142> "roman" .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30105> "af Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30176> "Bonnier" .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30011> "1897" .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000148> <http://rimmf.com/vocab/extentStatement> "412 pages" .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30182> "412 pages" .
+<http://rimmfdata.com/r/viklun00000148> <http://rimmf.com/vocab/numberOfUnits> "412" .
+<http://rimmfdata.com/r/viklun00000148> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000148> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000149> .
+<http://rimmfdata.com/r/viklun00000151> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000151" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30156> "Antikrists mirakler" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30142> "roman" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30105> "af Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30176> "Bonnier" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30011> "2014" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9789100144159" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1003> .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1018> .
+<http://rimmfdata.com/r/viklun00000151> <http://rimmf.com/vocab/extentStatement> "1 online resource (412 pages)" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30182> "1 online resource (412 pages)" .
+<http://rimmfdata.com/r/viklun00000151> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/viklun00000151> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1031> .
+<http://rimmfdata.com/r/viklun00000151> <http://rimmf.com/vocab/numberOfSubunits> "412" .
+<http://rimmfdata.com/r/viklun00000151> <http://rimmf.com/vocab/typeOfSubunitText> "0" .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30018> <http://rdaregistry.info/termList/fileType/1002> .
+<http://rimmfdata.com/r/viklun00000151> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000149> .
+<http://rimmfdata.com/r/viklun00000152> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000152" .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30156> "The miracles of Antichrist" .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30142> "a novel" .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30105> "Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30105> "transl. from the Swedish by Selma Ahlstr\u00F6m Trotz" .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30088> "New York" .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30011> "1899" .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000152> <http://rimmf.com/vocab/extentStatement> "iv, 386 pages" .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30182> "iv, 386 pages" .
+<http://rimmfdata.com/r/viklun00000152> <http://rimmf.com/vocab/numberOfUnits> "iv, 386" .
+<http://rimmfdata.com/r/viklun00000152> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000152> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000153> .
+<http://rimmfdata.com/r/viklun00000156> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000156" .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30156> "The miracles of Antichrist" .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30142> "a novel" .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30105> "Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30105> "transl. from the Swedish by Pauline Bancroft Flach" .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30088> "London" .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30011> "1899" .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/viklun00000156> <http://rimmf.com/vocab/extentStatement> "vi, 378 pages" .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30182> "vi, 378 pages" .
+<http://rimmfdata.com/r/viklun00000156> <http://rimmf.com/vocab/numberOfUnits> "vi, 378" .
+<http://rimmfdata.com/r/viklun00000156> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/viklun00000156> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000157> .
+<http://rimmfdata.com/r/viklun00000159> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000159" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30156> "G\u00F6sta Berlings saga" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30105> "Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30105> "inl\u00E4sare: Per Myrberg" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30088> "Enskede" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30176> "Kassettbok" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30011> "1991" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30007> "\u00A91991" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1002> .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9179504450" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1001> .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1007> .
+<http://rimmfdata.com/r/viklun00000159> <http://rimmf.com/vocab/extentStatement> "12 audiocassettes" .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30182> "12 audiocassettes" .
+<http://rimmfdata.com/r/viklun00000159> <http://rimmf.com/vocab/numberOfUnits> "12" .
+<http://rimmfdata.com/r/viklun00000159> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1011> .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30172> <http://rdaregistry.info/termList/typeRec/1001> .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30206> <http://rdaregistry.info/termList/recMedium/1001> .
+<http://rimmfdata.com/r/viklun00000159> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000161> .
+<http://rimmfdata.com/r/viklun00000163> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000163" .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30156> "G\u00F6sta Berlings saga" .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30105> "Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30105> "inl\u00E4sare: Per Myrberg" .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30088> "Stockholm" .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30176> "Bonnier Audio" .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30011> "2004" .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1002> .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9179532373" .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1001> .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1004> .
+<http://rimmfdata.com/r/viklun00000163> <http://rimmf.com/vocab/extentStatement> "14 audio disc" .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30182> "14 audio disc" .
+<http://rimmfdata.com/r/viklun00000163> <http://rimmf.com/vocab/numberOfUnits> "14" .
+<http://rimmfdata.com/r/viklun00000163> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1007> .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30169> "4 3/4 in." .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30172> <http://rdaregistry.info/termList/typeRec/1002> .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30206> <http://rdaregistry.info/termList/recMedium/1003> .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30018> <http://rdaregistry.info/termList/fileType/1001> .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30096> <http://rdaregistry.info/termList/encFormat/1007> .
+<http://rimmfdata.com/r/viklun00000163> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000161> .
+<http://rimmfdata.com/r/viklun00000165> <http://rimmf.com/vocab/descriptionManifestation> "viklun00000165" .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30156> "Nils Holgerssons underbara resa genom Sverige" .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30063> "Title from disc label" .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30105> "Selma Lagerl\u00F6f" .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30105> "uppl\u00E4sare: Holger Calov" .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30088> "Pite\u00E5" .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30176> "Svenska Ljud Classica" .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30011> "2015" .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9789176394168 " .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1001> .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1003> .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1018> .
+<http://rimmfdata.com/r/viklun00000165> <http://rimmf.com/vocab/extentStatement> "1 online resource" .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30182> "1 online resource" .
+<http://rimmfdata.com/r/viklun00000165> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/viklun00000165> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1031> .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30172> <http://rdaregistry.info/termList/typeRec/1002> .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30206> <http://rdaregistry.info/termList/recMedium/1003> .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30018> <http://rdaregistry.info/termList/fileType/1001> .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30096> <http://rdaregistry.info/termList/encFormat/1010> .
+<http://rimmfdata.com/r/viklun00000165> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/viklun00000164> .
