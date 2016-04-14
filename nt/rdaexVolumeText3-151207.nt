@@ -1,0 +1,51 @@
+<http://rimmfdata.com/r/rdaex00002608> <http://rdaregistry.info/Elements/a/P50117> "Cervantes Saavedra, Miguel de" .
+<http://rimmfdata.com/r/rdaex00002608> <http://rdaregistry.info/Elements/a/P50103> "Miuguel de Cervantes Saavedra" .
+<http://rimmfdata.com/r/rdaex00002608> <http://rdaregistry.info/Elements/a/P50121> "1547" .
+<http://rimmfdata.com/r/rdaex00002608> <http://rdaregistry.info/Elements/a/P50120> "1616" .
+<http://rimmfdata.com/r/rdaex00002608> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002608" .
+<http://rimmfdata.com/r/rdaex00002608> <http://rimmf.com/vocab/variantAccessPointPerson> "Miuguel de Cervantes Saavedra, 1547-1616" .
+<http://rimmfdata.com/r/rdaex00002608> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/rdaex00002607> .
+<http://rimmfdata.com/r/rdaex00002610> <http://rdaregistry.info/Elements/a/P50117> "Jarvis, Charles" .
+<http://rimmfdata.com/r/rdaex00002610> <http://rdaregistry.info/Elements/a/P50103> "Charles Jarvis" .
+<http://rimmfdata.com/r/rdaex00002610> <http://rdaregistry.info/Elements/a/P50121> "1675?" .
+<http://rimmfdata.com/r/rdaex00002610> <http://rdaregistry.info/Elements/a/P50120> "1739" .
+<http://rimmfdata.com/r/rdaex00002610> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002610" .
+<http://rimmfdata.com/r/rdaex00002610> <http://rimmf.com/vocab/variantAccessPointPerson> "Charles Jarvis, 1675-1739" .
+<http://rimmfdata.com/r/rdaex00002610> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/rdaex00002609> .
+<http://rimmfdata.com/r/rdaex00002607> <http://rdaregistry.info/Elements/w/P10223> "The life and exploits of Don Quixote de la Mancha" .
+<http://rimmfdata.com/r/rdaex00002607> <http://rdaregistry.info/Elements/w/P10219> "1828" .
+<http://rimmfdata.com/r/rdaex00002607> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/rdaex00002608> .
+<http://rimmfdata.com/r/rdaex00002607> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002607" .
+<http://rimmfdata.com/r/rdaex00002607> <http://rimmf.com/vocab/sourceConsultedWork> "The life and exploits of Don Quixote de la Mancha, 1828" .
+<http://rimmfdata.com/r/rdaex00002607> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/rdaex00002609> .
+<http://rimmfdata.com/r/rdaex00002609> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/rdaex00002609> <http://rdaregistry.info/Elements/e/P20214> "1828" .
+<http://rimmfdata.com/r/rdaex00002609> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/rdaex00002609> <http://rimmf.com/vocab/authorizedAccessPointExpression> "rdaex00002609" .
+<http://rimmfdata.com/r/rdaex00002609> <http://rimmf.com/vocab/sourceConsultedExpression> "The life and exploits of Don Quixote de la Mancha, 1828" .
+<http://rimmfdata.com/r/rdaex00002609> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/rdaex00002607> .
+<http://rimmfdata.com/r/rdaex00002609> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/rdaex00002606> .
+<http://rimmfdata.com/r/rdaex00002609> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/rdaex00002610> .
+<http://rimmfdata.com/r/rdaex00002606> <http://rimmf.com/vocab/descriptionManifestation> "rdaex00002606" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30156> "The life and exploits of Don Quixote de la Mancha" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30142> "in four volumes" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30105> "translated from the original Spanish of Miguel de Cervantes Saavedra by Charles Jarvis, Esq." .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30111> "Exeter : J. & B. Williams, 1828." .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30088> "Exeter" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30176> "J. & B. Williams" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30011> "1828" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1002> .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/rdaex00002606> <http://rimmf.com/vocab/extentStatement> "4 volumes" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30182> "4 volumes" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rimmf.com/vocab/numberOfUnits> "4" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30169> "13 cm" .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/rdaex00002609> .
+<http://rimmfdata.com/r/rdaex00002606> <http://rdaregistry.info/Elements/m/P30103> <http://rimmfdata.com/r/rdaex00002612> .
+<http://rimmfdata.com/r/rdaex00002612> <http://rimmf.com/vocab/descriptionItem> "rdaex00002612" .
+<http://rimmfdata.com/r/rdaex00002612> <http://rdaregistry.info/Elements/i/P40001> "The life and exploits of Don Quixote de la Mancha. J. & B. Williams. 1828. Volume. del Valle" .
+<http://rimmfdata.com/r/rdaex00002612> <http://rdaregistry.info/Elements/i/P40026> "Previously owned by Rosa del Valle, 1829-1860" .
+<http://rimmfdata.com/r/rdaex00002612> <http://rdaregistry.info/Elements/i/P40003> "Binding: marbled paper over boards with a leather spine" .
+<http://rimmfdata.com/r/rdaex00002612> <http://rdaregistry.info/Elements/i/P40049> <http://rimmfdata.com/r/rdaex00002606> .
