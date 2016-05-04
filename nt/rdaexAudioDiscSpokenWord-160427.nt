@@ -1,0 +1,71 @@
+<http://rimmfdata.com/r/rdaex00002580> <http://rimmf.com/vocab/variantAccessPointPerson> "Alice Munro, 1931-" .
+<http://rimmfdata.com/r/rdaex00002580> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002580" .
+<http://rimmfdata.com/r/rdaex00002580> <http://rdaregistry.info/Elements/a/P50117> "Munro, Alice" .
+<http://rimmfdata.com/r/rdaex00002580> <http://rdaregistry.info/Elements/a/P50103> "Alice Munro" .
+<http://rimmfdata.com/r/rdaex00002580> <http://rdaregistry.info/Elements/a/P50121> "1931" .
+<http://rimmfdata.com/r/rdaex00002580> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/rdaex00002578> .
+<http://rimmfdata.com/r/rdaex00002581> <http://rdaregistry.info/Elements/a/P50117> "Fraser, Ruth" .
+<http://rimmfdata.com/r/rdaex00002581> <http://rdaregistry.info/Elements/a/P50103> "Ruth Fraser" .
+<http://rimmfdata.com/r/rdaex00002581> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002581" .
+<http://rimmfdata.com/r/rdaex00002581> <http://rdaregistry.info/Elements/a/P50157> <http://rimmfdata.com/r/rdaex00002579> .
+<http://rimmfdata.com/r/rdaex00002582> <http://rdaregistry.info/Elements/a/P50117> "Mahbey, Judy" .
+<http://rimmfdata.com/r/rdaex00002582> <http://rdaregistry.info/Elements/a/P50103> "Judy Mahbey" .
+<http://rimmfdata.com/r/rdaex00002582> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002582" .
+<http://rimmfdata.com/r/rdaex00002582> <http://rdaregistry.info/Elements/a/P50081> <http://rimmfdata.com/r/rdaex00002579> .
+<http://rimmfdata.com/r/rdaex00002583> <http://rdaregistry.info/Elements/a/P50117> "Seligman, Lawrie" .
+<http://rimmfdata.com/r/rdaex00002583> <http://rdaregistry.info/Elements/a/P50103> "Lawrie Seligman" .
+<http://rimmfdata.com/r/rdaex00002583> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002583" .
+<http://rimmfdata.com/r/rdaex00002583> <http://rdaregistry.info/Elements/a/P50161> <http://rimmfdata.com/r/rdaex00002579> .
+<http://rimmfdata.com/r/rdaex00002584> <http://rdaregistry.info/Elements/a/P50117> "Wagers, Eric" .
+<http://rimmfdata.com/r/rdaex00002584> <http://rdaregistry.info/Elements/a/P50103> "Eric Wagers" .
+<http://rimmfdata.com/r/rdaex00002584> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002584" .
+<http://rimmfdata.com/r/rdaex00002584> <http://rdaregistry.info/Elements/a/P50158> <http://rimmfdata.com/r/rdaex00002579> .
+<http://rimmfdata.com/r/rdaex00002578> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002578" .
+<http://rimmfdata.com/r/rdaex00002578> <http://rdaregistry.info/Elements/w/P10223> "Lives of girls and women" .
+<http://rimmfdata.com/r/rdaex00002578> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/rdaex00002580> .
+<http://rimmfdata.com/r/rdaex00002578> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/rdaex00002579> .
+<http://rimmfdata.com/r/rdaex00002579> <http://rimmf.com/vocab/authorizedAccessPointExpression> "rdaex00002579" .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1013> .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20069> "&#34;Born on the backward 'Flats Road,' Del Jordan is a 'nice girl' with big dreams in a small  town that expects little from women beyond marriage and babies. In linked short  stories, Del suffers embarrassment at the hands of her encyclopedia-selling mother,  endures her body's insistent desires, and falls passionately in love with a young  lumberyard worker, only to lose her chance for a university scholarship&#34;\u2014Container." .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20219> "61:46, 62:09, 61:18" .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/rdaex00002578> .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/rdaex00002577> .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20205> "Abridgement of the first print edition published by McGraw-Hill Ryerson, 1971" .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20049> <http://rimmfdata.com/r/rdaex00002581> .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20022> <http://rimmfdata.com/r/rdaex00002582> .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20050> <http://rimmfdata.com/r/rdaex00002584> .
+<http://rimmfdata.com/r/rdaex00002579> <http://rdaregistry.info/Elements/e/P20053> <http://rimmfdata.com/r/rdaex00002583> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rimmf.com/vocab/descriptionManifestation> "rdaex00002577" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30156> "Lives of girls and women" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30105> "Alice Munro" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30105> "narrated by Judy Mahbey" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30105> "produced by Lawrie Seligman" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30105> "recording engineer: Eric Wagers" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30107> "Abridged by Ruth Fraser." .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30133> "Abridged" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30121> "by Ruth Fraser" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30088> "Fredericton, NB, Canada" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30176> "BTC Audiobooks" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30011> "[date of publication not identified]" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30007> "\u00A92005" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1002> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30004> "ISBN 0-86492-398-8" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1001> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1003> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1004> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1013> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rimmf.com/vocab/extentStatement> "3 audio discs" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30182> "3 audio discs" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rimmf.com/vocab/numberOfUnits> "3" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1007> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30169> "12 cm" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30172> <http://rdaregistry.info/termList/typeRec/1002> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30206> <http://rdaregistry.info/termList/recMedium/1003> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30018> <http://rdaregistry.info/termList/fileType/1001> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30096> <http://rdaregistry.info/termList/encFormat/1007> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30160> "$29.95 (Canada)" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30160> "$24.95 (United States)" .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30141> <http://www.gooselane.com> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/rdaex00002579> .
+<http://rimmfdata.com/r/rdaex00002577> <http://rdaregistry.info/Elements/m/P30048> "Originally broadcast on CBC Radio 1981" .

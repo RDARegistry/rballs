@@ -1,0 +1,45 @@
+<http://rimmfdata.com/r/rdaex00002603> <http://rdaregistry.info/Elements/a/P50117> "Taylor, Arlene G." .
+<http://rimmfdata.com/r/rdaex00002603> <http://rdaregistry.info/Elements/a/P50103> "Arlene G. Taylor" .
+<http://rimmfdata.com/r/rdaex00002603> <http://rdaregistry.info/Elements/a/P50121> "1941" .
+<http://rimmfdata.com/r/rdaex00002603> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002603" .
+<http://rimmfdata.com/r/rdaex00002603> <http://rimmf.com/vocab/variantAccessPointPerson> "Arlene G. Taylor, 1941-" .
+<http://rimmfdata.com/r/rdaex00002603> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/rdaex00002602> .
+<http://rimmfdata.com/r/rdaex00002602> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002602" .
+<http://rimmfdata.com/r/rdaex00002602> <http://rdaregistry.info/Elements/w/P10223> "The organization of information" .
+<http://rimmfdata.com/r/rdaex00002602> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/rdaex00002603> .
+<http://rimmfdata.com/r/rdaex00002602> <http://rimmf.com/vocab/variantAccessPointWork> "The organization of information" .
+<http://rimmfdata.com/r/rdaex00002602> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/rdaex00002604> .
+<http://rimmfdata.com/r/rdaex00002602> <http://rdaregistry.info/Elements/w/P10102> <http://rimmfdata.com/r/rdaex00002605> .
+<http://rimmfdata.com/r/rdaex00002602> <http://rdaregistry.info/Elements/w/P10283> "Information organization" .
+<http://rimmfdata.com/r/rdaex00002605> <http://rdaregistry.info/Elements/w/P10223> "Library and information science text series" .
+<http://rimmfdata.com/r/rdaex00002605> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002605" .
+<http://rimmfdata.com/r/rdaex00002605> <http://rdaregistry.info/Elements/w/P10141> <http://rimmfdata.com/r/rdaex00002602> .
+<http://rimmfdata.com/r/rdaex00002604> <http://rimmf.com/vocab/authorizedAccessPointExpression> "rdaex00002604" .
+<http://rimmfdata.com/r/rdaex00002604> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/rdaex00002604> <http://rdaregistry.info/Elements/e/P20214> "2004" .
+<http://rimmfdata.com/r/rdaex00002604> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/rdaex00002604> <http://rdaregistry.info/Elements/e/P20206> "Includes bibliography and index" .
+<http://rimmfdata.com/r/rdaex00002604> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/rdaex00002602> .
+<http://rimmfdata.com/r/rdaex00002604> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/rdaex00002601> .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30156> "The organization of information" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30105> "Arlene G. Taylor" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30133> "Second edition" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30111> "Westport, Connecticut ; London : Libraries Unlimited, a member of the Greenwood Publishing Group, 2004." .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30088> "Westport, Connecticut" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30088> "London" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30176> "Libraries Unlimited, a member of the Greenwood Publishing Group" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30011> "2004" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30106> "Library and information science text series" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30157> "Library and information science text series" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30004> "ISBN 1-56308-976-9 (hardcover)" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30004> "ISBN 1-56308-969-6 (paperback)" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/rdaex00002601> <http://rimmf.com/vocab/extentStatement> "xxvii, 417 pages" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30182> "xxvii, 417 pages" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rimmf.com/vocab/numberOfUnits> "xxvii, 417" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30169> "26 cm" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rimmf.com/vocab/descriptionManifestation> "rdaex00002601" .
+<http://rimmfdata.com/r/rdaex00002601> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/rdaex00002604> .
