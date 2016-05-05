@@ -1,0 +1,68 @@
+<http://rimmfdata.com/r/rdaex00002637> <http://rdaregistry.info/Elements/a/P50117> "Lipes, Jody Lee" .
+<http://rimmfdata.com/r/rdaex00002637> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002637" .
+<http://rimmfdata.com/r/rdaex00002637> <http://rdaregistry.info/Elements/a/P50048> <http://rimmfdata.com/r/rdaex00002635> .
+<http://rimmfdata.com/r/rdaex00002638> <http://rdaregistry.info/Elements/a/P50117> "Bar, Ellen" .
+<http://rimmfdata.com/r/rdaex00002638> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002638" .
+<http://rimmfdata.com/r/rdaex00002638> <http://rdaregistry.info/Elements/a/P50213> <http://rimmfdata.com/r/rdaex00002635> .
+<http://rimmfdata.com/r/rdaex00002639> <http://rdaregistry.info/Elements/a/P50117> "Holmer, Anna Rose" .
+<http://rimmfdata.com/r/rdaex00002639> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002639" .
+<http://rimmfdata.com/r/rdaex00002639> <http://rdaregistry.info/Elements/a/P50213> <http://rimmfdata.com/r/rdaex00002635> .
+<http://rimmfdata.com/r/rdaex00002640> <http://rdaregistry.info/Elements/a/P50117> "Davis, Saela" .
+<http://rimmfdata.com/r/rdaex00002640> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002640" .
+<http://rimmfdata.com/r/rdaex00002640> <http://rdaregistry.info/Elements/a/P50161> <http://rimmfdata.com/r/rdaex00002636> .
+<http://rimmfdata.com/r/rdaex00002641> <http://rdaregistry.info/Elements/a/P50041> "Magnolia Home Entertainment" .
+<http://rimmfdata.com/r/rdaex00002641> <http://rdaregistry.info/Elements/a/P50237> "Firm" .
+<http://rimmfdata.com/r/rdaex00002641> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "rdaex00002641" .
+<http://rimmfdata.com/r/rdaex00002641> <http://rdaregistry.info/Elements/a/P50203> <http://rimmfdata.com/r/rdaex00002634> .
+<http://rimmfdata.com/r/rdaex00002635> <http://rdaregistry.info/Elements/w/P10223> "Ballet 422" .
+<http://rimmfdata.com/r/rdaex00002635> <http://rdaregistry.info/Elements/w/P10004> "0" .
+<http://rimmfdata.com/r/rdaex00002635> <http://rdaregistry.info/Elements/w/P10217> "MPAA rating: PG" .
+<http://rimmfdata.com/r/rdaex00002635> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002635" .
+<http://rimmfdata.com/r/rdaex00002635> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/rdaex00002636> .
+<http://rimmfdata.com/r/rdaex00002635> <http://rdaregistry.info/Elements/w/P10013> <http://rimmfdata.com/r/rdaex00002637> .
+<http://rimmfdata.com/r/rdaex00002635> <http://rdaregistry.info/Elements/w/P10073> <http://rimmfdata.com/r/rdaex00002638> .
+<http://rimmfdata.com/r/rdaex00002635> <http://rdaregistry.info/Elements/w/P10073> <http://rimmfdata.com/r/rdaex00002639> .
+<http://rimmfdata.com/r/rdaex00002635> <http://rdaregistry.info/Elements/w/P10256> "Focuses on the staging of the 422nd dance in the New York City Ballet\u2019s history. The dance is a new ballet called Paz de La Jolla, choreographed by Justin Peck" .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1023> .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20007> "In English; subtitles in English, French, and Spanish" .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20208> "Closed captioning in English" .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20224> "polychrome" .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20225> <http://rdaregistry.info/termList/soundCont/1001> .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20229> <http://rdaregistry.info/termList/AspectRatio/1002> .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20219> "approximately 75 min." .
+<http://rimmfdata.com/r/rdaex00002636> <http://rimmf.com/vocab/authorizedAccessPointExpression> "rdaex00002636" .
+<http://rimmfdata.com/r/rdaex00002636> <http://rimmf.com/vocab/sourceConsultedExpression> "Ballet 422, 2015" .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/rdaex00002635> .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/rdaex00002634> .
+<http://rimmfdata.com/r/rdaex00002636> <http://rdaregistry.info/Elements/e/P20053> <http://rimmfdata.com/r/rdaex00002640> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rimmf.com/vocab/descriptionManifestation> "rdaex00002634" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30156> "Ballet 422" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30105> "directed by Jody Lee Lipes" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30105> "produced by Ellen Bar" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30105> "produced by Anna Rose Holmer" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30105> "edited by Saela Davis" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30111> "Los Angeles, California : Magnolia Home Entertainment, [2015]." .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30088> "Los Angeles, California" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30176> "Magnolia Home Entertainment" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30011> "[2015]" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30004> "Magnolia Home Entertainment: 10850" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30057> "Dancer/choreographer, Justin Peck; rehearsal and performance pianist, Cameron Grant; principal dancers, Tiler Peck, Sterling Hyltin, Amar Ramasar; ballet master, Albert Evans" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1008> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1060> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rimmf.com/vocab/extentStatement> "1 videodisc" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30182> "1 videodisc" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1093> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30169> "12 cm" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30172> <http://rdaregistry.info/termList/typeRec/1002> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30206> <http://rdaregistry.info/termList/recMedium/1003> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30184> <http://rdaregistry.info/termList/configPlayback/1004> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30138> "Dolby digital 5.1" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30123> <http://rdaregistry.info/termList/broadcastStand/1002> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30018> <http://rdaregistry.info/termList/fileType/1006> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30096> <http://rdaregistry.info/termList/encFormat/1042> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30006> "region 1" .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/rdaex00002636> .
+<http://rimmfdata.com/r/rdaex00002634> <http://rdaregistry.info/Elements/m/P30083> <http://rimmfdata.com/r/rdaex00002641> .
