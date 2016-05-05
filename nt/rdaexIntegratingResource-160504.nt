@@ -1,0 +1,42 @@
+<http://rimmfdata.com/r/rdaex00002646> <http://rdaregistry.info/Elements/a/P50115> "John Ronald Reuel" .
+<http://rimmfdata.com/r/rdaex00002646> <http://rdaregistry.info/Elements/a/P50121> "1892" .
+<http://rimmfdata.com/r/rdaex00002646> <http://rdaregistry.info/Elements/a/P50120> "1973" .
+<http://rimmfdata.com/r/rdaex00002646> <http://rdaregistry.info/Elements/a/P50117> "Tolkien, J. R. R." .
+<http://rimmfdata.com/r/rdaex00002646> <http://rimmf.com/vocab/authorizedAccessPointPerson> "rdaex00002646" .
+<http://rimmfdata.com/r/rdaex00002646> <http://rdaregistry.info/Elements/w/P10283> <http://rimmfdata.com/r/rdaex00002643> .
+<http://rimmfdata.com/r/rdaex00002644> <http://rdaregistry.info/Elements/a/P50041> "Tolkien Society (England)" .
+<http://rimmfdata.com/r/rdaex00002644> <http://rimmf.com/vocab/authorizedAccessPointCorporateBody> "rdaex00002644" .
+<http://rimmfdata.com/r/rdaex00002644> <http://rdaregistry.info/Elements/a/P50130> <http://rimmfdata.com/r/rdaex00002643> .
+<http://rimmfdata.com/r/rdaex00002644> <http://rdaregistry.info/Elements/w/P10283> <http://rimmfdata.com/r/rdaex00002643> .
+<http://rimmfdata.com/r/rdaex00002643> <http://rdaregistry.info/Elements/w/P10223> "Tolkien Society home page" .
+<http://rimmfdata.com/r/rdaex00002643> <http://rdaregistry.info/Elements/w/P10086> "Welcome to the Tolkien Society home page" .
+<http://rimmfdata.com/r/rdaex00002643> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002643" .
+<http://rimmfdata.com/r/rdaex00002643> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/rdaex00002645> .
+<http://rimmfdata.com/r/rdaex00002643> <http://rdaregistry.info/Elements/w/P10046> <http://rimmfdata.com/r/rdaex00002644> .
+<http://rimmfdata.com/r/rdaex00002643> <http://rdaregistry.info/Elements/w/P10256> <http://rimmfdata.com/r/rdaex00002644> .
+<http://rimmfdata.com/r/rdaex00002643> <http://rdaregistry.info/Elements/w/P10256> <http://rimmfdata.com/r/rdaex00002646> .
+<http://rimmfdata.com/r/rdaex00002645> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/rdaex00002645> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/rdaex00002645> <http://rdaregistry.info/Elements/e/P20207> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/rdaex00002645> <http://rdaregistry.info/Elements/e/P20224> "polychrome" .
+<http://rimmfdata.com/r/rdaex00002645> <http://rimmf.com/vocab/authorizedAccessPointExpression> "rdaex00002645" .
+<http://rimmfdata.com/r/rdaex00002645> <http://rimmf.com/vocab/sourceConsultedExpression> "Tolkien Society home page, [2002?]-" .
+<http://rimmfdata.com/r/rdaex00002645> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/rdaex00002643> .
+<http://rimmfdata.com/r/rdaex00002645> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/rdaex00002642> .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30156> "Tolkien Society home page" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30128> "Welcome to the Tolkien Society home page" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30088> "England" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30176> "Tolkien Society" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30011> "[2002?]-" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1004> .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30063> "Title from home page" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30050> "Viewed on June 11, 2008" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1003> .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1018> .
+<http://rimmfdata.com/r/rdaex00002642> <http://rimmf.com/vocab/extentStatement> "1 online resource" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30182> "1 online resource" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1031> .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30154> <http://www.tolkiensociety.org/> .
+<http://rimmfdata.com/r/rdaex00002642> <http://rimmf.com/vocab/descriptionManifestation> "rdaex00002642" .
+<http://rimmfdata.com/r/rdaex00002642> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/rdaex00002645> .

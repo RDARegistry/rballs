@@ -1,0 +1,41 @@
+<http://rimmfdata.com/r/rdaex00002648> <http://rimmf.com/vocab/authorizedAccessPointWork> "rdaex00002648" .
+<http://rimmfdata.com/r/rdaex00002648> <http://rdaregistry.info/Elements/w/P10223> "CA magazine" .
+<http://rimmfdata.com/r/rdaex00002648> <http://rdaregistry.info/Elements/w/P10219> "1974" .
+<http://rimmfdata.com/r/rdaex00002648> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/rdaex00002649> .
+<http://rimmfdata.com/r/rdaex00002648> <http://rdaregistry.info/Elements/w/P10256> "Accounting" .
+<http://rimmfdata.com/r/rdaex00002648> <http://rdaregistry.info/Elements/w/P10226> "CA, Canadian chartered accountant" .
+<http://rimmfdata.com/r/rdaex00002649> <http://rimmf.com/vocab/authorizedAccessPointExpression> "rdaex00002649" .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20214> "1974" .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/fre> .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20007> "In English; includes some text in French" .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20207> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20224> "polychrome" .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/rdaex00002648> .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/rdaex00002647> .
+<http://rimmfdata.com/r/rdaex00002649> <http://rdaregistry.info/Elements/e/P20205> "Also issued in an online edition containing breaking news, tax updates, job postings,   archives, additional articles:   http://www.camagazine.com" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rimmf.com/vocab/descriptionManifestation> "rdaex00002647" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30156> "CA magazine" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30209> "CA magazine (Toronto)" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30131> "CA mag. (Tor.)" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30147> "Volume 104, no. 1" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30149> "January 1974" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30111> "Toronto, Ontario ; Montreal, Quebec : Canadian Institute of Chartered Accountants, 1974-." .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30088> "Toronto, Ontario" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30088> "Montreal, Quebec" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30176> "Canadian Institute of Chartered Accountants" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30011> "1974-" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1003> .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30004> "ISSN 0317-6878" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30056> "Monthly, January 1974-1990s? ; 10 times a year (with combined issues in January/February and June/July), 1990s?-" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30050> "Latest issue consulted: Volume 140, no. 1 (January/February 2007)" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30169> "29 cm" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30160> "$28.00 per year ($25.00 to students; $72.00 outside Canada)" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30141> "Canadian Institute of Chartered Accountants, 277 Wellington Street West, Toronto, Ontario M5V 3H2" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30141> "Canadian Institute of Chartered Accountants, 680 Sherbrooke Street West, 17th floor, Montreal, Quebec H3A 2S3" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/rdaex00002649> .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30083> "Canadian Institute of Chartered Accountants" .
+<http://rimmfdata.com/r/rdaex00002647> <http://rdaregistry.info/Elements/m/P30048> "Also available in microfilm and microfiche  format" .
