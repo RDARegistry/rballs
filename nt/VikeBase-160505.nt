@@ -1,0 +1,32 @@
+<http://rimmfdata.com/r/qpq00010255> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010255> <http://rimmf.com/vocab/sourceConsultedPerson> "Br\u012Bv\u012Bbas v\u0101rd\u0101, 2001: titlp. (Ausma Cimdi\u0146a)" .
+<http://rimmfdata.com/r/qpq00010255> <http://rimmf.com/vocab/sourceConsultedPerson> "\u0412\u0430\u0439\u0440\u0430 \u0412\u0438\u043A\u0435-\u0424\u0440\u0435\u0439\u0431\u0435\u0440\u0433\u0430, 2002: \u0442\u0438\u0442.\u043B. (\u0410\u0443\u0441\u043C\u0430 \u0426\u0438\u043C\u0434\u0438\u043D\u044F)" .
+<http://rimmfdata.com/r/qpq00010255> <http://rimmf.com/vocab/sourceConsultedPerson> "Latvie\u0161u rakstniec\u012Bba biogr\u0101fij\u0101s, 1992: 68.lpp" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50117> "Cimdi\u0146a, Ausma" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50103> "Cimdi\u0146a, A. (Ausma)" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50103> "Cimdina, Ausma" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50103> "\u0426\u0438\u043C\u0434\u0438\u043D\u044F, \u0410\u0443\u0441\u043C\u0430" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50121> "1950 September 30" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50116> "sieviete" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50119> "Jaunpiebalga, Latvija" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50101> "Latvijas Universit\u0101te" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/lav> .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/rus> .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50100> "Filolo\u0123ija" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50100> "Kritika" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50100> "Literat\u016Bra -- V\u0113sture un kritika" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50104> "Filolo\u0123e" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50104> "Kriti\u0137e" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50104> "Literat\u016Brv\u0113sturniece" .
+<http://rimmfdata.com/r/qpq00010255> <http://rdaregistry.info/Elements/a/P50094> "(VIAF)233302248" .
+<http://rimmfdata.com/r/qpq00010255> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Cimdi\u0146a, Ausma, 1950-" .
+<http://rimmfdata.com/r/qpq00010255> <http://rimmf.com/vocab/variantAccessPointPerson> "Cimdi\u0146a, A. (Ausma), 1950-" .
+<http://rimmfdata.com/r/qpq00010255> <http://rimmf.com/vocab/variantAccessPointPerson> "Cimdina, Ausma, 1950-" .
+<http://rimmfdata.com/r/qpq00010255> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0426\u0438\u043C\u0434\u0438\u043D\u044F, \u0410\u0443\u0441\u043C\u0430, 1950-" .
+<http://rimmfdata.com/r/qpq00010261> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/qpq00010261> <http://rimmf.com/vocab/sourceConsultedPerson> "In the name of freedom, 2003" .
+<http://rimmfdata.com/r/qpq00010261> <http://rdaregistry.info/Elements/a/P50117> "V\u012B\u0137e-Freiberga, Vaira" .
+<http://rimmfdata.com/r/qpq00010261> <http://rdaregistry.info/Elements/a/P50121> "1937" .
+<http://rimmfdata.com/r/qpq00010261> <http://rdaregistry.info/Elements/a/P50094> <http://rimmfdata.com/provisional/v\u012B\u0137eFreibergaVaira1937> .
+<http://rimmfdata.com/r/qpq00010261> <http://rdaregistry.info/Elements/a/P50094> <http://rimmfdata.com/provisional/v\u012B\u0137eFreibergaVaira1937> .
+<http://rimmfdata.com/r/qpq00010261> <http://rimmf.com/vocab/authorizedAccessPointPerson> "V\u012B\u0137e-Freiberga, Vaira, 1937-" .
