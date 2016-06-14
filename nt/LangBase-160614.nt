@@ -1,0 +1,953 @@
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/sourceConsultedPerson> "Ao-ssu-ting yen chiu, 1985: t.p. (Ao-ssu-ting) p. 367 (Chien Ao-ssu-ting)" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/sourceConsultedPerson> "Genieva, E.I\u0361U. Dzhe\u012Dn Osten, 1986" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/sourceConsultedPerson> "Ema, 1934: t.p. (Jane Austenov\u00E1)" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/sourceConsultedPerson> "Kaly\u0101\u1E47ak kan\u0332avuka\u1E37, 2007: t.p. (J\u0113n\u0332 \u0100s\u1E6Din\u0332)" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/sourceConsultedPerson> "Wikipedia, via WWW, Feb. 8, 2012 (b. December 16, 1775 in Steventon, Hampshire; d. 18 July 1817 in Winchester, Hampshire; an English novelist; moved to Bath in 1800)" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/cataloguersNotePerson> "Machine-derived non-Latin script reference project" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/cataloguersNotePerson> "Non-Latin script references not evaluated" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50117> "Austen, Jane" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "Ao-ssu-ting" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043C" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "\u0623\u0648\u0633\u062A\u0646\u060C \u062C\u064A\u0646\u060C" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "Ao-ssu-ting, Chien" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "Aosiding" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "Aosiding, Jian" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "\u0100s\u1E6Din\u0332, J\u0113n\u0332" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "Austenov\u00E1, Jane" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "Osten, Dzhe\u012Dn" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "Ostin, Dzhein" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50103> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043D" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50121> "1775 December 16" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50120> "1817 July 18" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1001> .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50119> "Steventon, Hampshire, England" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50118> "Winchester, England" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50097> "Bath, England" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50104> "0" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  79032879" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00266512" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n79032879> .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Austen, Jane, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "Ao-ssu-ting, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043C, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D0\u05D5\u05E1\u05D8\u05DF, \u05D2\u05F3\u05D9\u05D9\u05DF, 1775\u05BE1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0623\u0648\u0633\u062A\u0646\u060C \u062C\u064A\u0646\u060C 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "Ao-ssu-ting, Chien, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "Aosiding, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "Aosiding, Jian, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0100s\u1E6Din\u0332, J\u0113n\u0332, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "Austenov\u00E1, Jane, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "Osten, Dzhe\u012Dn, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "Ostin, Dzhein, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rimmf.com/vocab/variantAccessPointPerson> "\u041E\u0441\u0442\u0435\u043D, \u0414\u0436\u0435\u0439\u043D, 1775-1817" .
+<http://rimmfdata.com/r/qpq00010603> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/qpq00010604> .
+<http://rimmfdata.com/r/qpq00010607> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010607> <http://rimmf.com/vocab/sourceConsultedPerson> "Laughing tomatoes and other spring poems, c1997: t.p. (Maya Christina Gonzalez; illustrator) p. 2 (painter and graphic artist; first book for children was Prietita and the ghost woman; r. San Francisco, Calif.)" .
+<http://rimmfdata.com/r/qpq00010607> <http://rimmf.com/vocab/sourceConsultedPerson> "LC in OCLC, Dec. 16, 1997 (hdg.: Gonzalez, Christina; usages: Christina Gonzalez; Maya Christina Gonzalez)" .
+<http://rimmfdata.com/r/qpq00010607> <http://rimmf.com/vocab/sourceConsultedPerson> "I know the river loves me, 2009 ecip t.p. (Maya Christina Gonzalez) data view (b. 1975)" .
+<http://rimmfdata.com/r/qpq00010607> <http://rimmf.com/vocab/sourceConsultedPerson> "Maya Gonzalez, Nov. 18, 2014 (Maya Gonzalez is an artist, author, educator, activist, peacemaker, publisher, equality lover, traveler, obsessive recycler, river lover, tree talker, sky kisser ; illustrated over 20 award-winning children's books and authored three ; 2009 she co-founded Reflection Press, an independent press that publishes radical and revolutionary children's books ; lives and plays in San Francisco)" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50117> "Gonzalez, Maya Christina" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50103> "Gonzalez, Christina" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1001> .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50109> "San Francisco (Calif.)" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50101> "Reflection Press" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50100> "Art" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50104> "Illustrator" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50104> "0" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50104> "Painter" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50104> "Graphic artist" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50104> "Educator" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50104> "Publisher" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50094> "LCCN no 97073370" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca04556068" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/no97073370> .
+<http://rimmfdata.com/r/qpq00010607> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Gonzalez, Maya Christina" .
+<http://rimmfdata.com/r/qpq00010607> <http://rimmf.com/vocab/variantAccessPointPerson> "Gonzalez, Christina" .
+<http://rimmfdata.com/r/qpq00010607> <http://rdaregistry.info/Elements/a/P50159> <http://rimmfdata.com/r/qpq00010606> .
+<http://rimmfdata.com/r/qpq00010609> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010609> <http://rimmf.com/vocab/sourceConsultedPerson> "P\u00E9rez, Amada Irma. My very own room, 2000: CIP t.p. (Amada Irma P\u00E9rez) pub. info. (Third grade teacher in Oxnard, Calif.)" .
+<http://rimmfdata.com/r/qpq00010609> <http://rdaregistry.info/Elements/a/P50117> "P\u00E9rez, Amada Irma" .
+<http://rimmfdata.com/r/qpq00010609> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  00021523" .
+<http://rimmfdata.com/r/qpq00010609> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca05137517" .
+<http://rimmfdata.com/r/qpq00010609> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n00021523> .
+<http://rimmfdata.com/r/qpq00010609> <http://rimmf.com/vocab/authorizedAccessPointPerson> "P\u00E9rez, Amada Irma" .
+<http://rimmfdata.com/r/qpq00010609> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/qpq00010608> .
+<http://rimmfdata.com/r/qpq00010624> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010624> <http://rimmf.com/vocab/sourceConsultedPerson> "Verne, J. Jules Verne's Twenty thousand leagues under the sea, 1993: CIP t.p. (Frederick Paul Walter)" .
+<http://rimmfdata.com/r/qpq00010624> <http://rimmf.com/vocab/sourceConsultedPerson> "Verne, Jules. 20,000 leagues under the seas, 2013: ECIP t.p. (translated by Frederick Paul Walter) data view (b. April 22, 1943)" .
+<http://rimmfdata.com/r/qpq00010624> <http://rdaregistry.info/Elements/a/P50117> "Walter, Frederick Paul" .
+<http://rimmfdata.com/r/qpq00010624> <http://rdaregistry.info/Elements/a/P50121> "1943 June 22" .
+<http://rimmfdata.com/r/qpq00010624> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/qpq00010624> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010624> <http://rdaregistry.info/Elements/a/P50104> "Translators" .
+<http://rimmfdata.com/r/qpq00010624> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  93040156" .
+<http://rimmfdata.com/r/qpq00010624> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca03363713" .
+<http://rimmfdata.com/r/qpq00010624> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n93040156> .
+<http://rimmfdata.com/r/qpq00010624> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Walter, Frederick Paul" .
+<http://rimmfdata.com/r/qpq00010624> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/qpq00010623> .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "Vperedsmotri\u0361ashchi\u012D, 1976: leaf preceding t.p. (Zhi\u0361ul\u02B9 Vern)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "Vyn\u00E1lez zk\u00E1zy, 1959: t.p. (Julius Verne)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "Gale Literature Resource Center WWW Site, 5 Sep. 2008: French authors page (Jules (Gabriel) Verne, born 8 Feb. 1828, Nantes, France; died 24 Apr. 1905, Amiens, France)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "His Antifer mester csud\u00E1s kalandjai, 1907: t.p. (Verne Gyula)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "Juliusz w Polsce, 1986: t.p. (Juliusz Verne)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "Yo, Julio Verne, 1988" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "Antil adalar\u0131na seyahat, 1904 or 1905: t.p. (Jul Vern)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "Masa\u02BBo u-fega\u02BBa\u1E7F shel ha-\u1E32api\u1E6Dan Ha\u1E6Deras, 1923 or 1924-: v. 1, t.p. (Z'ul \u1E7Eern [voc.])" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "W pogoni za meteorem, 19--? t.p. (Juljusz Verne)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "Ng\u01B0\u1EDDi \u0111\u00E0n b\u00E0 tr\u00EAn t\u00E0u, 1994: t.p. (Juyn Vec n\u01A1)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "E\u1E47ticaiyum cur\u0332r\u0332ivara e\u1E47patun\u0101\u1E37, 1963: t.p. (J\u016Bls Vern\u0332)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/sourceConsultedPerson> "Ni\u0307\u0121ucadu aral, 1983: v. 1, t.p. (Jul Verne) colophon (Fan'erna)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/cataloguersNotePerson> "Machine-derived non-Latin script reference project" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/cataloguersNotePerson> "Non-Latin script references not evaluated" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50117> "Verne, Jules" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Fan'erna" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Verne, Julio" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Verne, Julius" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Verne, Juliusz" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Verne, Juljusz" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u0412\u0435\u0440\u043D, \u0416\u044E\u043B\u044C" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05F0\u05E2\u05E8\u05DF, \u05D6" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05F0\u05E2\u05E8\u05DF, \u05D6\u05E9\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05F0\u05E2\u05E8\u05DF, \u05D6\u05E9\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Vec n\u01A1, Juyn" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05D5\u05D5\u05E2\u05E8\u05DF, \u05D6\u05E9\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05D5\u05D5\u05E2\u05E8\u05DF, \u05D6\u05E9\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05D5\u05D5\u05E2\u05E8\u05DF, \u05D6'\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05D5\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u05D5\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u30B8\u30E5\u30FC\u30EB.\u30F4\u30A7\u30EB\u30CC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u30B8\u30E5\u30FC\u30EB\u30D9\u30EB\u30CC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u51E1\u5C14\u7EB3\u5112\u5C14" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u8C9D\u723E\u9B6F\u88D8\u723E" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Vern, Jul" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Vern\u0332, J\u016Bls" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Vern, Zhi\u0361ul\u02B9" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Vern, Zhul" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "\u1E7Eern, Z'ul" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Verne, Gyula" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50103> "Verne, Jules (Jules Gabriel)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50121> "1828 February 8" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50120> "1905 April 24" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50119> "Nantes (France)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50118> "Amiens (France)" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/fre> .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50104> "0" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  79064013" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00296954" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n79064013> .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Verne, Jules, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Fan'erna, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Verne, Julio, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Verne, Julius, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Verne, Juliusz, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Verne, Juljusz, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0412\u0435\u0440\u043D, \u0416\u044E\u043B\u044C, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05F0\u05E2\u05E8\u05DF, \u05D6" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05F0\u05E2\u05E8\u05DF, \u05D6\u05E9\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05F0\u05E2\u05E8\u05DF, \u05D6\u05E9\u05D5\u05DC, 1828\u05BE1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Vec n\u01A1, Juyn, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC, 8182\u05BE1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D5\u05D5\u05E2\u05E8\u05DF, \u05D6\u05E9\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D5\u05D5\u05E2\u05E8\u05DF, \u05D6\u05E9\u05D5\u05DC, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D5\u05D5\u05E2\u05E8\u05DF, \u05D6'\u05D5\u05DC, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D5\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D5\u05D5\u05E8\u05DF, \u05D6\u05F3\u05D5\u05DC, 1828\u05BE1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u30B8\u30E5\u30FC\u30EB.\u30F4\u30A7\u30EB\u30CC, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u30B8\u30E5\u30FC\u30EB\u30D9\u30EB\u30CC, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u51E1\u5C14\u7EB3\u5112\u5C14, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u8C9D\u723E\u9B6F\u88D8\u723E, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Vern, Jul, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Vern\u0332, J\u016Bls, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Vern, Zhi\u0361ul\u02B9, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Vern, Zhul, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "\u1E7Eern, Z'ul, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Verne, Gyula, 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rimmf.com/vocab/variantAccessPointPerson> "Verne, Jules (Jules Gabriel), 1828-1905" .
+<http://rimmfdata.com/r/qpq00010626> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/qpq00010638> .
+<http://rimmfdata.com/r/qpq00010633> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010633> <http://rimmf.com/vocab/sourceConsultedPerson> "His Verne's journey to the center of the self, 1990: CIP t.p. (William Butcher, lect. in French, U. of Buckingham) data sheet (b. 10-22-51)" .
+<http://rimmfdata.com/r/qpq00010633> <http://rdaregistry.info/Elements/a/P50117> "Butcher, William" .
+<http://rimmfdata.com/r/qpq00010633> <http://rdaregistry.info/Elements/a/P50121> "1951" .
+<http://rimmfdata.com/r/qpq00010633> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  90666327" .
+<http://rimmfdata.com/r/qpq00010633> <http://rdaregistry.info/Elements/a/P50094> "(DLC)n  90666327" .
+<http://rimmfdata.com/r/qpq00010633> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n90666327> .
+<http://rimmfdata.com/r/qpq00010633> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Butcher, William, 1951-" .
+<http://rimmfdata.com/r/qpq00010633> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/qpq00010632> .
+<http://rimmfdata.com/r/qpq00010650> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010650> <http://rimmf.com/vocab/sourceConsultedPerson> "Maudit soient les yeux ferm\u00E9s, c1995: t.p. (Fran\u00E7oise Bouchet-Saulnier) p. 4 of cover (docteur en droit)" .
+<http://rimmfdata.com/r/qpq00010650> <http://rdaregistry.info/Elements/a/P50117> "Bouchet-Saulnier, Fran\u00E7oise" .
+<http://rimmfdata.com/r/qpq00010650> <http://rdaregistry.info/Elements/a/P50103> "Saulnier, Fran\u00E7oise Bouchet-" .
+<http://rimmfdata.com/r/qpq00010650> <http://rdaregistry.info/Elements/a/P50094> "LCCN no 96019386" .
+<http://rimmfdata.com/r/qpq00010650> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca04057832" .
+<http://rimmfdata.com/r/qpq00010650> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/no96019386> .
+<http://rimmfdata.com/r/qpq00010650> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Bouchet-Saulnier, Fran\u00E7oise" .
+<http://rimmfdata.com/r/qpq00010650> <http://rimmf.com/vocab/variantAccessPointPerson> "Saulnier, Fran\u00E7oise Bouchet-" .
+<http://rimmfdata.com/r/qpq00010650> <http://rdaregistry.info/Elements/a/P50204> <http://rimmfdata.com/r/qpq00010649> .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "His K\u02BBuai jou y\u00FC sheng chi, 1978: t.p. (Ti-keng-ssu) p. 2 (Charles Huffham Dickens)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "Oxford dictionary of national biography, 28 August 2012 (Dickens, Charles John Huffam, novelist, was born on 7 February 1812 at 13 Mile End Terrace, Portsea, Portsmouth; died 9 June 1870 at Gad's Hill [Higham (Kent, England)]; some of his early works were written under the pseudonym Boz; also wrote Sunday under three heads under the pseudonym Timothy Sparks)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "Libman, Z.I\u0361A. Charlz Dikkens, 1982: t.p. (Charlz Dikkens)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "Page, N. Bleak House, c1990: CIP galley (Charles John Huffam Dickens)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "His \u0160yk\u0161tuolis Skrud\u017Eas, 1922: t.p. (\u010Carlzas Dikensas)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "\u010C\u02BBarlz Dikensi da Uiliam T\u02BBekerei k\u02BBart\u02BBul literature\u0161i, 1989: t.p. (\u010C\u02BBarlz Dikensi)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "David Copperfield, 2002: CIP t.p. (Charles Dickens) CIP galley (b. 1812 in Landport, Portsea, England; d. 1870)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "\u0100livar \u1E6Cvis\u1E6D, 1998: t.p. (C\u0101rls \u1E6Cikkan\u0332s)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "SILAS, July 11, 2006 (hdg.: Dickens, Charles, 1812-1870; usages: C\u0101rlacu \u1E6Cikkan\u0332cu; C\u0101rlas \u1E6Cikkan\u0332s)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/sourceConsultedPerson> "Wikipedia, December 13, 2010 (Charles John Huffam Dickens; 7 February 1812 - 9 June 1870)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/cataloguersNotePerson> "Machine-derived non-Latin script reference project" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/cataloguersNotePerson> "Non-Latin script references not evaluated" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50117> "Dickens, Charles" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "Dikensi, \u010C\u02BBarlz" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u1E6Cikkan\u0332s, C\u0101rlas" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u0414\u0438\u043A\u043A\u0435\u043D\u0441, \u0427\u0430\u0440\u043B\u0437" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05D9\u05E0\u05E1, \u05E6\u05F3\u05E8\u05DC\u05E1" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05B7 \u05E6\u05F3\u05E8\u05DC\u05D6" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05D8\u05E9\u05E8\u05DC\u05E1" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05E6\u05F3\u05E8\u05DC\u05D6" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05E6\u05F3\u05E8\u05DC\u05E1" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05E6\u05F3\u05E8\u05DC\u05E1" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9\u05D0\u05E8\u05DC\u05D6" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "Dickens, Karol" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9\u05D0\u05E8\u05DC\u05D6" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D3\u05D9\u05E7\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9\u05D0\u05E8\u05DC\u05D6" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u05D8\u05E9\u05E8\u05DC\u05E1, \u05D3\u05D9\u05E7\u05E0\u05E1" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u30C1\u30E3\u30FC\u30EB\u30BA.\u30C7\u30A3\u30B1\u30F3\u30BA" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u72C4\u66F4\u65AF\u67E5\u5C14\u65AF" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "Dikens, Charlz" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "Ti-keng-ssu" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "Digengsi" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "Dikkens, Charlz" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "Dikensas, \u010Carlzas" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u1E6Cikkan\u0332s, C\u0101rls" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50103> "\u1E6Cikkan\u0332cu, C\u0101rlacu" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50121> "1812 February 7" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50120> "1870 June 9" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50119> "Portsea Island (England)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50118> "Higham (Kent, England)" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50100> "English literature" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50104> "Authors" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50113> "Charles Dickens (1812-1870) was a British novelist" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  78087607" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00222790" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n78087607> .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Dickens, Charles, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "Dikensi, \u010C\u02BBarlz, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u1E6Cikkan\u0332s, C\u0101rlas, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0414\u0438\u043A\u043A\u0435\u043D\u0441, \u0427\u0430\u0440\u043B\u0437, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05D9\u05E0\u05E1, \u05E6\u05F3\u05E8\u05DC\u05E1, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05B7 \u05E6\u05F3\u05E8\u05DC\u05D6" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05D8\u05E9\u05E8\u05DC\u05E1" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05E6\u05F3\u05E8\u05DC\u05D6, 1870\u05BE1812" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05E6\u05F3\u05E8\u05DC\u05E1" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E0\u05E1, \u05E6\u05F3\u05E8\u05DC\u05E1, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9\u05D0\u05E8\u05DC\u05D6" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "Dickens, Karol, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9\u05D0\u05E8\u05DC\u05D6, 1812\u05BE1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9., 1812\u05BE1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D3\u05D9\u05E7\u05E7\u05E2\u05E0\u05E1, \u05D8\u05E9\u05D0\u05E8\u05DC\u05D6" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05D8\u05E9\u05E8\u05DC\u05E1, \u05D3\u05D9\u05E7\u05E0\u05E1" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u30C1\u30E3\u30FC\u30EB\u30BA.\u30C7\u30A3\u30B1\u30F3\u30BA, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u72C4\u66F4\u65AF\u67E5\u5C14\u65AF, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "Dikens, Charlz, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "Ti-keng-ssu, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "Digengsi, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "Dikkens, Charlz, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "Dikensas, \u010Carlzas, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u1E6Cikkan\u0332s, C\u0101rls, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rimmf.com/vocab/variantAccessPointPerson> "\u1E6Cikkan\u0332cu, C\u0101rlacu, 1812-1870" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50220> "Boz" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50220> "Sparks, Timothy" .
+<http://rimmfdata.com/r/qpq00010672> <http://rdaregistry.info/Elements/a/P50195> <http://rimmfdata.com/r/qpq00010671> .
+<http://rimmfdata.com/r/qpq00010679> <http://rdaregistry.info/Elements/a/P50117> "Jorba, J. P\u00E9rez" .
+<http://rimmfdata.com/r/qpq00010679> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010679> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/spa> .
+<http://rimmfdata.com/r/qpq00010679> <http://rimmf.com/vocab/authorizedAccessPointPerson> "qpq00010679" .
+<http://rimmfdata.com/r/qpq00010679> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/qpq00010678> .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "Les nouvelles exemplaires, 1942" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "Vermaakelyke minneryen, 1733: t.p. (Michiel de Cervantes)" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "Sojliu mendjempreht\u00EB Don Kishoti i Man\u00E7\u00EBs, 1977: t.p. (Migel de Servantes Saavedra)" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "Miguel Cervantes Savedra Don Quijote ... 1982: (Miguel Cervantes Savedra)" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "Don Kikhot, 1982: t.p. (M. Servantesu; M. Cervantes)" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "Don Kikhot Lamanchsk\u012B\u012D, 1895: v. 1, t.p. (Migu\u0117li\uFE20a\uFE21 Servantesa Saavedry)" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "nuc90-15822: Cervantes Saavedra, M. Tang Chi-k\u02BBo-te ch\u02BBuan, 1982 (hdg. on C rept.: Cervantes Saavedra, Miguel de, 1547-1616; usage: Hsi-wan-ti-shih)" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "\u1E24ayim \u1E7Feha-mif\u02BBalim shel ha-atsil he-\u1E25arif Don \u1E32isho\u1E6D min Lah Manshah, 1894?: t.p. (Migu\u02BCel de Ser\u1E7Fantes Sa\u1E7Faidrah)" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "Dominus Quixotus a Manica, 1998: cover (Michael a Cervantes) added t.p., liber 1 (Michael a Cervantes Saavedra)" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "Don Kikhot Lamanchsk\u012B\u012D, 1838- v. 1, t.p. (Migeli\uFE20a\uFE21 Servantesa Savedry)" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/sourceConsultedPerson> "Micha\u0113l Tservantes, Ho epit\u0113deios eugen\u0113s don Kisot\u0113s t\u0113s Mantsas, 2007" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/cataloguersNotePerson> "Machine-derived non-Latin script reference project" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/cataloguersNotePerson> "Non-Latin script references not evaluated" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50117> "Cervantes Saavedra, Miguel de" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Sai-wan-t\u02BBi-ss\u016D" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Savedra, Miguel Cervantes" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Servantesu, M." .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Cervantes, M." .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Servantes Saavedra, Migu\u0117l\u02B9" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Hsi-wan-ti-shih" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Ser\u1E7Fantes Sa\u1E7Faidrah, Migu\u02BCel de" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Cervantes, Michael a" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Cervantes Saavedra, Michael a" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Servantes Savedra, Migel\u02B9" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Savedra, Migel\u02B9 Servantes" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Servantes, M." .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u05E1\u05E2\u05E8\u05D5\u05D5\u05D0\u05E0\u05D8\u05E2\u05E1 \u05D3\u05E2 \u05E1\u05D0\u05D0\u05D5\u05D5\u05E2\u05D3\u05E8\u05D0, \u05DE\u05D9\u05D2\u05E2\u05DC \u05D3\u05E2" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u05E1\u05E2\u05E8\u05F0\u05D0\u05E0\u05D8\u05E2\u05E1 \u05E1\u05D0\u05D0\u05F0\u05E2\u05D3\u05E8\u05D0, \u05DE\u05D9\u05D2\u05E2\u05DC \u05D3\u05E2" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u05E1\u05E8\u05D5\u05E0\u05D8\u05E1 \u05E1\u05D0\u05D0\u05D5\u05D9\u05D3\u05E8\u05D0, \u05DE\u05D9\u05D2\u05D5\u05D0\u05DC \u05D3\u05D9" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u05E1\u05E8\u05D5\u05E0\u05D8\u05E1 \u05E1\u05D5\u05D3\u05E8\u05D4, \u05DE\u05D9\u05D2\u05DC \u05D3\u05D4" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u05E1\u05E8\u05D5\u05E0\u05D8\u05E1, \u05DE\u05D9\u05D2\u05D0\u05DC" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u05E1\u05E8\u05D5\u05E0\u05EA\u05E1 \u05E1\u05D0\u05D5\u05D9\u05D3\u05E8\u05D4, \u05DE\u05D9\u05D2\u05D5\u05D0\u05DC \u05D3\u05D9" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u05E6\u05E2\u05E8\u05F0\u05D0\u05E0\u05D8\u05E2\u05E1, \u05DE\u05D9\u05D2\u05D5\u05E2\u05DC" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u062B\u0631\u0628\u0627\u0646\u062A\u0633 \u0633\u0627\u0628\u062F\u0631\u0627\u060C \u0645\u064A\u062C\u064A\u0644 \u062F\u064A\u060C" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u0633\u0631\u0648\u0627\u0646\u062A\u0633" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u30BB\u30EB\u30D0\u30F3\u30C6\u30B9" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Sirf\u0101nt\u012Bs" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "\u585E\u4E07\u63D0\u65AF" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Tservantes, Micha\u0113l" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Cervantes Saavedra, Michiel de" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "De Cervantes Saavedra, Miguel" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Cervantes, Miguel de" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Cervantes de Saavedra, Miguel de" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Servantes Saavedra, Migel\u02B9 de" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Saavedra, Miguel de Cervantes" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50103> "Cervantes Savedra, Miguel" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50121> "1547" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50120> "1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50119> "Alcal\u00E1 de Henares, Spain" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50118> "Madrid, Spain" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50097> "Spain" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/spa> .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50104> "Novelist" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50104> "0" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50104> "Playwright" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50104> "Soldier" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  79100233" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00332349" .
+<http://rimmfdata.com/r/qpq00010683> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n79100233> .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Cervantes Saavedra, Miguel de, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Sai-wan-t\u02BBi-ss\u016D, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Savedra, Miguel Cervantes, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Servantesu, M., 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Cervantes, M., 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Servantes Saavedra, Migu\u0117l\u02B9, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Hsi-wan-ti-shih, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Ser\u1E7Fantes Sa\u1E7Faidrah, Migu\u02BCel de, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Cervantes, Michael a, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Cervantes Saavedra, Michael a, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Servantes Savedra, Migel\u02B9, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Savedra, Migel\u02B9 Servantes, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Servantes, M., 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05E1\u05E2\u05E8\u05D5\u05D5\u05D0\u05E0\u05D8\u05E2\u05E1 \u05D3\u05E2 \u05E1\u05D0\u05D0\u05D5\u05D5\u05E2\u05D3\u05E8\u05D0, \u05DE\u05D9\u05D2\u05E2\u05DC \u05D3\u05E2" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05E1\u05E2\u05E8\u05F0\u05D0\u05E0\u05D8\u05E2\u05E1 \u05E1\u05D0\u05D0\u05F0\u05E2\u05D3\u05E8\u05D0, \u05DE\u05D9\u05D2\u05E2\u05DC \u05D3\u05E2" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05E1\u05E8\u05D5\u05E0\u05D8\u05E1 \u05E1\u05D0\u05D0\u05D5\u05D9\u05D3\u05E8\u05D0, \u05DE\u05D9\u05D2\u05D5\u05D0\u05DC \u05D3\u05D9, 1547\u05BE1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05E1\u05E8\u05D5\u05E0\u05D8\u05E1 \u05E1\u05D5\u05D3\u05E8\u05D4, \u05DE\u05D9\u05D2\u05DC \u05D3\u05D4, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05E1\u05E8\u05D5\u05E0\u05D8\u05E1, \u05DE\u05D9\u05D2\u05D0\u05DC" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05E1\u05E8\u05D5\u05E0\u05EA\u05E1 \u05E1\u05D0\u05D5\u05D9\u05D3\u05E8\u05D4, \u05DE\u05D9\u05D2\u05D5\u05D0\u05DC \u05D3\u05D9" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u05E6\u05E2\u05E8\u05F0\u05D0\u05E0\u05D8\u05E2\u05E1, \u05DE\u05D9\u05D2\u05D5\u05E2\u05DC, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u062B\u0631\u0628\u0627\u0646\u062A\u0633 \u0633\u0627\u0628\u062F\u0631\u0627\u060C \u0645\u064A\u062C\u064A\u0644 \u062F\u064A\u060C 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u0633\u0631\u0648\u0627\u0646\u062A\u0633" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u30BB\u30EB\u30D0\u30F3\u30C6\u30B9, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Sirf\u0101nt\u012Bs, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "\u585E\u4E07\u63D0\u65AF, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Tservantes, Micha\u0113l, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Cervantes Saavedra, Michiel de, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "De Cervantes Saavedra, Miguel, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Cervantes, Miguel de, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Cervantes de Saavedra, Miguel de, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Servantes Saavedra, Migel\u02B9 de, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Saavedra, Miguel de Cervantes, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010683> <http://rimmf.com/vocab/variantAccessPointPerson> "Cervantes Savedra, Miguel, 1547-1616" .
+<http://rimmfdata.com/r/qpq00010685> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010685> <http://rimmf.com/vocab/sourceConsultedPerson> "Verne, J. Around the world in 80 days, 1983: t.p. (George M. Towle)" .
+<http://rimmfdata.com/r/qpq00010685> <http://rimmf.com/vocab/sourceConsultedPerson> "LC data base, 11/15/83 (hdg.: Towle, George Makepeace, 1841-1893; no usage)" .
+<http://rimmfdata.com/r/qpq00010685> <http://rimmf.com/vocab/sourceConsultedPerson> "Wikipedia, viewed on June 14, 2013 (an American lawyer, politician and author)" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50117> "Towle, George M." .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50103> "Towle, George Makepeace" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50121> "1841" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50120> "1893" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50115> "George Makepeace" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50097> "U.S." .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50104> "Lawyers" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50104> "Politicians" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50104> "Authors" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  83153044" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00979486" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n83153044> .
+<http://rimmfdata.com/r/qpq00010685> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Towle, George M. (George Makepeace), 1841-1893" .
+<http://rimmfdata.com/r/qpq00010685> <http://rimmf.com/vocab/variantAccessPointPerson> "Towle, George Makepeace, 1841-1893" .
+<http://rimmfdata.com/r/qpq00010685> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/qpq00010628> .
+<http://rimmfdata.com/r/qpq00010727> <http://rimmf.com/vocab/authorizedAccessPointPerson> "qpq00010727" .
+<http://rimmfdata.com/r/qpq00010727> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010727> <http://rimmf.com/vocab/sourceConsultedPerson> "Steinbeck, John. Las uvas de la ira, 2012: t.p. (translated by Roberto Mares Ochoa) p. 10 (Roberto Mares)" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50117> "Mares Ochoa, Roberto" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50103> "Ochoa, Roberto Mares" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50103> "Mares, Roberto (Mares Ochoa)" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50116> <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50102> "spa" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50102> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50100> "Translation" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50104> "Translator" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50094> "LCCN no2014036769" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca09710451" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/no2014036769> .
+<http://rimmfdata.com/r/qpq00010727> <http://rimmf.com/vocab/variantAccessPointPerson> "Ochoa, Roberto Mares" .
+<http://rimmfdata.com/r/qpq00010727> <http://rimmf.com/vocab/variantAccessPointPerson> "Mares, Roberto (Mares Ochoa)" .
+<http://rimmfdata.com/r/qpq00010727> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/qpq00010620> .
+<http://rimmfdata.com/r/qpq00010728> <http://rimmf.com/vocab/statusOfIdentificationPerson> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010728> <http://rimmf.com/vocab/sourceConsultedPerson> "His La espera, 1949" .
+<http://rimmfdata.com/r/qpq00010728> <http://rimmf.com/vocab/sourceConsultedPerson> "Retrato de Jos\u00E9 Luis L. Aranguren, 1993: cover (J. Ma. Valverde) p. 101 (Jos\u00E9 Mar\u00EDa Valverde; b. 1926, in Valencia de Alc\u00E1ntara, C\u00E1ceres)" .
+<http://rimmfdata.com/r/qpq00010728> <http://rimmf.com/vocab/sourceConsultedPerson> "Poes\u00EDa, c1998: p. 40 (d. June 6, 1996)" .
+<http://rimmfdata.com/r/qpq00010728> <http://rimmf.com/vocab/sourceConsultedPerson> "&#34;No hay est\u00E9tica sin \u00E9tica&#34; o la bibliograf\u00EDa intelectual de Jos\u00E9 Mar\u00EDa Valverde Pacheco, 2009: p. 22 (Jos\u00E9 Mar\u00EDa Ferm\u00EDn Valverde Pacheco)" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50117> "Valverde, Jos\u00E9 Mar\u00EDa" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50103> "Valverde, J. Ma. (Jos\u00E9 Mar\u00EDa)" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50103> "Valverde Pacheco, Jos\u00E9 Mar\u00EDa" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50103> "Pacheco, Jos\u00E9 Mar\u00EDa Valverde" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50121> "1926" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50094> "LCCN n  79135382" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50094> "(OCoLC)oca00366735" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50094> "(Uk)000444988" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50094> <http://id.loc.gov/authorities/names/n79135382> .
+<http://rimmfdata.com/r/qpq00010728> <http://rimmf.com/vocab/authorizedAccessPointPerson> "Valverde, Jos\u00E9 Mar\u00EDa, 1926-" .
+<http://rimmfdata.com/r/qpq00010728> <http://rimmf.com/vocab/variantAccessPointPerson> "Valverde, J. Ma. (Jos\u00E9 Mar\u00EDa), 1926-" .
+<http://rimmfdata.com/r/qpq00010728> <http://rimmf.com/vocab/variantAccessPointPerson> "Valverde Pacheco, Jos\u00E9 Mar\u00EDa, 1926-" .
+<http://rimmfdata.com/r/qpq00010728> <http://rimmf.com/vocab/variantAccessPointPerson> "Pacheco, Jos\u00E9 Mar\u00EDa Valverde, 1926-" .
+<http://rimmfdata.com/r/qpq00010728> <http://rdaregistry.info/Elements/a/P50145> <http://rimmfdata.com/r/qpq00010621> .
+<http://rimmfdata.com/r/qpq00010604> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010604" .
+<http://rimmfdata.com/r/qpq00010604> <http://rimmf.com/vocab/variantAccessPointWork> "Emma" .
+<http://rimmfdata.com/r/qpq00010604> <http://rimmf.com/vocab/sourceConsultedWork> "Austen, J. Emma: an authoritative text, backgrounds, reviews, and criticism, 1972" .
+<http://rimmfdata.com/r/qpq00010604> <http://rimmf.com/vocab/sourceConsultedWork> "Jane Austen's Emma, 2006" .
+<http://rimmfdata.com/r/qpq00010604> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010604> <http://rdaregistry.info/Elements/w/P10223> "Emma" .
+<http://rimmfdata.com/r/qpq00010604> <http://rdaregistry.info/Elements/w/P10002> "LCCN no2005107571" .
+<http://rimmfdata.com/r/qpq00010604> <http://rdaregistry.info/Elements/w/P10002> "(OCoLC)oca06777125" .
+<http://rimmfdata.com/r/qpq00010604> <http://rdaregistry.info/Elements/w/P10002> <http://id.loc.gov/authorities/names/no2005107571> .
+<http://rimmfdata.com/r/qpq00010604> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/qpq00010603> .
+<http://rimmfdata.com/r/qpq00010604> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010620> .
+<http://rimmfdata.com/r/qpq00010604> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010621> .
+<http://rimmfdata.com/r/qpq00010608> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010608" .
+<http://rimmfdata.com/r/qpq00010608> <http://rimmf.com/vocab/variantAccessPointWork> "My diary from here to there" .
+<http://rimmfdata.com/r/qpq00010608> <http://rimmf.com/vocab/variantAccessPointWork> "P\u00E9rez, Amada Irma. Mi diario de aqu\u00ED a all\u00E1" .
+<http://rimmfdata.com/r/qpq00010608> <http://rimmf.com/vocab/variantAccessPointWork> "Mi diario de aqu\u00ED a all\u00E1" .
+<http://rimmfdata.com/r/qpq00010608> <http://rimmf.com/vocab/sourceConsultedWork> "My diary from here to there, 2002" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10223> "My diary from here to there" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10086> "Mi diario de aqu\u00ED a all\u00E1" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10219> "2002" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10217> "Intended for children" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10256> "LCC: PZ73" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10256> "DDC: [Fic]" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Mexican Americans -- Juvenile fiction" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10256> "LCAC: Mexican Americans -- Fiction" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10256> "LCAC: Emigration and immigration -- Fiction" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10256> "LCAC: Family life -- Fiction" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10256> "LCAC: Diaries -- Fiction" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10256> "LCAC: Spanish language materials -- Bilingual" .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/qpq00010609> .
+<http://rimmfdata.com/r/qpq00010608> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010606> .
+<http://rimmfdata.com/r/qpq00010619> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010619" .
+<http://rimmfdata.com/r/qpq00010619> <http://rdaregistry.info/Elements/w/P10223> "K\u0101v\u0113ri" .
+<http://rimmfdata.com/r/qpq00010619> <http://rdaregistry.info/Elements/w/P10004> "0" .
+<http://rimmfdata.com/r/qpq00010619> <http://rdaregistry.info/Elements/w/P10004> "Lyrik" .
+<http://rimmfdata.com/r/qpq00010619> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010619> <http://rimmf.com/vocab/sourceConsultedWork> "K\u0101v\u0113ri, 2008" .
+<http://rimmfdata.com/r/qpq00010619> <http://rdaregistry.info/Elements/w/P10002> "LCCN n 2010209620" .
+<http://rimmfdata.com/r/qpq00010619> <http://rdaregistry.info/Elements/w/P10002> <https://lccn.loc.gov/n2010209620> .
+<http://rimmfdata.com/r/qpq00010638> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010638" .
+<http://rimmfdata.com/r/qpq00010638> <http://rimmf.com/vocab/variantAccessPointWork> "Le tour du monde en quatre-vingts jours" .
+<http://rimmfdata.com/r/qpq00010638> <http://rimmf.com/vocab/variantAccessPointWork> "Verne, Jules, 1828-1905. Tour du monde en quatre-vingts jours" .
+<http://rimmfdata.com/r/qpq00010638> <http://rimmf.com/vocab/variantAccessPointWork> "Tour du monde en quatre-vingts jours" .
+<http://rimmfdata.com/r/qpq00010638> <http://rimmf.com/vocab/variantAccessPointWork> "Verne, Jules, 1828-1905. Around the world in 80 days" .
+<http://rimmfdata.com/r/qpq00010638> <http://rimmf.com/vocab/variantAccessPointWork> "Around the world in 80 days" .
+<http://rimmfdata.com/r/qpq00010638> <http://rimmf.com/vocab/variantAccessPointWork> "Verne, Jules, 1828-1905. Around the world in eighty days" .
+<http://rimmfdata.com/r/qpq00010638> <http://rimmf.com/vocab/variantAccessPointWork> "Around the world in eighty days" .
+<http://rimmfdata.com/r/qpq00010638> <http://rimmf.com/vocab/sourceConsultedWork> "Le tour du monde en quatre-vingts jours, 1928" .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10223> "Le tour du monde en quatre-vingts jours" .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10086> "Tour du monde en quatre-vingts jours" .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10086> "Around the world in 80 days" .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10086> "Around the world in eighty days" .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10219> "1873" .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10256> "LCC: PQ2469.T7" .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10256> "DDC: 843/.8" .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10256> "LCSH: Voyages around the world -- Fiction" .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/qpq00010626> .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010640> .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010623> .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010628> .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010630> .
+<http://rimmfdata.com/r/qpq00010638> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010632> .
+<http://rimmfdata.com/r/qpq00010648> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010648" .
+<http://rimmfdata.com/r/qpq00010648> <http://rimmf.com/vocab/sourceConsultedWork> "Notting Hill / a Duncan Kenworthy production ; directed by Roger Michell, 1999" .
+<http://rimmfdata.com/r/qpq00010648> <http://rdaregistry.info/Elements/w/P10223> "Notting Hill" .
+<http://rimmfdata.com/r/qpq00010648> <http://rdaregistry.info/Elements/w/P10219> "1999" .
+<http://rimmfdata.com/r/qpq00010648> <http://rdaregistry.info/Elements/w/P10256> "LCC: CGC 8704-8710 (viewing print)" .
+<http://rimmfdata.com/r/qpq00010648> <http://rdaregistry.info/Elements/w/P10256> "LCC: CGC 8711 (trk)" .
+<http://rimmfdata.com/r/qpq00010648> <http://rdaregistry.info/Elements/w/P10256> "LCGFT: Comedy films" .
+<http://rimmfdata.com/r/qpq00010648> <http://rdaregistry.info/Elements/w/P10256> "LCGFT: Romance films" .
+<http://rimmfdata.com/r/qpq00010648> <http://rdaregistry.info/Elements/w/P10256> "LCGFT: Feature films" .
+<http://rimmfdata.com/r/qpq00010648> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010647> .
+<http://rimmfdata.com/r/qpq00010648> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010723> .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10223> "Dictionnaire pratique de droit humanitaire" .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10086> "Diccionario pr\u00E1ctico de derecho humanitario" .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10086> "Diccionario pr\u00E1ctico humanitario" .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10086> "Practical guide to humanitarian law" .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10086> "Prakticheski\u012D slovar\u02B9 gumanitarnogo prava" .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10086> "The practical guide to humanitarian law" .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10219> "1998" .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10065> <http://rimmfdata.com/r/qpq00010650> .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010649" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Dictionnaire pratique de droit humanitaire" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Bouchet-Saulnier, Fran\u00E7oise. Diccionario pr\u00E1ctico de derecho humanitario" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Diccionario pr\u00E1ctico de derecho humanitario" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Bouchet-Saulnier, Fran\u00E7oise. Diccionario pr\u00E1ctico humanitario" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Diccionario pr\u00E1ctico humanitario" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Bouchet-Saulnier, Fran\u00E7oise. Practical guide to humanitarian law" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Practical guide to humanitarian law" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Bouchet-Saulnier, Fran\u00E7oise. Prakticheski\u012D slovar\u02B9 gumanitarnogo prava" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Prakticheski\u012D slovar\u02B9 gumanitarnogo prava" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "Bouchet-Saulnier, Fran\u00E7oise. The practical guide to humanitarian law" .
+<http://rimmfdata.com/r/qpq00010649> <http://rimmf.com/vocab/variantAccessPointWork> "The practical guide to humanitarian law" .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010651> .
+<http://rimmfdata.com/r/qpq00010649> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010652> .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/authorizedAccessPointWork> "qpq00010671" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/variantAccessPointWork> "Hard times" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/variantAccessPointWork> "Dickens, Charles, 1812-1870. Hard times for these times" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/variantAccessPointWork> "Hard times for these times" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/variantAccessPointWork> "Dickens, Charles, 1812-1870. Charles Dickens' Hard times" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/variantAccessPointWork> "Charles Dickens' Hard times" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/variantAccessPointWork> "Dickens, Charles, 1812-1870. Tiempos dif\u00EDciles" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/variantAccessPointWork> "Tiempos dif\u00EDciles" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/sourceConsultedWork> "Hard times for these times, 1995" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/sourceConsultedWork> "Charles Dickens' Hard times, c2004" .
+<http://rimmfdata.com/r/qpq00010671> <http://rimmf.com/vocab/statusOfIdentificationWork> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10223> "Hard times" .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10086> "Hard times for these times" .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10086> "Charles Dickens' Hard times" .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10086> "Tiempos dif\u00EDciles" .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10002> "LCCN n  80008557" .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10002> "(OCoLC)oca00391115" .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10002> <https://lccn.loc.gov/n80008557> .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10061> <http://rimmfdata.com/r/qpq00010672> .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010673> .
+<http://rimmfdata.com/r/qpq00010671> <http://rdaregistry.info/Elements/w/P10078> <http://rimmfdata.com/r/qpq00010678> .
+<http://rimmfdata.com/r/qpq00010606> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010606" .
+<http://rimmfdata.com/r/qpq00010606> <http://rimmf.com/vocab/sourceConsultedExpression> "My diary from here to there, 2002" .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20214> "2002" .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/spa> .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20069> "A young girl describes her feelings when her father decides to leave their home in Mexico to look for work in the United States" .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20207> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20224> "colour" .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20051> <http://rimmfdata.com/r/qpq00010607> .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010608> .
+<http://rimmfdata.com/r/qpq00010606> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010605> .
+<http://rimmfdata.com/r/qpq00010620> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010620" .
+<http://rimmfdata.com/r/qpq00010620> <http://rimmf.com/vocab/statusOfIdentificationExpression> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010620> <http://rimmf.com/vocab/sourceConsultedExpression> "Austen, Jane. Emma, 2012: title page verso (translated by Roberto Mares)" .
+<http://rimmfdata.com/r/qpq00010620> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/spa> .
+<http://rimmfdata.com/r/qpq00010620> <http://rdaregistry.info/Elements/e/P20003> "Mares Ochoa" .
+<http://rimmfdata.com/r/qpq00010620> <http://rdaregistry.info/Elements/e/P20002> "LCCN no2015165606" .
+<http://rimmfdata.com/r/qpq00010620> <http://rdaregistry.info/Elements/e/P20002> "(OCoLC)oca10344099" .
+<http://rimmfdata.com/r/qpq00010620> <http://rdaregistry.info/Elements/e/P20002> <https://lccn.loc.gov/no2015165606> .
+<http://rimmfdata.com/r/qpq00010620> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/qpq00010727> .
+<http://rimmfdata.com/r/qpq00010620> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010604> .
+<http://rimmfdata.com/r/qpq00010621> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010621" .
+<http://rimmfdata.com/r/qpq00010621> <http://rimmf.com/vocab/statusOfIdentificationExpression> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010621> <http://rimmf.com/vocab/sourceConsultedExpression> "Austen, Jane. Emma, 2015 : t.p. (translated by Jos\u00E9 Ma. Valverde)" .
+<http://rimmfdata.com/r/qpq00010621> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/spa> .
+<http://rimmfdata.com/r/qpq00010621> <http://rdaregistry.info/Elements/e/P20003> "Valverde" .
+<http://rimmfdata.com/r/qpq00010621> <http://rdaregistry.info/Elements/e/P20069> "Emma cuenta la historia de la se\u00F1orita Woodhouse, una joven empe\u00F1ada en hacer de Celestina de sus amistades y relaciones. Pero en el proceso se olvida de atender sus propios sentimientos. Cuando su institutriz, amiga y confidente, la se\u00F1orita Taylor, decide contraer matrimonio, Emma se queda sola ante sus propios sentimientos. Emma se enfrenta a un vac\u00EDo en su vida... y con un gran dilema: c\u00F3mo ayudar a los dem\u00E1s a llevar una vida tan perfecta como la suya. Convertida en casamentera, busca candidatos para Harriet, una joven sencilla y modesta, alejada del estilo de vida de la alta sociedad inglesa. S\u00F3lo el hermano de su cu\u00F1ado, Mr. Knightley, diecisiete a\u00F1os mayor que ella y hombre de temple y aplomo probados, se atreve a recriminar los errores de Emma, y ser\u00E1 \u00E9ste quien ponga fin a la confusi\u00F3n que ella misma ha provocado. Emma se empe\u00F1a en manipular a todos los que la rodean, pero, naturalmente, no para de equivocarse y de ocasionar enredos y situaciones embarazosas. " .
+<http://rimmfdata.com/r/qpq00010621> <http://rdaregistry.info/Elements/e/P20002> "LCCN no2016044704" .
+<http://rimmfdata.com/r/qpq00010621> <http://rdaregistry.info/Elements/e/P20002> "(OCoLC)oca10435015" .
+<http://rimmfdata.com/r/qpq00010621> <http://rdaregistry.info/Elements/e/P20002> <https://lccn.loc.gov/no2016044704> .
+<http://rimmfdata.com/r/qpq00010621> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/qpq00010728> .
+<http://rimmfdata.com/r/qpq00010621> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010604> .
+<http://rimmfdata.com/r/qpq00010621> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010732> .
+<http://rimmfdata.com/r/qpq00010623> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010623" .
+<http://rimmfdata.com/r/qpq00010623> <http://rimmf.com/vocab/variantAccessPointExpression> "Verne, Jules, 1828-1905. Around the world in eighty days, 2015. Text. English. Walter" .
+<http://rimmfdata.com/r/qpq00010623> <http://rimmf.com/vocab/variantAccessPointExpression> "Around the world in eighty days, 2015. Text. English. Walter" .
+<http://rimmfdata.com/r/qpq00010623> <http://rimmf.com/vocab/sourceConsultedExpression> "Around the world in 80 days, 2013" .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20214> "2013" .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20003> "Walter" .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20207> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20207> <http://rdaregistry.info/termList/IllusContent/1008> .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20267> "&#34;With 59 illustrations from the 1873 french edition&#34;" .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20206> "Includes bibliographical references" .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20069> "In 1872 Phileas Fogg wins a bet by traveling around the world in seventy-nine days, twenty-three hours, and fifty-seven minutes" .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/qpq00010624> .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010638> .
+<http://rimmfdata.com/r/qpq00010623> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010622> .
+<http://rimmfdata.com/r/qpq00010628> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010628" .
+<http://rimmfdata.com/r/qpq00010628> <http://rimmf.com/vocab/sourceConsultedExpression> "Around the world in eighty days, 2015" .
+<http://rimmfdata.com/r/qpq00010628> <http://rimmf.com/vocab/variantAccessPointExpression> "Verne, Jules, 1828-1905. Around the world in eighty days, 2015. Text. English. Towle" .
+<http://rimmfdata.com/r/qpq00010628> <http://rimmf.com/vocab/variantAccessPointExpression> "Around the world in eighty days, 2015. Text. English. Towle" .
+<http://rimmfdata.com/r/qpq00010628> <http://rdaregistry.info/Elements/e/P20214> "2015" .
+<http://rimmfdata.com/r/qpq00010628> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010628> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010628> <http://rdaregistry.info/Elements/e/P20003> "Towle" .
+<http://rimmfdata.com/r/qpq00010628> <http://rdaregistry.info/Elements/e/P20069> "In 1872 Phileas Fogg wins a bet by traveling around the world in seventy-nine days, twenty-three hours, and fifty-seven minutes" .
+<http://rimmfdata.com/r/qpq00010628> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/qpq00010685> .
+<http://rimmfdata.com/r/qpq00010628> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010638> .
+<http://rimmfdata.com/r/qpq00010628> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010627> .
+<http://rimmfdata.com/r/qpq00010630> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010630" .
+<http://rimmfdata.com/r/qpq00010630> <http://rimmf.com/vocab/variantAccessPointExpression> "Verne, Jules, 1828-1905. Around the world in eighty days, 2015. Text. English" .
+<http://rimmfdata.com/r/qpq00010630> <http://rimmf.com/vocab/variantAccessPointExpression> "Around the world in eighty days, 2015. Text. English" .
+<http://rimmfdata.com/r/qpq00010630> <http://rimmf.com/vocab/sourceConsultedExpression> "Around the world in eighty days, 2012" .
+<http://rimmfdata.com/r/qpq00010630> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010630> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010630> <http://rdaregistry.info/Elements/e/P20069> "In 1872 Phileas Fogg wins a bet by traveling around the world in seventy-nine days, twenty-three hours, and fifty-seven minutes" .
+<http://rimmfdata.com/r/qpq00010630> <http://rdaregistry.info/Elements/e/P20007> "Translated from the French" .
+<http://rimmfdata.com/r/qpq00010630> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010638> .
+<http://rimmfdata.com/r/qpq00010630> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010629> .
+<http://rimmfdata.com/r/qpq00010630> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010635> .
+<http://rimmfdata.com/r/qpq00010632> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010632" .
+<http://rimmfdata.com/r/qpq00010632> <http://rimmf.com/vocab/variantAccessPointExpression> "Verne, Jules, 1828-1905. Around the world in eighty days. Text. English. Butcher" .
+<http://rimmfdata.com/r/qpq00010632> <http://rimmf.com/vocab/variantAccessPointExpression> "Around the world in eighty days. Text. English. Butcher" .
+<http://rimmfdata.com/r/qpq00010632> <http://rimmf.com/vocab/sourceConsultedExpression> "Around the world in eighty days, 2008" .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20214> "2008" .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20007> "Translated from the French" .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20069> "In 1872 Phileas Fogg wins a bet by traveling around the world in seventy-nine days, twenty-three hours, and fifty-seven minutes" .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20003> "Butcher" .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20206> "Includes bibliographical references" .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/qpq00010633> .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010638> .
+<http://rimmfdata.com/r/qpq00010632> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010631> .
+<http://rimmfdata.com/r/qpq00010640> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010640" .
+<http://rimmfdata.com/r/qpq00010640> <http://rimmf.com/vocab/sourceConsultedExpression> "Le tour du monde en quatre-vingts jours, D.L. 2016" .
+<http://rimmfdata.com/r/qpq00010640> <http://rdaregistry.info/Elements/e/P20214> "1873" .
+<http://rimmfdata.com/r/qpq00010640> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010640> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/fre> .
+<http://rimmfdata.com/r/qpq00010640> <http://rdaregistry.info/Elements/e/P20069> "In 1872 Phileas Fogg wins a bet by traveling around the world in seventy-nine days, twenty-three hours, and fifty-seven minutes" .
+<http://rimmfdata.com/r/qpq00010640> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010638> .
+<http://rimmfdata.com/r/qpq00010640> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010639> .
+<http://rimmfdata.com/r/qpq00010647> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010647" .
+<http://rimmfdata.com/r/qpq00010647> <http://rimmf.com/vocab/sourceConsultedExpression> "Notting Hill / a Duncan Kenworthy production ; directed by Roger Michell, 1999" .
+<http://rimmfdata.com/r/qpq00010647> <http://rdaregistry.info/Elements/e/P20214> "1999" .
+<http://rimmfdata.com/r/qpq00010647> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1023> .
+<http://rimmfdata.com/r/qpq00010647> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010647> <http://rdaregistry.info/Elements/e/P20069> "The life of a simple bookshop owner changes when the most famous star in the world walks in his shop and buys a book" .
+<http://rimmfdata.com/r/qpq00010647> <http://rdaregistry.info/Elements/e/P20224> "colour" .
+<http://rimmfdata.com/r/qpq00010647> <http://rdaregistry.info/Elements/e/P20225> <http://rdaregistry.info/termList/soundCont/1001> .
+<http://rimmfdata.com/r/qpq00010647> <http://rdaregistry.info/Elements/e/P20219> "approximately 124 min." .
+<http://rimmfdata.com/r/qpq00010647> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010648> .
+<http://rimmfdata.com/r/qpq00010647> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010646> .
+<http://rimmfdata.com/r/qpq00010651> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010651> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/fre> .
+<http://rimmfdata.com/r/qpq00010651> <http://rdaregistry.info/Elements/e/P20214> "1998" .
+<http://rimmfdata.com/r/qpq00010651> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010651" .
+<http://rimmfdata.com/r/qpq00010651> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010649> .
+<http://rimmfdata.com/r/qpq00010652> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010652> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/fre> .
+<http://rimmfdata.com/r/qpq00010652> <http://rdaregistry.info/Elements/e/P20214> "2000" .
+<http://rimmfdata.com/r/qpq00010652> <http://rdaregistry.info/Elements/e/P20003> "Seconde \u00E9dition mise \u00E0 jour et augm" .
+<http://rimmfdata.com/r/qpq00010652> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010652" .
+<http://rimmfdata.com/r/qpq00010652> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010649> .
+<http://rimmfdata.com/r/qpq00010673> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010673" .
+<http://rimmfdata.com/r/qpq00010673> <http://rimmf.com/vocab/variantAccessPointExpression> "Dickens, Charles, 1812-1870. Tiempos dif\u00EDciles" .
+<http://rimmfdata.com/r/qpq00010673> <http://rimmf.com/vocab/variantAccessPointExpression> "Tiempos dif\u00EDciles" .
+<http://rimmfdata.com/r/qpq00010673> <http://rimmf.com/vocab/statusOfIdentificationExpression> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010673> <http://rimmf.com/vocab/sourceConsultedExpression> "Tiempos dif\u00EDciles, 1921" .
+<http://rimmfdata.com/r/qpq00010673> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/spa> .
+<http://rimmfdata.com/r/qpq00010673> <http://rdaregistry.info/Elements/e/P20002> "LCCN n 2011081858" .
+<http://rimmfdata.com/r/qpq00010673> <http://rdaregistry.info/Elements/e/P20002> <https://lccn.loc.gov/n2011081858> .
+<http://rimmfdata.com/r/qpq00010673> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010671> .
+<http://rimmfdata.com/r/qpq00010678> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010678" .
+<http://rimmfdata.com/r/qpq00010678> <http://rimmf.com/vocab/variantAccessPointExpression> "Dickens, Charles, 1812-1870. Tiempos dif\u00EDciles" .
+<http://rimmfdata.com/r/qpq00010678> <http://rimmf.com/vocab/variantAccessPointExpression> "Tiempos dif\u00EDciles" .
+<http://rimmfdata.com/r/qpq00010678> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010678> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/spa> .
+<http://rimmfdata.com/r/qpq00010678> <http://rdaregistry.info/Elements/e/P20214> "1903" .
+<http://rimmfdata.com/r/qpq00010678> <http://rdaregistry.info/Elements/e/P20003> "Jorba" .
+<http://rimmfdata.com/r/qpq00010678> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010671> .
+<http://rimmfdata.com/r/qpq00010678> <http://rdaregistry.info/Elements/e/P20037> <http://rimmfdata.com/r/qpq00010679> .
+<http://rimmfdata.com/r/qpq00010678> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010669> .
+<http://rimmfdata.com/r/qpq00010723> <http://rimmf.com/vocab/authorizedAccessPointExpression> "qpq00010723" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20001> <http://rdaregistry.info/termList/RDAContentType/1023> .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20214> "1999" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20006> <http://id.loc.gov/vocabulary/iso639-2/fre> .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20069> "The life of a simple bookshop owner changes when the most famous star in the world walks in his shop and buys a book" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20069> "La vie d\u2019un simple propri\u00E9taire d\u2019une librairie change quand star le plus c\u00E9l\u00E8bre dans le monde promenades dans sa boutique et ach\u00E8te un livre" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20007> "English dialogue and captions; dubbed into French" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20007> "Dialogue anglais et l\u00E9gendes ; doubl\u00E9e en Fran\u00E7ais" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20224> "colour" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20224> "en couleur" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20225> <http://rdaregistry.info/termList/soundCont/1001> .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20229> <http://rdaregistry.info/termList/AspectRatio/1002> .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20229> "\u00E9cran large" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20260> "anamorphic widescreen" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20260> "format large anamorphos\u00E9" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20219> "2 hr. 40 min." .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20219> "2 h 40 min" .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20231> <http://rimmfdata.com/r/qpq00010648> .
+<http://rimmfdata.com/r/qpq00010723> <http://rdaregistry.info/Elements/e/P20059> <http://rimmfdata.com/r/qpq00010722> .
+<http://rimmfdata.com/r/qpq00010605> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010605" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30156> "My diary from here to there" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30105> "story, Amada Irma P\u00E9rez" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30105> "illustration, Maya Christina Gonzalez " .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30203> "Mi diario de aqu\u00ED a all\u00E1" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30116> "cuento, Amada Irma P\u00E9rez" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30116> "ilustraciones, Maya Christina Gonzalez" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30088> "San Francisco" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30176> "Children's Book Press" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30011> "2002" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30004> "LCCN   2001058251" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30004> "ISBN 0892391758" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30004> <https://lccn.loc.gov/2001058251> .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010605> <http://rimmf.com/vocab/extentStatement> "31 p." .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30182> "31 p." .
+<http://rimmfdata.com/r/qpq00010605> <http://rimmf.com/vocab/numberOfUnits> "31" .
+<http://rimmfdata.com/r/qpq00010605> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30169> "26 cm" .
+<http://rimmfdata.com/r/qpq00010605> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010606> .
+<http://rimmfdata.com/r/qpq00010622> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010622" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30156> "Around the world in 80 days" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30128> "Around the world in eighty days" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30105> "Jules Verne" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30105> "translated by Paul Frederick Walter" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30088> "Albany" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30176> "Excelsior Editions/State University of New York Press" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30011> "[2013]" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30007> "\u00A92013" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30004> "LCCN   2012026098" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9781438446790 (hardcover : alk. paper)" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30004> <https://lccn.loc.gov/2012026098> .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010622> <http://rimmf.com/vocab/extentStatement> "viii, 221 p." .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30182> "viii, 221 p." .
+<http://rimmfdata.com/r/qpq00010622> <http://rimmf.com/vocab/numberOfUnits> "viii, 221" .
+<http://rimmfdata.com/r/qpq00010622> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30169> "26 cm" .
+<http://rimmfdata.com/r/qpq00010622> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010623> .
+<http://rimmfdata.com/r/qpq00010627> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010627" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30156> "Around the world in eighty days" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30105> "by Jules Verne" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30105> "translated by George Makepeace Towle" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30088> "Minneapolis, MN" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30176> "First Avenue Classics, A divsion of Lerner Publishing Group" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30011> "[2015]" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30157> "First Avenue Classics" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30004> "LCCN   2014050362" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9781467792714 (pb : alk. paper)" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30004> <https://lccn.loc.gov/2014050362> .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010627> <http://rimmf.com/vocab/extentStatement> "vi, 234 pages" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30182> "vi, 234 pages" .
+<http://rimmfdata.com/r/qpq00010627> <http://rimmf.com/vocab/numberOfUnits> "vi, 234" .
+<http://rimmfdata.com/r/qpq00010627> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30169> "22 cm" .
+<http://rimmfdata.com/r/qpq00010627> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010628> .
+<http://rimmfdata.com/r/qpq00010629> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010629" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30156> "Around the world in eighty days" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30105> "Jules Verne" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30088> "Oxford" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30088> "New York" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30176> "Oxford University Press" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30011> "2012" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30157> "Oxford children's classics" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30004> "LCCN   2012471001" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9780192758200 (hbk.)" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30004> "ISBN 0192758209 (hbk.)" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30004> <https://lccn.loc.gov/2012471001> .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010629> <http://rimmf.com/vocab/extentStatement> "278 p." .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30182> "278 p." .
+<http://rimmfdata.com/r/qpq00010629> <http://rimmf.com/vocab/numberOfUnits> "278" .
+<http://rimmfdata.com/r/qpq00010629> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30169> "20 cm" .
+<http://rimmfdata.com/r/qpq00010629> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010630> .
+<http://rimmfdata.com/r/qpq00010631> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010631" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30156> "Around the world in eighty days" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30128> "Around the world in 80 days" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30105> "Jules Verne" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30105> "translated with an introduction and notes by William Butcher" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30088> "Oxford" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30088> "New York" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30176> "Oxford University Press" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30011> "[2008]" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30157> "Oxford world's classics" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30157> "Extraordinary journeys" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30004> "LCCN   2008482138" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9780199552511 (pbk.)" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30004> "(OCoLC)ocn231883652" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30004> <https://lccn.loc.gov/2008482138> .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010631> <http://rimmf.com/vocab/extentStatement> "xlv, 247 p." .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30182> "xlv, 247 p." .
+<http://rimmfdata.com/r/qpq00010631> <http://rimmf.com/vocab/numberOfUnits> "xlv, 247" .
+<http://rimmfdata.com/r/qpq00010631> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30169> "20 cm" .
+<http://rimmfdata.com/r/qpq00010631> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010632> .
+<http://rimmfdata.com/r/qpq00010634> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010634" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30156> "Around the world in eighty days" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30105> "Jules Verne" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30105> "introduction by James Hynes" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30088> "New York" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30176> "Barnes & Noble Books" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30011> "2008" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30157> "The Barnes & Noble Library of essential reading" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30004> "LCCN   2010290144" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30004> "ISBN 9780760793626 (pbk.)" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30004> "ISBN 076079362X (pbk.)" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30004> "(OCoLC)ocn321080831" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30004> <https://lccn.loc.gov/2010290144> .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010634> <http://rimmf.com/vocab/extentStatement> "xvi, 205 p." .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30182> "xvi, 205 p." .
+<http://rimmfdata.com/r/qpq00010634> <http://rimmf.com/vocab/numberOfUnits> "xvi, 205" .
+<http://rimmfdata.com/r/qpq00010634> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010634> <http://rdaregistry.info/Elements/m/P30169> "21 cm" .
+<http://rimmfdata.com/r/qpq00010635> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010635" .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30156> "Around the world in eighty days" .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30088> "London" .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30176> "Arco" .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30011> "1967" .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30004> "LCCN    67109150" .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30004> <https://lccn.loc.gov/67109150> .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010635> <http://rimmf.com/vocab/extentStatement> "p." .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30182> "p." .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30169> "cm" .
+<http://rimmfdata.com/r/qpq00010635> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010630> .
+<http://rimmfdata.com/r/qpq00010639> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010639" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30156> "Le tour du monde en quatre-vingts jours" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30105> "Jules Verne" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30088> "Madrid" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30176> "Verbum" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30011> "D.L. 2016" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30157> "Verbum infantil-juvenil. S\u00E9rie Jeunesse" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30004> "ISBN 978-84-9074-317-1" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30004> "(OCoLC)948796334" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010639> <http://rimmf.com/vocab/extentStatement> "241 p." .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30182> "241 p." .
+<http://rimmfdata.com/r/qpq00010639> <http://rimmf.com/vocab/numberOfUnits> "241" .
+<http://rimmfdata.com/r/qpq00010639> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30169> "20 cm" .
+<http://rimmfdata.com/r/qpq00010639> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010640> .
+<http://rimmfdata.com/r/qpq00010646> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010646" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30156> "Notting Hill" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30105> "a Duncan Kenworthy production" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30105> "directed by Roger Michell" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30088> "United States" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30176> "Universal Pictures" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30011> "1999" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1002> .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30004> "LCCN   2001645757" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30004> <https://lccn.loc.gov/2001645757> .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30137> "Copyright: PolyGram Filmed Entertainment, Inc. DCR 1998; PUB 10May99; REG 15Jun99; PA881-785" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30057> "Julia Robert, Hugh Grant, Richard McCabe, Rhys Ifans, James Dreyfus" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30137> "Summary taken from Internet movie data base, 9/13/2001" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30137> "Digital sound track (DTS) on 2 compact disc stored in 1 film can CGD 8711" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30137> "Sources used: copyright data base; copyright data sheet; Internet movie data base" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1005> .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1034> .
+<http://rimmfdata.com/r/qpq00010646> <http://rimmf.com/vocab/extentStatement> "14 film reels of 14 on 7 (ca. 124 min., approximately 1,160 ft.)" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30182> "14 film reels of 14 on 7 (ca. 124 min., approximately 1,160 ft.)" .
+<http://rimmfdata.com/r/qpq00010646> <http://rimmf.com/vocab/numberOfUnits> "14" .
+<http://rimmfdata.com/r/qpq00010646> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1060> .
+<http://rimmfdata.com/r/qpq00010646> <http://rimmf.com/vocab/extentStatement> "2 compact disc in can" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30182> "2 compact disc in can" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30169> "35 mm" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30169> "4 3/4 trk" .
+<http://rimmfdata.com/r/qpq00010646> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010647> .
+<http://rimmfdata.com/r/qpq00010669> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010669" .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30156> "Teimpos dif\u00EDciles" .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30105> "C. Dickens" .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30105> "versi\u00F3n Espa\u00F1ola de J. P\u00E9rez Jorba" .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30088> "Paris" .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30176> "Garnier Hermanos, Libreros-Editores" .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30011> "1903" .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010669> <http://rimmf.com/vocab/extentStatement> "546 pages" .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30182> "546 pages" .
+<http://rimmfdata.com/r/qpq00010669> <http://rimmf.com/vocab/numberOfUnits> "546" .
+<http://rimmfdata.com/r/qpq00010669> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010669> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010678> .
+<http://rimmfdata.com/r/qpq00010722> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010722" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30156> "Notting Hill" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30105> "a Duncan Kenworthy production" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30105> "directed by Roger Michell" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30057> "Cast: Julia Roberts, Hugh Grant, Hugh Bonnevile, Emma Chambers, James Dreyfus, Rhys Ifans, Tim McInnerny, Gina McKee" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30088> "Universal City, CA" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30176> "Universal" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30011> "[1999]" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30007> "\u00A91999" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1008> .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1060> .
+<http://rimmfdata.com/r/qpq00010722> <http://rimmf.com/vocab/extentStatement> "1 videodisc" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30182> "1 videodisc" .
+<http://rimmfdata.com/r/qpq00010722> <http://rimmf.com/vocab/numberOfUnits> "1" .
+<http://rimmfdata.com/r/qpq00010722> <http://rimmf.com/vocab/typeOfUnitOther> <http://rdaregistry.info/termList/extent/1093> .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30169> "4 3/4 in." .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30172> <http://rdaregistry.info/termList/typeRec/1002> .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30206> <http://rdaregistry.info/termList/recMedium/1003> .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30138> "Dolby 5.1 surround" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30138> "Dolby surround" .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30018> <http://rdaregistry.info/termList/fileType/1006> .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30096> <http://rdaregistry.info/termList/encFormat/1042> .
+<http://rimmfdata.com/r/qpq00010722> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010723> .
+<http://rimmfdata.com/r/qpq00010732> <http://rimmf.com/vocab/descriptionManifestation> "qpq00010732" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30156> "Emma" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30105> "Jane Austen" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30105> "traducci\u00F3n de Jos\u00E9 Mar\u00EDa Valverde" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30133> "1\u00AA ed" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30088> "[Barcelona]" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30176> "Mondadori" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30011> "2006" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30157> "Grandes cl\u00E1sicos" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30003> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30004> "ISBN 978-84-397-2014-0" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30004> "ISBN 84-397-2014-9" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30004> "(OCoLC)433434486" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30002> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30001> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/qpq00010732> <http://rimmf.com/vocab/extentStatement> "510 p." .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30182> "510 p." .
+<http://rimmfdata.com/r/qpq00010732> <http://rimmf.com/vocab/numberOfUnits> "510" .
+<http://rimmfdata.com/r/qpq00010732> <http://rimmf.com/vocab/typeOfUnitText> "0" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30169> "22 cm" .
+<http://rimmfdata.com/r/qpq00010732> <http://rdaregistry.info/Elements/m/P30139> <http://rimmfdata.com/r/qpq00010621> .
