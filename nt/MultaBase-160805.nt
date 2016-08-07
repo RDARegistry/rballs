@@ -1,0 +1,456 @@
+<http://rimmfdata.com/r/ingressus00000041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1079> "ingressus00000041" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1031> "Max Havelaar, or, The coffee auctions of the Dutch Trading Company, 1982: t.p. (Multatuli)" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1031> "Wikipedia, Apr. 5, 2010 Multatuli (Eduard Douwes Dekker (b. Amsterdam, 2 March 1820-19 February 1887), better known by his pen name Multatuli; a Dutch writer famous for his satirical novel, Max Havelaar (1860))" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60549> "Multatuli" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "Dekker, Eduard Douwes" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "Douwes Dekker, Eduard" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u05DE\u05D5\u05DC\u05D0\u05D8\u05D0\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u05DE\u05D5\u05DC\u05D8\u05D0\u05D8\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u05DE\u05D5\u05DC\u05D8\u05D8\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u041C\u0443\u043B\u044C\u0442\u0430\u0442\u0443\u043B\u0438" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u7A46\u5C14\u5854\u56FE\u91CC" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60599> "1820 maart 2" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60598> "1887 februari 19" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> "LCCN n  79061166" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> "(OCoLC)oca00294186" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> <http://id.loc.gov/authorities/names/n79061166> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> <http://isni.org/isni/0000000120303306> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> <http://viaf.org/viaf/89204476> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "Dekker, Eduard Douwes, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D0\u05D8\u05D0\u05D5\u05DC\u05D9, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D8\u05D0\u05D8\u05D5\u05DC\u05D9, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D8\u05D8\u05D5\u05DC\u05D9, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u041C\u0443\u043B\u044C\u0442\u0430\u0442\u0443\u043B\u0438, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u7A46\u5C14\u5854\u56FE\u91CC, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "Douwes Dekker, Eduard, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D0\u05D8\u05D0\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D8\u05D0\u05D8\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D8\u05D8\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u7A46\u5C14\u5854\u56FE\u91CC" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u041C\u0443\u043B\u044C\u0442\u0430\u0442\u0443\u043B\u0438" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000047> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000048> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000049> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000050> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000051> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000052> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000053> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000054> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000055> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000056> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000057> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000058> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000059> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000060> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000061> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000062> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000063> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000064> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000065> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000066> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000067> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000068> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000069> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000070> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000071> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000072> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000073> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000074> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000075> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000076> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000077> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000078> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000079> .
+<http://rimmfdata.com/r/ingressus00000042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1044> "ingressus00000042" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1072> "Door de achterdeur naar binnen, 1996: t.p. (Multatuli's Max Havelaar)" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1072> "LC in RLIN, 4/29/97 (hdg.: Multatuli. Max Havelaar; usage: Max Havelaar; Max Havelaar, of, De koffiveilingen der Nederlandsche Handelmaatschappy)" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60588> "Max Havelaar" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60355> "Max Havelaar, of, De koffiveilingen der Nederlandsche Handelmaatschappy" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60355> "Max Havelaar, of de koffij-veilingen der Nederlandsche Handel-Maatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60355> "Max Havelaar, of de koffieveilingen van de Nederlandse Handelmaatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60052> "LCCN nr 97015654" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60052> "(DLC)nr 97015654" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60052> <http://id.loc.gov/authorities/names/nr97015654> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Max Havelaar, of, De koffiveilingen der Nederlandsche Handelmaatschappy" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Max Havelaar, of de koffij-veilingen der Nederlandsche Handel-Maatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Max Havelaar, of de koffij-veilingen der Nederlandsche Handel-Maatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Max Havelaar, of de koffieveilingen van de Nederlandse Handelmaatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Max Havelaar, of de koffieveilingen van de Nederlandse Handelmaatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Max Havelaar, of, De koffiveilingen der Nederlandsche Handelmaatschappy" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Max Havelaar" .
+<http://rimmfdata.com/r/ingressus00000042> 0 <http://rimmfdata.com/r/ingressus00000045> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60527> "1859-1860" .
+<http://rimmfdata.com/r/ingressus00000042> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/ingressus00000047> .
+<http://rimmfdata.com/r/ingressus00000047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000047> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1044> "ingressus00000047" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1072> "Kamajaya. Saijah dan Adinda, 1977" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60588> "Saijah en Adinda" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60052> "LCCN n  84221084" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60052> "(DLC)n  84221084" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60052> <http://id.loc.gov/authorities/names/n84221084> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60052> <http://viaf.org/viaf/293235739> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1078> "Saijah en Adinda" .
+<http://rimmfdata.com/r/ingressus00000048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000048> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000048> .
+<http://rimmfdata.com/r/ingressus00000048> <http://rimmf.com/vocab/R1078> "Aan de stemgerechtigden in het kiesdistrikt Tiel" .
+<http://rimmfdata.com/r/ingressus00000048> <http://rimmf.com/vocab/R1044> "ingressus00000048" .
+<http://rimmfdata.com/r/ingressus00000048> <http://rdaregistry.info/Elements/u/P60588> "Aan de stemgerechtigden in het kiesdistrikt Tiel" .
+<http://rimmfdata.com/r/ingressus00000048> <http://rdaregistry.info/Elements/u/P60527> "1860" .
+<http://rimmfdata.com/r/ingressus00000048> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000048> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000049> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000049> .
+<http://rimmfdata.com/r/ingressus00000049> <http://rimmf.com/vocab/R1078> "Aleid" .
+<http://rimmfdata.com/r/ingressus00000049> <http://rimmf.com/vocab/R1044> "ingressus00000049" .
+<http://rimmfdata.com/r/ingressus00000049> <http://rdaregistry.info/Elements/u/P60588> "Aleid" .
+<http://rimmfdata.com/r/ingressus00000049> <http://rdaregistry.info/Elements/u/P60527> "1872-1876" .
+<http://rimmfdata.com/r/ingressus00000049> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000049> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000050> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000050> .
+<http://rimmfdata.com/r/ingressus00000050> <http://rimmf.com/vocab/R1078> "Brief aan den Gouverneur-Generaal in ruste" .
+<http://rimmfdata.com/r/ingressus00000050> <http://rimmf.com/vocab/R1044> "ingressus00000050" .
+<http://rimmfdata.com/r/ingressus00000050> <http://rdaregistry.info/Elements/u/P60588> "Brief aan den Gouverneur-Generaal in ruste" .
+<http://rimmfdata.com/r/ingressus00000050> <http://rdaregistry.info/Elements/u/P60527> "1858-1860" .
+<http://rimmfdata.com/r/ingressus00000050> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000050> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000051> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000051> .
+<http://rimmfdata.com/r/ingressus00000051> <http://rimmf.com/vocab/R1078> "Brief aan den koning" .
+<http://rimmfdata.com/r/ingressus00000051> <http://rimmf.com/vocab/R1044> "ingressus00000051" .
+<http://rimmfdata.com/r/ingressus00000051> <http://rdaregistry.info/Elements/u/P60588> "Brief aan den koning" .
+<http://rimmfdata.com/r/ingressus00000051> <http://rdaregistry.info/Elements/u/P60527> "1872" .
+<http://rimmfdata.com/r/ingressus00000051> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000051> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000052> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000052> .
+<http://rimmfdata.com/r/ingressus00000052> <http://rimmf.com/vocab/R1078> "Brief aan Ds. W. Francken Az." .
+<http://rimmfdata.com/r/ingressus00000052> <http://rimmf.com/vocab/R1044> "ingressus00000052" .
+<http://rimmfdata.com/r/ingressus00000052> <http://rdaregistry.info/Elements/u/P60588> "Brief aan Ds. W. Francken Az." .
+<http://rimmfdata.com/r/ingressus00000052> <http://rdaregistry.info/Elements/u/P60527> "1860" .
+<http://rimmfdata.com/r/ingressus00000052> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000052> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000053> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000053> .
+<http://rimmfdata.com/r/ingressus00000053> <http://rimmf.com/vocab/R1078> "Brief aan Quintillianus" .
+<http://rimmfdata.com/r/ingressus00000053> <http://rimmf.com/vocab/R1044> "ingressus00000053" .
+<http://rimmfdata.com/r/ingressus00000053> <http://rdaregistry.info/Elements/u/P60588> "Brief aan Quintillianus" .
+<http://rimmfdata.com/r/ingressus00000053> <http://rdaregistry.info/Elements/u/P60527> "1862" .
+<http://rimmfdata.com/r/ingressus00000053> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000053> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000054> .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1044> "ingressus00000054" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1078> "De bruid daarboven" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. De eerlooze" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1078> "De eerlooze" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60588> "De bruid daarboven" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60355> "De eerlooze" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60058> "0" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60527> "1843-1859" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1072> "Wikipedia, geraadpleegd op 27-07-2016" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60052> <https://nl.wikipedia.org/wiki/De_bruid_daarboven> .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000055> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000055> .
+<http://rimmfdata.com/r/ingressus00000055> <http://rimmf.com/vocab/R1078> "Causerie\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000055> <http://rimmf.com/vocab/R1044> "ingressus00000055" .
+<http://rimmfdata.com/r/ingressus00000055> <http://rdaregistry.info/Elements/u/P60588> "Causerie\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000055> <http://rdaregistry.info/Elements/u/P60527> "1869" .
+<http://rimmfdata.com/r/ingressus00000055> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000055> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000056> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000056> .
+<http://rimmfdata.com/r/ingressus00000056> <http://rimmf.com/vocab/R1078> "Divagati\u00EBn over zeker soort van Liberalismus" .
+<http://rimmfdata.com/r/ingressus00000056> <http://rimmf.com/vocab/R1044> "ingressus00000056" .
+<http://rimmfdata.com/r/ingressus00000056> <http://rdaregistry.info/Elements/u/P60588> "Divagati\u00EBn over zeker soort van Liberalismus" .
+<http://rimmfdata.com/r/ingressus00000056> <http://rdaregistry.info/Elements/u/P60527> "1870" .
+<http://rimmfdata.com/r/ingressus00000056> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000056> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000057> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000057> .
+<http://rimmfdata.com/r/ingressus00000057> <http://rimmf.com/vocab/R1078> "Duizend en eenige hoofdstukken over specialiteiten" .
+<http://rimmfdata.com/r/ingressus00000057> <http://rimmf.com/vocab/R1044> "ingressus00000057" .
+<http://rimmfdata.com/r/ingressus00000057> <http://rdaregistry.info/Elements/u/P60588> "Duizend en eenige hoofdstukken over specialiteiten" .
+<http://rimmfdata.com/r/ingressus00000057> <http://rdaregistry.info/Elements/u/P60527> "1871" .
+<http://rimmfdata.com/r/ingressus00000057> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000057> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000058> .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1078> "Een en ander over Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Een en ander naar aanleiding van J. Bosscha's Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1078> "Een en ander naar aanleiding van J. Bosscha's Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1044> "ingressus00000058" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rdaregistry.info/Elements/u/P60588> "Een en ander over Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rdaregistry.info/Elements/u/P60355> "Een en ander naar aanleiding van J. Bosscha's Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rdaregistry.info/Elements/u/P60527> "1867" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000059> .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1078> "Franse rymen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Franse rijmen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1078> "Franse rijmen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1044> "ingressus00000059" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rdaregistry.info/Elements/u/P60588> "Franse rymen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rdaregistry.info/Elements/u/P60355> "Franse rijmen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rdaregistry.info/Elements/u/P60527> "1864" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000060> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000060> .
+<http://rimmfdata.com/r/ingressus00000060> <http://rimmf.com/vocab/R1078> "Het gebed van den onwetende" .
+<http://rimmfdata.com/r/ingressus00000060> <http://rimmf.com/vocab/R1044> "ingressus00000060" .
+<http://rimmfdata.com/r/ingressus00000060> <http://rdaregistry.info/Elements/u/P60588> "Het gebed van den onwetende" .
+<http://rimmfdata.com/r/ingressus00000060> <http://rdaregistry.info/Elements/u/P60527> "1860" .
+<http://rimmfdata.com/r/ingressus00000060> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000060> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000061> .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1044> "ingressus00000061" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1078> "Geloofsbelydenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Geloofsbelijdenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1078> "Geloofsbelijdenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rdaregistry.info/Elements/u/P60355> "Geloofsbelijdenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rdaregistry.info/Elements/u/P60588> "Geloofsbelydenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rdaregistry.info/Elements/u/P60527> "1859" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000062> .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 1e bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1044> "ingressus00000062" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 1e bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60527> "1862" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 2e bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60527> "1863-1864" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000063> .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1044> "ingressus00000063" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 2e bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 3e bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60527> "1868-1871" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000064> .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1044> "ingressus00000064" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 3e bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000065> .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1044> "ingressus00000065" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 4e bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60527> "1867-1872" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 4e bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 5e bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60527> "1873" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000066> .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1044> "ingressus00000066" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 5e bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 6e bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60527> "1873" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000067> .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1044> "ingressus00000067" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 6e bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 7e bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60527> "1874" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000068> .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1044> "ingressus00000068" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 7e bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000069> .
+<http://rimmfdata.com/r/ingressus00000069> <http://rdaregistry.info/Elements/u/P60588> "Japansche gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rdaregistry.info/Elements/u/P60355> "Japanse gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rdaregistry.info/Elements/u/P60527> "1862" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1044> "ingressus00000069" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1078> "Japansche gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Japanse gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1078> "Japanse gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000070> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000070> .
+<http://rimmfdata.com/r/ingressus00000070> <http://rdaregistry.info/Elements/u/P60588> "De Maatschappij tot Nut van den Javaan" .
+<http://rimmfdata.com/r/ingressus00000070> <http://rdaregistry.info/Elements/u/P60527> "1869" .
+<http://rimmfdata.com/r/ingressus00000070> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000070> <http://rimmf.com/vocab/R1044> "ingressus00000070" .
+<http://rimmfdata.com/r/ingressus00000070> <http://rimmf.com/vocab/R1078> "De Maatschappij tot Nut van den Javaan" .
+<http://rimmfdata.com/r/ingressus00000070> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000071> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000071> .
+<http://rimmfdata.com/r/ingressus00000071> <http://rdaregistry.info/Elements/u/P60588> "Max Havelaar aan Multatuli" .
+<http://rimmfdata.com/r/ingressus00000071> <http://rdaregistry.info/Elements/u/P60527> "1860" .
+<http://rimmfdata.com/r/ingressus00000071> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000071> <http://rimmf.com/vocab/R1044> "ingressus00000071" .
+<http://rimmfdata.com/r/ingressus00000071> <http://rimmf.com/vocab/R1078> "Max Havelaar aan Multatuli" .
+<http://rimmfdata.com/r/ingressus00000071> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000072> .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1044> "ingressus00000072" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rdaregistry.info/Elements/u/P60355> "Miljoenen-studi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rdaregistry.info/Elements/u/P60588> "Millioenenstudi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rdaregistry.info/Elements/u/P60527> "1870" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1078> "Millioenenstudi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Miljoenen-studi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1078> "Miljoenen-studi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000073> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000073> .
+<http://rimmfdata.com/r/ingressus00000073> <http://rimmf.com/vocab/R1044> "ingressus00000073" .
+<http://rimmfdata.com/r/ingressus00000073> <http://rdaregistry.info/Elements/u/P60588> "Minnebrieven" .
+<http://rimmfdata.com/r/ingressus00000073> <http://rdaregistry.info/Elements/u/P60527> "1870" .
+<http://rimmfdata.com/r/ingressus00000073> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000073> <http://rimmf.com/vocab/R1078> "Minnebrieven" .
+<http://rimmfdata.com/r/ingressus00000073> <http://rdaregistry.info/Elements/u/P60052> <http://viaf.org/viaf/188643327> .
+<http://rimmfdata.com/r/ingressus00000073> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000074> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000074> .
+<http://rimmfdata.com/r/ingressus00000074> <http://rdaregistry.info/Elements/u/P60588> "Nog eens: vrye arbeid in Nederlands-Indi\u00EB" .
+<http://rimmfdata.com/r/ingressus00000074> <http://rdaregistry.info/Elements/u/P60527> "1867-1870" .
+<http://rimmfdata.com/r/ingressus00000074> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000074> <http://rimmf.com/vocab/R1044> "ingressus00000074" .
+<http://rimmfdata.com/r/ingressus00000074> <http://rimmf.com/vocab/R1078> "Nog eens: vrye arbeid in Nederlands-Indi\u00EB" .
+<http://rimmfdata.com/r/ingressus00000074> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000074> <http://rdaregistry.info/Elements/u/P60576> <http://rimmfdata.com/r/ingressus00000076> .
+<http://rimmfdata.com/r/ingressus00000075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000075> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000075> .
+<http://rimmfdata.com/r/ingressus00000075> <http://rdaregistry.info/Elements/u/P60588> "Onafgewerkte blaadjes" .
+<http://rimmfdata.com/r/ingressus00000075> <http://rdaregistry.info/Elements/u/P60527> "1886" .
+<http://rimmfdata.com/r/ingressus00000075> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000075> <http://rimmf.com/vocab/R1044> "ingressus00000075" .
+<http://rimmfdata.com/r/ingressus00000075> <http://rimmf.com/vocab/R1078> "Onafgewerkte blaadjes" .
+<http://rimmfdata.com/r/ingressus00000075> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000076> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000076> .
+<http://rimmfdata.com/r/ingressus00000076> <http://rdaregistry.info/Elements/u/P60588> "Over vryen arbeid in Nederlands-Indi\u00EB" .
+<http://rimmfdata.com/r/ingressus00000076> <http://rdaregistry.info/Elements/u/P60527> "1861-1862" .
+<http://rimmfdata.com/r/ingressus00000076> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000076> <http://rimmf.com/vocab/R1044> "ingressus00000076" .
+<http://rimmfdata.com/r/ingressus00000076> <http://rimmf.com/vocab/R1078> "Over vryen arbeid in Nederlands-Indi\u00EB" .
+<http://rimmfdata.com/r/ingressus00000076> <http://rdaregistry.info/Elements/u/P60306> <http://rimmfdata.com/r/ingressus00000074> .
+<http://rimmfdata.com/r/ingressus00000077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000077> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000077> .
+<http://rimmfdata.com/r/ingressus00000077> <http://rdaregistry.info/Elements/u/P60588> "De school des levens" .
+<http://rimmfdata.com/r/ingressus00000077> <http://rdaregistry.info/Elements/u/P60527> "1863" .
+<http://rimmfdata.com/r/ingressus00000077> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000077> <http://rimmf.com/vocab/R1044> "ingressus00000077" .
+<http://rimmfdata.com/r/ingressus00000077> <http://rimmf.com/vocab/R1078> "De school des levens" .
+<http://rimmfdata.com/r/ingressus00000077> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000078> .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1044> "ingressus00000078" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rdaregistry.info/Elements/u/P60355> "Wijs mij de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rdaregistry.info/Elements/u/P60588> "Wys my de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rdaregistry.info/Elements/u/P60527> "1861" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1078> "Wys my de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Wijs mij de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1078> "Wijs mij de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000079> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000079> .
+<http://rimmfdata.com/r/ingressus00000079> <http://rdaregistry.info/Elements/u/P60588> "De zegen Gods door Waterloo" .
+<http://rimmfdata.com/r/ingressus00000079> <http://rdaregistry.info/Elements/u/P60527> "1865" .
+<http://rimmfdata.com/r/ingressus00000079> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000079> <http://rimmf.com/vocab/R1044> "ingressus00000079" .
+<http://rimmfdata.com/r/ingressus00000079> <http://rimmf.com/vocab/R1078> "De zegen Gods door Waterloo" .
+<http://rimmfdata.com/r/ingressus00000079> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000045> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/ingressus00000045> .
+<http://rimmfdata.com/r/ingressus00000045> <http://rimmf.com/vocab/R1043> "ingressus00000045" .
+<http://rimmfdata.com/r/ingressus00000045> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/ingressus00000045> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/ingressus00000045> <http://rimmf.com/vocab/R1077> "Multatuli. Max Havelaar, or, The coffee auctions of the Dutch Trading Company. Text. English" .
+<http://rimmfdata.com/r/ingressus00000045> <http://rimmf.com/vocab/R1077> "Max Havelaar, or, The coffee auctions of the Dutch Trading Company. Text. English" .
+<http://rimmfdata.com/r/ingressus00000045> 0 <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/ingressus00000046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1043> "ingressus00000046" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1077> "Max Havelaar, of de koffij-veilingen der Nederlandsche Handel-Maatschappij. Text. Dutch" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1077> "Max Havelaar, of de koffieveilingen van de Nederlandse Handelmaatschappij. Text. Dutch" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1077> "Max Havelaar, of de koffiveilingen der Nederlandsche Handelmaatschappy. Text. Dutch" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1077> "Multatuli, 1820-1887. Max Havelaar, of De koffij-veilingen der Nederlandsche Handel-Maatschappij. Text. Dutch" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1073> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1071> "Max Havelaar, 1860" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/ingressus00000042> .
