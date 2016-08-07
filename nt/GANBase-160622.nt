@@ -1,0 +1,336 @@
+<http://rimmfdata.com/r/Q-AF00000019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/Q-AF00000019> .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rimmf.com/vocab/R1079> "Q-AF00000019" .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60549> "GAN" .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60119> "Adrian-Nilsson, G\u00F6sta" .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60599> "1884" .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60598> "1965" .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60468> "Artist" .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60468> "0" .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60531> <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/Q-AF00000019> 0 "Sweden" .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60492> "G\u00F6sta Adrian-Nilsson, signaturen GAN, debuterade som poet med verket Dikter (1907). Samma \u00E5r debuterade han som konstn\u00E4r med en utst\u00E4llning i Lunds universitets konstmuseum. I b\u00F6rjan av sin konstn\u00E4rsbana var han inspirerad av jugendstilen. Adrian-Nilsson fortsatte att skriva lyrik och noveller och var \u00E4ven verksam som journalist, illustrat\u00F6r och konstkritiker. Efter ytterligare tre sk\u00F6nlitter\u00E4ra b\u00F6cker for han i b\u00F6rjan av 1913 till Berlin f\u00F6r att studera den kontinentala modernismen exempelvis olika riktningar inom expressionismen, futurismen och kubismen. Han var f\u00F6rest\u00E5ndare f\u00F6r Bruno Tauts glaspaviljong p\u00E5 Deutscher Werkbunds utst\u00E4llning i K\u00F6ln sommaren 1914. H\u00F6sten 1916 flyttade han till Stockholm, d\u00E4r han v\u00E4ckte uppseende genom sin radikala modernism och sin ivriga propaganda f\u00F6r den nya konsten. Utst\u00E4llningen Sj\u00F6mansm\u00E5lningar p\u00E5 Gummesons konstgalleri 1918 var en av Adrian-Nilssons viktigaste och mest homogena. Mot slutet av decenniet flyttade han till Paris och kom d\u00E4r i kontakt med Fernand L\u00E9ger. Under de f\u00F6ljande \u00E5rens dekorativa uppgifter i Lund skapade han v\u00E4ggm\u00E5lningar i Hantverksf\u00F6reningens festsal 1927 i Lund och gobel\u00E4ngen Finnsagan f\u00F6r Kulturen i Lund 1929. Under denna tid ritade Adrian-Nilsson \u00E4ven silverpj\u00E4ser f\u00F6r Wiwen Nilsson och tennf\u00F6rem\u00E5l f\u00F6r Astrid M. Aagesen. Adrian-Nilsson deltog 1930 i Stockholmsutst\u00E4llningen med en svit plangeometriska m\u00E5lningar i Art Concrets anda och flyttade f\u00F6ljande \u00E5r p\u00E5 nytt till Stockholm. Han var f\u00F6reg\u00E5ngare till bl.a. Halmstadgruppen och ansl\u00F6t sig under 1930-talet liksom denna till surrealismen. Under 1940- och 50-talen orienterade sig Adrian-Nilsson \u00E5ter mot det konstruktiva m\u00E5leri som han varit en av pionj\u00E4rerna f\u00F6r i Sverige. \u00C5r 1964 tilldelades han som en av de f\u00F6rsta statlig konstn\u00E4rsbel\u00F6ning." .
+<http://rimmfdata.com/r/Q-AF00000019> 0 <http://rimmfdata.com/r/Q-HLi00000064> .
+<http://rimmfdata.com/r/Q-AF00000019> 0 <http://rimmfdata.com/r/Q-HLi00000068> .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60658> <http://rimmfdata.com/r/Q-HLi00000072> .
+<http://rimmfdata.com/r/Q-AF00000019> <http://rdaregistry.info/Elements/u/P60624> <http://rimmfdata.com/r/Q-HLi00000077> .
+<http://rimmfdata.com/r/Q-AF00000019> 0 <http://rimmfdata.com/r/Q-HLi00000070> .
+<http://rimmfdata.com/r/Q-AF00000019> 0 <http://rimmfdata.com/r/Q-HLi00000074> .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/Q-HLi00000080> .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rimmf.com/vocab/R1079> "Q-HLi00000080" .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rdaregistry.info/Elements/u/P60549> "Corlin, Axel" .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rdaregistry.info/Elements/u/P60119> "Corlin, Axel Gustav Johan" .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rdaregistry.info/Elements/u/P60599> "1896" .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rdaregistry.info/Elements/u/P60598> "1965" .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rdaregistry.info/Elements/u/P60468> "Docent" .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rdaregistry.info/Elements/u/P60468> "F\u00F6rfattare" .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rdaregistry.info/Elements/u/P60531> "Man" .
+<http://rimmfdata.com/r/Q-HLi00000080> 0 "Sverige" .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rdaregistry.info/Elements/u/P60492> "Disputerade 1934 p\u00E5 en avhandling om kosmisk str\u00E5lning, sedemera docent vid Lunds universitet i astronomi och f\u00F6rfattare. " .
+<http://rimmfdata.com/r/Q-HLi00000080> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/Q-HLi00000076> .
+<http://rimmfdata.com/r/Q-AF00000016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000016> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/Q-AF00000016> .
+<http://rimmfdata.com/r/Q-AF00000016> <http://rdaregistry.info/Elements/u/P60549> "Universitetsbiblioteket, Lunds universitet" .
+<http://rimmfdata.com/r/Q-AF00000016> <http://rdaregistry.info/Elements/u/P60325> "Lund, Sverige" .
+<http://rimmfdata.com/r/Q-AF00000016> <http://rdaregistry.info/Elements/u/P60324> "1907" .
+<http://rimmfdata.com/r/Q-AF00000016> <http://rdaregistry.info/Elements/u/P60512> "Helgonabacken, Box 3, 221 00 Lund" .
+<http://rimmfdata.com/r/Q-AF00000016> <http://rimmf.com/vocab/R1083> "Q-AF00000016" .
+<http://rimmfdata.com/r/Q-AF00000016> <http://rdaregistry.info/Elements/u/P60158> <http://rimmfdata.com/r/Q-HLi00000064> .
+<http://rimmfdata.com/r/Q-AF00000016> <http://rdaregistry.info/Elements/u/P60158> <http://rimmfdata.com/r/Q-HLi00000068> .
+<http://rimmfdata.com/r/Q-AF00000016> <http://rdaregistry.info/Elements/u/P60158> <http://rimmfdata.com/r/Q-HLi00000072> .
+<http://rimmfdata.com/r/Q-AF00000016> 0 <http://rimmfdata.com/r/Q-HLi00000079> .
+<http://rimmfdata.com/r/Q-AF00000016> 0 <http://rimmfdata.com/r/Q-HLi00000075> .
+<http://rimmfdata.com/r/Q-AF00000016> 0 <http://rimmfdata.com/r/Q-HLi00000067> .
+<http://rimmfdata.com/r/Q-AF00000016> 0 <http://rimmfdata.com/r/Q-HLi00000071> .
+<http://rimmfdata.com/r/Q-AF00000062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000062> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/Q-AF00000062> .
+<http://rimmfdata.com/r/Q-AF00000062> <http://rdaregistry.info/Elements/u/P60549> "Astronomisk Selskab" .
+<http://rimmfdata.com/r/Q-AF00000062> <http://rdaregistry.info/Elements/u/P60325> "K\u00F6penhamn, Danmark" .
+<http://rimmfdata.com/r/Q-AF00000062> <http://rdaregistry.info/Elements/u/P60512> "N\u00F8rrebrogade 7A, 3. tv, 2200 K\u00F8benhavn N, Danmark" .
+<http://rimmfdata.com/r/Q-AF00000062> <http://rimmf.com/vocab/R1083> "Q-AF00000062" .
+<http://rimmfdata.com/r/Q-AF00000062> 0 <http://rimmfdata.com/r/Q-AF00000061> .
+<http://rimmfdata.com/r/Q-AF00000062> 0 <http://rimmfdata.com/r/Q-AF00000064> .
+<http://rimmfdata.com/r/Q-AF00000062> 0 <http://rimmfdata.com/r/Q-HLi00000078> .
+<http://rimmfdata.com/r/Q-AF00000066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000066> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/Q-AF00000066> .
+<http://rimmfdata.com/r/Q-AF00000066> <http://rimmf.com/vocab/R1083> "Q-AF00000066" .
+<http://rimmfdata.com/r/Q-AF00000066> <http://rdaregistry.info/Elements/u/P60549> "Ume\u00E5 universitetsbibliotek" .
+<http://rimmfdata.com/r/Q-AF00000066> <http://rdaregistry.info/Elements/u/P60325> "Ume\u00E5, Sverige" .
+<http://rimmfdata.com/r/Q-AF00000066> <http://rdaregistry.info/Elements/u/P60324> "1964" .
+<http://rimmfdata.com/r/Q-AF00000066> <http://rdaregistry.info/Elements/u/P60512> "Samh\u00E4llsvetarhuset, 901 74 Ume\u00E5" .
+<http://rimmfdata.com/r/Q-AF00000066> 0 <http://rimmfdata.com/r/Q-AF00000065> .
+<http://rimmfdata.com/r/Q-HLi00000083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000083> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/Q-HLi00000083> .
+<http://rimmfdata.com/r/Q-HLi00000083> <http://rdaregistry.info/Elements/u/P60549> "Charles Johansen" .
+<http://rimmfdata.com/r/Q-HLi00000083> <http://rdaregistry.info/Elements/u/P60325> "K\u00F6penhamn, Danmark" .
+<http://rimmfdata.com/r/Q-HLi00000083> <http://rimmf.com/vocab/R1083> "Q-HLi00000083" .
+<http://rimmfdata.com/r/Q-HLi00000083> 0 <http://rimmfdata.com/r/Q-HLi00000078> .
+<http://rimmfdata.com/r/Q-AF00000061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000061> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/Q-AF00000061> .
+<http://rimmfdata.com/r/Q-AF00000061> <http://rimmf.com/vocab/R1044> "Q-AF00000061" .
+<http://rimmfdata.com/r/Q-AF00000061> <http://rdaregistry.info/Elements/u/P60588> "Nordisk astronomisk tidsskrift" .
+<http://rimmfdata.com/r/Q-AF00000061> <http://rdaregistry.info/Elements/u/P60527> "1916-1967" .
+<http://rimmfdata.com/r/Q-AF00000061> <http://rdaregistry.info/Elements/u/P60523> "Danmark" .
+<http://rimmfdata.com/r/Q-AF00000061> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/Q-AF00000062> .
+<http://rimmfdata.com/r/Q-AF00000061> <http://rimmf.com/vocab/R1078> "Nordisk astronomisk tidsskrift" .
+<http://rimmfdata.com/r/Q-AF00000061> 0 <http://rimmfdata.com/r/Q-AF00000063> .
+<http://rimmfdata.com/r/Q-AF00000061> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000076> .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/Q-HLi00000064> .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rimmf.com/vocab/R1044> "Q-HLi00000064" .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60588> "G\u00F6sta Adrian-Nilssons (GAN) efterl\u00E4mnade papper" .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60527> "1902-1965" .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60491> "Deposition av institutionen f\u00F6r konstvetenskap, Lunds universitet 1965. Till\u00E4gg har under \u00E5ren gjorts via g\u00E5vor och k\u00F6p." .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60584> "Personarkiv med bland annat personliga handlingar, fotografier, m\u00E5lningar och pressklipp." .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60348> "Organiserat i nio handlingstyper f\u00F6rdelade i 33 volymer: biographica; brev; dagb\u00F6cker; ekonomiska handlingar; fotografier; manuskript; pressklipp; teckningar, m\u00E5lningar; tryck." .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/Q-AF00000019> .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rimmf.com/vocab/R1078> "G\u00F6sta Adrian-Nilssons (GAN) efterl\u00E4mnade papper" .
+<http://rimmfdata.com/r/Q-HLi00000064> 0 <http://rimmfdata.com/r/Q-HLi00000065> .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60374> <http://rimmfdata.com/r/Q-AF00000016> .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000068> .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000072> .
+<http://rimmfdata.com/r/Q-HLi00000064> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000076> .
+<http://rimmfdata.com/r/Q-HLi00000068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000068> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/Q-HLi00000068> .
+<http://rimmfdata.com/r/Q-HLi00000068> <http://rimmf.com/vocab/R1044> "Q-HLi00000068" .
+<http://rimmfdata.com/r/Q-HLi00000068> <http://rdaregistry.info/Elements/u/P60588> "Dagb\u00F6cker I-VIII" .
+<http://rimmfdata.com/r/Q-HLi00000068> <http://rdaregistry.info/Elements/u/P60527> "1915/16 - 1918/19" .
+<http://rimmfdata.com/r/Q-HLi00000068> <http://rdaregistry.info/Elements/u/P60584> "Dagb\u00F6cker" .
+<http://rimmfdata.com/r/Q-HLi00000068> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/Q-AF00000019> .
+<http://rimmfdata.com/r/Q-HLi00000068> 0 <http://rimmfdata.com/r/Q-HLi00000069> .
+<http://rimmfdata.com/r/Q-HLi00000068> <http://rdaregistry.info/Elements/u/P60374> <http://rimmfdata.com/r/Q-AF00000016> .
+<http://rimmfdata.com/r/Q-HLi00000068> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-HLi00000064> .
+<http://rimmfdata.com/r/Q-HLi00000072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000072> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/Q-HLi00000072> .
+<http://rimmfdata.com/r/Q-HLi00000072> <http://rimmf.com/vocab/R1044> "Q-HLi00000072" .
+<http://rimmfdata.com/r/Q-HLi00000072> <http://rdaregistry.info/Elements/u/P60588> "Diverse fotografier av tavlor, skulpturer och portr\u00E4tt" .
+<http://rimmfdata.com/r/Q-HLi00000072> <http://rdaregistry.info/Elements/u/P60584> "Fotografier av tavlor, skulpturer och portr\u00E4tt, inklusive negativ" .
+<http://rimmfdata.com/r/Q-HLi00000072> <http://rdaregistry.info/Elements/u/P60429> <http://rimmfdata.com/r/Q-AF00000019> .
+<http://rimmfdata.com/r/Q-HLi00000072> 0 <http://rimmfdata.com/r/Q-HLi00000073> .
+<http://rimmfdata.com/r/Q-HLi00000072> <http://rdaregistry.info/Elements/u/P60374> <http://rimmfdata.com/r/Q-AF00000016> .
+<http://rimmfdata.com/r/Q-HLi00000072> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-HLi00000064> .
+<http://rimmfdata.com/r/Q-HLi00000076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000076> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/Q-HLi00000076> .
+<http://rimmfdata.com/r/Q-HLi00000076> <http://rimmf.com/vocab/R1044> "Q-HLi00000076" .
+<http://rimmfdata.com/r/Q-HLi00000076> <http://rdaregistry.info/Elements/u/P60588> "Den kosmiska ultrastr\u00E5lningen" .
+<http://rimmfdata.com/r/Q-HLi00000076> <http://rdaregistry.info/Elements/u/P60527> "1930" .
+<http://rimmfdata.com/r/Q-HLi00000076> <http://rdaregistry.info/Elements/u/P60584> "Artikel i tidskrift" .
+<http://rimmfdata.com/r/Q-HLi00000076> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/Q-HLi00000080> .
+<http://rimmfdata.com/r/Q-HLi00000076> 0 <http://rimmfdata.com/r/Q-HLi00000077> .
+<http://rimmfdata.com/r/Q-HLi00000076> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-AF00000061> .
+<http://rimmfdata.com/r/Q-HLi00000076> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-HLi00000064> .
+<http://rimmfdata.com/r/Q-AF00000063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000063> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/Q-AF00000063> .
+<http://rimmfdata.com/r/Q-AF00000063> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/Q-AF00000063> <http://rdaregistry.info/Elements/u/P60527> "1916-1967" .
+<http://rimmfdata.com/r/Q-AF00000063> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dan> .
+<http://rimmfdata.com/r/Q-AF00000063> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/nor> .
+<http://rimmfdata.com/r/Q-AF00000063> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/Q-AF00000063> <http://rimmf.com/vocab/R1043> "Q-AF00000063" .
+<http://rimmfdata.com/r/Q-AF00000063> 0 <http://rimmfdata.com/r/Q-AF00000061> .
+<http://rimmfdata.com/r/Q-AF00000063> 0 <http://rimmfdata.com/r/Q-AF00000064> .
+<http://rimmfdata.com/r/Q-AF00000063> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000077> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/Q-HLi00000065> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rimmf.com/vocab/R1043> "Q-HLi00000065" .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1014> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rdaregistry.info/Elements/u/P60527> "1902--1965" .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rdaregistry.info/Elements/u/P60372> "Brev fr\u00E5n och till GAN, samt mellan andra personer. Biographica, manuskript, teckningar, skisser, fotografier, utst\u00E4llningskataloger, affischer, konst- och s\u00E4rtryck, tidskrifter, monografiska skrifter och tidningsurklipp. Vetenskapliga arbeten av astronomen vid Lunds universitet Axel Corlin, vilka \u00F6verl\u00E4mnats till GAN." .
+<http://rimmfdata.com/r/Q-HLi00000065> 0 <http://rimmfdata.com/r/Q-HLi00000064> .
+<http://rimmfdata.com/r/Q-HLi00000065> 0 <http://rimmfdata.com/r/Q-HLi00000066> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000069> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000073> .
+<http://rimmfdata.com/r/Q-HLi00000065> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000077> .
+<http://rimmfdata.com/r/Q-HLi00000069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000069> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/Q-HLi00000069> .
+<http://rimmfdata.com/r/Q-HLi00000069> <http://rimmf.com/vocab/R1043> "Q-HLi00000069" .
+<http://rimmfdata.com/r/Q-HLi00000069> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/Q-HLi00000069> <http://rdaregistry.info/Elements/u/P60527> "1915/16 - 1918/19" .
+<http://rimmfdata.com/r/Q-HLi00000069> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/Q-HLi00000069> 0 <http://rimmfdata.com/r/Q-HLi00000068> .
+<http://rimmfdata.com/r/Q-HLi00000069> 0 <http://rimmfdata.com/r/Q-HLi00000070> .
+<http://rimmfdata.com/r/Q-HLi00000069> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-HLi00000065> .
+<http://rimmfdata.com/r/Q-HLi00000073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000073> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/Q-HLi00000073> .
+<http://rimmfdata.com/r/Q-HLi00000073> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1014> .
+<http://rimmfdata.com/r/Q-HLi00000073> <http://rimmf.com/vocab/R1043> "Q-HLi00000073" .
+<http://rimmfdata.com/r/Q-HLi00000073> 0 <http://rimmfdata.com/r/Q-HLi00000072> .
+<http://rimmfdata.com/r/Q-HLi00000073> 0 <http://rimmfdata.com/r/Q-HLi00000074> .
+<http://rimmfdata.com/r/Q-HLi00000073> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-HLi00000065> .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/Q-HLi00000077> .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rdaregistry.info/Elements/u/P60527> "1930" .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rdaregistry.info/Elements/u/P60558> "black and white" .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rdaregistry.info/Elements/u/P60558> "colour" .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rimmf.com/vocab/R1043> "Q-HLi00000077" .
+<http://rimmfdata.com/r/Q-HLi00000077> 0 <http://rimmfdata.com/r/Q-HLi00000076> .
+<http://rimmfdata.com/r/Q-HLi00000077> 0 <http://rimmfdata.com/r/Q-HLi00000078> .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rdaregistry.info/Elements/u/P60396> <http://rimmfdata.com/r/Q-AF00000019> .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-AF00000063> .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-HLi00000065> .
+<http://rimmfdata.com/r/Q-HLi00000077> <http://rdaregistry.info/Elements/u/P60105> "Illustrat\u00F6r: G\u00F6sta Adrian-Nilsson" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-AF00000064> .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rimmf.com/vocab/R1085> "Q-AF00000064" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60515> "Nordisk astronomisk tidsskrift" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60597> "Nordisk astronomisk tidsskrift " .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60327> "udg. af Astronomisk Selskab, K\u00F8benhavn" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60499> "Bd 1, nr 1" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60501> "1916" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60500> "Bd 48, nr 4" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60502> "1967" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60163> "K\u00F6penhamn, Danmark" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60547> "Astronomisk Selskab" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60073> "1916-1967" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1003> .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60538> <http://rdaregistry.info/termList/frequency/1010> .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60052> "0909-4865" .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/Q-AF00000064> 0 <http://rimmfdata.com/r/Q-AF00000063> .
+<http://rimmfdata.com/r/Q-AF00000064> 0 <http://rimmfdata.com/r/Q-AF00000065> .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60444> <http://rimmfdata.com/r/Q-AF00000062> .
+<http://rimmfdata.com/r/Q-AF00000064> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000078> .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-HLi00000066> .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rimmf.com/vocab/R1085> "Q-HLi00000066" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60515> "G\u00F6sta Adrian-Nilssons (GAN) efterl\u00E4mnade papper" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60327> "f\u00F6rtecknat av Lunds universitetsbibliotek" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60333> "1902-1965" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60073> "1902-1965" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60128> "Vissa objekt i arkivet odaterade" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1048> .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60550> "2,8 hyllmeter" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60550> "ca 6 volymer" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60550> "ca 27 volymer" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60134> "Inneh\u00E5ller diverse osorterat material, fotonegativ, kopia av bok samt fragment." .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60490> "Universitetsbiblioteket, Lunds universitet. Helgonabacken, Box 3, 221 00 Lund, Sverige" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60497> "Kan omfattas av lagen om upphovsr\u00E4tt" .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60511> <http://www.ediffah.org/search/present.cgi?id=ediffah:lub:652157:1286235784> .
+<http://rimmfdata.com/r/Q-HLi00000066> 0 <http://rimmfdata.com/r/Q-HLi00000065> .
+<http://rimmfdata.com/r/Q-HLi00000066> 0 <http://rimmfdata.com/r/Q-HLi00000067> .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000070> .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000074> .
+<http://rimmfdata.com/r/Q-HLi00000066> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000078> .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-HLi00000070> .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rdaregistry.info/Elements/u/P60515> "Dagb\u00F6cker I-VIII" .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rdaregistry.info/Elements/u/P60327> "Antecknade av G\u00F6sta Adrian-Nilsson" .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rdaregistry.info/Elements/u/P60071> "1915/16-1918/19" .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rimmf.com/vocab/R1063> "8 volumes" .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rimmf.com/vocab/R1062> "8" .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rdaregistry.info/Elements/u/P60490> "Universitetsbiblioteket, Lunds universitet. Helgonabacken, Box 3, 221 00 Lund, Sverige" .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rdaregistry.info/Elements/u/P60497> "Kan omfattas av lagen om upphovsr\u00E4tt" .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rimmf.com/vocab/R1085> "Q-HLi00000070" .
+<http://rimmfdata.com/r/Q-HLi00000070> 0 <http://rimmfdata.com/r/Q-HLi00000069> .
+<http://rimmfdata.com/r/Q-HLi00000070> 0 <http://rimmfdata.com/r/Q-HLi00000071> .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rdaregistry.info/Elements/u/P60440> <http://rimmfdata.com/r/Q-AF00000019> .
+<http://rimmfdata.com/r/Q-HLi00000070> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-HLi00000066> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-HLi00000074> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rimmf.com/vocab/R1085> "Q-HLi00000074" .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60515> "Diverse fotografier av tavlor, skulpturer och portr\u00E4tt" .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60327> "tagna av G\u00F6sta Adrian-Nilsson (GAN)" .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1002> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1048> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rimmf.com/vocab/R1063> "20 photographs" .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rimmf.com/vocab/R1062> "20" .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rimmf.com/vocab/R1067> <http://rdaregistry.info/termList/extentImage/1024> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rimmf.com/vocab/R1063> "13 negatives" .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rimmf.com/vocab/R1062> "13" .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rimmf.com/vocab/R1067> "negatives" .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60573> <http://rdaregistry.info/termList/RDAPolarity/1003> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60490> "Universitetsbiblioteket, Lunds universitet. Helgonabacken, Box 3, 221 00 Lund, Sverige" .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60497> "Kan omfattas av lagen om upphovsr\u00E4tt" .
+<http://rimmfdata.com/r/Q-HLi00000074> 0 <http://rimmfdata.com/r/Q-HLi00000073> .
+<http://rimmfdata.com/r/Q-HLi00000074> 0 <http://rimmfdata.com/r/Q-HLi00000075> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60440> <http://rimmfdata.com/r/Q-AF00000019> .
+<http://rimmfdata.com/r/Q-HLi00000074> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-HLi00000066> .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-HLi00000078> .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60515> "Den kosmiska ultrastr\u00E5lningen" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60493> "f\u00F6redrag h\u00E5llet i Astronomisk selskab, K\u00F6penhamn, den 28. oktober 1930" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60327> "Axel Corlin" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60163> "K\u00F8benhavn" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60547> "Astronomisk Selskab" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60073> "1930" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60162> "K\u00F8benhavn" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60546> "Charles Johansen" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60072> "1930" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60516> "Nordisk astronomisk tidsskrift" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60335> "udg. af Astronomisk Selskab, K\u00F8benhavn" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60534> "0909-4865" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60081> "Ny r\u00E6kke, bind 11, no. 4" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1048> .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1063> "pages, 148-165" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1062> "148-165" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1063> "1 technical drawing, colour" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1062> "1" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1067> "technical drawing, colour" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1063> "4 photographs, black and white" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1062> "4" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1067> "photographs, black and white" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1063> "tables" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1067> "tables" .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rimmf.com/vocab/R1085> "Q-HLi00000078" .
+<http://rimmfdata.com/r/Q-HLi00000078> 0 <http://rimmfdata.com/r/Q-HLi00000077> .
+<http://rimmfdata.com/r/Q-HLi00000078> 0 <http://rimmfdata.com/r/Q-HLi00000079> .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60444> <http://rimmfdata.com/r/Q-AF00000062> .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60443> <http://rimmfdata.com/r/Q-HLi00000083> .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-AF00000064> .
+<http://rimmfdata.com/r/Q-HLi00000078> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-HLi00000066> .
+<http://rimmfdata.com/r/Q-AF00000065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000065> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-AF00000065> .
+<http://rimmfdata.com/r/Q-AF00000065> <http://rimmf.com/vocab/R1086> "Q-AF00000065" .
+<http://rimmfdata.com/r/Q-AF00000065> <http://rimmf.com/vocab/R1029> "Nordisk astronomisk tidsskrift" .
+<http://rimmfdata.com/r/Q-AF00000065> <http://rdaregistry.info/Elements/u/P60052> "Placering: mag uP 00049" .
+<http://rimmfdata.com/r/Q-AF00000065> <http://rdaregistry.info/Elements/u/P60052> "Best\u00E5nd: N.R. Bd 1-48 (1920-1967)" .
+<http://rimmfdata.com/r/Q-AF00000065> 0 <http://rimmfdata.com/r/Q-AF00000064> .
+<http://rimmfdata.com/r/Q-AF00000065> <http://rdaregistry.info/Elements/u/P60404> <http://rimmfdata.com/r/Q-AF00000066> .
+<http://rimmfdata.com/r/Q-HLi00000067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000067> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-HLi00000067> .
+<http://rimmfdata.com/r/Q-HLi00000067> <http://rimmf.com/vocab/R1086> "Q-HLi00000067" .
+<http://rimmfdata.com/r/Q-HLi00000067> <http://rimmf.com/vocab/R1029> "G\u00F6sta Adrian-Nilssons (GAN) efterl\u00E4mnade papper" .
+<http://rimmfdata.com/r/Q-HLi00000067> <http://rdaregistry.info/Elements/u/P60176> "Delar av arkivet utg\u00F6rs av en deposition av institutionen f\u00F6r konstvetenskap, Lunds universitet 1965" .
+<http://rimmfdata.com/r/Q-HLi00000067> <http://rdaregistry.info/Elements/u/P60052> "Placering: Mag. 1, Saml." .
+<http://rimmfdata.com/r/Q-HLi00000067> <http://rdaregistry.info/Elements/u/P60052> "Signum: Adrian-Nilsson, G\u00F6sta" .
+<http://rimmfdata.com/r/Q-HLi00000067> <http://rdaregistry.info/Elements/u/P60402> <http://rimmfdata.com/r/Q-AF00000016> .
+<http://rimmfdata.com/r/Q-HLi00000067> 0 <http://rimmfdata.com/r/Q-HLi00000066> .
+<http://rimmfdata.com/r/Q-HLi00000071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000071> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-HLi00000071> .
+<http://rimmfdata.com/r/Q-HLi00000071> <http://rimmf.com/vocab/R1029> "Dagb\u00F6cker I-VIII" .
+<http://rimmfdata.com/r/Q-HLi00000071> <http://rdaregistry.info/Elements/u/P60052> "Placering: Mag. 1, Saml." .
+<http://rimmfdata.com/r/Q-HLi00000071> <http://rdaregistry.info/Elements/u/P60052> "Signum: Adrian-Nilsson, G\u00F6sta, vol. 9" .
+<http://rimmfdata.com/r/Q-HLi00000071> 0 <http://rimmfdata.com/r/Q-HLi00000070> .
+<http://rimmfdata.com/r/Q-HLi00000071> <http://rdaregistry.info/Elements/u/P60402> <http://rimmfdata.com/r/Q-AF00000016> .
+<http://rimmfdata.com/r/Q-HLi00000075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000075> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-HLi00000075> .
+<http://rimmfdata.com/r/Q-HLi00000075> <http://rimmf.com/vocab/R1029> "Diverse fotografier av tavlor, skulpturer och portr\u00E4tt" .
+<http://rimmfdata.com/r/Q-HLi00000075> <http://rdaregistry.info/Elements/u/P60052> "Placering: Mag. 1, Saml." .
+<http://rimmfdata.com/r/Q-HLi00000075> <http://rdaregistry.info/Elements/u/P60052> "Signum: Adrian-Nilsson, G\u00F6sta, vol. 20" .
+<http://rimmfdata.com/r/Q-HLi00000075> 0 <http://rimmfdata.com/r/Q-HLi00000074> .
+<http://rimmfdata.com/r/Q-HLi00000075> <http://rdaregistry.info/Elements/u/P60402> <http://rimmfdata.com/r/Q-AF00000016> .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-HLi00000079> .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://rimmf.com/vocab/R1086> "Q-HLi00000079" .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://rimmf.com/vocab/R1029> "Den kosmiska ultrastr\u00E5lningen" .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://rdaregistry.info/Elements/u/P60052> "Placering: Mag. 1, Saml." .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://rdaregistry.info/Elements/u/P60052> "Signum: Adrian-Nilsson, G\u00F6sta, vol. 22" .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://rimmf.com/vocab/R1052> "13 s." .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://rdaregistry.info/Elements/u/P60134> "S\u00E4rtryck" .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://rdaregistry.info/Elements/u/P60497> "Kan omfattas av lagen om upphovsr\u00E4tt" .
+<http://rimmfdata.com/r/Q-HLi00000079> 0 <http://rimmfdata.com/r/Q-HLi00000078> .
+<http://rimmfdata.com/r/Q-HLi00000079> <http://rdaregistry.info/Elements/u/P60402> <http://rimmfdata.com/r/Q-AF00000016> .

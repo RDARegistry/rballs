@@ -1,0 +1,275 @@
+<http://rimmfdata.com/r/Q-AF00000068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/Q-AF00000068> .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rimmf.com/vocab/R1079> "Q-AF00000068" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60549> "Lidman, Sara" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60599> "1923" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60598> "2004" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60076> "1953-2004" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60530> "Lidman, Sara Ad\u00E9la " .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60468> "0" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60468> "Debatt\u00F6r" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60531> "Kvinna" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60593> "Missentr\u00E4sk, J\u00F6rns f\u00F6rsamling i V\u00E4sterbotten" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60592> "Ume\u00E5" .
+<http://rimmfdata.com/r/Q-AF00000068> 0 "Sverige" .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60098> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60492> "Sara Ad\u00E9la Lidman, f\u00F6dd 30 december 1923 i Missentr\u00E4sk, J\u00F6rns f\u00F6rsamling, V\u00E4sterbotten, d\u00F6d 17 juni 2004 i Ume\u00E5, var en svensk f\u00F6rfattare. Hon debuterade som f\u00F6rfattare med romanen Tj\u00E4rdalen 1953 och blev en av 1900-talets stora svenska (arbetar)f\u00F6rfattare. \u00C5ren 1955\u20131963 var Lidman ledamot av Samfundet De Nio. 1989 invaldes hon i Kungliga Skytteanska Samfundet. Sara Lidman v\u00E4xte upp p\u00E5 en mindre g\u00E5rd i byn Missentr\u00E4sk i V\u00E4sterbotten. Under en sanatorievistelse i ungdomen kom hon i kontakt med b\u00F6cker vilket ledde till att hon tog realexamen per korrespondens. Efter att ha tagit studenten som privatist och diverse str\u00F6jobb b\u00F6rjade hon studera i Uppsala, d\u00E4r hon tog fil.kand-examen 1949. Enligt en artikel i SvD var Sara (1950) gift med l\u00E4karen/r\u00F6ntgenologen docent Hans G\u00F6sta Skarby (1907\u20132003) n\u00E4r hennes f\u00F6rsta bok &#34;Tj\u00E4rdalen&#34; kom ut. P\u00E5 1950-talet hade hon en fler\u00E5rig romans med sin f\u00F6rfattarkollega Ivar Lo-Johansson. Sara Lidman engagerade sig i kampen mot atomvapen, mot apartheid och USA:s krig i Vietnam. Vid mitten av 1970-talet flyttade hon tillbaka till hembyn Missentr\u00E4sk och skrev bland annat en serie romaner om moderniseringen och kolonialiseringen av Norrland." .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rimmf.com/vocab/R1031> "Wikipedia 2015-04-13" .
+<http://rimmfdata.com/r/Q-AF00000068> 0 <http://rimmfdata.com/r/Q-AF00000067> .
+<http://rimmfdata.com/r/Q-AF00000068> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/Q-AF00000073> .
+<http://rimmfdata.com/r/Q-AF00000068> 0 <http://rimmfdata.com/r/Q-HLi00000091> .
+<http://rimmfdata.com/r/Q-AF00000068> 0 <http://rimmfdata.com/r/Q-HLi00000094> .
+<http://rimmfdata.com/r/Q-AF00000079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/Q-AF00000079> .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60549> "Tate, Joan" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60119> "Eames, Joan" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60599> "1922" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60598> "2000" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60593> "Tonbridge, Kent, England" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60592> "Shrewsbury, Shropshire, England" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60360> "Shrewsbury, Shropshire, England" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60098> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60089> "0" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60468> "Translator" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60468> "0" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60492> "Joan Eames was born in Tonbridge, Kent, on 23 September 1922. Her father was a housemaster at Tonbridge School, but Joan was educated at the progressive, co-educational Frensham Heights in Farnham, Surrey. She was an avid reader from an early age, but liked to claim that her main achievements at school were athletic. In the autumn of 1939 she travelled to Sweden with the intention of staying for three months with a pen-friend near G\u00E4vle and learning to ski and skate, but the Second World War broke out and Joan was trapped in Sweden until 1942. Faced with having to survive in a foreign country, she moved to Stockholm, and to temporary work as a child-minder, house maid, gardener, and reading English literature aloud for an upper-class Swedish lady, the amiable widow of an actor. Joan borrowed copies of Vecko-Revyn and taught herself to understand written Swedish as well as immersing herself in the spoken language, and eventually graduated to borrowing full-length books by Verner von Heidenstam and Selma Lagerl\u00F6f. In the autumn of 1940 she enrolled on a course at the CGI (Central Institution for Gymnastics) and qualified as a teacher of gymnastics in the spring of 1942. She had been earning her keep by giving English lessons, but was now offered a post by the press department of the British Embassy, scanning Swedish newspapers. One autumn night in 1942 she finally found herself aboard a British courier aeroplane, and after a bumpy flight landed in Scotland the next morning, and was eventually reunited with her family. Joan spent the rest of the war as a uniformed air raid warden, and also worked in schools, youth clubs and summer camps. She married Clive Tate, an agricultural adviser and later a conservationist, in November 1944, and the couple had three children: Jane, Sarah and Peter. From 1953 onwards they made their home in Shrewsbury. Besides continuing to read avidly, both in English and Swedish, Joan began writing books for teenagers and stories for English-language books in Sweden, and also developed an interest in puppetry, especially south-east Asian shadow theatre. She built up a substantial collection of shadow-figures, and travelled to Indonesia and Thailand to see performances. This interest led her to write an as yet unpublished book on the subject. Joan re-visited Sweden in the 1960s, and besides continuing to write her own books, she embarked on translating books of all kinds from Swedish, and later also from Danish and Norwegian. She also became one of the most frequently used freelance publishers' readers, advising on Scandinavian literature. Her translating gradually took over completely, and she was rarely able to find time to write books of her own. Joan's output was prodigious: she noted in an article published in 1995 that she had translated 186 books, while data discovered by the family in her computer suggests the total was over 200 by the time of her death. The names of authors Joan translated reads like a roll call of all the important Scandinavian prose writers of the modern era, and includes Kerstin Ekman, Sara Lidman, Astrid Lindgren, Sigrid Comb\u00FCchen, P O Enquist, P C Jersild, Ingmar Bergman, Agneta Pleijel, Sven Lindqvist, Per W\u00E4stberg and Kjell Espmark, to name but a few of the Swedes on her list. And Joan didn't only translate their books: in many cases she became close personal friends with them. Among the many awards she received was a major translation prize from the Swedish Academy, and she was made an Officer of the Order of the Polar Star. She was a founder member of SELTA (the Swedish-English Literary Translators' Association) and on the editorial board of Swedish Book Review, besides being active in other translators' organizations, the Arts Council, PEN International, and a large number of more local causes dear to her heart \u2014 in the 1960s and 70s, for instance, when Shrewsbury found itself without a bookshop, Joan rallied local support and pestered potential funding providers until she and her friends in the Shrewsbury and District Arts Association could start one of their own. In 1999 Swedish Television broadcast a programme about Joan and her translating career, made by Karl Haskel at the Tate home in Shrewsbury. She worked with tireless energy and discipline even after being diagnosed as suffering from cancer in the spring of 2000, and carried on translating until she died on 6 June, 2000." .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rimmf.com/vocab/R1079> "Q-AF00000079" .
+<http://rimmfdata.com/r/Q-AF00000079> <http://rdaregistry.info/Elements/u/P60613> <http://rimmfdata.com/r/Q-AF00000078> .
+<http://rimmfdata.com/r/Q-AF00000079> 0 <http://rimmfdata.com/r/Q-HLi00000094> .
+<http://rimmfdata.com/r/hli00000082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/hli00000082> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/hli00000082> .
+<http://rimmfdata.com/r/hli00000082> <http://rdaregistry.info/Elements/u/P60549> "Universitetsbiblioteket, Lunds universitet" .
+<http://rimmfdata.com/r/hli00000082> <http://rdaregistry.info/Elements/u/P60325> "Lund, Sverige" .
+<http://rimmfdata.com/r/hli00000082> <http://rdaregistry.info/Elements/u/P60324> "1907" .
+<http://rimmfdata.com/r/hli00000082> <http://rdaregistry.info/Elements/u/P60512> "Helgonabacken, Box 3, 221 00 Lund" .
+<http://rimmfdata.com/r/hli00000082> <http://rimmf.com/vocab/R1083> "hli00000082" .
+<http://rimmfdata.com/r/hli00000082> 0 <http://rimmfdata.com/r/Q-AF00000082> .
+<http://rimmfdata.com/r/hli00000083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/hli00000083> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/hli00000083> .
+<http://rimmfdata.com/r/hli00000083> <http://rdaregistry.info/Elements/u/P60549> "Ume\u00E5 universitetsbibliotek" .
+<http://rimmfdata.com/r/hli00000083> <http://rdaregistry.info/Elements/u/P60325> "Ume\u00E5, Sverige" .
+<http://rimmfdata.com/r/hli00000083> <http://rdaregistry.info/Elements/u/P60324> "1964" .
+<http://rimmfdata.com/r/hli00000083> <http://rdaregistry.info/Elements/u/P60512> "Samh\u00E4llsvetarhuset, 901 74 Ume\u00E5" .
+<http://rimmfdata.com/r/hli00000083> <http://rimmf.com/vocab/R1083> "hli00000083" .
+<http://rimmfdata.com/r/hli00000083> 0 <http://rimmfdata.com/r/Q-AF00000077> .
+<http://rimmfdata.com/r/Q-AF00000069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000069> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/Q-AF00000069> .
+<http://rimmfdata.com/r/Q-AF00000069> <http://rdaregistry.info/Elements/u/P60549> "Forskningsarkivet, Ume\u00E5 universitetsbibliotek" .
+<http://rimmfdata.com/r/Q-AF00000069> <http://rdaregistry.info/Elements/u/P60325> "Ume\u00E5, Sverige" .
+<http://rimmfdata.com/r/Q-AF00000069> <http://rdaregistry.info/Elements/u/P60512> "Samh\u00E4llsvetarhuset, 901 74 Ume\u00E5" .
+<http://rimmfdata.com/r/Q-AF00000069> 0 "Samla och tillg\u00E4ngligg\u00F6ra arkivmaterial f\u00F6r forskning" .
+<http://rimmfdata.com/r/Q-AF00000069> <http://rimmf.com/vocab/R1083> "Q-AF00000069" .
+<http://rimmfdata.com/r/Q-AF00000069> <http://rdaregistry.info/Elements/u/P60158> <http://rimmfdata.com/r/Q-AF00000067> .
+<http://rimmfdata.com/r/Q-AF00000069> 0 <http://rimmfdata.com/r/Q-AF00000072> .
+<http://rimmfdata.com/r/Q-AF00000069> 0 <http://rimmfdata.com/r/Q-HLi00000092> .
+<http://rimmfdata.com/r/Q-AF00000069> 0 <http://rimmfdata.com/r/Q-HLi00000095> .
+<http://rimmfdata.com/r/Q-AF00000076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000076> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/Q-AF00000076> .
+<http://rimmfdata.com/r/Q-AF00000076> <http://rimmf.com/vocab/R1083> "Q-AF00000076" .
+<http://rimmfdata.com/r/Q-AF00000076> <http://rdaregistry.info/Elements/u/P60549> "Bonnier" .
+<http://rimmfdata.com/r/Q-AF00000076> <http://rdaregistry.info/Elements/u/P60325> "Stockholm, Sverige" .
+<http://rimmfdata.com/r/Q-AF00000076> <http://rdaregistry.info/Elements/u/P60524> "1804" .
+<http://rimmfdata.com/r/Q-AF00000076> <http://rdaregistry.info/Elements/u/P60512> "Bonnier AB, 113 90 Stockholm" .
+<http://rimmfdata.com/r/Q-AF00000076> 0 <http://rimmfdata.com/r/Q-AF00000075> .
+<http://rimmfdata.com/r/Q-AF00000081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000081> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/Q-AF00000081> .
+<http://rimmfdata.com/r/Q-AF00000081> <http://rimmf.com/vocab/R1083> "Q-AF00000081" .
+<http://rimmfdata.com/r/Q-AF00000081> <http://rdaregistry.info/Elements/u/P60549> "Norvik Press" .
+<http://rimmfdata.com/r/Q-AF00000081> <http://rdaregistry.info/Elements/u/P60325> "London, UK" .
+<http://rimmfdata.com/r/Q-AF00000081> <http://rdaregistry.info/Elements/u/P60512> "Department of Scandinavian Studies, University College London, Gower Street, London, WC1E 6BT" .
+<http://rimmfdata.com/r/Q-AF00000081> 0 <http://rimmfdata.com/r/Q-AF00000080> .
+<http://rimmfdata.com/r/Q-AF00000067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/Q-AF00000067> .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rimmf.com/vocab/R1044> "Q-AF00000067" .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rimmf.com/vocab/R1078> "F\u00F6rfattarinnan Sara Lidmans arkiv" .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rdaregistry.info/Elements/u/P60588> "F\u00F6rfattarinnan Sara Lidmans arkiv" .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rdaregistry.info/Elements/u/P60491> "Arkivet donerades av f\u00F6rfattarinnan till Forskningsarkivet i Ume\u00E5 1998 (med kompletteringar under \u00E5ren 2001-2014). Till Forskningsarkivet har \u00E4ven \u00F6verl\u00E4mnats en del handlingar med proveniens fr\u00E5n Sara Lidmans f\u00F6r\u00E4ldrar och syskon. Arkivet uppr\u00E4ttades 2003 och f\u00F6rteckningen har uppdaterats flera g\u00E5nger sedan dess. En mindre del av Sara Lidmans arkiv best\u00E5ende av arbetsb\u00F6cker, manuskript och korrektur till n\u00E5gra av hennes verk har donerats till Uppsala universitetsbibliotek, d\u00E4r det ing\u00E5r i professor Leif Sj\u00F6bergs arkiv (1925 \u2013 2000). Han var sedan m\u00E5nga \u00E5r Saras livskamrat och hade mottagit handlingarna som g\u00E5va av henne." .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rdaregistry.info/Elements/u/P60584> "Personarkiv med bland annat personliga handlingar, manuskript, korrespondens, handlingar r\u00F6rande arkivbildarens verksamhet, pressklipp, fotografier samt b\u00F6cker \u00E4gda av arkivbildaren." .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rdaregistry.info/Elements/u/P60348> "Organiserat i sex handlingstyper f\u00F6rdelade i 347 volymer: personliga handlingar; manuskript och egna verk; korrespondens; handlingar r\u00F6rande arkivbildarens verksamhet; samlingar; \u00F6vrigt." .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/Q-AF00000068> .
+<http://rimmfdata.com/r/Q-AF00000067> 0 <http://rimmfdata.com/r/Q-AF00000070> .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rdaregistry.info/Elements/u/P60374> <http://rimmfdata.com/r/Q-AF00000069> .
+<http://rimmfdata.com/r/Q-AF00000067> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-AF00000073> .
+<http://rimmfdata.com/r/Q-AF00000073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000073> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/Q-AF00000073> .
+<http://rimmfdata.com/r/Q-AF00000073> <http://rimmf.com/vocab/R1044> "Q-AF00000073" .
+<http://rimmfdata.com/r/Q-AF00000073> <http://rdaregistry.info/Elements/u/P60588> "Nabots sten" .
+<http://rimmfdata.com/r/Q-AF00000073> <http://rdaregistry.info/Elements/u/P60527> "1981" .
+<http://rimmfdata.com/r/Q-AF00000073> <http://rdaregistry.info/Elements/u/P60523> "Sverige" .
+<http://rimmfdata.com/r/Q-AF00000073> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/Q-AF00000068> .
+<http://rimmfdata.com/r/Q-AF00000073> <http://rimmf.com/vocab/R1078> "Nabots sten" .
+<http://rimmfdata.com/r/Q-AF00000073> 0 <http://rimmfdata.com/r/Q-AF00000074> .
+<http://rimmfdata.com/r/Q-AF00000073> 0 <http://rimmfdata.com/r/Q-AF00000078> .
+<http://rimmfdata.com/r/Q-AF00000073> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-AF00000067> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/Q-AF00000070> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rimmf.com/vocab/R1043> "Q-AF00000070" .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1014> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1013> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rdaregistry.info/Elements/u/P60372> "Dagb\u00F6cker fr\u00E5n skoltid och fram\u00E5t. Manuskript av noveller, k\u00E5serier, romaner, debatt- och dokument\u00E4rlitteratur, dramatiska verk, anf\u00F6randen, artiklar, radio- och TV-programinslag - m\u00E5nga olika versioner och utkast med kommentarer av arkivbildaren och andra. Korrespondens till arkivbildaren fr\u00E5n bland annat familj, v\u00E4nner och f\u00F6rfattarkontakter. I vissa fall finns \u00E4ven Sara Lidmans egna brev i form av koncept eller kopior bevarade. Papper som handlar om Sara Lidmans engagemang i specifika fr\u00E5gor, domineras av Vietnamfr\u00E5gan men inneh\u00E5ller \u00E4ven fr\u00E5gor kring skogspolitik och skogsmilj\u00F6, transportfr\u00E5gor, k\u00E4rnkraft och missf\u00F6rh\u00E5llanden i arbetslivet, kronotorparnas villkor liksom underh\u00E5llningsv\u00E5ldet och pornografin. Omfattande pressklippsamling av Sara Lidmans egna publicerade artiklar, recensioner av hennes verk, reportage, notiser och debattartiklar. Fotografisamling inneh\u00E5llande i huvudsak familjebilder, fotografier fr\u00E5n resor och pressfoton. Arkivbildarens boksamling med bland annat b\u00F6cker och sm\u00E5skrifter r\u00F6rande Vietnam samt milj\u00F6- och andra samh\u00E4llsfr\u00E5gor. Handlingar med proveniens fr\u00E5n Sara Lidmans f\u00F6r\u00E4ldrar och syskon. " .
+<http://rimmfdata.com/r/Q-AF00000070> 0 <http://rimmfdata.com/r/Q-AF00000067> .
+<http://rimmfdata.com/r/Q-AF00000070> 0 <http://rimmfdata.com/r/Q-AF00000071> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-AF00000074> .
+<http://rimmfdata.com/r/Q-AF00000070> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-AF00000078> .
+<http://rimmfdata.com/r/Q-AF00000074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000074> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/Q-AF00000074> .
+<http://rimmfdata.com/r/Q-AF00000074> <http://rimmf.com/vocab/R1043> "Q-AF00000074" .
+<http://rimmfdata.com/r/Q-AF00000074> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/Q-AF00000074> <http://rdaregistry.info/Elements/u/P60527> "1981" .
+<http://rimmfdata.com/r/Q-AF00000074> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/swe> .
+<http://rimmfdata.com/r/Q-AF00000074> <http://rdaregistry.info/Elements/u/P60372> "Tredje delen i Sara Lidmans klassiska jernbaneepos! Sara Lidmans stora epos Jernbanan (som rymmer sju delar) handlar om hur V\u00E4sterbottens inland befolkades, hur jernbanan fick sin str\u00E4ckning i norr och hur Didrik M\u00E5rtenson blev Ol'f\u00F6rarn. Det b\u00F6rjar en morgon i juni 1878 d\u00E5 gossekarlen Didrik f\u00E5r syn p\u00E5 en artikel i Skjellet-avisen. D\u00E4r dryftas fr\u00E5gan om en j\u00E4rnbana i norr. Han blir besatt av tanken p\u00E5 en jernbana \u2013 senare av bygget av norra Stambanan \u2013 genom hans hemsocken Lillvattnet. Skogsbolagen vill komma \u00E5t de or\u00F6rda skogarna. Lillvattnets folk fruktar v\u00E4rlden som den ter sig genom jernbaneloket \u2013 ett vidunder ur Uppenbarelseboken. Rallarna ses som hedningar, och Didrik vill h\u00F6gst av allt f\u00F6rsona alla med jernbanans id\u00E9. Han talar i socken-st\u00E4mma, p\u00E5 skogsauktioner, i kojor och k\u00F6k. I hemlighet \u00E4r det tankarna p\u00E5 Konungens bes\u00F6k vid invigningen som kommer honom att lova alla han m\u00F6ter ett nytt liv. Sitt sista tal h\u00E5ller han \u2013 ist\u00E4llet f\u00F6r kungens uteblivna invigningstal \u2013 n\u00E4r han skickas som f\u00F6rste t\u00E5gpassagerare till f\u00E4ngelse i Stockholm. Jernbanebygget \u00E4r ber\u00E4ttelsens r\u00F6da tr\u00E5d. Men det viktigaste i denna kr\u00F6nika \u00E4r m\u00E4nniskorna: Anna-Stava \u2013 Didriks hustru och stora k\u00E4rlek, den ljuvliga Hagar \u2013 sockenhorans dotter, IsakM\u00E5rten \u2013 storsonen, och hans stora k\u00E4rlek R\u00F6nnog. Och Str\u00F6mmen, Spadar-Abdon och hans h\u00E4stmarr Stina, Nabot, Goliat, Fridolf den gode, Julius och Dorn, M\u00E5nstrimman. Och Nicke. Det gl\u00F6der och sk\u00E4lver av passioner, sm\u00E4rta, gl\u00E4dje, humor hos dessa tidl\u00F6sa gestalter. Didrik hamnar i f\u00E4ngelse \u2013 men det egentliga straffet f\u00E5r han p\u00E5 gamla dar n\u00E4r &#34;storsonen&#34; IsakM\u00E5rten gifter sig med R\u00F6nnog \u2013 Hagars r\u00F6st \u2013 som \u00E4r den centrala personen i Lifsens rot och Oskuldens minut. &#34;Bortom all j\u00E4mf\u00F6relse&#34; \u2013 &#34;utan motstycke&#34; \u2013 &#34;l\u00E4mnar all annan svensk prosa l\u00E5ngt bakom sig&#34; \u2013 &#34;v\u00E4rldslitteraturens vingpenna\u2026&#34; \u2013 s\u00E5 stora ord skrevs n\u00E4r b\u00F6ckerna kom ut. Sara Lidman prisades och prisbel\u00F6nades, f\u00F6r Vredens barn fick hon Nordiska R\u00E5dets pris. Jernbanesviten best\u00E5r av Din tj\u00E4nare h\u00F6r, Vredens barn, Nabots sten, Den underbare mannen, J\u00E4rnkronan, Lifsens rot och Oskuldens minut." .
+<http://rimmfdata.com/r/Q-AF00000074> 0 <http://rimmfdata.com/r/Q-AF00000073> .
+<http://rimmfdata.com/r/Q-AF00000074> 0 <http://rimmfdata.com/r/Q-AF00000075> .
+<http://rimmfdata.com/r/Q-AF00000074> 0 <http://rimmfdata.com/r/Q-HLi00000091> .
+<http://rimmfdata.com/r/Q-AF00000074> <http://rdaregistry.info/Elements/u/P60280> <http://rimmfdata.com/r/Q-AF00000078> .
+<http://rimmfdata.com/r/Q-AF00000074> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-AF00000070> .
+<http://rimmfdata.com/r/Q-AF00000078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000078> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/Q-AF00000078> .
+<http://rimmfdata.com/r/Q-AF00000078> <http://rimmf.com/vocab/R1043> "Q-AF00000078" .
+<http://rimmfdata.com/r/Q-AF00000078> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/Q-AF00000078> <http://rdaregistry.info/Elements/u/P60527> "1989" .
+<http://rimmfdata.com/r/Q-AF00000078> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/Q-AF00000078> 0 <http://rimmfdata.com/r/Q-AF00000073> .
+<http://rimmfdata.com/r/Q-AF00000078> 0 <http://rimmfdata.com/r/Q-AF00000080> .
+<http://rimmfdata.com/r/Q-AF00000078> 0 <http://rimmfdata.com/r/Q-HLi00000094> .
+<http://rimmfdata.com/r/Q-AF00000078> <http://rdaregistry.info/Elements/u/P60244> <http://rimmfdata.com/r/Q-AF00000074> .
+<http://rimmfdata.com/r/Q-AF00000078> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-AF00000070> .
+<http://rimmfdata.com/r/Q-AF00000078> <http://rdaregistry.info/Elements/u/P60385> <http://rimmfdata.com/r/Q-AF00000079> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-AF00000071> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rimmf.com/vocab/R1085> "Q-AF00000071" .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60515> "F\u00F6rfattarinnan Sara Lidmans arkiv" .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60327> "uppr\u00E4ttat av Ingegerd Stenstr\u00F6m, G\u00F6ran Larsson vid Forskningsarkivet, Ume\u00E5 universitet  " .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60127> "Vissa objekt i arkivet odaterade" .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1001> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1045> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1048> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1007> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60550> "25 hyllmeter" .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60550> "ca 2 volymer" .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60550> "ca 25 volymer" .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60550> "ca 242 volymer" .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60550> "avgjutning av kvinnoansikte" .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60490> "Forskningsarkivet, Ume\u00E5 universitetsbibliotek, Samh\u00E4llsvetarhuset, 901 74 Ume\u00E5" .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60496> "Arkivet \u00E4r tillg\u00E4ngligt f\u00F6r forskning med undantag av korrespondens och dagboksanteckningar d\u00E4r tillst\u00E5nd av Sara Lidmans sl\u00E4ktingar kr\u00E4vs." .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60511> <http://www.foark.umu.se/sites/default/files/arkiv/52/handskrift52webb_2.pdf> .
+<http://rimmfdata.com/r/Q-AF00000071> 0 <http://rimmfdata.com/r/Q-AF00000070> .
+<http://rimmfdata.com/r/Q-AF00000071> 0 <http://rimmfdata.com/r/Q-AF00000072> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000091> .
+<http://rimmfdata.com/r/Q-AF00000071> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/Q-HLi00000094> .
+<http://rimmfdata.com/r/Q-AF00000075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-AF00000075> .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rimmf.com/vocab/R1085> "Q-AF00000075" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/Q-AF00000075> 0 <http://rimmfdata.com/r/Q-AF00000077> .
+<http://rimmfdata.com/r/Q-AF00000075> 0 <http://rimmfdata.com/r/Q-AF00000074> .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rimmf.com/vocab/R1063> "311 pages" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rimmf.com/vocab/R1062> "311" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60550> "0" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60052> "91-0-045376-5" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60073> "1981" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60163> "Stockholm" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60547> "Bonnier" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60444> <http://rimmfdata.com/r/Q-AF00000076> .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60081> "3" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60516> "Jernbanan" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60327> "Sara Lidman" .
+<http://rimmfdata.com/r/Q-AF00000075> <http://rdaregistry.info/Elements/u/P60515> "Nabots sten" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-AF00000080> .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rimmf.com/vocab/R1085> "Q-AF00000080" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60515> "Naboth's stone" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60327> "Sara Lidman ; translated by Joan Tate" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60163> "Norwich" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60547> "Norvik Press" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60073> "1989" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60516> "Norvik Press Series B" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60081> "7 " .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60516> "Jernbanan" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60081> "3" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60052> "1-870041-12-7" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rimmf.com/vocab/R1063> "262 pages" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rimmf.com/vocab/R1062> "262" .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/Q-AF00000080> 0 <http://rimmfdata.com/r/Q-AF00000078> .
+<http://rimmfdata.com/r/Q-AF00000080> 0 <http://rimmfdata.com/r/Q-AF00000082> .
+<http://rimmfdata.com/r/Q-AF00000080> <http://rdaregistry.info/Elements/u/P60444> <http://rimmfdata.com/r/Q-AF00000081> .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-HLi00000091> .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rimmf.com/vocab/R1085> "Q-HLi00000091" .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60515> "Nabots sten" .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60327> "Sara Lidman" .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60365> "S\u00E4ttningsmanus" .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60161> "Sverige" .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60545> "Lidman, Sara" .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1048> .
+<http://rimmfdata.com/r/Q-HLi00000091> 0 "maskinskrivet med handkorrektur" .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60521> "Manuskriptet \u00E4r tillg\u00E4ngligt f\u00F6r forskning" .
+<http://rimmfdata.com/r/Q-HLi00000091> 0 <http://rimmfdata.com/r/Q-AF00000074> .
+<http://rimmfdata.com/r/Q-HLi00000091> 0 <http://rimmfdata.com/r/Q-HLi00000092> .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60440> <http://rimmfdata.com/r/Q-AF00000068> .
+<http://rimmfdata.com/r/Q-HLi00000091> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-AF00000071> .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/Q-HLi00000094> .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rimmf.com/vocab/R1085> "Q-HLi00000094" .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60515> "Naboth's stone" .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60327> "Sara Lidman ; translated by Joan Tate" .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60365> "Manuscript" .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60365> "English translation" .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60545> "Lidman, Sara" .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60545> "Tate, Joan" .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1048> .
+<http://rimmfdata.com/r/Q-HLi00000094> 0 "maskinskrivet med kommentarer och \u00E4ndringar" .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60521> "Manuskriptet \u00E4r tillg\u00E4ngligt f\u00F6r forskning" .
+<http://rimmfdata.com/r/Q-HLi00000094> 0 <http://rimmfdata.com/r/Q-AF00000078> .
+<http://rimmfdata.com/r/Q-HLi00000094> 0 <http://rimmfdata.com/r/Q-HLi00000095> .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60440> <http://rimmfdata.com/r/Q-AF00000068> .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60440> <http://rimmfdata.com/r/Q-AF00000079> .
+<http://rimmfdata.com/r/Q-HLi00000094> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/Q-AF00000071> .
+<http://rimmfdata.com/r/Q-AF00000072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000072> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-AF00000072> .
+<http://rimmfdata.com/r/Q-AF00000072> <http://rimmf.com/vocab/R1086> "Q-AF00000072" .
+<http://rimmfdata.com/r/Q-AF00000072> <http://rimmf.com/vocab/R1029> "F\u00F6rfattarinnan Sara Lidmans arkiv" .
+<http://rimmfdata.com/r/Q-AF00000072> <http://rdaregistry.info/Elements/u/P60176> "Arkivet donerades av f\u00F6rfattarinnan till Forskningsarkivet i Ume\u00E5 1998 (med kompletteringar under \u00E5ren 2001-2014). Till Forskningsarkivet har \u00E4ven \u00F6verl\u00E4mnats en del handlingar med proveniens fr\u00E5n Sara Lidmans f\u00F6r\u00E4ldrar och syskon." .
+<http://rimmfdata.com/r/Q-AF00000072> <http://rdaregistry.info/Elements/u/P60052> "Handskrift 52. F\u00F6rfattarinnan Sara Lidmans arkiv (1923-2004)" .
+<http://rimmfdata.com/r/Q-AF00000072> 0 <http://rimmfdata.com/r/Q-AF00000071> .
+<http://rimmfdata.com/r/Q-AF00000072> <http://rdaregistry.info/Elements/u/P60402> <http://rimmfdata.com/r/Q-AF00000069> .
+<http://rimmfdata.com/r/Q-AF00000077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000077> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-AF00000077> .
+<http://rimmfdata.com/r/Q-AF00000077> <http://rimmf.com/vocab/R1029> "Nabots sten" .
+<http://rimmfdata.com/r/Q-AF00000077> <http://rdaregistry.info/Elements/u/P60052> "Placering: mag Sk\u00F6n 63519" .
+<http://rimmfdata.com/r/Q-AF00000077> 0 <http://rimmfdata.com/r/Q-AF00000075> .
+<http://rimmfdata.com/r/Q-AF00000077> <http://rdaregistry.info/Elements/u/P60404> <http://rimmfdata.com/r/hli00000083> .
+<http://rimmfdata.com/r/Q-AF00000082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-AF00000082> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-AF00000082> .
+<http://rimmfdata.com/r/Q-AF00000082> <http://rimmf.com/vocab/R1029> "Naboth's stone " .
+<http://rimmfdata.com/r/Q-AF00000082> <http://rdaregistry.info/Elements/u/P60052> "Placering: 0100 b91/ 8 H " .
+<http://rimmfdata.com/r/Q-AF00000082> 0 <http://rimmfdata.com/r/Q-AF00000080> .
+<http://rimmfdata.com/r/Q-AF00000082> <http://rdaregistry.info/Elements/u/P60404> <http://rimmfdata.com/r/hli00000082> .
+<http://rimmfdata.com/r/Q-HLi00000092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000092> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-HLi00000092> .
+<http://rimmfdata.com/r/Q-HLi00000092> <http://rimmf.com/vocab/R1086> "Q-HLi00000092" .
+<http://rimmfdata.com/r/Q-HLi00000092> <http://rdaregistry.info/Elements/u/P60052> "Handskrift 52. F\u00F6rfattarinnan Sara Lidmans arkiv (1923-2004)" .
+<http://rimmfdata.com/r/Q-HLi00000092> <http://rdaregistry.info/Elements/u/P60052> "Serie: Manuskript och egna verk" .
+<http://rimmfdata.com/r/Q-HLi00000092> <http://rdaregistry.info/Elements/u/P60052> "Underserie: Manuskript till romaner" .
+<http://rimmfdata.com/r/Q-HLi00000092> <http://rdaregistry.info/Elements/u/P60052> "Volym: 52:B2:36" .
+<http://rimmfdata.com/r/Q-HLi00000092> 0 <http://rimmfdata.com/r/Q-HLi00000091> .
+<http://rimmfdata.com/r/Q-HLi00000092> <http://rdaregistry.info/Elements/u/P60402> <http://rimmfdata.com/r/Q-AF00000069> .
+<http://rimmfdata.com/r/Q-HLi00000095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/Q-HLi00000095> <http://rimmf.com/vocab/R1057> <http://rimmfdata.com/r/Q-HLi00000095> .
+<http://rimmfdata.com/r/Q-HLi00000095> <http://rdaregistry.info/Elements/u/P60052> "Handskrift 52. F\u00F6rfattarinnan Sara Lidmans arkiv (1923-2004)" .
+<http://rimmfdata.com/r/Q-HLi00000095> <http://rdaregistry.info/Elements/u/P60052> "Serie: Manuskript och egna verk" .
+<http://rimmfdata.com/r/Q-HLi00000095> <http://rdaregistry.info/Elements/u/P60052> "Underserie: Manuskript till romaner" .
+<http://rimmfdata.com/r/Q-HLi00000095> <http://rdaregistry.info/Elements/u/P60052> "Volym: 52:B2:39" .
+<http://rimmfdata.com/r/Q-HLi00000095> 0 <http://rimmfdata.com/r/Q-HLi00000094> .
+<http://rimmfdata.com/r/Q-HLi00000095> <http://rdaregistry.info/Elements/u/P60402> <http://rimmfdata.com/r/Q-AF00000069> .
