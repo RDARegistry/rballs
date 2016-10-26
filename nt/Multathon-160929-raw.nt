@@ -1,0 +1,1591 @@
+<http://rimmfdata.com/r/dirk00000027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/dirk00000027> .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1031> "Fens, K. Literair lustrum, 1967" .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1031> "Op eigen grond, c1989: t.p. (Prof. dr. J.J. Oversteegen) p. 6 (Jaap Oversteegen)" .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1031> "Voor Arthur Lehning, 1989: t.p. (J.J. Overstegen) p. 6 (Jaap Oversteegen)" .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1031> "BL database, 5 Sept. 2003 (hdg.: Oversteegen, Jacob Jan)" .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1031> "KB online cat., May 27, 2005 (hdg.: Oversteegen, J. J. (Jacob Jan), 1926-1999; usage: J.J. Oversteegen)" .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1031> "Info. converted from 678, 2012-10-02 (b. 1926)" .
+<http://rimmfdata.com/r/dirk00000027> <http://rdaregistry.info/Elements/u/P60549> "Oversteegen, J. J." .
+<http://rimmfdata.com/r/dirk00000027> <http://rdaregistry.info/Elements/u/P60119> "Overstegen, J. J." .
+<http://rimmfdata.com/r/dirk00000027> <http://rdaregistry.info/Elements/u/P60119> "Oversteegen, Jaap" .
+<http://rimmfdata.com/r/dirk00000027> <http://rdaregistry.info/Elements/u/P60119> "Oversteegen, Jacob Jan" .
+<http://rimmfdata.com/r/dirk00000027> <http://rdaregistry.info/Elements/u/P60053> "LCCN n  83072690" .
+<http://rimmfdata.com/r/dirk00000027> <http://rdaregistry.info/Elements/u/P60053> "(OCoLC)oca00954534" .
+<http://rimmfdata.com/r/dirk00000027> <http://rdaregistry.info/Elements/u/P60053> <http://id.loc.gov/authorities/names/n83072690> .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1079> "Oversteegen, J. J." .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1080> "Overstegen, J. J." .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1080> "Oversteegen, Jaap" .
+<http://rimmfdata.com/r/dirk00000027> <http://rimmf.com/vocab/R1080> "Oversteegen, Jacob Jan" .
+<http://rimmfdata.com/r/dirk00000027> <http://rdaregistry.info/Elements/u/P60655> <http://rimmfdata.com/r/dirk00000026> .
+<http://rimmfdata.com/r/havraa00000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/havraa00000018> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/havraa00000018> .
+<http://rimmfdata.com/r/havraa00000018> <http://rimmf.com/vocab/R1079> "havraa00000018" .
+<http://rimmfdata.com/r/havraa00000018> <http://rdaregistry.info/Elements/u/P60549> "Rutger Hauer" .
+<http://rimmfdata.com/r/havraa00000018> <http://rdaregistry.info/Elements/u/P60063> "Netherlands" .
+<http://rimmfdata.com/r/havraa00000018> <http://rdaregistry.info/Elements/u/P60098> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/havraa00000018> <http://rdaregistry.info/Elements/u/P60468> "Actor" .
+<http://rimmfdata.com/r/havraa00000018> <http://rdaregistry.info/Elements/u/P60017> <http://rimmfdata.com/r/havraa00000017> .
+<http://rimmfdata.com/r/havraa00000019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/havraa00000019> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/havraa00000019> .
+<http://rimmfdata.com/r/havraa00000019> <http://rdaregistry.info/Elements/u/P60549> "Peter Faber" .
+<http://rimmfdata.com/r/havraa00000019> <http://rdaregistry.info/Elements/u/P60063> "Netherlands" .
+<http://rimmfdata.com/r/havraa00000019> <http://rdaregistry.info/Elements/u/P60098> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/havraa00000019> <http://rdaregistry.info/Elements/u/P60468> "Actor" .
+<http://rimmfdata.com/r/havraa00000019> <http://rimmf.com/vocab/R1079> "havraa00000019" .
+<http://rimmfdata.com/r/havraa00000019> <http://rdaregistry.info/Elements/u/P60017> <http://rimmfdata.com/r/havraa00000017> .
+<http://rimmfdata.com/r/havraa00000020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/havraa00000020> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/havraa00000020> .
+<http://rimmfdata.com/r/havraa00000020> <http://rdaregistry.info/Elements/u/P60549> "Sacha Bulthuis" .
+<http://rimmfdata.com/r/havraa00000020> <http://rdaregistry.info/Elements/u/P60063> "Netherlands" .
+<http://rimmfdata.com/r/havraa00000020> <http://rdaregistry.info/Elements/u/P60098> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/havraa00000020> <http://rdaregistry.info/Elements/u/P60468> "Actor" .
+<http://rimmfdata.com/r/havraa00000020> <http://rimmf.com/vocab/R1079> "havraa00000020" .
+<http://rimmfdata.com/r/havraa00000020> <http://rdaregistry.info/Elements/u/P60017> <http://rimmfdata.com/r/havraa00000017> .
+<http://rimmfdata.com/r/multab00000040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multab00000040> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multab00000040> .
+<http://rimmfdata.com/r/multab00000040> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/multab00000040> <http://rimmf.com/vocab/R1031> "Author's Twijfelgevallen Nederlands, 1983: t.p. (Dr. C. G. L. Apeldoorn)" .
+<http://rimmfdata.com/r/multab00000040> <http://rdaregistry.info/Elements/u/P60549> "Apeldoorn, C. G. L." .
+<http://rimmfdata.com/r/multab00000040> <http://rdaregistry.info/Elements/u/P60053> "LCCN n  84058592" .
+<http://rimmfdata.com/r/multab00000040> <http://rdaregistry.info/Elements/u/P60053> <https://lccn.loc.gov/n84058592> .
+<http://rimmfdata.com/r/multab00000040> <http://rimmf.com/vocab/R1079> "Apeldoorn, C. G. L." .
+<http://rimmfdata.com/r/multab00000040> <http://rdaregistry.info/Elements/u/P60657> <http://rimmfdata.com/r/multab00000039> .
+<http://rimmfdata.com/r/multab00000041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multab00000041> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multab00000041> .
+<http://rimmfdata.com/r/multab00000041> <http://rdaregistry.info/Elements/u/P60549> "Hardy, Paul" .
+<http://rimmfdata.com/r/multab00000041> <http://rdaregistry.info/Elements/u/P60063> "Belgium" .
+<http://rimmfdata.com/r/multab00000041> <http://rdaregistry.info/Elements/u/P60360> "Brussel" .
+<http://rimmfdata.com/r/multab00000041> <http://rdaregistry.info/Elements/u/P60468> "Teacher" .
+<http://rimmfdata.com/r/multab00000041> <http://rimmf.com/vocab/R1079> "multab00000041" .
+<http://rimmfdata.com/r/multab00000041> <http://rdaregistry.info/Elements/u/P60657> <http://rimmfdata.com/r/multab00000039> .
+<http://rimmfdata.com/r/multab00000042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multab00000042> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multab00000042> .
+<http://rimmfdata.com/r/multab00000042> <http://rdaregistry.info/Elements/u/P60549> "Rebel, J. P." .
+<http://rimmfdata.com/r/multab00000042> <http://rdaregistry.info/Elements/u/P60063> "The Netherlands" .
+<http://rimmfdata.com/r/multab00000042> <http://rdaregistry.info/Elements/u/P60360> "Den Helder" .
+<http://rimmfdata.com/r/multab00000042> <http://rdaregistry.info/Elements/u/P60468> "Teacher" .
+<http://rimmfdata.com/r/multab00000042> <http://rimmf.com/vocab/R1079> "multab00000042" .
+<http://rimmfdata.com/r/multab00000042> <http://rdaregistry.info/Elements/u/P60657> <http://rimmfdata.com/r/multab00000039> .
+<http://rimmfdata.com/r/multab00000043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multab00000043> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multab00000043> .
+<http://rimmfdata.com/r/multab00000043> <http://rdaregistry.info/Elements/u/P60549> "Scherpers, P. J." .
+<http://rimmfdata.com/r/multab00000043> <http://rdaregistry.info/Elements/u/P60063> "The Netherlands" .
+<http://rimmfdata.com/r/multab00000043> <http://rdaregistry.info/Elements/u/P60360> "Haarlem" .
+<http://rimmfdata.com/r/multab00000043> <http://rdaregistry.info/Elements/u/P60468> "Teacher" .
+<http://rimmfdata.com/r/multab00000043> <http://rimmf.com/vocab/R1079> "multab00000043" .
+<http://rimmfdata.com/r/multab00000043> <http://rdaregistry.info/Elements/u/P60657> <http://rimmfdata.com/r/multab00000039> .
+<http://rimmfdata.com/r/multbhag00000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multbhag00000013> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multbhag00000013> .
+<http://rimmfdata.com/r/multbhag00000013> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/multbhag00000013> <http://rdaregistry.info/Elements/u/P60549> "Brand, Eelco" .
+<http://rimmfdata.com/r/multbhag00000013> <http://rdaregistry.info/Elements/u/P60599> "1969" .
+<http://rimmfdata.com/r/multbhag00000013> <http://rdaregistry.info/Elements/u/P60531> <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/multbhag00000013> <http://rdaregistry.info/Elements/u/P60593> "NL" .
+<http://rimmfdata.com/r/multbhag00000013> <http://rdaregistry.info/Elements/u/P60063> "Rotterdam" .
+<http://rimmfdata.com/r/multbhag00000013> <http://rdaregistry.info/Elements/u/P60053> "(DNB)1088612555" .
+<http://rimmfdata.com/r/multbhag00000013> <http://rdaregistry.info/Elements/u/P60053> <http://viaf.org/viaf/287324501> .
+<http://rimmfdata.com/r/multbhag00000013> <http://rimmf.com/vocab/R1079> "Brand, Eelco 1969-" .
+<http://rimmfdata.com/r/multbhag00000013> <http://rdaregistry.info/Elements/u/P60672> <http://rimmfdata.com/r/multbhag00000012> .
+<http://rimmfdata.com/r/multdc00000017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000017> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multdc00000017> .
+<http://rimmfdata.com/r/multdc00000017> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/multdc00000017> <http://rimmf.com/vocab/R1031> "His Multatuli, Max Havelaar, c1987: t.p. (Jos Paardekooper)" .
+<http://rimmfdata.com/r/multdc00000017> <http://rdaregistry.info/Elements/u/P60549> "Paardekooper, Jos" .
+<http://rimmfdata.com/r/multdc00000017> <http://rdaregistry.info/Elements/u/P60053> "LCCN n  93039745" .
+<http://rimmfdata.com/r/multdc00000017> <http://rdaregistry.info/Elements/u/P60053> "(DLC)n  93039745" .
+<http://rimmfdata.com/r/multdc00000017> <http://rdaregistry.info/Elements/u/P60053> <http://id.loc.gov/authorities/names/n93039745> .
+<http://rimmfdata.com/r/multdc00000017> <http://rimmf.com/vocab/R1079> "Paardekooper, Jos" .
+<http://rimmfdata.com/r/multdc00000017> <http://rdaregistry.info/Elements/u/P60672> <http://rimmfdata.com/r/multdc00000016> .
+<http://rimmfdata.com/r/multdc00000021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000021> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multdc00000021> .
+<http://rimmfdata.com/r/multdc00000021> <http://rdaregistry.info/Elements/u/P60549> "Zonneveld, Peter van" .
+<http://rimmfdata.com/r/multdc00000021> <http://rimmf.com/vocab/R1079> "multdc00000021" .
+<http://rimmfdata.com/r/multdc00000021> <http://rdaregistry.info/Elements/u/P60655> <http://rimmfdata.com/r/multdc00000020> .
+<http://rimmfdata.com/r/multdc00000023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000023> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multdc00000023> .
+<http://rimmfdata.com/r/multdc00000023> <http://rdaregistry.info/Elements/u/P60549> "Hermans, Helene" .
+<http://rimmfdata.com/r/multdc00000023> <http://rimmf.com/vocab/R1079> "multdc00000023" .
+<http://rimmfdata.com/r/multdc00000023> <http://rdaregistry.info/Elements/u/P60626> <http://rimmfdata.com/r/multdc00000022> .
+<http://rimmfdata.com/r/multdc00000024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000024> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multdc00000024> .
+<http://rimmfdata.com/r/multdc00000024> <http://rdaregistry.info/Elements/u/P60549> "Lemckert, Christiane" .
+<http://rimmfdata.com/r/multdc00000024> <http://rimmf.com/vocab/R1079> "multdc00000024" .
+<http://rimmfdata.com/r/multdc00000024> <http://rdaregistry.info/Elements/u/P60626> <http://rimmfdata.com/r/multdc00000022> .
+<http://rimmfdata.com/r/multdd00000021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdd00000021> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multdd00000021> .
+<http://rimmfdata.com/r/multdd00000021> <http://rdaregistry.info/Elements/u/P60599> "1850" .
+<http://rimmfdata.com/r/multdd00000021> <http://rdaregistry.info/Elements/u/P60598> "1932" .
+<http://rimmfdata.com/r/multdd00000021> <http://rdaregistry.info/Elements/u/P60368> "Willem Hendrik Wendelin de Kock" .
+<http://rimmfdata.com/r/multdd00000021> <http://rdaregistry.info/Elements/u/P60549> "W.H.W. de Kock" .
+<http://rimmfdata.com/r/multdd00000021> <http://rdaregistry.info/Elements/u/P60363> "jhr." .
+<http://rimmfdata.com/r/multdd00000021> <http://rimmf.com/vocab/R1079> "multdd00000021" .
+<http://rimmfdata.com/r/multdd00000021> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/multdd00000020> .
+<http://rimmfdata.com/r/multmh00000021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmh00000021> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multmh00000021> .
+<http://rimmfdata.com/r/multmh00000021> <http://rdaregistry.info/Elements/u/P60549> "Boudens, Aug. A." .
+<http://rimmfdata.com/r/multmh00000021> <http://rimmf.com/vocab/R1079> "multmh00000021" .
+<http://rimmfdata.com/r/multmh00000021> <http://rdaregistry.info/Elements/u/P60657> <http://rimmfdata.com/r/multmh00000020> .
+<http://rimmfdata.com/r/multmurk00000021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmurk00000021> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multmurk00000021> .
+<http://rimmfdata.com/r/multmurk00000021> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/multmurk00000021> <http://rimmf.com/vocab/R1031> "Land in zicht! 1997: t.p. (Femke Halsema) p. 238 (b. 1966)" .
+<http://rimmfdata.com/r/multmurk00000021> <http://rdaregistry.info/Elements/u/P60549> "Halsema, Femke" .
+<http://rimmfdata.com/r/multmurk00000021> <http://rdaregistry.info/Elements/u/P60599> "1966" .
+<http://rimmfdata.com/r/multmurk00000021> <http://rdaregistry.info/Elements/u/P60053> "LCCN n  97120630" .
+<http://rimmfdata.com/r/multmurk00000021> <http://rdaregistry.info/Elements/u/P60053> <https://lccn.loc.gov/n97120630> .
+<http://rimmfdata.com/r/multmurk00000021> <http://rimmf.com/vocab/R1079> "Halsema, Femke, 1966-" .
+<http://rimmfdata.com/r/multmurk00000021> <http://rdaregistry.info/Elements/u/P60672> <http://rimmfdata.com/r/multmurk00000020> .
+<http://rimmfdata.com/r/multmurk00000024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmurk00000024> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multmurk00000024> .
+<http://rimmfdata.com/r/multmurk00000024> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/multmurk00000024> <http://rimmf.com/vocab/R1031> "Hollandse horizonten, c1991: cover (Ab Gietelink) p. 159 (b. 1959)" .
+<http://rimmfdata.com/r/multmurk00000024> <http://rdaregistry.info/Elements/u/P60549> "Gietelink, Ab" .
+<http://rimmfdata.com/r/multmurk00000024> <http://rdaregistry.info/Elements/u/P60599> "1959" .
+<http://rimmfdata.com/r/multmurk00000024> <http://rdaregistry.info/Elements/u/P60053> "LCCN n  91117447" .
+<http://rimmfdata.com/r/multmurk00000024> <http://rdaregistry.info/Elements/u/P60053> <https://lccn.loc.gov/n91117447> .
+<http://rimmfdata.com/r/multmurk00000024> <http://rimmf.com/vocab/R1079> "Gietelink, Ab, 1959-" .
+<http://rimmfdata.com/r/multmurk00000024> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/multmurk00000023> .
+<http://rimmfdata.com/r/multrm00000033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multrm00000033> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multrm00000033> .
+<http://rimmfdata.com/r/multrm00000033> <http://rimmf.com/vocab/R1079> "Hoffman, Thom" .
+<http://rimmfdata.com/r/multrm00000033> <http://rdaregistry.info/Elements/u/P60531> "unknown" .
+<http://rimmfdata.com/r/multrm00000033> <http://rdaregistry.info/Elements/u/P60053> "(LC)n  98059462" .
+<http://rimmfdata.com/r/multrm00000033> <http://rdaregistry.info/Elements/u/P60053> <http://viaf.org/viaf/29734290> .
+<http://rimmfdata.com/r/multrm00000033> <http://rdaregistry.info/Elements/u/P60549> "Hoffman, Thom" .
+<http://rimmfdata.com/r/multrm00000033> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/multrm00000033> <http://rdaregistry.info/Elements/u/P60602> <http://rimmfdata.com/r/multrm00000032> .
+<http://rimmfdata.com/r/multiho00000020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multiho00000020> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/multiho00000020> .
+<http://rimmfdata.com/r/multiho00000020> <http://rimmf.com/vocab/R1079> "multiho00000020" .
+<http://rimmfdata.com/r/multiho00000020> <http://rdaregistry.info/Elements/u/P60549> "Rademakers, Fons" .
+<http://rimmfdata.com/r/multiho00000020> <http://rdaregistry.info/Elements/u/P60599> "5 september 1920" .
+<http://rimmfdata.com/r/multiho00000020> <http://rdaregistry.info/Elements/u/P60598> "22 februari 2007" .
+<http://rimmfdata.com/r/multiho00000020> <http://rdaregistry.info/Elements/u/P60626> <http://rimmfdata.com/r/multiho00000021> .
+<http://rimmfdata.com/r/multiho00000020> <http://rdaregistry.info/Elements/u/P60672> <http://rimmfdata.com/r/multiho00000019> .
+<http://rimmfdata.com/r/ingressus00000041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1079> "ingressus00000041" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1031> "Max Havelaar, or, The coffee auctions of the Dutch Trading Company, 1982: t.p. (Multatuli)" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1031> "Wikipedia, Apr. 5, 2010 Multatuli (Eduard Douwes Dekker (b. Amsterdam, 2 March 1820-19 February 1887), better known by his pen name Multatuli; a Dutch writer famous for his satirical novel, Max Havelaar (1860))" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60549> "Multatuli" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "Dekker, Eduard Douwes" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "Douwes Dekker, Eduard" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u05DE\u05D5\u05DC\u05D0\u05D8\u05D0\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u05DE\u05D5\u05DC\u05D8\u05D0\u05D8\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u05DE\u05D5\u05DC\u05D8\u05D8\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u041C\u0443\u043B\u044C\u0442\u0430\u0442\u0443\u043B\u0438" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60119> "\u7A46\u5C14\u5854\u56FE\u91CC" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60599> "1820 maart 2" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60598> "1887 februari 19" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> "LCCN n  79061166" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> "(OCoLC)oca00294186" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> <http://id.loc.gov/authorities/names/n79061166> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> <http://isni.org/isni/0000000120303306> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60053> <http://viaf.org/viaf/89204476> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "Dekker, Eduard Douwes, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D0\u05D8\u05D0\u05D5\u05DC\u05D9, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D8\u05D0\u05D8\u05D5\u05DC\u05D9, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D8\u05D8\u05D5\u05DC\u05D9, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u041C\u0443\u043B\u044C\u0442\u0430\u0442\u0443\u043B\u0438, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u7A46\u5C14\u5854\u56FE\u91CC, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "Douwes Dekker, Eduard, 1820-1887" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D0\u05D8\u05D0\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D8\u05D0\u05D8\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05DC\u05D8\u05D8\u05D5\u05DC\u05D9" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u7A46\u5C14\u5854\u56FE\u91CC" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rimmf.com/vocab/R1080> "\u041C\u0443\u043B\u044C\u0442\u0430\u0442\u0443\u043B\u0438" .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000047> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000048> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000049> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000050> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000051> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000052> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000053> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000054> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000055> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000056> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000057> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000058> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000059> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000060> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000061> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000062> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000063> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000064> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000065> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000066> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000067> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000068> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000069> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000070> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000071> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000072> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000073> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000074> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000075> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000076> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000077> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000078> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/ingressus00000079> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/dirk00000022> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60806> <http://rimmfdata.com/r/dirk00000026> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/dirk00000030> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60872> <http://rimmfdata.com/r/multab00000039> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60663> <http://rimmfdata.com/r/multmh00000020> .
+<http://rimmfdata.com/r/ingressus00000041> <http://rdaregistry.info/Elements/u/P60672> <http://rimmfdata.com/r/multmp00000019> .
+<http://rimmfdata.com/r/multja00000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multja00000014> <http://rimmf.com/vocab/R1054> <http://rimmfdata.com/r/multja00000014> .
+<http://rimmfdata.com/r/multja00000014> <http://rimmf.com/vocab/R1083> "multja00000014" .
+<http://rimmfdata.com/r/multja00000014> <http://rdaregistry.info/Elements/u/P60368> "Verloren woorden literaire T-shirts" .
+<http://rimmfdata.com/r/multja00000014> <http://rdaregistry.info/Elements/u/P60549> "Verloren woorden literaire T-shirts" .
+<http://rimmfdata.com/r/multja00000014> <http://rdaregistry.info/Elements/u/P60119> "Verloren woorden" .
+<http://rimmfdata.com/r/multja00000014> <http://rdaregistry.info/Elements/u/P60098> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/multja00000014> <http://rdaregistry.info/Elements/u/P60672> <http://rimmfdata.com/r/multja00000013> .
+<http://rimmfdata.com/r/multdd00000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdd00000018> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multdd00000018> .
+<http://rimmfdata.com/r/multdd00000018> <http://rimmf.com/vocab/R1044> "multdd00000018" .
+<http://rimmfdata.com/r/multdd00000018> <http://rdaregistry.info/Elements/u/P60588> "Waarom de Max Havelaar geschreven werd : met den brief aan Z.E. den minister van Kolonie\u034F\u0308n" .
+<http://rimmfdata.com/r/multdd00000018> <http://rdaregistry.info/Elements/u/P60527> "1913" .
+<http://rimmfdata.com/r/multdd00000018> <http://rimmf.com/vocab/R1072> "Waarom de Max Havelaar geschreven werd : met den brief aan Z.E. den minister van Kolonie\u034F\u0308n, 1913" .
+<http://rimmfdata.com/r/multdw00000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdw00000013> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multdw00000013> .
+<http://rimmfdata.com/r/multdw00000013> <http://rdaregistry.info/Elements/u/P60588> "Ideen" .
+<http://rimmfdata.com/r/multdw00000013> <http://rdaregistry.info/Elements/u/P60527> "1903" .
+<http://rimmfdata.com/r/multdw00000013> <http://rimmf.com/vocab/R1044> "multdw00000013" .
+<http://rimmfdata.com/r/multdw00000013> <http://rimmf.com/vocab/R1072> "Ideen, 1903" .
+<http://rimmfdata.com/r/multdw00000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdw00000014> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multdw00000014> .
+<http://rimmfdata.com/r/multdw00000014> <http://rdaregistry.info/Elements/u/P60588> "Idee\u00EBn" .
+<http://rimmfdata.com/r/multdw00000014> <http://rdaregistry.info/Elements/u/P60527> "1903" .
+<http://rimmfdata.com/r/multdw00000014> <http://rimmf.com/vocab/R1044> "multdw00000014" .
+<http://rimmfdata.com/r/multdw00000014> <http://rimmf.com/vocab/R1072> "Ideen, 1903" .
+<http://rimmfdata.com/r/multnegenveertig00000016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multnegenveertig00000016> <http://rdaregistry.info/Elements/u/P60588> "De veelzinnige muze van E. Douwes Dekker" .
+<http://rimmfdata.com/r/multnegenveertig00000016> <http://rdaregistry.info/Elements/u/P60058> "0" .
+<http://rimmfdata.com/r/multnegenveertig00000016> <http://rdaregistry.info/Elements/u/P60527> "oktober 1990" .
+<http://rimmfdata.com/r/multnegenveertig00000016> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multnegenveertig00000016> .
+<http://rimmfdata.com/r/multnegenveertig00000016> <http://rimmf.com/vocab/R1044> "multnegenveertig00000016" .
+<http://rimmfdata.com/r/ingressus00000048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000048> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000048> .
+<http://rimmfdata.com/r/ingressus00000048> <http://rimmf.com/vocab/R1078> "Aan de stemgerechtigden in het kiesdistrikt Tiel" .
+<http://rimmfdata.com/r/ingressus00000048> <http://rimmf.com/vocab/R1044> "ingressus00000048" .
+<http://rimmfdata.com/r/ingressus00000048> <http://rdaregistry.info/Elements/u/P60588> "Aan de stemgerechtigden in het kiesdistrikt Tiel" .
+<http://rimmfdata.com/r/ingressus00000048> <http://rdaregistry.info/Elements/u/P60527> "1860" .
+<http://rimmfdata.com/r/ingressus00000048> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000048> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000049> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000049> .
+<http://rimmfdata.com/r/ingressus00000049> <http://rimmf.com/vocab/R1078> "Aleid" .
+<http://rimmfdata.com/r/ingressus00000049> <http://rimmf.com/vocab/R1044> "ingressus00000049" .
+<http://rimmfdata.com/r/ingressus00000049> <http://rdaregistry.info/Elements/u/P60588> "Aleid" .
+<http://rimmfdata.com/r/ingressus00000049> <http://rdaregistry.info/Elements/u/P60527> "1872-1876" .
+<http://rimmfdata.com/r/ingressus00000049> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000049> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000050> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000050> .
+<http://rimmfdata.com/r/ingressus00000050> <http://rimmf.com/vocab/R1078> "Brief aan den Gouverneur-Generaal in ruste" .
+<http://rimmfdata.com/r/ingressus00000050> <http://rimmf.com/vocab/R1044> "ingressus00000050" .
+<http://rimmfdata.com/r/ingressus00000050> <http://rdaregistry.info/Elements/u/P60588> "Brief aan den Gouverneur-Generaal in ruste" .
+<http://rimmfdata.com/r/ingressus00000050> <http://rdaregistry.info/Elements/u/P60527> "1858-1860" .
+<http://rimmfdata.com/r/ingressus00000050> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000050> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000051> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000051> .
+<http://rimmfdata.com/r/ingressus00000051> <http://rimmf.com/vocab/R1078> "Brief aan den koning" .
+<http://rimmfdata.com/r/ingressus00000051> <http://rimmf.com/vocab/R1044> "ingressus00000051" .
+<http://rimmfdata.com/r/ingressus00000051> <http://rdaregistry.info/Elements/u/P60588> "Brief aan den koning" .
+<http://rimmfdata.com/r/ingressus00000051> <http://rdaregistry.info/Elements/u/P60527> "1872" .
+<http://rimmfdata.com/r/ingressus00000051> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000051> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000052> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000052> .
+<http://rimmfdata.com/r/ingressus00000052> <http://rimmf.com/vocab/R1078> "Brief aan Ds. W. Francken Az." .
+<http://rimmfdata.com/r/ingressus00000052> <http://rimmf.com/vocab/R1044> "ingressus00000052" .
+<http://rimmfdata.com/r/ingressus00000052> <http://rdaregistry.info/Elements/u/P60588> "Brief aan Ds. W. Francken Az." .
+<http://rimmfdata.com/r/ingressus00000052> <http://rdaregistry.info/Elements/u/P60527> "1860" .
+<http://rimmfdata.com/r/ingressus00000052> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000052> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000053> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000053> .
+<http://rimmfdata.com/r/ingressus00000053> <http://rimmf.com/vocab/R1078> "Brief aan Quintillianus" .
+<http://rimmfdata.com/r/ingressus00000053> <http://rimmf.com/vocab/R1044> "ingressus00000053" .
+<http://rimmfdata.com/r/ingressus00000053> <http://rdaregistry.info/Elements/u/P60588> "Brief aan Quintillianus" .
+<http://rimmfdata.com/r/ingressus00000053> <http://rdaregistry.info/Elements/u/P60527> "1862" .
+<http://rimmfdata.com/r/ingressus00000053> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000053> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000054> .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1044> "ingressus00000054" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1078> "De bruid daarboven" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. De eerlooze" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1078> "De eerlooze" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60588> "De bruid daarboven" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60355> "De eerlooze" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60058> "0" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60527> "1843-1859" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1072> "Wikipedia, geraadpleegd op 27-07-2016" .
+<http://rimmfdata.com/r/ingressus00000054> <http://rdaregistry.info/Elements/u/P60052> <https://nl.wikipedia.org/wiki/De_bruid_daarboven> .
+<http://rimmfdata.com/r/ingressus00000054> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000055> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000055> .
+<http://rimmfdata.com/r/ingressus00000055> <http://rimmf.com/vocab/R1078> "Causerie\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000055> <http://rimmf.com/vocab/R1044> "ingressus00000055" .
+<http://rimmfdata.com/r/ingressus00000055> <http://rdaregistry.info/Elements/u/P60588> "Causerie\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000055> <http://rdaregistry.info/Elements/u/P60527> "1869" .
+<http://rimmfdata.com/r/ingressus00000055> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000055> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000056> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000056> .
+<http://rimmfdata.com/r/ingressus00000056> <http://rimmf.com/vocab/R1078> "Divagati\u00EBn over zeker soort van Liberalismus" .
+<http://rimmfdata.com/r/ingressus00000056> <http://rimmf.com/vocab/R1044> "ingressus00000056" .
+<http://rimmfdata.com/r/ingressus00000056> <http://rdaregistry.info/Elements/u/P60588> "Divagati\u00EBn over zeker soort van Liberalismus" .
+<http://rimmfdata.com/r/ingressus00000056> <http://rdaregistry.info/Elements/u/P60527> "1870" .
+<http://rimmfdata.com/r/ingressus00000056> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000056> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000057> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000057> .
+<http://rimmfdata.com/r/ingressus00000057> <http://rimmf.com/vocab/R1078> "Duizend en eenige hoofdstukken over specialiteiten" .
+<http://rimmfdata.com/r/ingressus00000057> <http://rimmf.com/vocab/R1044> "ingressus00000057" .
+<http://rimmfdata.com/r/ingressus00000057> <http://rdaregistry.info/Elements/u/P60588> "Duizend en eenige hoofdstukken over specialiteiten" .
+<http://rimmfdata.com/r/ingressus00000057> <http://rdaregistry.info/Elements/u/P60527> "1871" .
+<http://rimmfdata.com/r/ingressus00000057> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000057> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000058> .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1078> "Een en ander over Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Een en ander naar aanleiding van J. Bosscha's Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1078> "Een en ander naar aanleiding van J. Bosscha's Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1044> "ingressus00000058" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rdaregistry.info/Elements/u/P60588> "Een en ander over Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rdaregistry.info/Elements/u/P60355> "Een en ander naar aanleiding van J. Bosscha's Pruisen en Nederland" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rdaregistry.info/Elements/u/P60527> "1867" .
+<http://rimmfdata.com/r/ingressus00000058> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000058> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000059> .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1078> "Franse rymen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Franse rijmen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1078> "Franse rijmen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1044> "ingressus00000059" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rdaregistry.info/Elements/u/P60588> "Franse rymen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rdaregistry.info/Elements/u/P60355> "Franse rijmen" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rdaregistry.info/Elements/u/P60527> "1864" .
+<http://rimmfdata.com/r/ingressus00000059> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000059> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000060> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000060> .
+<http://rimmfdata.com/r/ingressus00000060> <http://rimmf.com/vocab/R1078> "Het gebed van den onwetende" .
+<http://rimmfdata.com/r/ingressus00000060> <http://rimmf.com/vocab/R1044> "ingressus00000060" .
+<http://rimmfdata.com/r/ingressus00000060> <http://rdaregistry.info/Elements/u/P60588> "Het gebed van den onwetende" .
+<http://rimmfdata.com/r/ingressus00000060> <http://rdaregistry.info/Elements/u/P60527> "1860" .
+<http://rimmfdata.com/r/ingressus00000060> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000060> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000061> .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1044> "ingressus00000061" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1078> "Geloofsbelydenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Geloofsbelijdenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1078> "Geloofsbelijdenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rdaregistry.info/Elements/u/P60355> "Geloofsbelijdenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rdaregistry.info/Elements/u/P60588> "Geloofsbelydenis" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rdaregistry.info/Elements/u/P60527> "1859" .
+<http://rimmfdata.com/r/ingressus00000061> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000061> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1002> .
+<http://rimmfdata.com/r/ingressus00000069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000069> .
+<http://rimmfdata.com/r/ingressus00000069> <http://rdaregistry.info/Elements/u/P60588> "Japansche gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rdaregistry.info/Elements/u/P60355> "Japanse gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rdaregistry.info/Elements/u/P60527> "1862" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1044> "ingressus00000069" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1078> "Japansche gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Japanse gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1078> "Japanse gesprekken" .
+<http://rimmfdata.com/r/ingressus00000069> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000070> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000070> .
+<http://rimmfdata.com/r/ingressus00000070> <http://rdaregistry.info/Elements/u/P60588> "De Maatschappij tot Nut van den Javaan" .
+<http://rimmfdata.com/r/ingressus00000070> <http://rdaregistry.info/Elements/u/P60527> "1869" .
+<http://rimmfdata.com/r/ingressus00000070> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000070> <http://rimmf.com/vocab/R1044> "ingressus00000070" .
+<http://rimmfdata.com/r/ingressus00000070> <http://rimmf.com/vocab/R1078> "De Maatschappij tot Nut van den Javaan" .
+<http://rimmfdata.com/r/ingressus00000070> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000071> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000071> .
+<http://rimmfdata.com/r/ingressus00000071> <http://rdaregistry.info/Elements/u/P60588> "Max Havelaar aan Multatuli" .
+<http://rimmfdata.com/r/ingressus00000071> <http://rdaregistry.info/Elements/u/P60527> "1860" .
+<http://rimmfdata.com/r/ingressus00000071> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000071> <http://rimmf.com/vocab/R1044> "ingressus00000071" .
+<http://rimmfdata.com/r/ingressus00000071> <http://rimmf.com/vocab/R1078> "Max Havelaar aan Multatuli" .
+<http://rimmfdata.com/r/ingressus00000071> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000072> .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1044> "ingressus00000072" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rdaregistry.info/Elements/u/P60355> "Miljoenen-studi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rdaregistry.info/Elements/u/P60588> "Millioenenstudi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rdaregistry.info/Elements/u/P60527> "1870" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1078> "Millioenenstudi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Miljoenen-studi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1078> "Miljoenen-studi\u00EBn" .
+<http://rimmfdata.com/r/ingressus00000072> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000073> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000073> .
+<http://rimmfdata.com/r/ingressus00000073> <http://rimmf.com/vocab/R1044> "ingressus00000073" .
+<http://rimmfdata.com/r/ingressus00000073> <http://rdaregistry.info/Elements/u/P60588> "Minnebrieven" .
+<http://rimmfdata.com/r/ingressus00000073> <http://rdaregistry.info/Elements/u/P60527> "1870" .
+<http://rimmfdata.com/r/ingressus00000073> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000073> <http://rimmf.com/vocab/R1078> "Minnebrieven" .
+<http://rimmfdata.com/r/ingressus00000073> <http://rdaregistry.info/Elements/u/P60052> <http://viaf.org/viaf/188643327> .
+<http://rimmfdata.com/r/ingressus00000073> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000075> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000075> .
+<http://rimmfdata.com/r/ingressus00000075> <http://rdaregistry.info/Elements/u/P60588> "Onafgewerkte blaadjes" .
+<http://rimmfdata.com/r/ingressus00000075> <http://rdaregistry.info/Elements/u/P60527> "1886" .
+<http://rimmfdata.com/r/ingressus00000075> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000075> <http://rimmf.com/vocab/R1044> "ingressus00000075" .
+<http://rimmfdata.com/r/ingressus00000075> <http://rimmf.com/vocab/R1078> "Onafgewerkte blaadjes" .
+<http://rimmfdata.com/r/ingressus00000075> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000077> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000077> .
+<http://rimmfdata.com/r/ingressus00000077> <http://rdaregistry.info/Elements/u/P60588> "De school des levens" .
+<http://rimmfdata.com/r/ingressus00000077> <http://rdaregistry.info/Elements/u/P60527> "1863" .
+<http://rimmfdata.com/r/ingressus00000077> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000077> <http://rimmf.com/vocab/R1044> "ingressus00000077" .
+<http://rimmfdata.com/r/ingressus00000077> <http://rimmf.com/vocab/R1078> "De school des levens" .
+<http://rimmfdata.com/r/ingressus00000077> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000078> .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1044> "ingressus00000078" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rdaregistry.info/Elements/u/P60355> "Wijs mij de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rdaregistry.info/Elements/u/P60588> "Wys my de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rdaregistry.info/Elements/u/P60527> "1861" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1078> "Wys my de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Wijs mij de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1078> "Wijs mij de plaats waar ik gezaaid heb" .
+<http://rimmfdata.com/r/ingressus00000078> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000079> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000079> .
+<http://rimmfdata.com/r/ingressus00000079> <http://rdaregistry.info/Elements/u/P60588> "De zegen Gods door Waterloo" .
+<http://rimmfdata.com/r/ingressus00000079> <http://rdaregistry.info/Elements/u/P60527> "1865" .
+<http://rimmfdata.com/r/ingressus00000079> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000079> <http://rimmf.com/vocab/R1044> "ingressus00000079" .
+<http://rimmfdata.com/r/ingressus00000079> <http://rimmf.com/vocab/R1078> "De zegen Gods door Waterloo" .
+<http://rimmfdata.com/r/ingressus00000079> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/multdd00000020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdd00000020> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multdd00000020> .
+<http://rimmfdata.com/r/multdd00000020> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/multdd00000021> .
+<http://rimmfdata.com/r/multdd00000020> <http://rdaregistry.info/Elements/u/P60527> "1913" .
+<http://rimmfdata.com/r/multdd00000020> <http://rdaregistry.info/Elements/u/P60588> "Waarom de Max Havelaar geschreven werd : met den brief aan Z.E. den minister van Kolonie\u034F\u0308n" .
+<http://rimmfdata.com/r/multdd00000020> <http://rimmf.com/vocab/R1044> "multdd00000020" .
+<http://rimmfdata.com/r/multdd00000020> <http://rimmf.com/vocab/R1072> "Waarom de Max Havelaar geschreven werd : met den brief aan Z.E. den minister van Kolonie\u034F\u0308n, 1913" .
+<http://rimmfdata.com/r/multdd00000020> <http://rdaregistry.info/Elements/u/P60292> "Max Havelaar" .
+<http://rimmfdata.com/r/dirk00000022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000022> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/dirk00000022> .
+<http://rimmfdata.com/r/dirk00000022> <http://rdaregistry.info/Elements/u/P60588> "Bloemlesing uit die Werke van E. Douwes-Dekker (Multatuli)" .
+<http://rimmfdata.com/r/dirk00000022> <http://rdaregistry.info/Elements/u/P60527> "1942" .
+<http://rimmfdata.com/r/dirk00000022> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/dirk00000022> <http://rimmf.com/vocab/R1044> "dirk00000022" .
+<http://rimmfdata.com/r/dirk00000022> <http://rimmf.com/vocab/R1072> "Bloemlesing uit die Werke van E. Douwes-Dekker (Multatuli), 1942" .
+<http://rimmfdata.com/r/dirk00000022> 0 <http://rimmfdata.com/r/dirk00000023> .
+<http://rimmfdata.com/r/dirk00000030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000030> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/dirk00000030> .
+<http://rimmfdata.com/r/dirk00000030> <http://rimmf.com/vocab/R1044> "dirk00000030" .
+<http://rimmfdata.com/r/dirk00000030> <http://rimmf.com/vocab/R1072> "Bloemlezing uit de werken van Multatuli, 1973" .
+<http://rimmfdata.com/r/dirk00000030> <http://rdaregistry.info/Elements/u/P60588> "Bloemlezing uit de werken van Multatuli" .
+<http://rimmfdata.com/r/dirk00000030> <http://rdaregistry.info/Elements/u/P60527> "1973" .
+<http://rimmfdata.com/r/dirk00000030> <http://rdaregistry.info/Elements/u/P60805> "LCC: PT5829" .
+<http://rimmfdata.com/r/dirk00000030> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/dirk00000030> 0 <http://rimmfdata.com/r/dirk00000029> .
+<http://rimmfdata.com/r/dirk00000030> <http://rimmf.com/vocab/R1078> "Bloemlezing uit de werken van Multatuli" .
+<http://rimmfdata.com/r/havraa00000015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/havraa00000015> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/havraa00000015> .
+<http://rimmfdata.com/r/havraa00000015> <http://rdaregistry.info/Elements/u/P60588> "Max Havelaar" .
+<http://rimmfdata.com/r/havraa00000015> <http://rdaregistry.info/Elements/u/P60355> "een film van Fons Rademakers" .
+<http://rimmfdata.com/r/havraa00000015> <http://rdaregistry.info/Elements/u/P60058> "0" .
+<http://rimmfdata.com/r/havraa00000015> <http://rdaregistry.info/Elements/u/P60527> "1976" .
+<http://rimmfdata.com/r/havraa00000015> <http://rdaregistry.info/Elements/u/P60523> "Nederland" .
+<http://rimmfdata.com/r/havraa00000015> <http://rimmf.com/vocab/R1044> "havraa00000015" .
+<http://rimmfdata.com/r/havraa00000015> <http://rdaregistry.info/Elements/u/P60305> <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/havraa00000015> 0 <http://rimmfdata.com/r/havraa00000017> .
+<http://rimmfdata.com/r/ingressus00000062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000062> .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 1e bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1044> "ingressus00000062" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 1e bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Eerste bundel" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60527> "1862" .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000062> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000062> <http://rdaregistry.info/Elements/u/P60260> <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/ingressus00000064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 3e bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60527> "1868-1871" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000064> .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1044> "ingressus00000064" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 3e bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Derde bundel" .
+<http://rimmfdata.com/r/ingressus00000064> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000064> <http://rdaregistry.info/Elements/u/P60260> <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/ingressus00000065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000065> .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1044> "ingressus00000065" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 4e bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60527> "1867-1872" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 4e bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Vierde bundel" .
+<http://rimmfdata.com/r/ingressus00000065> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000065> <http://rdaregistry.info/Elements/u/P60260> <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/ingressus00000066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 5e bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60527> "1873" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000066> .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1044> "ingressus00000066" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 5e bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Vijfde bundel" .
+<http://rimmfdata.com/r/ingressus00000066> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000066> <http://rdaregistry.info/Elements/u/P60260> <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/ingressus00000067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 6e bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60527> "1873" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000067> .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1044> "ingressus00000067" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 6e bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Zesde bundel" .
+<http://rimmfdata.com/r/ingressus00000067> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000067> <http://rdaregistry.info/Elements/u/P60260> <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/ingressus00000068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 7e bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60527> "1874" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000068> .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1044> "ingressus00000068" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 7e bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Zevende bundel" .
+<http://rimmfdata.com/r/ingressus00000068> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000068> <http://rdaregistry.info/Elements/u/P60260> <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/ingressus00000074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000074> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000074> .
+<http://rimmfdata.com/r/ingressus00000074> <http://rdaregistry.info/Elements/u/P60588> "Nog eens: vrye arbeid in Nederlands-Indi\u00EB" .
+<http://rimmfdata.com/r/ingressus00000074> <http://rdaregistry.info/Elements/u/P60527> "1867-1870" .
+<http://rimmfdata.com/r/ingressus00000074> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000074> <http://rimmf.com/vocab/R1044> "ingressus00000074" .
+<http://rimmfdata.com/r/ingressus00000074> <http://rimmf.com/vocab/R1078> "Nog eens: vrye arbeid in Nederlands-Indi\u00EB" .
+<http://rimmfdata.com/r/ingressus00000074> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000074> <http://rdaregistry.info/Elements/u/P60576> <http://rimmfdata.com/r/ingressus00000076> .
+<http://rimmfdata.com/r/ingressus00000076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000076> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000076> .
+<http://rimmfdata.com/r/ingressus00000076> <http://rdaregistry.info/Elements/u/P60588> "Over vryen arbeid in Nederlands-Indi\u00EB" .
+<http://rimmfdata.com/r/ingressus00000076> <http://rdaregistry.info/Elements/u/P60527> "1861-1862" .
+<http://rimmfdata.com/r/ingressus00000076> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000076> <http://rimmf.com/vocab/R1044> "ingressus00000076" .
+<http://rimmfdata.com/r/ingressus00000076> <http://rimmf.com/vocab/R1078> "Over vryen arbeid in Nederlands-Indi\u00EB" .
+<http://rimmfdata.com/r/ingressus00000076> <http://rdaregistry.info/Elements/u/P60306> <http://rimmfdata.com/r/ingressus00000074> .
+<http://rimmfdata.com/r/multbhag00000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multbhag00000012> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multbhag00000012> .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60588> "Het Max Havelaar vijfje : offici\u00EBle herdenkingsmunt 2010" .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60527> "2010" .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60523> "[Utrecht]" .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60054> "Coin" .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60491> "Ter herdenking van de 150e verjaardag van de Max Havelaar verscheen op 14 mei 2010 Havelaar Vijfje. Vervaardigd door de Koninklijke Nederlandse Munt naar een ontwerp van Eelco Brand. De coincard is een exemplaar in circulatiekwaliteit met een oplage van 350.000. De munt bestaat ook in zilver in een folder en als gouden tien euromunt in een kistje." .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60052> "EAN: 8714341065056" .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60584> "Silver coin" .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60518> "Coincard" .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/multbhag00000013> .
+<http://rimmfdata.com/r/multbhag00000012> <http://rimmf.com/vocab/R1044> "multbhag00000012" .
+<http://rimmfdata.com/r/multbhag00000012> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/multbhag00000012> <http://rdaregistry.info/Elements/u/P60806> <https://en.wikipedia.org/wiki/Max_Havelaar> .
+<http://rimmfdata.com/r/multdc00000016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000016> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multdc00000016> .
+<http://rimmfdata.com/r/multdc00000016> <http://rdaregistry.info/Elements/u/P60588> "Multatuli, Max Havelaar" .
+<http://rimmfdata.com/r/multdc00000016> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/multdc00000017> .
+<http://rimmfdata.com/r/multdc00000016> <http://rimmf.com/vocab/R1044> "multdc00000016" .
+<http://rimmfdata.com/r/multdc00000016> <http://rimmf.com/vocab/R1072> "Multatuli, Max Havelaar" .
+<http://rimmfdata.com/r/multdc00000016> 0 <http://rimmfdata.com/r/multdc00000018> .
+<http://rimmfdata.com/r/multdc00000020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000020> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multdc00000020> .
+<http://rimmfdata.com/r/multdc00000020> <http://rdaregistry.info/Elements/u/P60588> "Max Havelaar : Multatuli" .
+<http://rimmfdata.com/r/multdc00000020> <http://rdaregistry.info/Elements/u/P60426> <http://rimmfdata.com/r/multdc00000021> .
+<http://rimmfdata.com/r/multdc00000020> <http://rimmf.com/vocab/R1044> "multdc00000020" .
+<http://rimmfdata.com/r/multdc00000020> 0 <http://rimmfdata.com/r/multdc00000022> .
+<http://rimmfdata.com/r/multiho00000019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multiho00000019> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multiho00000019> .
+<http://rimmfdata.com/r/multiho00000019> <http://rimmf.com/vocab/R1044> "multiho00000019" .
+<http://rimmfdata.com/r/multiho00000019> <http://rdaregistry.info/Elements/u/P60588> "Max Havelaar" .
+<http://rimmfdata.com/r/multiho00000019> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/multiho00000020> .
+<http://rimmfdata.com/r/multiho00000019> <http://rdaregistry.info/Elements/u/P60058> "0" .
+<http://rimmfdata.com/r/multiho00000019> <http://rdaregistry.info/Elements/u/P60527> "9 september 1976" .
+<http://rimmfdata.com/r/multiho00000019> 0 <http://rimmfdata.com/r/multiho00000021> .
+<http://rimmfdata.com/r/multmp00000019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmp00000019> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multmp00000019> .
+<http://rimmfdata.com/r/multmp00000019> <http://rdaregistry.info/Elements/u/P60588> "De kleine Wouter" .
+<http://rimmfdata.com/r/multmp00000019> <http://rdaregistry.info/Elements/u/P60058> "0" .
+<http://rimmfdata.com/r/multmp00000019> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/multmp00000019> <http://rimmf.com/vocab/R1044> "multmp00000019" .
+<http://rimmfdata.com/r/multmp00000019> <http://rimmf.com/vocab/R1078> "De kleine Wouter" .
+<http://rimmfdata.com/r/multmp00000019> <http://rimmf.com/vocab/R1072> "De kleine Wouter, 1960" .
+<http://rimmfdata.com/r/multmp00000019> 0 <http://rimmfdata.com/r/multmp00000022> .
+<http://rimmfdata.com/r/multmurk00000020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmurk00000020> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multmurk00000020> .
+<http://rimmfdata.com/r/multmurk00000020> <http://rdaregistry.info/Elements/u/P60588> "Geweten van de natie" .
+<http://rimmfdata.com/r/multmurk00000020> <http://rdaregistry.info/Elements/u/P60527> "2007" .
+<http://rimmfdata.com/r/multmurk00000020> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/multmurk00000021> .
+<http://rimmfdata.com/r/multmurk00000020> <http://rimmf.com/vocab/R1044> "multmurk00000020" .
+<http://rimmfdata.com/r/multmurk00000020> <http://rimmf.com/vocab/R1078> "Geweten van de natie" .
+<http://rimmfdata.com/r/multmurk00000020> <http://rimmf.com/vocab/R1072> "Max Havelaar / toneelbewerking Ab Gietelink,  juni 2007: inhoudsopgave" .
+<http://rimmfdata.com/r/multmurk00000020> 0 <http://rimmfdata.com/r/multmurk00000022> .
+<http://rimmfdata.com/r/dirk00000026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000026> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/dirk00000026> .
+<http://rimmfdata.com/r/dirk00000026> <http://rimmf.com/vocab/R1044> "dirk00000026" .
+<http://rimmfdata.com/r/dirk00000026> <http://rimmf.com/vocab/R1072> "Multatuli en de kritiek, 1970" .
+<http://rimmfdata.com/r/dirk00000026> <http://rdaregistry.info/Elements/u/P60588> "Multatuli en de kritiek" .
+<http://rimmfdata.com/r/dirk00000026> <http://rdaregistry.info/Elements/u/P60527> "1970" .
+<http://rimmfdata.com/r/dirk00000026> <http://rdaregistry.info/Elements/u/P60805> "LCC: PT5829.Z5" .
+<http://rimmfdata.com/r/dirk00000026> <http://rdaregistry.info/Elements/u/P60805> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/dirk00000026> <http://rdaregistry.info/Elements/u/P60426> <http://rimmfdata.com/r/dirk00000027> .
+<http://rimmfdata.com/r/dirk00000026> 0 <http://rimmfdata.com/r/dirk00000025> .
+<http://rimmfdata.com/r/dirk00000026> <http://rimmf.com/vocab/R1078> "Multatuli en de kritiek" .
+<http://rimmfdata.com/r/ingressus00000063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60367> "Ide\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60588> "Ide\u00EBn. 2e bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60355> "Ide\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60355> "Idee\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60527> "1863-1864" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000063> .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1044> "ingressus00000063" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. 2e bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Ide\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Ide\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Idee\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1078> "Idee\u00EBn. Tweede bundel" .
+<http://rimmfdata.com/r/ingressus00000063> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60260> <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/ingressus00000063> <http://rdaregistry.info/Elements/u/P60313> <http://rimmfdata.com/r/multja00000013> .
+<http://rimmfdata.com/r/multmurk00000023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmurk00000023> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multmurk00000023> .
+<http://rimmfdata.com/r/multmurk00000023> <http://rdaregistry.info/Elements/u/P60588> "Max Havelaar" .
+<http://rimmfdata.com/r/multmurk00000023> <http://rdaregistry.info/Elements/u/P60058> "0" .
+<http://rimmfdata.com/r/multmurk00000023> <http://rdaregistry.info/Elements/u/P60527> "2007" .
+<http://rimmfdata.com/r/multmurk00000023> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/multmurk00000024> .
+<http://rimmfdata.com/r/multmurk00000023> <http://rimmf.com/vocab/R1044> "multmurk00000023" .
+<http://rimmfdata.com/r/multmurk00000023> <http://rimmf.com/vocab/R1078> "Max Havelaar" .
+<http://rimmfdata.com/r/multmurk00000023> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/multmurk00000023> <http://rimmf.com/vocab/R1072> "Max Havelaar / toneelbewerking Ab Gietelink,  juni 2007" .
+<http://rimmfdata.com/r/multmurk00000023> 0 <http://rimmfdata.com/r/multmurk00000025> .
+<http://rimmfdata.com/r/multmurk00000023> <http://rdaregistry.info/Elements/u/P60225> <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/multja00000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multja00000013> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multja00000013> .
+<http://rimmfdata.com/r/multja00000013> <http://rimmf.com/vocab/R1044> "multja00000013" .
+<http://rimmfdata.com/r/multja00000013> <http://rdaregistry.info/Elements/u/P60367> "T-shirt met opdruk 'Niemand weet het en zy die beweren het te weten zyn 't onderling niet eens'" .
+<http://rimmfdata.com/r/multja00000013> <http://rdaregistry.info/Elements/u/P60588> "T-shirt met opdruk 'Niemand weet het en zy die beweren het te weten zyn 't onderling niet eens'" .
+<http://rimmfdata.com/r/multja00000013> <http://rdaregistry.info/Elements/u/P60447> <http://rimmfdata.com/r/multja00000014> .
+<http://rimmfdata.com/r/multja00000013> <http://rdaregistry.info/Elements/u/P60584> "Textiel" .
+<http://rimmfdata.com/r/multja00000013> <http://rdaregistry.info/Elements/u/P60313> <http://rimmfdata.com/r/ingressus00000063> .
+<http://rimmfdata.com/r/multja00000013> 0 <http://rimmfdata.com/r/multja00000017> .
+<http://rimmfdata.com/r/multja00000013> 0 <http://rimmfdata.com/r/multja00000015> .
+<http://rimmfdata.com/r/multmh00000020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmh00000020> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multmh00000020> .
+<http://rimmfdata.com/r/multmh00000020> 0 <http://rimmfdata.com/r/multmh00000018> .
+<http://rimmfdata.com/r/multmh00000020> <http://rdaregistry.info/Elements/u/P60588> "Toespraak tot de hoofden van Lebak" .
+<http://rimmfdata.com/r/multmh00000020> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/multmh00000020> <http://rdaregistry.info/Elements/u/P60428> <http://rimmfdata.com/r/multmh00000021> .
+<http://rimmfdata.com/r/multmh00000020> <http://rimmf.com/vocab/R1044> "multmh00000020" .
+<http://rimmfdata.com/r/multmh00000020> <http://rimmf.com/vocab/R1078> "Toespraak tot de hoofden van Lebak" .
+<http://rimmfdata.com/r/multmh00000020> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/ingressus00000047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60588> "Saijah en Adinda" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000047> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1044> "Multatuli, 1820-1887. Saijah en Adinda" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1078> "Saijah en Adinda" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rimmf.com/vocab/R1072> "Kamajaya. Saijah dan Adinda, 1977" .
+<http://rimmfdata.com/r/ingressus00000047> 0 <http://rimmfdata.com/r/multrm00000031> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60101> <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60052> "LCCN n  84221084" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60052> "(DLC)n  84221084" .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60052> <http://id.loc.gov/authorities/names/n84221084> .
+<http://rimmfdata.com/r/ingressus00000047> <http://rdaregistry.info/Elements/u/P60052> <http://viaf.org/viaf/293235739> .
+<http://rimmfdata.com/r/ingressus00000047> 0 <http://rimmfdata.com/r/multrm00000030> .
+<http://rimmfdata.com/r/ingressus00000047> 0 <http://rimmfdata.com/r/multmh00000018> .
+<http://rimmfdata.com/r/multab00000039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multab00000039> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multab00000039> .
+<http://rimmfdata.com/r/multab00000039> <http://rimmf.com/vocab/R1044> "multab00000039" .
+<http://rimmfdata.com/r/multab00000039> <http://rimmf.com/vocab/R1078> "Multatuli: Saidjah en Adinda" .
+<http://rimmfdata.com/r/multab00000039> <http://rimmf.com/vocab/R1072> "Multatuli, 1967 [1968]" .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60588> "Multatuli: Saidjah en Adinda" .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60527> "1967 [1968]" .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60805> "LCC: PT5829.M33" .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60805> "LCSH: Multatuli. Max Havelaar" .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60313> "Multatuli. Max Havelaar" .
+<http://rimmfdata.com/r/multab00000039> 0 <http://rimmfdata.com/r/multab00000038> .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60428> <http://rimmfdata.com/r/multab00000040> .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60871> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60428> <http://rimmfdata.com/r/multab00000041> .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60428> <http://rimmfdata.com/r/multab00000042> .
+<http://rimmfdata.com/r/multab00000039> <http://rdaregistry.info/Elements/u/P60428> <http://rimmfdata.com/r/multab00000043> .
+<http://rimmfdata.com/r/ingressus00000042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1044> "ingressus00000042" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1072> "Door de achterdeur naar binnen, 1996: t.p. (Multatuli's Max Havelaar)" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1072> "LC in RLIN, 4/29/97 (hdg.: Multatuli. Max Havelaar; usage: Max Havelaar; Max Havelaar, of, De koffiveilingen der Nederlandsche Handelmaatschappy)" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1074> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60588> "Max Havelaar" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60355> "Max Havelaar, of, De koffiveilingen der Nederlandsche Handelmaatschappy" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60355> "Max Havelaar, of de koffij-veilingen der Nederlandsche Handel-Maatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60355> "Max Havelaar, of de koffieveilingen van de Nederlandse Handelmaatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60052> "LCCN nr 97015654" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60052> "(DLC)nr 97015654" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60052> <http://id.loc.gov/authorities/names/nr97015654> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Max Havelaar, of, De koffiveilingen der Nederlandsche Handelmaatschappy" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Max Havelaar, of de koffij-veilingen der Nederlandsche Handel-Maatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Max Havelaar, of de koffij-veilingen der Nederlandsche Handel-Maatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Max Havelaar, of de koffieveilingen van de Nederlandse Handelmaatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Max Havelaar, of de koffieveilingen van de Nederlandse Handelmaatschappij" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Max Havelaar, of, De koffiveilingen der Nederlandsche Handelmaatschappy" .
+<http://rimmfdata.com/r/ingressus00000042> <http://rimmf.com/vocab/R1078> "Max Havelaar" .
+<http://rimmfdata.com/r/ingressus00000042> 0 <http://rimmfdata.com/r/ingressus00000045> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60527> "1859-1860" .
+<http://rimmfdata.com/r/ingressus00000042> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60249> <http://rimmfdata.com/r/ingressus00000047> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60250> <http://rimmfdata.com/r/havraa00000015> .
+<http://rimmfdata.com/r/ingressus00000042> <http://rdaregistry.info/Elements/u/P60088> <http://rimmfdata.com/r/multmurk00000023> .
+<http://rimmfdata.com/r/ingressus00000042> 0 <http://rimmfdata.com/r/multmurk00000018> .
+<http://rimmfdata.com/r/multgv00000033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multgv00000033> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/multgv00000033> <http://rimmf.com/vocab/R1044> "multgv00000033" .
+<http://rimmfdata.com/r/multgv00000033> <http://rimmf.com/vocab/R1078> "Woutertje Pieterse" .
+<http://rimmfdata.com/r/multgv00000033> <http://rimmf.com/vocab/R1078> "Geschiedenis van Woutertje Pieterse" .
+<http://rimmfdata.com/r/multgv00000033> <http://rimmf.com/vocab/R1078> "Multatuli, 1820-1887. Woutertje Pieterse" .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60355> "Woutertje Pieterse" .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60588> "Geschiedenis van Woutertje Pieterse" .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60434> <http://rimmfdata.com/r/ingressus00000041> .
+<http://rimmfdata.com/r/multgv00000033> 0 <http://rimmfdata.com/r/multgv00000032> .
+<http://rimmfdata.com/r/multgv00000033> 0 <http://rimmfdata.com/r/multgv00000034> .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60241> <http://rimmfdata.com/r/ingressus00000062> .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60241> <http://rimmfdata.com/r/ingressus00000063> .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60241> <http://rimmfdata.com/r/ingressus00000064> .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60241> <http://rimmfdata.com/r/ingressus00000065> .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60241> <http://rimmfdata.com/r/ingressus00000066> .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60241> <http://rimmfdata.com/r/ingressus00000067> .
+<http://rimmfdata.com/r/multgv00000033> <http://rdaregistry.info/Elements/u/P60241> <http://rimmfdata.com/r/ingressus00000068> .
+<http://rimmfdata.com/r/multnegenveertig00000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multnegenveertig00000018> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multnegenveertig00000018> .
+<http://rimmfdata.com/r/multnegenveertig00000018> <http://rimmf.com/vocab/R1043> "multnegenveertig00000018" .
+<http://rimmfdata.com/r/multnegenveertig00000018> <http://rdaregistry.info/Elements/u/P60527> "oktober 1990" .
+<http://rimmfdata.com/r/multnegenveertig00000018> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/ingressus00000045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000045> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/ingressus00000045> .
+<http://rimmfdata.com/r/ingressus00000045> <http://rimmf.com/vocab/R1043> "ingressus00000045" .
+<http://rimmfdata.com/r/ingressus00000045> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/ingressus00000045> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/ingressus00000045> <http://rimmf.com/vocab/R1077> "Multatuli. Max Havelaar, or, The coffee auctions of the Dutch Trading Company. Text. English" .
+<http://rimmfdata.com/r/ingressus00000045> <http://rimmf.com/vocab/R1077> "Max Havelaar, or, The coffee auctions of the Dutch Trading Company. Text. English" .
+<http://rimmfdata.com/r/ingressus00000045> 0 <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/multja00000015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multja00000015> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multja00000015> .
+<http://rimmfdata.com/r/multja00000015> <http://rimmf.com/vocab/R1043> "multja00000015" .
+<http://rimmfdata.com/r/multja00000015> <http://rdaregistry.info/Elements/u/P60558> "Beige" .
+<http://rimmfdata.com/r/multja00000015> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1021> .
+<http://rimmfdata.com/r/multja00000015> 0 <http://rimmfdata.com/r/multja00000013> .
+<http://rimmfdata.com/r/multmurk00000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmurk00000018> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multmurk00000018> .
+<http://rimmfdata.com/r/multmurk00000018> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/multmurk00000018> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/multmurk00000018> <http://rdaregistry.info/Elements/u/P60527> "juni 2007" .
+<http://rimmfdata.com/r/multmurk00000018> <http://rimmf.com/vocab/R1043> "multmurk00000018" .
+<http://rimmfdata.com/r/multmurk00000018> 0 <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/dirk00000023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000023> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/dirk00000023> .
+<http://rimmfdata.com/r/dirk00000023> <http://rimmf.com/vocab/R1043> "dirk00000023" .
+<http://rimmfdata.com/r/dirk00000023> <http://rdaregistry.info/Elements/u/P60527> "1942" .
+<http://rimmfdata.com/r/dirk00000023> <http://rimmf.com/vocab/R1071> "Bloemlesing uit die Werke van E. Douwes-Dekker (Multatuli), 1942" .
+<http://rimmfdata.com/r/dirk00000023> 0 <http://rimmfdata.com/r/dirk00000022> .
+<http://rimmfdata.com/r/dirk00000023> 0 <http://rimmfdata.com/r/dirk00000020> .
+<http://rimmfdata.com/r/dirk00000025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000025> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/dirk00000025> .
+<http://rimmfdata.com/r/dirk00000025> <http://rimmf.com/vocab/R1043> "dirk00000025" .
+<http://rimmfdata.com/r/dirk00000025> <http://rimmf.com/vocab/R1071> "Multatuli en de kritiek, 1970" .
+<http://rimmfdata.com/r/dirk00000025> <http://rdaregistry.info/Elements/u/P60527> "1970" .
+<http://rimmfdata.com/r/dirk00000025> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/dirk00000025> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/dirk00000025> <http://rdaregistry.info/Elements/u/P60485> "Bibliography of works about Multatuli: p. 189-192" .
+<http://rimmfdata.com/r/dirk00000025> 0 <http://rimmfdata.com/r/dirk00000026> .
+<http://rimmfdata.com/r/dirk00000025> 0 <http://rimmfdata.com/r/dirk00000024> .
+<http://rimmfdata.com/r/dirk00000029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000029> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/dirk00000029> .
+<http://rimmfdata.com/r/dirk00000029> <http://rimmf.com/vocab/R1043> "dirk00000029" .
+<http://rimmfdata.com/r/dirk00000029> <http://rimmf.com/vocab/R1071> "Bloemlezing uit de werken van Multatuli, 1973" .
+<http://rimmfdata.com/r/dirk00000029> <http://rdaregistry.info/Elements/u/P60527> "1973" .
+<http://rimmfdata.com/r/dirk00000029> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/dirk00000029> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/dirk00000029> <http://rdaregistry.info/Elements/u/P60486> <http://rdaregistry.info/termList/IllusContent/1012> .
+<http://rimmfdata.com/r/dirk00000029> 0 <http://rimmfdata.com/r/dirk00000030> .
+<http://rimmfdata.com/r/dirk00000029> 0 <http://rimmfdata.com/r/dirk00000028> .
+<http://rimmfdata.com/r/multdc00000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000018> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multdc00000018> .
+<http://rimmfdata.com/r/multdc00000018> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/multdc00000018> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/multdc00000018> <http://rdaregistry.info/Elements/u/P60527> "1987" .
+<http://rimmfdata.com/r/multdc00000018> <http://rimmf.com/vocab/R1043> "multdc00000018" .
+<http://rimmfdata.com/r/multdc00000018> <http://rimmf.com/vocab/R1071> "Multatuli, Max Havelaar, 1987" .
+<http://rimmfdata.com/r/multdc00000018> 0 <http://rimmfdata.com/r/multdc00000016> .
+<http://rimmfdata.com/r/multdc00000018> 0 <http://rimmfdata.com/r/multdc00000015> .
+<http://rimmfdata.com/r/multgv00000034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multgv00000034> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multgv00000034> .
+<http://rimmfdata.com/r/multgv00000034> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/multgv00000034> <http://rimmf.com/vocab/R1043> "multgv00000034" .
+<http://rimmfdata.com/r/multgv00000034> 0 <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/multgv00000034> 0 <http://rimmfdata.com/r/multgv00000032> .
+<http://rimmfdata.com/r/multmp00000022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmp00000022> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multmp00000022> .
+<http://rimmfdata.com/r/multmp00000022> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/multmp00000022> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/multmp00000022> <http://rdaregistry.info/Elements/u/P60099> "Dutch" .
+<http://rimmfdata.com/r/multmp00000022> <http://rimmf.com/vocab/R1043> "multmp00000022" .
+<http://rimmfdata.com/r/multmp00000022> <http://rimmf.com/vocab/R1071> "De kleine Wouter, 1960" .
+<http://rimmfdata.com/r/multmp00000022> 0 <http://rimmfdata.com/r/multmp00000019> .
+<http://rimmfdata.com/r/multmp00000022> 0 <http://rimmfdata.com/r/multmp00000018> .
+<http://rimmfdata.com/r/multmurk00000022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmurk00000022> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multmurk00000022> .
+<http://rimmfdata.com/r/multmurk00000022> <http://rimmf.com/vocab/R1043> "multmurk00000022" .
+<http://rimmfdata.com/r/multmurk00000022> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/multmurk00000022> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/multmurk00000022> <http://rdaregistry.info/Elements/u/P60527> "2007" .
+<http://rimmfdata.com/r/multmurk00000022> <http://rimmf.com/vocab/R1073> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/multmurk00000022> 0 <http://rimmfdata.com/r/multmurk00000020> .
+<http://rimmfdata.com/r/multmurk00000022> 0 <http://rimmfdata.com/r/multmurk00000019> .
+<http://rimmfdata.com/r/multmurk00000025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmurk00000025> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multmurk00000025> .
+<http://rimmfdata.com/r/multmurk00000025> <http://rimmf.com/vocab/R1043> "multmurk00000025" .
+<http://rimmfdata.com/r/multmurk00000025> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/multmurk00000025> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/multmurk00000025> <http://rdaregistry.info/Elements/u/P60527> "2007" .
+<http://rimmfdata.com/r/multmurk00000025> <http://rdaregistry.info/Elements/u/P60486> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/multmurk00000025> <http://rimmf.com/vocab/R1073> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/multmurk00000025> 0 <http://rimmfdata.com/r/multmurk00000023> .
+<http://rimmfdata.com/r/multmurk00000025> 0 <http://rimmfdata.com/r/multmurk00000019> .
+<http://rimmfdata.com/r/multrm00000031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multrm00000031> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multrm00000031> .
+<http://rimmfdata.com/r/multrm00000031> <http://rimmf.com/vocab/R1043> "Multatuli, 1820-1887. Saijah en Adinda. Spoken word" .
+<http://rimmfdata.com/r/multrm00000031> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1013> .
+<http://rimmfdata.com/r/multrm00000031> <http://rdaregistry.info/Elements/u/P60527> "1937" .
+<http://rimmfdata.com/r/multrm00000031> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/multrm00000031> 0 <http://rimmfdata.com/r/ingressus00000047> .
+<http://rimmfdata.com/r/multrm00000031> 0 <http://rimmfdata.com/r/multrm00000032> .
+<http://rimmfdata.com/r/multab00000038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multab00000038> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multab00000038> .
+<http://rimmfdata.com/r/multab00000038> <http://rimmf.com/vocab/R1043> "multab00000038" .
+<http://rimmfdata.com/r/multab00000038> <http://rimmf.com/vocab/R1071> "Multatuli, 1967 [1968]" .
+<http://rimmfdata.com/r/multab00000038> <http://rdaregistry.info/Elements/u/P60527> "1967 [1968]" .
+<http://rimmfdata.com/r/multab00000038> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/multab00000038> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/multab00000038> <http://rdaregistry.info/Elements/u/P60486> <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/multab00000038> 0 <http://rimmfdata.com/r/multab00000039> .
+<http://rimmfdata.com/r/multab00000038> 0 <http://rimmfdata.com/r/multab00000037> .
+<http://rimmfdata.com/r/multab00000038> 0 <http://rimmfdata.com/r/multab00000035> .
+<http://rimmfdata.com/r/multdc00000022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000022> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multdc00000022> .
+<http://rimmfdata.com/r/multdc00000022> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/multdc00000022> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/multdc00000022> <http://rimmf.com/vocab/R1043> "multdc00000022" .
+<http://rimmfdata.com/r/multdc00000022> 0 <http://rimmfdata.com/r/multdc00000020> .
+<http://rimmfdata.com/r/multdc00000022> <http://rdaregistry.info/Elements/u/P60398> <http://rimmfdata.com/r/multdc00000023> .
+<http://rimmfdata.com/r/multdc00000022> <http://rdaregistry.info/Elements/u/P60398> <http://rimmfdata.com/r/multdc00000024> .
+<http://rimmfdata.com/r/multiho00000021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multiho00000021> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/multiho00000021> .
+<http://rimmfdata.com/r/multiho00000021> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1023> .
+<http://rimmfdata.com/r/multiho00000021> <http://rdaregistry.info/Elements/u/P60527> "9 september 1976" .
+<http://rimmfdata.com/r/multiho00000021> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/multiho00000021> <http://rdaregistry.info/Elements/u/P60099> "Dutch" .
+<http://rimmfdata.com/r/multiho00000021> <http://rdaregistry.info/Elements/u/P60558> "colour" .
+<http://rimmfdata.com/r/multiho00000021> <http://rdaregistry.info/Elements/u/P60559> <http://rdaregistry.info/termList/soundCont/1001> .
+<http://rimmfdata.com/r/multiho00000021> <http://rdaregistry.info/Elements/u/P60557> "170" .
+<http://rimmfdata.com/r/multiho00000021> <http://rimmf.com/vocab/R1043> "multiho00000021" .
+<http://rimmfdata.com/r/multiho00000021> 0 <http://rimmfdata.com/r/multiho00000019> .
+<http://rimmfdata.com/r/multiho00000021> <http://rdaregistry.info/Elements/u/P60398> <http://rimmfdata.com/r/multiho00000020> .
+<http://rimmfdata.com/r/multiho00000021> 0 <http://rimmfdata.com/r/multiho00000022> .
+<http://rimmfdata.com/r/havraa00000017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/havraa00000017> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/havraa00000017> .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1023> .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60527> "1976" .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60099> "Dutch" .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60558> "colour" .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60559> <http://rdaregistry.info/termList/soundCont/1001> .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60557> "170 min." .
+<http://rimmfdata.com/r/havraa00000017> <http://rimmf.com/vocab/R1043> "havraa00000017" .
+<http://rimmfdata.com/r/havraa00000017> 0 <http://rimmfdata.com/r/havraa00000015> .
+<http://rimmfdata.com/r/havraa00000017> 0 <http://rimmfdata.com/r/havraa00000016> .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60142> <http://rimmfdata.com/r/havraa00000018> .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60142> <http://rimmfdata.com/r/havraa00000019> .
+<http://rimmfdata.com/r/havraa00000017> <http://rdaregistry.info/Elements/u/P60142> <http://rimmfdata.com/r/havraa00000020> .
+<http://rimmfdata.com/r/ingressus00000046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1043> "ingressus00000046" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rdaregistry.info/Elements/u/P60049> <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1077> "Max Havelaar, of de koffij-veilingen der Nederlandsche Handel-Maatschappij. Text. Dutch" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1077> "Max Havelaar, of de koffieveilingen van de Nederlandse Handelmaatschappij. Text. Dutch" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1077> "Max Havelaar, of de koffiveilingen der Nederlandsche Handelmaatschappy. Text. Dutch" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1077> "Multatuli, 1820-1887. Max Havelaar, of De koffij-veilingen der Nederlandsche Handel-Maatschappij. Text. Dutch" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1073> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/ingressus00000046> <http://rimmf.com/vocab/R1071> "Max Havelaar, 1860" .
+<http://rimmfdata.com/r/ingressus00000046> <http://rdaregistry.info/Elements/u/P60099> <http://id.loc.gov/vocabulary/iso639-2/dut> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/ingressus00000042> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/multbhag00000012> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/multmh00000020> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/gad00000014> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/multcvg00000014> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/multlv00000024> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/multlv00000026> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/multmdb00000013> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/multnegenveertig00000014> .
+<http://rimmfdata.com/r/ingressus00000046> 0 <http://rimmfdata.com/r/multnegenveertig00000019> .
+<http://rimmfdata.com/r/herms00000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/herms00000018> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/herms00000018> .
+<http://rimmfdata.com/r/herms00000018> <http://rimmf.com/vocab/R1085> "herms00000018" .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60515> "O God, er is geen God!" .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60493> "Multatuli over geloof en godsdienst" .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60327> "samensteld en ingeleid door August Hans den Boef en Kees Snoek" .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60333> "Amsterdam : Van Gennep, 2008" .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60547> "Van Gennep" .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60073> "2008" .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/herms00000018> <http://rimmf.com/vocab/R1063> "271 pages" .
+<http://rimmfdata.com/r/herms00000018> <http://rimmf.com/vocab/R1062> "271" .
+<http://rimmfdata.com/r/herms00000018> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/herms00000018> <http://rdaregistry.info/Elements/u/P60539> "23 cm" .
+<http://rimmfdata.com/r/multaz00000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multaz00000012> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multaz00000012> .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60515> "Multatuli : het drama en het toneel" .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60493> "Academisch proefschrift" .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60327> "door Hans Heinz Joachim de Leeuwe geboren te Essen" .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60547> "Jasonpers ; Universiteitspers" .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60073> "[1949]" .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1059> .
+<http://rimmfdata.com/r/multaz00000012> <http://rimmf.com/vocab/R1063> "332 pages" .
+<http://rimmfdata.com/r/multaz00000012> <http://rimmf.com/vocab/R1066> "332 pages" .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60539> "23 cm" .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60470> "Met literatuuopgave, register" .
+<http://rimmfdata.com/r/multaz00000012> <http://rdaregistry.info/Elements/u/P60470> "Bevat als bijlage: Diplomatische weergave van Multatuli's blijspelfragmenten" .
+<http://rimmfdata.com/r/multaz00000012> <http://rimmf.com/vocab/R1085> "multaz00000012" .
+<http://rimmfdata.com/r/multaz00000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multaz00000013> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multaz00000013> .
+<http://rimmfdata.com/r/multaz00000013> <http://rimmf.com/vocab/R1085> "multaz00000013" .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60515> "Multatuli : leven en werk van Eduard Douwes Dekker" .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60327> "Dik van der Meulen" .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60163> "Nijmegen" .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60547> "SUN" .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60073> "2002" .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60052> "905875054X" .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1059> .
+<http://rimmfdata.com/r/multaz00000013> <http://rimmf.com/vocab/R1063> "912 pages" .
+<http://rimmfdata.com/r/multaz00000013> <http://rimmf.com/vocab/R1066> "912 pages" .
+<http://rimmfdata.com/r/multaz00000013> <http://rdaregistry.info/Elements/u/P60539> "23 cm" .
+<http://rimmfdata.com/r/multdc00000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000012> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multdc00000012> .
+<http://rimmfdata.com/r/multdc00000012> <http://rimmf.com/vocab/R1085> "multdc00000012" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar : Multatuli" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60327> "samengesteld door Peter van Zonneveld ; met medewerking van Helene Hermans en Christianne Lemckert" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60547> "Amsterdam University Press" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60073> "2010" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60516> "Tekst in context" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60081> "9" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60052> "978-90-8964-217-2" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multdc00000012> <http://rimmf.com/vocab/R1063> "95 pages" .
+<http://rimmfdata.com/r/multdc00000012> <http://rdaregistry.info/Elements/u/P60539> "24 cm" .
+<http://rimmfdata.com/r/multdc00000019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar : Multatuli" .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60327> "samengesteld door Peter van Zonneveld ; met medewerking van Helene Hermans en Christianne Lemckert" .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60547> "Amsterdam University Press" .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60073> "2010" .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60516> "Tekst in context" .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60081> "9" .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multdc00000019> <http://rimmf.com/vocab/R1063> "95 pages" .
+<http://rimmfdata.com/r/multdc00000019> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multdc00000019> <http://rdaregistry.info/Elements/u/P60539> "24 cm" .
+<http://rimmfdata.com/r/multdc00000019> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multdc00000019> .
+<http://rimmfdata.com/r/multdc00000019> <http://rimmf.com/vocab/R1085> "multdc00000019" .
+<http://rimmfdata.com/r/multdd00000017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdd00000017> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multdd00000017> .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60515> "Waarom de Max Havelaar geschreven werd : met den brief aan Z.E. den minister van Kolonie\u034F\u0308n" .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60327> "jhr. W.H.W. de Kock" .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60329> "Overdruk uit &#34;De Tijdspiegel&#34;" .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60163> "'s-Gravenhage" .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60547> "W.P. van Stockum en Zoon" .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60073> "1913" .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multdd00000017> <http://rimmf.com/vocab/R1063> "53 pages" .
+<http://rimmfdata.com/r/multdd00000017> <http://rimmf.com/vocab/R1062> "53" .
+<http://rimmfdata.com/r/multdd00000017> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multdd00000017> <http://rdaregistry.info/Elements/u/P60539> "25 cm" .
+<http://rimmfdata.com/r/multdd00000017> <http://rimmf.com/vocab/R1085> "multdd00000017" .
+<http://rimmfdata.com/r/multdw00000012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdw00000012> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multdw00000012> .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60515> "Ideen" .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60327> "Multatuli ; \u00FCbertragen aus dem Holl\u00E4ndischen von Wilhelm Spohr." .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60333> "Berlin : Egon Fleischel, 1903." .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60163> "Berlin" .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60547> "Egon Fleischel" .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60073> "1903" .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multdw00000012> <http://rimmf.com/vocab/R1063> "XVI, 278 pages" .
+<http://rimmfdata.com/r/multdw00000012> <http://rimmf.com/vocab/R1066> "XVI, 278 pages" .
+<http://rimmfdata.com/r/multdw00000012> <http://rdaregistry.info/Elements/u/P60539> "22 cm" .
+<http://rimmfdata.com/r/multdw00000012> <http://rimmf.com/vocab/R1085> "multdw00000012" .
+<http://rimmfdata.com/r/multjsa00000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multjsa00000018> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multjsa00000018> .
+<http://rimmfdata.com/r/multjsa00000018> <http://rimmf.com/vocab/R1085> "multjsa00000018" .
+<http://rimmfdata.com/r/multjsa00000018> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar" .
+<http://rimmfdata.com/r/multjsa00000018> <http://rdaregistry.info/Elements/u/P60163> "Minden in Westf." .
+<http://rimmfdata.com/r/multjsa00000018> <http://rdaregistry.info/Elements/u/P60547> "J. C. C. Bruns' Verlag" .
+<http://rimmfdata.com/r/multjsa00000018> <http://rdaregistry.info/Elements/u/P60073> "1901" .
+<http://rimmfdata.com/r/multjsa00000018> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multjsa00000018> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multjsa00000018> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multjsa00000018> <http://rimmf.com/vocab/R1063> "VII, 355 pages" .
+<http://rimmfdata.com/r/multjsa00000018> <http://rimmf.com/vocab/R1066> "VII, 355 pages" .
+<http://rimmfdata.com/r/multjsa00000018> 0 "multjsa00000027" .
+<http://rimmfdata.com/r/multjsa00000018> <http://rdaregistry.info/Elements/u/P60539> "cm" .
+<http://rimmfdata.com/r/multls00000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multls00000014> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multls00000014> .
+<http://rimmfdata.com/r/multls00000014> <http://rdaregistry.info/Elements/u/P60515> "Het gebed van den onwetende" .
+<http://rimmfdata.com/r/multls00000014> <http://rdaregistry.info/Elements/u/P60327> "Multatuli" .
+<http://rimmfdata.com/r/multls00000014> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/multls00000014> <http://rdaregistry.info/Elements/u/P60547> "Annonce Pers" .
+<http://rimmfdata.com/r/multls00000014> <http://rdaregistry.info/Elements/u/P60073> "1987" .
+<http://rimmfdata.com/r/multls00000014> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multls00000014> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multls00000014> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multls00000014> <http://rimmf.com/vocab/R1063> "7 pages" .
+<http://rimmfdata.com/r/multls00000014> <http://rimmf.com/vocab/R1062> "7" .
+<http://rimmfdata.com/r/multls00000014> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multls00000014> <http://rdaregistry.info/Elements/u/P60539> "19 cm" .
+<http://rimmfdata.com/r/multls00000014> <http://rimmf.com/vocab/R1085> "multls00000014" .
+<http://rimmfdata.com/r/multls00000015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multls00000015> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multls00000015> .
+<http://rimmfdata.com/r/multls00000015> <http://rdaregistry.info/Elements/u/P60515> "Multatuli, volledige werken" .
+<http://rimmfdata.com/r/multls00000015> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1003> .
+<http://rimmfdata.com/r/multls00000015> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multls00000015> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multls00000015> <http://rimmf.com/vocab/R1063> "473-477 pages" .
+<http://rimmfdata.com/r/multls00000015> <http://rimmf.com/vocab/R1062> "473-477" .
+<http://rimmfdata.com/r/multls00000015> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multls00000015> <http://rdaregistry.info/Elements/u/P60539> "cm" .
+<http://rimmfdata.com/r/multls00000015> <http://rimmf.com/vocab/R1085> "multls00000015" .
+<http://rimmfdata.com/r/multlvr00000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multlvr00000013> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multlvr00000013> .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60493> "ovvero le aste del caff\u00E8 della Societ\u00E0 di Commercio Olandese " .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60327> "Multatuli" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60329> "traduzione [dal nederlandese] di Piero Bernardini Marzolla ; postfazione di Fulvio Ferrari " .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60365> "Vertaling van: Max Havelaar, of de koffij-veilingen der Nederlandsche Handel-Maatschappij. - Amsterdam : De Ruyter, 1860" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60163> "Milano" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60547> "Iperborea" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60073> "2007" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60069> "2007" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60516> "Iperborea" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60081> "155" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60052> "ISBN 9788870911558" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multlvr00000013> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multlvr00000013> <http://rimmf.com/vocab/R1063> "20 cm" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rimmf.com/vocab/R1062> "351 pages" .
+<http://rimmfdata.com/r/multlvr00000013> <http://rimmf.com/vocab/R1085> "multlvr00000013" .
+<http://rimmfdata.com/r/multlvr00000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multlvr00000014> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multlvr00000014> .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar" .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60493> "een verhaal van Multatuli" .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60327> "naverteld door Marian Hoefnagel " .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60547> "Uitgeverij Eenvoudig Communiceren" .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60069> "2014" .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60516> "Literatuur voor beginners" .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60052> "9789086962051" .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multlvr00000014> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multlvr00000014> <http://rimmf.com/vocab/R1063> "21 cm" .
+<http://rimmfdata.com/r/multlvr00000014> <http://rimmf.com/vocab/R1062> "88 pagina's" .
+<http://rimmfdata.com/r/multlvr00000014> <http://rimmf.com/vocab/R1085> "multlvr00000014" .
+<http://rimmfdata.com/r/dirk00000020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000020> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/dirk00000020> .
+<http://rimmfdata.com/r/dirk00000020> <http://rimmf.com/vocab/R1085> "dirk00000020" .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60515> "Bloemlesing uit die Werke van E. Douwes-Dekker (Multatuli)" .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60327> "Uitgegee met Inleiding en Aantekeninge deur Tj. Buning Universiteit van Pretoria" .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60163> "Pretoria" .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60547> "J. L. Van Schaik Bepk." .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60073> "1942" .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60516> "Van stamverwante bodem" .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60081> "VIII" .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/dirk00000020> <http://rimmf.com/vocab/R1063> "282 pages" .
+<http://rimmfdata.com/r/dirk00000020> <http://rimmf.com/vocab/R1062> "282" .
+<http://rimmfdata.com/r/dirk00000020> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/dirk00000020> <http://rdaregistry.info/Elements/u/P60539> "21 cm" .
+<http://rimmfdata.com/r/dirk00000020> 0 <http://rimmfdata.com/r/dirk00000023> .
+<http://rimmfdata.com/r/dirk00000024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000024> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/dirk00000024> .
+<http://rimmfdata.com/r/dirk00000024> <http://rimmf.com/vocab/R1085> "dirk00000024" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60515> "Multatuli en de kritiek" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60493> "Een bloemlezing uit de literatuur over Multatuli" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60327> "Ingeleid en samengesteld door J. J. Oversteegen" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60547> "Athenaeum--Polak & Van Gennep" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60073> "1970" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60516> "Literair-wetenschappelijke serie.  Weerwerk" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60081> "no. 1" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60052> "LCCN    72529434" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60052> "(OCoLC)183133" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60052> <https://lccn.loc.gov/72529434> .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/dirk00000024> <http://rimmf.com/vocab/R1063> "192 p." .
+<http://rimmfdata.com/r/dirk00000024> <http://rimmf.com/vocab/R1062> "192" .
+<http://rimmfdata.com/r/dirk00000024> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/dirk00000024> <http://rdaregistry.info/Elements/u/P60539> "22 cm" .
+<http://rimmfdata.com/r/dirk00000024> 0 <http://rimmfdata.com/r/dirk00000025> .
+<http://rimmfdata.com/r/dirk00000028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/dirk00000028> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/dirk00000028> .
+<http://rimmfdata.com/r/dirk00000028> <http://rimmf.com/vocab/R1085> "dirk00000028" .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60515> "Bloemlezing uit de werken van Multatuli" .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60163> "'s-Gravenhage" .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60547> "Kruseman" .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60073> "[1973]" .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60052> "LCCN    74340029" .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60052> <https://lccn.loc.gov/74340029> .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/dirk00000028> <http://rimmf.com/vocab/R1063> "157 p." .
+<http://rimmfdata.com/r/dirk00000028> <http://rimmf.com/vocab/R1062> "157" .
+<http://rimmfdata.com/r/dirk00000028> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/dirk00000028> <http://rdaregistry.info/Elements/u/P60539> "21 cm" .
+<http://rimmfdata.com/r/dirk00000028> 0 <http://rimmfdata.com/r/dirk00000029> .
+<http://rimmfdata.com/r/gad00000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/gad00000014> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/gad00000014> .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60369> "Multatuli" .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60515> "De koffieveilingen der Nederlandse Handelsmaatschappij" .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60136> "Title from" .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60122> "Viewed on" .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60339> "Multatuli" .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60547> "Pandora" .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1003> .
+<http://rimmfdata.com/r/gad00000014> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1018> .
+<http://rimmfdata.com/r/gad00000014> <http://rimmf.com/vocab/R1063> "1 online resource" .
+<http://rimmfdata.com/r/gad00000014> <http://rimmf.com/vocab/R1062> "1" .
+<http://rimmfdata.com/r/gad00000014> <http://rimmf.com/vocab/R1064> <http://rdaregistry.info/termList/extent/1031> .
+<http://rimmfdata.com/r/gad00000014> <http://rimmf.com/vocab/R1085> "gad00000014" .
+<http://rimmfdata.com/r/gad00000014> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/havraa00000016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/havraa00000016> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/havraa00000016> .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar" .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60493> "een film van Fons Rademakers" .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60547> "Filmmuseum" .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60069> "\u00A92003" .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1008> .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1060> .
+<http://rimmfdata.com/r/havraa00000016> <http://rimmf.com/vocab/R1063> "1 videodisc" .
+<http://rimmfdata.com/r/havraa00000016> <http://rimmf.com/vocab/R1062> "1" .
+<http://rimmfdata.com/r/havraa00000016> <http://rimmf.com/vocab/R1064> <http://rdaregistry.info/termList/extent/1093> .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60539> "4 3/4 in." .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60543> <http://rdaregistry.info/termList/typeRec/1002> .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60594> <http://rdaregistry.info/termList/recMedium/1003> .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60093> <http://rdaregistry.info/termList/fileType/1006> .
+<http://rimmfdata.com/r/havraa00000016> <http://rdaregistry.info/Elements/u/P60314> <http://rdaregistry.info/termList/encFormat/1042> .
+<http://rimmfdata.com/r/havraa00000016> <http://rimmf.com/vocab/R1085> "havraa00000016" .
+<http://rimmfdata.com/r/havraa00000016> 0 <http://rimmfdata.com/r/havraa00000017> .
+<http://rimmfdata.com/r/multab00000035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multab00000035> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multab00000035> .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60515> "Multatuli" .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60493> "Saidjah en Adinda" .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60327> "samengesteld door DR. C. G. L. Apeldoorn, Paul Hardy, J.P. Rebel, P.J. Schepers" .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60365> "vierde druk" .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60163> "Purmerend" .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60547> "J. Muusses" .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60073> "1956" .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60516> "Nederlandse Keur" .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60081> "11" .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multab00000035> <http://rimmf.com/vocab/R1063> "16 pages photograph" .
+<http://rimmfdata.com/r/multab00000035> <http://rimmf.com/vocab/R1062> "16" .
+<http://rimmfdata.com/r/multab00000035> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multab00000035> <http://rimmf.com/vocab/R1067> <http://rdaregistry.info/termList/extentImage/1008> .
+<http://rimmfdata.com/r/multab00000035> <http://rdaregistry.info/Elements/u/P60539> "23 cm" .
+<http://rimmfdata.com/r/multab00000035> <http://rimmf.com/vocab/R1085> "multab00000035" .
+<http://rimmfdata.com/r/multab00000035> 0 <http://rimmfdata.com/r/multab00000038> .
+<http://rimmfdata.com/r/multab00000037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multab00000037> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multab00000037> .
+<http://rimmfdata.com/r/multab00000037> <http://rimmf.com/vocab/R1085> "multab00000037" .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60515> "Multatuli" .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60493> "Sa\u00EFdjah en Adinda" .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60163> "Purmerend" .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60547> "J. Muusses" .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60073> "1967 [1968]" .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60052> "LCCN    78403746" .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60052> <https://lccn.loc.gov/78403746> .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multab00000037> <http://rimmf.com/vocab/R1063> "16 p." .
+<http://rimmfdata.com/r/multab00000037> <http://rimmf.com/vocab/R1062> "16" .
+<http://rimmfdata.com/r/multab00000037> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multab00000037> <http://rdaregistry.info/Elements/u/P60539> "21 cm" .
+<http://rimmfdata.com/r/multab00000037> 0 <http://rimmfdata.com/r/multab00000038> .
+<http://rimmfdata.com/r/multcvg00000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multcvg00000014> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multcvg00000014> .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar of de koffieveilingen der Nederlandsche Handel-Maatschappij" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60339> "Multatuli" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60327> "Multatuli" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60339> "verzorgd en toegelicht door G.W. Huygens" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60329> "9e druk" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60333> "Rotterdam : Ad. Donker, 1969." .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60163> "Rotterdam" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60547> "Ad. Donker" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60073> "1969" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multcvg00000014> <http://rimmf.com/vocab/R1063> "272 pages" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rimmf.com/vocab/R1062> "272" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rdaregistry.info/Elements/u/P60539> "21 cm" .
+<http://rimmfdata.com/r/multcvg00000014> <http://rimmf.com/vocab/R1085> "multcvg00000014" .
+<http://rimmfdata.com/r/multcvg00000014> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/multdc00000015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multdc00000015> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multdc00000015> .
+<http://rimmfdata.com/r/multdc00000015> <http://rimmf.com/vocab/R1085> "multdc00000015" .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60515> "Multatuli, Max Havelaar" .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60327> "door Jos Paardekooper" .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60163> "Apeldoorn" .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60547> "Walva-Boek" .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60073> "1987" .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60516> "Memoreeks" .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60052> "ISBN 90-6675-080-4" .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multdc00000015> <http://rimmf.com/vocab/R1063> "48 pages" .
+<http://rimmfdata.com/r/multdc00000015> <http://rimmf.com/vocab/R1062> "48" .
+<http://rimmfdata.com/r/multdc00000015> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multdc00000015> <http://rdaregistry.info/Elements/u/P60539> "20 cm" .
+<http://rimmfdata.com/r/multdc00000015> 0 <http://rimmfdata.com/r/multdc00000018> .
+<http://rimmfdata.com/r/multiho00000022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multiho00000022> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multiho00000022> .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60073> "2016" .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60544> "Source 1 Media BV" .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar" .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60069> "2016" .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1008> .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1060> .
+<http://rimmfdata.com/r/multiho00000022> <http://rimmf.com/vocab/R1063> "videodisc" .
+<http://rimmfdata.com/r/multiho00000022> <http://rimmf.com/vocab/R1064> <http://rdaregistry.info/termList/extent/1093> .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60539> "4 3/4 in." .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60543> <http://rdaregistry.info/termList/typeRec/1002> .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60594> <http://rdaregistry.info/termList/recMedium/1003> .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60093> <http://rdaregistry.info/termList/fileType/1006> .
+<http://rimmfdata.com/r/multiho00000022> <http://rdaregistry.info/Elements/u/P60314> <http://rdaregistry.info/termList/encFormat/1042> .
+<http://rimmfdata.com/r/multiho00000022> <http://rimmf.com/vocab/R1085> "multiho00000022" .
+<http://rimmfdata.com/r/multiho00000022> 0 <http://rimmfdata.com/r/multiho00000021> .
+<http://rimmfdata.com/r/multja00000017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multja00000017> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multja00000017> .
+<http://rimmfdata.com/r/multja00000017> <http://rdaregistry.info/Elements/u/P60596> <http://rdaregistry.info/termList/RDAbaseMaterial/1020> .
+<http://rimmfdata.com/r/multja00000017> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1059> .
+<http://rimmfdata.com/r/multja00000017> <http://rdaregistry.info/Elements/u/P60515> "maat L" .
+<http://rimmfdata.com/r/multja00000017> 0 <http://rimmfdata.com/r/multja00000013> .
+<http://rimmfdata.com/r/multja00000017> <http://rimmf.com/vocab/R1085> "multja00000017" .
+<http://rimmfdata.com/r/multlv00000024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multlv00000024> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multlv00000024> .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar " .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60493> "Of de koffiveilingen der Nederlandsche handelmaatschappij" .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60327> "Multatuli" .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60327> "Bandontwerp Jaap Veenendaal" .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60365> "21e druk" .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60365> "102-103e duizendtal" .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60547> "Wereldbibliotheek" .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60073> "1943" .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multlv00000024> <http://rimmf.com/vocab/R1063> "401 pages" .
+<http://rimmfdata.com/r/multlv00000024> <http://rimmf.com/vocab/R1062> "401" .
+<http://rimmfdata.com/r/multlv00000024> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multlv00000024> <http://rdaregistry.info/Elements/u/P60539> "cm" .
+<http://rimmfdata.com/r/multlv00000024> <http://rimmf.com/vocab/R1085> "multlv00000024" .
+<http://rimmfdata.com/r/multlv00000024> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/multlv00000026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multlv00000026> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multlv00000026> .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar of, de koffieveilingen der Nederlandse Handelsmaatschapij " .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60327> "Multatuli" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60327> "Stapert-Eggen, Marijke" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60365> "eenentwintigste druk" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60163> "Antwerpen" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60547> "L.J. Veen" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60073> "november 2011" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60069> "1961" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60328> "Dwarsligger klassiek ; 143." .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60516> "Dwarsligger klassiek" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60081> "143" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multlv00000026> <http://rimmf.com/vocab/R1063> "613 pages" .
+<http://rimmfdata.com/r/multlv00000026> <http://rimmf.com/vocab/R1062> "613" .
+<http://rimmfdata.com/r/multlv00000026> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multlv00000026> <http://rdaregistry.info/Elements/u/P60539> "12 cm" .
+<http://rimmfdata.com/r/multlv00000026> <http://rimmf.com/vocab/R1085> "multlv00000026" .
+<http://rimmfdata.com/r/multlv00000026> <http://rimmf.com/vocab/R1098> <http://bibframe.org/vocab/isbn> .
+<http://rimmfdata.com/r/multlv00000026> <http://rimmf.com/vocab/R1097> "9789049801342" .
+<http://rimmfdata.com/r/multlv00000026> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/multmdb00000013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmdb00000013> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multmdb00000013> .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60515> "Koffie-veilingen der Nederlandsche handelmaatschappij" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60136> "Title from title page" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60122> "Viewed on September, 29 2016 on Google Books" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60327> "Multatuli" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60329> "vierde druk, eerste door den auteur herziene uitgaaf" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60547> "G.L. Funke" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60073> "1875" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1003> .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1018> .
+<http://rimmfdata.com/r/multmdb00000013> <http://rimmf.com/vocab/R1063> "1 online resource" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rimmf.com/vocab/R1062> "1" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rimmf.com/vocab/R1064> <http://rdaregistry.info/termList/extent/1031> .
+<http://rimmfdata.com/r/multmdb00000013> <http://rimmf.com/vocab/R1065> "104" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rimmf.com/vocab/R1088> "0" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60496> "not all pages might be shown or printed" .
+<http://rimmfdata.com/r/multmdb00000013> <http://rimmf.com/vocab/R1085> "multmdb00000013" .
+<http://rimmfdata.com/r/multmdb00000013> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/multmdb00000013> <http://rdaregistry.info/Elements/u/P60469> "multmdb00000014" .
+<http://rimmfdata.com/r/multmp00000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmp00000018> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multmp00000018> .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60515> "De kleine Wouter" .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60493> "fragmenten uit de geschiedenis van Woutertje Pieterse" .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60327> "Multatuli" .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60327> "door Garmt Stuiveling gelicht uit de Id\u00E9en van Multatuli" .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60327> "illustraties Pam G. Rueter" .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60163> "[Amsterdam]" .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60547> "Wereldbibliotheek Vereniging" .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60073> "1960" .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multmp00000018> <http://rimmf.com/vocab/R1063> "69 pages" .
+<http://rimmfdata.com/r/multmp00000018> <http://rimmf.com/vocab/R1062> "69" .
+<http://rimmfdata.com/r/multmp00000018> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multmp00000018> <http://rdaregistry.info/Elements/u/P60539> "20 cm" .
+<http://rimmfdata.com/r/multmp00000018> <http://rimmf.com/vocab/R1085> "multmp00000018" .
+<http://rimmfdata.com/r/multmp00000018> 0 <http://rimmfdata.com/r/multmp00000022> .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multnegenveertig00000014> .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60369> "De veelzinnige muze van E. Douwes Dekker" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60515> "De veelzinnige muze van E. Douwes Dekker" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60493> "paperback" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60339> "Eep Francken" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60329> "Eerste druk" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60333> "Amsterdam : Uitgeverij G. A. van Oorschot, oktober 1990." .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60547> "Uitgeverij G. A. van Oorschot" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60073> "oktober 1990" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rimmf.com/vocab/R1063> "347 pagina's" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rimmf.com/vocab/R1066> "347 pagina's" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60539> "21 cm" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rimmf.com/vocab/R1085> "multnegenveertig00000014" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60137> "Met literatuuropgave, register" .
+<http://rimmfdata.com/r/multnegenveertig00000014> <http://rdaregistry.info/Elements/u/P60137> "Ook verschenen als proefschrift, Leiden" .
+<http://rimmfdata.com/r/multnegenveertig00000014> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multnegenveertig00000019> .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60369> "Minnebrieven" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60515> "Minnebrieven" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60339> "Multatuli" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60365> "heruitgave, volgt de zesde druk uit 1875" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60333> "Benthuizen : Uitgeverij Astoria, 2015." .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60163> "Benthuizen" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60547> "Uitgeverij Astoria" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60073> "2015" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60069> "2015" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60052> "9789491618277" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rimmf.com/vocab/R1063> "189 pages" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rimmf.com/vocab/R1066> "189 pages" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rdaregistry.info/Elements/u/P60539> "20 cm" .
+<http://rimmfdata.com/r/multnegenveertig00000019> <http://rimmf.com/vocab/R1085> "multnegenveertig00000019" .
+<http://rimmfdata.com/r/multnegenveertig00000019> 0 <http://rimmfdata.com/r/ingressus00000046> .
+<http://rimmfdata.com/r/multrm00000030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multrm00000030> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multrm00000030> .
+<http://rimmfdata.com/r/multrm00000030> <http://rimmf.com/vocab/R1085> "Sa\uFFFDdjah en Adinda. Wereldbibliotheek-Vereeniging. 1937. Volume" .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60515> "Sa\uFFFDdjah en Adinda" .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60493> "fragment uit den Max Havelaar" .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60327> "Multatuli" .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60163> "Amsterdam" .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60547> "Wereldbibliotheek-Vereeniging" .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60073> "1937" .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multrm00000030> <http://rimmf.com/vocab/R1063> "50 pages" .
+<http://rimmfdata.com/r/multrm00000030> <http://rimmf.com/vocab/R1062> "50" .
+<http://rimmfdata.com/r/multrm00000030> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multrm00000030> <http://rdaregistry.info/Elements/u/P60539> "16 cm" .
+<http://rimmfdata.com/r/multrm00000030> 0 <http://rimmfdata.com/r/ingressus00000047> .
+<http://rimmfdata.com/r/multgv00000032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multgv00000032> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multgv00000032> .
+<http://rimmfdata.com/r/multgv00000032> <http://rdaregistry.info/Elements/u/P60515> "De geschiedenis van Woutertje Pieterse" .
+<http://rimmfdata.com/r/multgv00000032> <http://rdaregistry.info/Elements/u/P60547> "Elsevier" .
+<http://rimmfdata.com/r/multgv00000032> <http://rdaregistry.info/Elements/u/P60073> "1910" .
+<http://rimmfdata.com/r/multgv00000032> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multgv00000032> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multgv00000032> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multgv00000032> <http://rimmf.com/vocab/R1063> "334 pages" .
+<http://rimmfdata.com/r/multgv00000032> <http://rimmf.com/vocab/R1062> "334" .
+<http://rimmfdata.com/r/multgv00000032> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multgv00000032> <http://rdaregistry.info/Elements/u/P60539> "cm" .
+<http://rimmfdata.com/r/multgv00000032> <http://rimmf.com/vocab/R1085> "multgv00000032" .
+<http://rimmfdata.com/r/multgv00000032> 0 <http://rimmfdata.com/r/multgv00000033> .
+<http://rimmfdata.com/r/multgv00000032> 0 <http://rimmfdata.com/r/multgv00000034> .
+<http://rimmfdata.com/r/multmh00000018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmh00000018> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multmh00000018> .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60515> "Sa\u00EEdjah en Adinda" .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60515> "Toespraak tot de hoofden van Lebak" .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60327> "Multatuli ; bezorgd door Aug. A. Boudens" .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60365> "Vijfde druk" .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60163> "Den Haag" .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60547> "Van Goor" .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60516> "Letterkunde " .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60081> "4" .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multmh00000018> <http://rimmf.com/vocab/R1063> "40 pages" .
+<http://rimmfdata.com/r/multmh00000018> <http://rimmf.com/vocab/R1062> "40" .
+<http://rimmfdata.com/r/multmh00000018> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multmh00000018> <http://rdaregistry.info/Elements/u/P60539> "15 cm" .
+<http://rimmfdata.com/r/multmh00000018> <http://rimmf.com/vocab/R1085> "multmh00000018" .
+<http://rimmfdata.com/r/multmh00000018> 0 <http://rimmfdata.com/r/ingressus00000047> .
+<http://rimmfdata.com/r/multmh00000018> 0 <http://rimmfdata.com/r/multmh00000020> .
+<http://rimmfdata.com/r/multmurk00000019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multmurk00000019> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multmurk00000019> .
+<http://rimmfdata.com/r/multmurk00000019> <http://rimmf.com/vocab/R1085> "multmurk00000019" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60515> "Max Havelaar" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60493> "de koffijveilingen der Nederlandsche Handel-Maatschappij" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60327> "Multatuli" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60327> "toneelbewerking Ab Gietelink" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60327> "tekstbijdrage Femke Halsema" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60163> "[Amsterdam]" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60547> "Nomade producties" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60073> "juni 2007" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60051> <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60052> "ISBN 9789080642355" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/multmurk00000019> <http://rimmf.com/vocab/R1063> "112 pages" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rimmf.com/vocab/R1062> "112" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/multmurk00000019> <http://rdaregistry.info/Elements/u/P60539> "21 cm" .
+<http://rimmfdata.com/r/multmurk00000019> 0 <http://rimmfdata.com/r/multmurk00000022> .
+<http://rimmfdata.com/r/multmurk00000019> 0 <http://rimmfdata.com/r/multmurk00000025> .
+<http://rimmfdata.com/r/multrm00000032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/multrm00000032> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/multrm00000032> .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60515> "Sa\uFFFDdjah en Adinda" .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60355> "Thom Hoffman leest Multatuli Sa\uFFFDdjah en Adinda" .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60327> "Multatuli ; voorgelezen door Thom Hoffman" .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60163> "[Amsterdam]" .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60547> "Uitgeverij Cosee" .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60073> "2006" .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60069> "\u00A92006" .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60050> <http://rdaregistry.info/termList/RDAMediaType/1001> .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60048> <http://rdaregistry.info/termList/RDACarrierType/1004> .
+<http://rimmfdata.com/r/multrm00000032> <http://rimmf.com/vocab/R1063> "1" .
+<http://rimmfdata.com/r/multrm00000032> <http://rimmf.com/vocab/R1062> "1" .
+<http://rimmfdata.com/r/multrm00000032> <http://rimmf.com/vocab/R1085> "Sa\uFFFDdjah en Adinda. Uitgeverij Cosee. 2006. Audio disc" .
+<http://rimmfdata.com/r/multrm00000032> 0 <http://rimmfdata.com/r/multrm00000031> .
+<http://rimmfdata.com/r/multrm00000032> <http://rdaregistry.info/Elements/u/P60374> <http://rimmfdata.com/r/multrm00000033> .
