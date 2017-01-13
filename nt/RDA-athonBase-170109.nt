@@ -1,0 +1,761 @@
+<http://rimmfdata.com/r/lackvt00000050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000050> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000050> .
+<http://rimmfdata.com/r/lackvt00000050> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000050> <http://rimmf.com/vocab/R1031> "Her Chronicles of the hostile sun, 1984: t.p. (Dionne Brand)" .
+<http://rimmfdata.com/r/lackvt00000050> <http://rimmf.com/vocab/R1031> "NLC 7-12-84 (AACR 2: Brand, Dionne, 1953-)" .
+<http://rimmfdata.com/r/lackvt00000050> <http://rimmf.com/vocab/R1031> "Africana: The Encyclopedia of the African and African American Experience, Second Edition, accessed April 6, 2015, via Oxford African American Studies Center database: (Brand, Dionne; poet, fiction writer; born 1953 in Trinidad; her writing reflects the racial and gender discrimination faced by black women and features resilient female characters; some of her more important works include Chronicles of the Hostile Sun (1984), Sans Souci and Other Stories (1988), and In Another Place, Not Here (1996))" .
+<http://rimmfdata.com/r/lackvt00000050> P60549 "Brand, Dionne" .
+<http://rimmfdata.com/r/lackvt00000050> P60599 "1953" .
+<http://rimmfdata.com/r/lackvt00000050> P60531 <http://rdaregistry.info/termList/gender/1001> .
+<http://rimmfdata.com/r/lackvt00000050> P60593 "Trinidad" .
+<http://rimmfdata.com/r/lackvt00000050> P60063 "Trinidad" .
+<http://rimmfdata.com/r/lackvt00000050> P60468 "Novelists" .
+<http://rimmfdata.com/r/lackvt00000050> P60468 "Poets" .
+<http://rimmfdata.com/r/lackvt00000050> P60053 "LCCN n  85048987" .
+<http://rimmfdata.com/r/lackvt00000050> P60053 "(OCoLC)oca01308774" .
+<http://rimmfdata.com/r/lackvt00000050> P60053 <https://lccn.loc.gov/n85048987> .
+<http://rimmfdata.com/r/lackvt00000050> <http://rimmf.com/vocab/R1079> "Brand, Dionne, 1953-" .
+<http://rimmfdata.com/r/lackvt00000050> P60663 <http://rimmfdata.com/r/lackvt00000049> .
+<http://rimmfdata.com/r/qpq00010973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/qpq00010973> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/qpq00010973> .
+<http://rimmfdata.com/r/qpq00010973> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010973> <http://rimmf.com/vocab/R1031> "Montgomery, L. M. Anne of Green Gables, 2008: t.p. verso (interior art by M.A. Claus...)" .
+<http://rimmfdata.com/r/qpq00010973> P60549 "Claus, M. A." .
+<http://rimmfdata.com/r/qpq00010973> P60119 "Claus, May Austin" .
+<http://rimmfdata.com/r/qpq00010973> P60599 "1882" .
+<http://rimmfdata.com/r/qpq00010973> P60530 "May Austin" .
+<http://rimmfdata.com/r/qpq00010973> P60053 "LCCN n 2008065804" .
+<http://rimmfdata.com/r/qpq00010973> P60053 <https://lccn.loc.gov/n2008065804> .
+<http://rimmfdata.com/r/qpq00010973> <http://rimmf.com/vocab/R1079> "Claus, M. A. (May Austin), 1882-" .
+<http://rimmfdata.com/r/qpq00010973> <http://rimmf.com/vocab/R1080> "Claus, May Austin, 1882-" .
+<http://rimmfdata.com/r/qpq00010973> P60624 <http://rimmfdata.com/r/qpq00010972> .
+<http://rimmfdata.com/r/qpq00010974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/qpq00010974> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/qpq00010974> .
+<http://rimmfdata.com/r/qpq00010974> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/qpq00010974> <http://rimmf.com/vocab/R1031> "NUCMC data from Monhegan Museum for Frederick Dorr Steele family album, 1873-1944 (William A.J. Claus; artist; Monhegan Island, Me.)" .
+<http://rimmfdata.com/r/qpq00010974> <http://rimmf.com/vocab/R1031> "AskArt Internet site, Mar. 05, 2004 (Claus, William Anton Joseph, 1862-1926)" .
+<http://rimmfdata.com/r/qpq00010974> P60549 "Claus, William A. J." .
+<http://rimmfdata.com/r/qpq00010974> P60599 "1862" .
+<http://rimmfdata.com/r/qpq00010974> P60598 "1926" .
+<http://rimmfdata.com/r/qpq00010974> P60530 "William Anton Joseph" .
+<http://rimmfdata.com/r/qpq00010974> P60053 "LCCN n 2004071425" .
+<http://rimmfdata.com/r/qpq00010974> P60053 <http://id.loc.gov/authorities/names/n2004071425> .
+<http://rimmfdata.com/r/qpq00010974> <http://rimmf.com/vocab/R1079> "Claus, William A. J. (William Anton Joseph), 1862-1926" .
+<http://rimmfdata.com/r/qpq00010974> P60624 <http://rimmfdata.com/r/qpq00010972> .
+<http://rimmfdata.com/r/lackvt00000072> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000072> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000072> .
+<http://rimmfdata.com/r/lackvt00000072> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000072> <http://rimmf.com/vocab/R1031> "Anne of Green Gables, c2004: t.p. (Cecily Devereux) Can. CIP (Devereux, Cecily Margaret, 1963-)" .
+<http://rimmfdata.com/r/lackvt00000072> P60549 "Devereux, Cecily Margaret" .
+<http://rimmfdata.com/r/lackvt00000072> P60599 "1963" .
+<http://rimmfdata.com/r/lackvt00000072> P60053 "LCCN no2005017202" .
+<http://rimmfdata.com/r/lackvt00000072> P60053 "(OCoLC)oca06567509" .
+<http://rimmfdata.com/r/lackvt00000072> P60053 <https://lccn.loc.gov/no2005017202> .
+<http://rimmfdata.com/r/lackvt00000072> <http://rimmf.com/vocab/R1079> "Devereux, Cecily Margaret, 1963-" .
+<http://rimmfdata.com/r/lackvt00000072> P60621 <http://rimmfdata.com/r/lackvt00000071> .
+<http://rimmfdata.com/r/lackvt00000053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000053> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000053> .
+<http://rimmfdata.com/r/lackvt00000053> <http://rimmf.com/vocab/R1079> "lackvt00000053" .
+<http://rimmfdata.com/r/lackvt00000053> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/lackvt00000053> <http://rimmf.com/vocab/R1031> "The rez sisters, 1992" .
+<http://rimmfdata.com/r/lackvt00000053> P60549 "Dudinsky, Donna" .
+<http://rimmfdata.com/r/lackvt00000053> P60053 <http://rimmfdata.com/provisional/dudinskyDonnaNarrator> .
+<http://rimmfdata.com/r/lackvt00000053> P60028 <http://rimmfdata.com/r/lackvt00000052> .
+<http://rimmfdata.com/r/lackvt00000042> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000042> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000042> .
+<http://rimmfdata.com/r/lackvt00000042> <http://rimmf.com/vocab/R1079> "lackvt00000042" .
+<http://rimmfdata.com/r/lackvt00000042> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000042> <http://rimmf.com/vocab/R1031> "His The rez sisters, 1988: t.p. (Tomson Highway) Can. CIP (Highway, Tomson, 1951-)" .
+<http://rimmfdata.com/r/lackvt00000042> <http://rimmf.com/vocab/R1031> "His Kiss of the fur queen, 2000: CIP t.p. (Tomson Highway) data sheet (b. 6 Dec. 1951)" .
+<http://rimmfdata.com/r/lackvt00000042> <http://rimmf.com/vocab/R1031> "Wikipedia, May 11, 2016 (Tomson Highway, CM (born 6 December 1951, Brochet, Manitoba) is a Canadian and Cree playwright, novelist, and children's author)" .
+<http://rimmfdata.com/r/lackvt00000042> P60549 "Highway, Tomson" .
+<http://rimmfdata.com/r/lackvt00000042> P60599 "1951 December 6" .
+<http://rimmfdata.com/r/lackvt00000042> P60531 <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/lackvt00000042> P60593 "Brochet (Man.)" .
+<http://rimmfdata.com/r/lackvt00000042> P60098 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000042> P60098 <http://id.loc.gov/vocabulary/iso639-2/cre> .
+<http://rimmfdata.com/r/lackvt00000042> P60468 "Dramatist" .
+<http://rimmfdata.com/r/lackvt00000042> P60468 "Novelist" .
+<http://rimmfdata.com/r/lackvt00000042> P60468 "Children's author" .
+<http://rimmfdata.com/r/lackvt00000042> P60053 "LCCN nr 89010421" .
+<http://rimmfdata.com/r/lackvt00000042> P60053 "(OCoLC)oca02580313" .
+<http://rimmfdata.com/r/lackvt00000042> P60053 <https://lccn.loc.gov/nr89010421> .
+<http://rimmfdata.com/r/lackvt00000042> P60663 <http://rimmfdata.com/r/lackvt00000041> .
+<http://rimmfdata.com/r/lackvt00000046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000046> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000046> .
+<http://rimmfdata.com/r/lackvt00000046> <http://rimmf.com/vocab/R1079> "lackvt00000046" .
+<http://rimmfdata.com/r/lackvt00000046> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000046> <http://rimmf.com/vocab/R1031> "Some great thing, c1992: t.p. (Lawrence Hill)" .
+<http://rimmfdata.com/r/lackvt00000046> <http://rimmf.com/vocab/R1031> "OCLC 25369646 (hdg.: Hill, Lawrence, 1957- )" .
+<http://rimmfdata.com/r/lackvt00000046> <http://rimmf.com/vocab/R1031> "The illegal, 2016: dust jacket (Lawrence Hill is Canadian novelist; he lives in Ontario)" .
+<http://rimmfdata.com/r/lackvt00000046> P60549 "Hill, Lawrence" .
+<http://rimmfdata.com/r/lackvt00000046> P60599 "1957" .
+<http://rimmfdata.com/r/lackvt00000046> P60531 <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/lackvt00000046> P60063 "Canada" .
+<http://rimmfdata.com/r/lackvt00000046> P60360 "Ontario" .
+<http://rimmfdata.com/r/lackvt00000046> P60098 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000046> P60468 "0" .
+<http://rimmfdata.com/r/lackvt00000046> P60053 "LCCN no 92031263" .
+<http://rimmfdata.com/r/lackvt00000046> P60053 "(OCoLC)oca03285841" .
+<http://rimmfdata.com/r/lackvt00000046> P60053 <https://lccn.loc.gov/no92031263> .
+<http://rimmfdata.com/r/lackvt00000046> P60663 <http://rimmfdata.com/r/lackvt00000045> .
+<http://rimmfdata.com/r/lackvt00000080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000080> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000080> .
+<http://rimmfdata.com/r/lackvt00000080> <http://rimmf.com/vocab/R1079> "lackvt00000080" .
+<http://rimmfdata.com/r/lackvt00000080> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000080> <http://rimmf.com/vocab/R1031> "His Elements of political science, 1906" .
+<http://rimmfdata.com/r/lackvt00000080> P60549 "Leacock, Stephen" .
+<http://rimmfdata.com/r/lackvt00000080> P60119 "Leacock, Stephen Butler" .
+<http://rimmfdata.com/r/lackvt00000080> P60599 "1869" .
+<http://rimmfdata.com/r/lackvt00000080> P60598 "1944" .
+<http://rimmfdata.com/r/lackvt00000080> P60531 <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/lackvt00000080> P60053 "LCCN n  50042556" .
+<http://rimmfdata.com/r/lackvt00000080> P60053 "(OCoLC)oca00077727" .
+<http://rimmfdata.com/r/lackvt00000080> P60053 <https://lccn.loc.gov/n50042556> .
+<http://rimmfdata.com/r/lackvt00000080> <http://rimmf.com/vocab/R1080> "Leacock, Stephen Butler, 1869-1944" .
+<http://rimmfdata.com/r/lackvt00000080> P60663 <http://rimmfdata.com/r/lackvt00000079> .
+<http://rimmfdata.com/r/lackvt00000057> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000057> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000057> .
+<http://rimmfdata.com/r/lackvt00000057> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/lackvt00000057> <http://rimmf.com/vocab/R1031> "Qui est le p\u00E8re?, 1977" .
+<http://rimmfdata.com/r/lackvt00000057> P60549 "Leclerc, F\u00E9lix" .
+<http://rimmfdata.com/r/lackvt00000057> P60053 <http://rimmfdata.com/provisional/leclercFeU0301lix> .
+<http://rimmfdata.com/r/lackvt00000057> <http://rimmf.com/vocab/R1079> "Leclerc, F\u00E9lix" .
+<http://rimmfdata.com/r/lackvt00000057> P60663 <http://rimmfdata.com/r/lackvt00000056> .
+<http://rimmfdata.com/r/lackvt00000078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000078> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000078> .
+<http://rimmfdata.com/r/lackvt00000078> <http://rimmf.com/vocab/R1079> "lackvt00000078" .
+<http://rimmfdata.com/r/lackvt00000078> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000078> <http://rimmf.com/vocab/R1031> "His Stephen Leacock, 1988: t.p. (Gerald Lynch) Can. CIP (Lynch, Gerald, 1953-)" .
+<http://rimmfdata.com/r/lackvt00000078> P60549 "Lynch, Gerald" .
+<http://rimmfdata.com/r/lackvt00000078> P60599 "1953" .
+<http://rimmfdata.com/r/lackvt00000078> P60531 <http://rdaregistry.info/termList/gender/1002> .
+<http://rimmfdata.com/r/lackvt00000078> P60053 "LCCN nr 89011637" .
+<http://rimmfdata.com/r/lackvt00000078> P60053 "(OCoLC)oca02595967" .
+<http://rimmfdata.com/r/lackvt00000078> P60053 <https://lccn.loc.gov/nr89011637> .
+<http://rimmfdata.com/r/lackvt00000078> P60621 <http://rimmfdata.com/r/lackvt00000077> .
+<http://rimmfdata.com/r/lackvt00000038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000038> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000038> .
+<http://rimmfdata.com/r/lackvt00000038> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000038> <http://rimmf.com/vocab/R1031> "Her Oratory, c1990: t.p. (Lee Maracle) p. 4 of cover (writer, poet, orator)" .
+<http://rimmfdata.com/r/lackvt00000038> <http://rimmf.com/vocab/R1031> "Her Sojourner's truth & other stories, c1990: t.p. (Lee Maracle) Can. CIP (Maracle, Lee, 1950- )" .
+<http://rimmfdata.com/r/lackvt00000038> <http://rimmf.com/vocab/R1031> "Her Bobbi Lee, Indian rebel, c1990: t.p. (Lee Maracle) p. 21 (Bobbi Lee)" .
+<http://rimmfdata.com/r/lackvt00000038> P60549 "Maracle, Lee" .
+<http://rimmfdata.com/r/lackvt00000038> P60119 "Lee, Bobbi" .
+<http://rimmfdata.com/r/lackvt00000038> P60053 "LCCN no 91005865" .
+<http://rimmfdata.com/r/lackvt00000038> P60053 "(OCoLC)oca02921228" .
+<http://rimmfdata.com/r/lackvt00000038> P60053 <https://lccn.loc.gov/no91005865> .
+<http://rimmfdata.com/r/lackvt00000038> <http://rimmf.com/vocab/R1079> "Maracle, Lee" .
+<http://rimmfdata.com/r/lackvt00000038> <http://rimmf.com/vocab/R1080> "Lee, Bobbi" .
+<http://rimmfdata.com/r/lackvt00000038> P60663 <http://rimmfdata.com/r/lackvt00000037> .
+<http://rimmfdata.com/r/lackvt00000075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000075> .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1079> "lackvt00000075" .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1031> "Anne of Green gables, 1908" .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1031> "Anne of Green Gables, 2002: CIP t.p. (L.M. Montgomery) CIP galley (b. Nov. 30, 1874 in Clifton (now New London), Prince Edward Island; d. April 24, 1942)" .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1031> "Wikipedia, Apr. 17, 2013 (Lucy Maud Montgomery, born November 30, 1874, Clifton, Prince Edward Island; died April 24, 1942, Toronto, Ontario; lived in and wrote novels set in Prince Edward Island; called &#34;Maud&#34; by family and friends, publicly known as L. M. Montgomery; Occupation: Novelist; Nationality: Canadian; Alma mater: Prince of Wales College (1893), Dalhousie University (1895-1896); Genre: Children's literature; Spouse: Ewen (&#34;Ewan&#34;) Macdonald; Children: Chester, Hugh, Stuart)" .
+<http://rimmfdata.com/r/lackvt00000075> P60549 "Montgomery, L. M." .
+<http://rimmfdata.com/r/lackvt00000075> P60119 "Montgomery, Lucy Maud" .
+<http://rimmfdata.com/r/lackvt00000075> P60119 "MacDonald, Lucy Maud Montgomery" .
+<http://rimmfdata.com/r/lackvt00000075> P60119 "\u05DE\u05D5\u05E0\u05D8\u05D2\u05D5\u05DE\u05E8\u05D9, \u05DC\u05D5\u05E1\u05D9 \u05DE" .
+<http://rimmfdata.com/r/lackvt00000075> P60119 "\u30E2\u30F3\u30B4\u30E1\u30EA, L. M" .
+<http://rimmfdata.com/r/lackvt00000075> P60119 "L.M.\u30E2\u30F3\u30B4\u30E1\u30EA" .
+<http://rimmfdata.com/r/lackvt00000075> P60599 "1874 November 30" .
+<http://rimmfdata.com/r/lackvt00000075> P60598 "1942 April 24" .
+<http://rimmfdata.com/r/lackvt00000075> P60530 "Lucy Maud" .
+<http://rimmfdata.com/r/lackvt00000075> P60531 <http://rdaregistry.info/termList/gender/1001> .
+<http://rimmfdata.com/r/lackvt00000075> P60593 "Clifton (P.E.I.)" .
+<http://rimmfdata.com/r/lackvt00000075> P60592 "Toronto (Ont.)" .
+<http://rimmfdata.com/r/lackvt00000075> P60360 "Prince Edward Island" .
+<http://rimmfdata.com/r/lackvt00000075> P60095 "Prince of Wales College" .
+<http://rimmfdata.com/r/lackvt00000075> P60095 "Dalhousie University" .
+<http://rimmfdata.com/r/lackvt00000075> P60098 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000075> P60089 "Children's literature" .
+<http://rimmfdata.com/r/lackvt00000075> P60468 "Author \u2020" .
+<http://rimmfdata.com/r/lackvt00000075> P60492 "L. M. Montgomery, November 30, 1874 - April 24, 1942, is best known for writing the series of books beginning with Anne of Green Gables set in Prince Edward Island, Canada. She married Ewen (&#34;Ewan&#34;) Macdonald, and had three children: Chester, Hugh, and Stuart" .
+<http://rimmfdata.com/r/lackvt00000075> P60053 "LCCN n  81018346" .
+<http://rimmfdata.com/r/lackvt00000075> P60053 "(OCoLC)oca00564185" .
+<http://rimmfdata.com/r/lackvt00000075> P60053 <https://lccn.loc.gov/n81018346> .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1080> "Montgomery, Lucy Maud, 1874-1942" .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1080> "MacDonald, Lucy Maud Montgomery, 1874-1942" .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1080> "\u05DE\u05D5\u05E0\u05D8\u05D2\u05D5\u05DE\u05E8\u05D9, \u05DC\u05D5\u05E1\u05D9 \u05DE" .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1080> "\u30E2\u30F3\u30B4\u30E1\u30EA, L. M, 1874-1942" .
+<http://rimmfdata.com/r/lackvt00000075> <http://rimmf.com/vocab/R1080> "L.M.\u30E2\u30F3\u30B4\u30E1\u30EA, 1874-1942" .
+<http://rimmfdata.com/r/lackvt00000075> P60663 <http://rimmfdata.com/r/lackvt00000073> .
+<http://rimmfdata.com/r/lackvt00000060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000060> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000060> .
+<http://rimmfdata.com/r/lackvt00000060> <http://rimmf.com/vocab/R1079> "lackvt00000060" .
+<http://rimmfdata.com/r/lackvt00000060> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000060> <http://rimmf.com/vocab/R1031> "Her The tin flute, 1947" .
+<http://rimmfdata.com/r/lackvt00000060> <http://rimmf.com/vocab/R1031> "Hesse, M.G. Gabrielle Roy, c1984: CIP t.p. (Gabrielle Roy) chron. (b. 3/22/09, d. 7/13/83)" .
+<http://rimmfdata.com/r/lackvt00000060> <http://rimmf.com/vocab/R1031> "In translation, c2005: t.p. (Gabrielle Roy) Can. CIP (Roy, Gabrielle, 1909-1983)" .
+<http://rimmfdata.com/r/lackvt00000060> P60549 "Roy, Gabrielle" .
+<http://rimmfdata.com/r/lackvt00000060> P60599 "1909" .
+<http://rimmfdata.com/r/lackvt00000060> P60598 "1983" .
+<http://rimmfdata.com/r/lackvt00000060> P60531 <http://rdaregistry.info/termList/gender/1001> .
+<http://rimmfdata.com/r/lackvt00000060> P60063 "Canada" .
+<http://rimmfdata.com/r/lackvt00000060> P60098 <http://id.loc.gov/vocabulary/iso639-2/fre> .
+<http://rimmfdata.com/r/lackvt00000060> P60468 "0" .
+<http://rimmfdata.com/r/lackvt00000060> P60053 "LCCN n  80040268" .
+<http://rimmfdata.com/r/lackvt00000060> P60053 "(OCoLC)oca00422338" .
+<http://rimmfdata.com/r/lackvt00000060> P60053 <https://lccn.loc.gov/n80040268> .
+<http://rimmfdata.com/r/lackvt00000060> P60663 <http://rimmfdata.com/r/lackvt00000065> .
+<http://rimmfdata.com/r/lackvt00000074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000074> <http://rimmf.com/vocab/R1059> <http://rimmfdata.com/r/lackvt00000074> .
+<http://rimmfdata.com/r/lackvt00000074> <http://rimmf.com/vocab/R1079> "lackvt00000074" .
+<http://rimmfdata.com/r/lackvt00000074> <http://rimmf.com/vocab/R1032> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000074> <http://rimmf.com/vocab/R1031> "Anne of Windy Poplars, 1996: p. 3 (Letter from Anne Shirley, B.A., Principal of Summerside High School, to Gilbert Blythe, medical student at Redmond College, Kingsport; Windy Poplars, Spook's Lane, Summerside, P.E.I.)" .
+<http://rimmfdata.com/r/lackvt00000074> <http://rimmf.com/vocab/R1031> "Wikipedia, Mar. 15, 2013 (Anne Shirley is a fictional character introduced in the 1908 novel Anne of Green Gables by Lucy Maud Montgomery. Said to be born in Bolingbroke, Nova Scotia; born in March, 1865; orphaned at age 3 months; age 11, moved from Hopetown orphanage to Green Gables, Avonlea, Prince Edward Island; B.A., Redmond College, Kingsport, Nova Scotia; marries Gilbert Blythe and moves to Four Winds, P.E.I.; has a total of seven children born between approximately 1891-99; family moves to Glen St. Mary; though Anne gives up writing short stories shortly after becoming a mother, she continues to write poems throughout her life)" .
+<http://rimmfdata.com/r/lackvt00000074> P60549 "Shirley, Anne" .
+<http://rimmfdata.com/r/lackvt00000074> P60599 "1865" .
+<http://rimmfdata.com/r/lackvt00000074> P60370 "Fictitious character" .
+<http://rimmfdata.com/r/lackvt00000074> P60531 <http://rdaregistry.info/termList/gender/1001> .
+<http://rimmfdata.com/r/lackvt00000074> P60089 "0" .
+<http://rimmfdata.com/r/lackvt00000074> P60089 "0" .
+<http://rimmfdata.com/r/lackvt00000074> P60089 "Teaching" .
+<http://rimmfdata.com/r/lackvt00000074> P60468 "0" .
+<http://rimmfdata.com/r/lackvt00000074> P60468 "Poets" .
+<http://rimmfdata.com/r/lackvt00000074> P60468 "Teachers" .
+<http://rimmfdata.com/r/lackvt00000074> P60492 "Anne Shirley is a fictional character first introduced in Anne of Green Gables by L. M. Montgomery. Through the series of books it is known that she was born in March, 1865, orphaned at age 3 months, and moved from Hopetown orphanage at age 11 from which point on she is most closely associated with Green Gables in Avonlea, Prince Edward Island. She gives up writing short stories shortly after becoming a mother, but continues to write poems throughout her life" .
+<http://rimmfdata.com/r/lackvt00000074> P60053 "LCCN no2013046284" .
+<http://rimmfdata.com/r/lackvt00000074> P60053 "(OCoLC)oca09461311" .
+<http://rimmfdata.com/r/lackvt00000074> P60053 "(Uk)008740592" .
+<http://rimmfdata.com/r/lackvt00000074> P60053 <https://lccn.loc.gov/no2013046284> .
+<http://rimmfdata.com/r/lackvt00000074> <http://rimmf.com/vocab/R1080> "Shirley, Anne, 1865-" .
+<http://rimmfdata.com/r/lackvt00000074> P60806 <http://rimmfdata.com/r/lackvt00000073> .
+<http://rimmfdata.com/r/lackvt00000049> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000049> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/lackvt00000049> .
+<http://rimmfdata.com/r/lackvt00000049> <http://rimmf.com/vocab/R1044> "lackvt00000049" .
+<http://rimmfdata.com/r/lackvt00000049> <http://rimmf.com/vocab/R1072> "In another place, not here, 1996" .
+<http://rimmfdata.com/r/lackvt00000049> P60588 "In another place, not here" .
+<http://rimmfdata.com/r/lackvt00000049> P60527 "1996" .
+<http://rimmfdata.com/r/lackvt00000049> P60058 "0" .
+<http://rimmfdata.com/r/lackvt00000049> P60805 "LCC: PR9199.3.B683 I5 1996" .
+<http://rimmfdata.com/r/lackvt00000049> P60805 "DDC: 813/.54 21" .
+<http://rimmfdata.com/r/lackvt00000049> P60805 "LCSH: Women, Black -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000049> P60805 "LCSH: Trinidadians -- Canada -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000049> P60805 "LCSH: Toronto (Ont.) -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000049> P60434 <http://rimmfdata.com/r/lackvt00000050> .
+<http://rimmfdata.com/r/lackvt00000049> 0 <http://rimmfdata.com/r/lackvt00000048> .
+<http://rimmfdata.com/r/lackvt00000049> <http://rimmf.com/vocab/R1078> "In another place, not here" .
+<http://rimmfdata.com/r/lackvt00000041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000041> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/lackvt00000041> .
+<http://rimmfdata.com/r/lackvt00000041> <http://rimmf.com/vocab/R1044> "lackvt00000041" .
+<http://rimmfdata.com/r/lackvt00000041> <http://rimmf.com/vocab/R1078> "The rez sisters" .
+<http://rimmfdata.com/r/lackvt00000041> <http://rimmf.com/vocab/R1078> "Highway, Tomson, 1951- Rez sisters" .
+<http://rimmfdata.com/r/lackvt00000041> <http://rimmf.com/vocab/R1078> "Rez sisters" .
+<http://rimmfdata.com/r/lackvt00000041> <http://rimmf.com/vocab/R1072> "The rez sisters, 1988" .
+<http://rimmfdata.com/r/lackvt00000041> P60588 "The rez sisters" .
+<http://rimmfdata.com/r/lackvt00000041> P60355 "Rez sisters" .
+<http://rimmfdata.com/r/lackvt00000041> P60058 "0" .
+<http://rimmfdata.com/r/lackvt00000041> P60527 "1986" .
+<http://rimmfdata.com/r/lackvt00000041> P60805 "LCC: PR9199.3.H472 R4 1988" .
+<http://rimmfdata.com/r/lackvt00000041> P60805 "DDC: 812/.54 19" .
+<http://rimmfdata.com/r/lackvt00000041> P60434 <http://rimmfdata.com/r/lackvt00000042> .
+<http://rimmfdata.com/r/lackvt00000041> 0 <http://rimmfdata.com/r/lackvt00000040> .
+<http://rimmfdata.com/r/lackvt00000041> 0 <http://rimmfdata.com/r/lackvt00000052> .
+<http://rimmfdata.com/r/lackvt00000045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000045> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/lackvt00000045> .
+<http://rimmfdata.com/r/lackvt00000045> <http://rimmf.com/vocab/R1044> "lackvt00000045" .
+<http://rimmfdata.com/r/lackvt00000045> <http://rimmf.com/vocab/R1078> "The book of negroes" .
+<http://rimmfdata.com/r/lackvt00000045> <http://rimmf.com/vocab/R1078> "Hill, Lawrence, 1957- Book of negroes" .
+<http://rimmfdata.com/r/lackvt00000045> <http://rimmf.com/vocab/R1078> "Book of negroes" .
+<http://rimmfdata.com/r/lackvt00000045> <http://rimmf.com/vocab/R1072> "The book of negroes, 2007" .
+<http://rimmfdata.com/r/lackvt00000045> P60588 "The book of negroes" .
+<http://rimmfdata.com/r/lackvt00000045> P60355 "Book of negroes" .
+<http://rimmfdata.com/r/lackvt00000045> P60058 "0" .
+<http://rimmfdata.com/r/lackvt00000045> P60527 "2007" .
+<http://rimmfdata.com/r/lackvt00000045> P60805 "LCC: PR9199.3.H479 B66 2007" .
+<http://rimmfdata.com/r/lackvt00000045> P60805 "DDC: 813/.54 22" .
+<http://rimmfdata.com/r/lackvt00000045> P60805 "LCSH: Slavery -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000045> P60805 "LCSH: Slaves -- United States -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000045> P60805 "LCSH: United States -- History -- Revolution, 1775-1783 -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000045> P60805 "LCSH: African American loyalists -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000045> P60805 "LCSH: African American loyalists -- Sierra Leone -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000045> P60805 "LCSH: Antislavery movements -- Great Britain -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000045> P60434 <http://rimmfdata.com/r/lackvt00000046> .
+<http://rimmfdata.com/r/lackvt00000045> 0 <http://rimmfdata.com/r/lackvt00000044> .
+<http://rimmfdata.com/r/lackvt00000079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000079> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/lackvt00000079> .
+<http://rimmfdata.com/r/lackvt00000079> <http://rimmf.com/vocab/R1044> "lackvt00000079" .
+<http://rimmfdata.com/r/lackvt00000079> <http://rimmf.com/vocab/R1078> "Sunshine sketches of a little town" .
+<http://rimmfdata.com/r/lackvt00000079> <http://rimmf.com/vocab/R1072> "Sunshine sketches of a little town, 1996" .
+<http://rimmfdata.com/r/lackvt00000079> P60588 "Sunshine sketches of a little town" .
+<http://rimmfdata.com/r/lackvt00000079> P60527 "1912" .
+<http://rimmfdata.com/r/lackvt00000079> P60805 "LAC: PS8523*" .
+<http://rimmfdata.com/r/lackvt00000079> P60805 "DDC: C813/.52 20" .
+<http://rimmfdata.com/r/lackvt00000079> P60434 <http://rimmfdata.com/r/lackvt00000080> .
+<http://rimmfdata.com/r/lackvt00000079> 0 <http://rimmfdata.com/r/lackvt00000077> .
+<http://rimmfdata.com/r/lackvt00000079> 0 <http://rimmfdata.com/r/lackvt00000084> .
+<http://rimmfdata.com/r/lackvt00000056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000056> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/lackvt00000056> .
+<http://rimmfdata.com/r/lackvt00000056> <http://rimmf.com/vocab/R1044> "lackvt00000056" .
+<http://rimmfdata.com/r/lackvt00000056> <http://rimmf.com/vocab/R1078> "Qui est le p\u00E8re?" .
+<http://rimmfdata.com/r/lackvt00000056> <http://rimmf.com/vocab/R1072> "Qui est le p\u00E8re?, 1977" .
+<http://rimmfdata.com/r/lackvt00000056> P60588 "Qui est le p\u00E8re?" .
+<http://rimmfdata.com/r/lackvt00000056> P60527 "1977" .
+<http://rimmfdata.com/r/lackvt00000056> P60058 "0" .
+<http://rimmfdata.com/r/lackvt00000056> P60805 "LCC: PQ3919.L35 Q5" .
+<http://rimmfdata.com/r/lackvt00000056> P60805 "DDC: 842" .
+<http://rimmfdata.com/r/lackvt00000056> P60434 <http://rimmfdata.com/r/lackvt00000057> .
+<http://rimmfdata.com/r/lackvt00000056> 0 <http://rimmfdata.com/r/lackvt00000055> .
+<http://rimmfdata.com/r/lackvt00000037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000037> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/lackvt00000037> .
+<http://rimmfdata.com/r/lackvt00000037> <http://rimmf.com/vocab/R1044> "lackvt00000037" .
+<http://rimmfdata.com/r/lackvt00000037> <http://rimmf.com/vocab/R1072> "Sundogs, 1992" .
+<http://rimmfdata.com/r/lackvt00000037> P60588 "Sundogs" .
+<http://rimmfdata.com/r/lackvt00000037> P60058 "0" .
+<http://rimmfdata.com/r/lackvt00000037> P60527 "1992" .
+<http://rimmfdata.com/r/lackvt00000037> P60805 "LCC: PR9199.3.M3497 S86 1992" .
+<http://rimmfdata.com/r/lackvt00000037> P60805 "DDC: 813/.54 20" .
+<http://rimmfdata.com/r/lackvt00000037> P60805 "LCSH: Indians of North America -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000037> P60805 "LCSH: Mohawk women -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000037> P60805 "LCSH: Canada -- Fiction" .
+<http://rimmfdata.com/r/lackvt00000037> P60805 "LCSH: Domestic fiction" .
+<http://rimmfdata.com/r/lackvt00000037> P60434 <http://rimmfdata.com/r/lackvt00000038> .
+<http://rimmfdata.com/r/lackvt00000037> 0 <http://rimmfdata.com/r/lackvt00000036> .
+<http://rimmfdata.com/r/lackvt00000037> <http://rimmf.com/vocab/R1078> "Sundogs" .
+<http://rimmfdata.com/r/lackvt00000073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000073> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/lackvt00000073> .
+<http://rimmfdata.com/r/lackvt00000073> <http://rimmf.com/vocab/R1044> "lackvt00000073" .
+<http://rimmfdata.com/r/lackvt00000073> <http://rimmf.com/vocab/R1072> "Anne of Green Gables, 2004" .
+<http://rimmfdata.com/r/lackvt00000073> P60588 "Anne of Green Gables" .
+<http://rimmfdata.com/r/lackvt00000073> P60058 "0" .
+<http://rimmfdata.com/r/lackvt00000073> P60527 "1908" .
+<http://rimmfdata.com/r/lackvt00000073> P60805 "LCC: PZ7.M768 An 2004b" .
+<http://rimmfdata.com/r/lackvt00000073> P60805 <http://rimmfdata.com/r/lackvt00000074> .
+<http://rimmfdata.com/r/lackvt00000073> P60805 "DDC: 813/.52 22" .
+<http://rimmfdata.com/r/lackvt00000073> P60805 "LCSH: Shirley, Anne (Fictitious character) -- Juvenile fiction" .
+<http://rimmfdata.com/r/lackvt00000073> P60805 "LCSH: Girls -- Prince Edward Island -- Juvenile fiction" .
+<http://rimmfdata.com/r/lackvt00000073> P60805 "LCSH: Orphans -- Juvenile fiction" .
+<http://rimmfdata.com/r/lackvt00000073> P60805 "LCSH: Friendship -- Juvenile fiction" .
+<http://rimmfdata.com/r/lackvt00000073> P60805 "LCSH: Country life -- Juvenile fiction" .
+<http://rimmfdata.com/r/lackvt00000073> P60805 "LCSH: Prince Edward Island -- Juvenile fiction" .
+<http://rimmfdata.com/r/lackvt00000073> P60805 "GSAFD: Bildungsromans" .
+<http://rimmfdata.com/r/lackvt00000073> P60434 <http://rimmfdata.com/r/lackvt00000075> .
+<http://rimmfdata.com/r/lackvt00000073> 0 <http://rimmfdata.com/r/lackvt00000071> .
+<http://rimmfdata.com/r/lackvt00000073> <http://rimmf.com/vocab/R1078> "Anne of Green Gables" .
+<http://rimmfdata.com/r/lackvt00000073> 0 <http://rimmfdata.com/r/lackvt00000082> .
+<http://rimmfdata.com/r/lackvt00000073> 0 <http://rimmfdata.com/r/qpq00010972> .
+<http://rimmfdata.com/r/lackvt00000065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1060> <http://rimmfdata.com/r/lackvt00000065> .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1044> "lackvt00000065" .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1078> "La route d'Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1078> "Roy, Gabrielle, 1909-1983. Route d'Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1078> "Route d'Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1078> "Roy, Gabrielle, 1909-1983. The road past Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1078> "The road past Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1078> "Roy, Gabrielle, 1909-1983. Road past Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1078> "Road past Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> <http://rimmf.com/vocab/R1072> "La route d'Altamont, 1966" .
+<http://rimmfdata.com/r/lackvt00000065> P60588 "La route d'Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> P60355 "Route d'Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> P60355 "The road past Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> P60355 "Road past Altamont" .
+<http://rimmfdata.com/r/lackvt00000065> P60058 "0" .
+<http://rimmfdata.com/r/lackvt00000065> P60527 "1966" .
+<http://rimmfdata.com/r/lackvt00000065> P60805 "LCC: PQ3919.R74 R6" .
+<http://rimmfdata.com/r/lackvt00000065> P60434 <http://rimmfdata.com/r/lackvt00000060> .
+<http://rimmfdata.com/r/lackvt00000065> 0 <http://rimmfdata.com/r/lackvt00000064> .
+<http://rimmfdata.com/r/lackvt00000065> 0 <http://rimmfdata.com/r/lackvt00000058> .
+<http://rimmfdata.com/r/lackvt00000048> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000048> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000048> .
+<http://rimmfdata.com/r/lackvt00000048> <http://rimmf.com/vocab/R1043> "lackvt00000048" .
+<http://rimmfdata.com/r/lackvt00000048> <http://rimmf.com/vocab/R1071> "In another place, not here, 1996" .
+<http://rimmfdata.com/r/lackvt00000048> P60527 "1996" .
+<http://rimmfdata.com/r/lackvt00000048> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000048> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000048> 0 <http://rimmfdata.com/r/lackvt00000049> .
+<http://rimmfdata.com/r/lackvt00000048> 0 <http://rimmfdata.com/r/lackvt00000047> .
+<http://rimmfdata.com/r/lackvt00000052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000052> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000052> .
+<http://rimmfdata.com/r/lackvt00000052> <http://rimmf.com/vocab/R1043> "lackvt00000052" .
+<http://rimmfdata.com/r/lackvt00000052> <http://rimmf.com/vocab/R1071> "The rez sisters, 1992" .
+<http://rimmfdata.com/r/lackvt00000052> P60527 "1992" .
+<http://rimmfdata.com/r/lackvt00000052> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000052> P60049 <http://rdaregistry.info/termList/RDAContentType/1013> .
+<http://rimmfdata.com/r/lackvt00000052> P60372 "Seven women attempt to beat the odds by winning the biggest bingo in the world and escaping their tortured lives" .
+<http://rimmfdata.com/r/lackvt00000052> P60090 "Dora Mavor Moore Award for Best New Play, 1986" .
+<http://rimmfdata.com/r/lackvt00000052> P60090 "Nominated for the Governor General's Award" .
+<http://rimmfdata.com/r/lackvt00000052> P60153 <http://rimmfdata.com/r/lackvt00000053> .
+<http://rimmfdata.com/r/lackvt00000052> 0 <http://rimmfdata.com/r/lackvt00000041> .
+<http://rimmfdata.com/r/lackvt00000052> 0 <http://rimmfdata.com/r/lackvt00000051> .
+<http://rimmfdata.com/r/lackvt00000040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000040> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000040> .
+<http://rimmfdata.com/r/lackvt00000040> <http://rimmf.com/vocab/R1043> "lackvt00000040" .
+<http://rimmfdata.com/r/lackvt00000040> <http://rimmf.com/vocab/R1071> "The rez sisters, 1988" .
+<http://rimmfdata.com/r/lackvt00000040> P60527 "1986" .
+<http://rimmfdata.com/r/lackvt00000040> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000040> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000040> P60486 <http://rdaregistry.info/termList/IllusContent/1012> .
+<http://rimmfdata.com/r/lackvt00000040> P60372 "Seven women attempt to beat the odds by winning the biggest bingo in the world and escaping their tortured lives" .
+<http://rimmfdata.com/r/lackvt00000040> P60090 "Dora Mavor Moore Award for Best New Play, 1986" .
+<http://rimmfdata.com/r/lackvt00000040> P60090 "Nominated for the Governor General's Award" .
+<http://rimmfdata.com/r/lackvt00000040> 0 <http://rimmfdata.com/r/lackvt00000041> .
+<http://rimmfdata.com/r/lackvt00000040> 0 <http://rimmfdata.com/r/lackvt00000039> .
+<http://rimmfdata.com/r/lackvt00000044> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000044> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000044> .
+<http://rimmfdata.com/r/lackvt00000044> <http://rimmf.com/vocab/R1043> "lackvt00000044" .
+<http://rimmfdata.com/r/lackvt00000044> <http://rimmf.com/vocab/R1071> "The book of negroes, 2007" .
+<http://rimmfdata.com/r/lackvt00000044> P60527 "2007" .
+<http://rimmfdata.com/r/lackvt00000044> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000044> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000044> P60485 "Includes bibliographical references" .
+<http://rimmfdata.com/r/lackvt00000044> 0 <http://rimmfdata.com/r/lackvt00000045> .
+<http://rimmfdata.com/r/lackvt00000044> 0 <http://rimmfdata.com/r/lackvt00000043> .
+<http://rimmfdata.com/r/lackvt00000084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000084> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000084> .
+<http://rimmfdata.com/r/lackvt00000084> <http://rimmf.com/vocab/R1043> "lackvt00000084" .
+<http://rimmfdata.com/r/lackvt00000084> <http://rimmf.com/vocab/R1071> "Sunshine sketches of a little town, 1912" .
+<http://rimmfdata.com/r/lackvt00000084> P60527 "1912" .
+<http://rimmfdata.com/r/lackvt00000084> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000084> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000084> 0 <http://rimmfdata.com/r/lackvt00000079> .
+<http://rimmfdata.com/r/lackvt00000084> 0 <http://rimmfdata.com/r/lackvt00000083> .
+<http://rimmfdata.com/r/lackvt00000077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000077> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000077> .
+<http://rimmfdata.com/r/lackvt00000077> <http://rimmf.com/vocab/R1043> "lackvt00000077" .
+<http://rimmfdata.com/r/lackvt00000077> <http://rimmf.com/vocab/R1071> "Sunshine sketches of a little town, 1996" .
+<http://rimmfdata.com/r/lackvt00000077> P60527 "1996" .
+<http://rimmfdata.com/r/lackvt00000077> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000077> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000077> P60054 "Lynch" .
+<http://rimmfdata.com/r/lackvt00000077> P60486 <http://rdaregistry.info/termList/IllusContent/1008> .
+<http://rimmfdata.com/r/lackvt00000077> P60486 <http://rdaregistry.info/termList/IllusContent/1012> .
+<http://rimmfdata.com/r/lackvt00000077> P60485 "Includes bibliographical references" .
+<http://rimmfdata.com/r/lackvt00000077> P60393 <http://rimmfdata.com/r/lackvt00000078> .
+<http://rimmfdata.com/r/lackvt00000077> 0 <http://rimmfdata.com/r/lackvt00000079> .
+<http://rimmfdata.com/r/lackvt00000077> 0 <http://rimmfdata.com/r/lackvt00000076> .
+<http://rimmfdata.com/r/lackvt00000055> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000055> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000055> .
+<http://rimmfdata.com/r/lackvt00000055> <http://rimmf.com/vocab/R1043> "lackvt00000055" .
+<http://rimmfdata.com/r/lackvt00000055> <http://rimmf.com/vocab/R1071> "Qui est le p\u00E8re?, 1977" .
+<http://rimmfdata.com/r/lackvt00000055> P60527 "1977" .
+<http://rimmfdata.com/r/lackvt00000055> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000055> P60099 <http://id.loc.gov/vocabulary/iso639-2/fre> .
+<http://rimmfdata.com/r/lackvt00000055> 0 <http://rimmfdata.com/r/lackvt00000056> .
+<http://rimmfdata.com/r/lackvt00000055> 0 <http://rimmfdata.com/r/lackvt00000054> .
+<http://rimmfdata.com/r/lackvt00000036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000036> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000036> .
+<http://rimmfdata.com/r/lackvt00000036> <http://rimmf.com/vocab/R1043> "lackvt00000036" .
+<http://rimmfdata.com/r/lackvt00000036> <http://rimmf.com/vocab/R1071> "Sundogs, 1992" .
+<http://rimmfdata.com/r/lackvt00000036> P60527 "1992" .
+<http://rimmfdata.com/r/lackvt00000036> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000036> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000036> 0 <http://rimmfdata.com/r/lackvt00000037> .
+<http://rimmfdata.com/r/lackvt00000036> 0 <http://rimmfdata.com/r/lackvt00000035> .
+<http://rimmfdata.com/r/lackvt00000082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000082> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000082> .
+<http://rimmfdata.com/r/lackvt00000082> <http://rimmf.com/vocab/R1043> "lackvt00000082" .
+<http://rimmfdata.com/r/lackvt00000082> <http://rimmf.com/vocab/R1071> "Anne of Green gables, 1908" .
+<http://rimmfdata.com/r/lackvt00000082> P60527 "1908" .
+<http://rimmfdata.com/r/lackvt00000082> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000082> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000082> 0 <http://rimmfdata.com/r/lackvt00000073> .
+<http://rimmfdata.com/r/qpq00010972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/qpq00010972> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/qpq00010972> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/qpq00010972> P60527 "1908" .
+<http://rimmfdata.com/r/qpq00010972> P60054 "Claus" .
+<http://rimmfdata.com/r/qpq00010972> P60486 <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/qpq00010972> P60558 <http://rdaregistry.info/termList/RDAColourContent/1002> .
+<http://rimmfdata.com/r/qpq00010972> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/qpq00010972> .
+<http://rimmfdata.com/r/qpq00010972> <http://rimmf.com/vocab/R1043> "qpq00010972" .
+<http://rimmfdata.com/r/qpq00010972> 0 <http://rimmfdata.com/r/lackvt00000073> .
+<http://rimmfdata.com/r/qpq00010972> 0 <http://rimmfdata.com/r/lackvt00000081> .
+<http://rimmfdata.com/r/qpq00010972> P60396 <http://rimmfdata.com/r/qpq00010973> .
+<http://rimmfdata.com/r/qpq00010972> P60396 <http://rimmfdata.com/r/qpq00010974> .
+<http://rimmfdata.com/r/lackvt00000071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000071> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000071> .
+<http://rimmfdata.com/r/lackvt00000071> <http://rimmf.com/vocab/R1043> "lackvt00000071" .
+<http://rimmfdata.com/r/lackvt00000071> <http://rimmf.com/vocab/R1071> "Anne of Green Gables, 2004" .
+<http://rimmfdata.com/r/lackvt00000071> P60527 "2004" .
+<http://rimmfdata.com/r/lackvt00000071> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000071> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000071> P60054 "Devereux" .
+<http://rimmfdata.com/r/lackvt00000071> P60486 <http://rdaregistry.info/termList/IllusContent/1015> .
+<http://rimmfdata.com/r/lackvt00000071> P60485 "Includes bibliographical references" .
+<http://rimmfdata.com/r/lackvt00000071> P60393 <http://rimmfdata.com/r/lackvt00000072> .
+<http://rimmfdata.com/r/lackvt00000071> 0 <http://rimmfdata.com/r/lackvt00000073> .
+<http://rimmfdata.com/r/lackvt00000071> 0 <http://rimmfdata.com/r/lackvt00000070> .
+<http://rimmfdata.com/r/lackvt00000058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000058> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000058> .
+<http://rimmfdata.com/r/lackvt00000058> <http://rimmf.com/vocab/R1043> "lackvt00000058" .
+<http://rimmfdata.com/r/lackvt00000058> <http://rimmf.com/vocab/R1077> "Roy, Gabrielle, 1909-1983. Road past Altamont. Text. English" .
+<http://rimmfdata.com/r/lackvt00000058> <http://rimmf.com/vocab/R1077> "Road past Altamont. Text. English" .
+<http://rimmfdata.com/r/lackvt00000058> <http://rimmf.com/vocab/R1077> "Roy, Gabrielle, 1909-1983. The road past Altamont. Text. English" .
+<http://rimmfdata.com/r/lackvt00000058> <http://rimmf.com/vocab/R1077> "The road past Altamont. Text. English" .
+<http://rimmfdata.com/r/lackvt00000058> <http://rimmf.com/vocab/R1073> <http://rdaregistry.info/termList/statidentification/1001> .
+<http://rimmfdata.com/r/lackvt00000058> <http://rimmf.com/vocab/R1071> "Her The road past Altamont, 1993" .
+<http://rimmfdata.com/r/lackvt00000058> P60099 <http://id.loc.gov/vocabulary/iso639-2/eng> .
+<http://rimmfdata.com/r/lackvt00000058> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000058> P60527 "1993" .
+<http://rimmfdata.com/r/lackvt00000058> P60052 "LCCN n  93047225" .
+<http://rimmfdata.com/r/lackvt00000058> P60052 "(OCoLC)oca03374858" .
+<http://rimmfdata.com/r/lackvt00000058> P60052 <https://lccn.loc.gov/n93047225> .
+<http://rimmfdata.com/r/lackvt00000058> 0 <http://rimmfdata.com/r/lackvt00000065> .
+<http://rimmfdata.com/r/lackvt00000058> 0 <http://rimmfdata.com/r/lackvt00000062> .
+<http://rimmfdata.com/r/lackvt00000064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000064> <http://rimmf.com/vocab/R1055> <http://rimmfdata.com/r/lackvt00000064> .
+<http://rimmfdata.com/r/lackvt00000064> <http://rimmf.com/vocab/R1043> "lackvt00000064" .
+<http://rimmfdata.com/r/lackvt00000064> <http://rimmf.com/vocab/R1077> "La route d'Altamont. Text. French" .
+<http://rimmfdata.com/r/lackvt00000064> <http://rimmf.com/vocab/R1077> "Roy, Gabrielle, 1909-1983. Route d'Altamont. Text. French" .
+<http://rimmfdata.com/r/lackvt00000064> <http://rimmf.com/vocab/R1077> "Route d'Altamont. Text. French" .
+<http://rimmfdata.com/r/lackvt00000064> <http://rimmf.com/vocab/R1071> "La route d'Altamont, 1966" .
+<http://rimmfdata.com/r/lackvt00000064> <http://rimmf.com/vocab/R1073> <http://rdaregistry.info/termList/statidentification/1003> .
+<http://rimmfdata.com/r/lackvt00000064> P60527 "1966" .
+<http://rimmfdata.com/r/lackvt00000064> P60049 <http://rdaregistry.info/termList/RDAContentType/1020> .
+<http://rimmfdata.com/r/lackvt00000064> P60099 <http://id.loc.gov/vocabulary/iso639-2/fre> .
+<http://rimmfdata.com/r/lackvt00000064> 0 <http://rimmfdata.com/r/lackvt00000065> .
+<http://rimmfdata.com/r/lackvt00000064> 0 <http://rimmfdata.com/r/lackvt00000063> .
+<http://rimmfdata.com/r/lackvt00000070> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000070> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000070> .
+<http://rimmfdata.com/r/lackvt00000070> <http://rimmf.com/vocab/R1085> "lackvt00000070" .
+<http://rimmfdata.com/r/lackvt00000070> P60515 "Anne of Green Gables" .
+<http://rimmfdata.com/r/lackvt00000070> P60327 "L.M. Montgomery" .
+<http://rimmfdata.com/r/lackvt00000070> P60327 "edited by Cecily Devereux" .
+<http://rimmfdata.com/r/lackvt00000070> P60163 "Peterborough, Ont." .
+<http://rimmfdata.com/r/lackvt00000070> P60163 "Orchard Park, N.Y." .
+<http://rimmfdata.com/r/lackvt00000070> P60547 "Broadview Press" .
+<http://rimmfdata.com/r/lackvt00000070> P60073 "[2004]" .
+<http://rimmfdata.com/r/lackvt00000070> P60069 "\u00A92004" .
+<http://rimmfdata.com/r/lackvt00000070> P60516 "Broadview editions" .
+<http://rimmfdata.com/r/lackvt00000070> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000070> P60052 "LCCN   2005362426" .
+<http://rimmfdata.com/r/lackvt00000070> P60052 "ISBN 1551113627" .
+<http://rimmfdata.com/r/lackvt00000070> P60052 "(CaONFJC)ct0259639" .
+<http://rimmfdata.com/r/lackvt00000070> P60052 <https://lccn.loc.gov/2005362426> .
+<http://rimmfdata.com/r/lackvt00000070> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000070> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000070> <http://rimmf.com/vocab/R1063> "400 pages" .
+<http://rimmfdata.com/r/lackvt00000070> <http://rimmf.com/vocab/R1062> "400" .
+<http://rimmfdata.com/r/lackvt00000070> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000070> P60539 "22 cm" .
+<http://rimmfdata.com/r/lackvt00000070> 0 <http://rimmfdata.com/r/lackvt00000071> .
+<http://rimmfdata.com/r/lackvt00000081> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000081> .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1085> "lackvt00000081" .
+<http://rimmfdata.com/r/lackvt00000081> P60515 "Anne of Green Gables" .
+<http://rimmfdata.com/r/lackvt00000081> P60327 "by L.M. Montgomery; illustrated by M.A. and W.A.J. Claus" .
+<http://rimmfdata.com/r/lackvt00000081> P60163 "Boston" .
+<http://rimmfdata.com/r/lackvt00000081> P60547 "L.C. Page & Company" .
+<http://rimmfdata.com/r/lackvt00000081> P60073 "1908" .
+<http://rimmfdata.com/r/lackvt00000081> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000081> P60052 "LCCN    08018572" .
+<http://rimmfdata.com/r/lackvt00000081> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000081> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1063> "vii pages, 1 leaf, 429 pages, 7 pages of plates" .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1062> "vii" .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1062> "1" .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1066> <http://rdaregistry.info/termList/extentText/1002> .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1062> "429" .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1062> "7" .
+<http://rimmfdata.com/r/lackvt00000081> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000081> P60539 "20 cm" .
+<http://rimmfdata.com/r/lackvt00000081> 0 <http://rimmfdata.com/r/qpq00010972> .
+<http://rimmfdata.com/r/lackvt00000047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000047> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000047> .
+<http://rimmfdata.com/r/lackvt00000047> <http://rimmf.com/vocab/R1085> "lackvt00000047" .
+<http://rimmfdata.com/r/lackvt00000047> P60515 "In another place, not here" .
+<http://rimmfdata.com/r/lackvt00000047> P60327 "Dionne Brand" .
+<http://rimmfdata.com/r/lackvt00000047> P60365 "1st ed" .
+<http://rimmfdata.com/r/lackvt00000047> P60163 "Toronto" .
+<http://rimmfdata.com/r/lackvt00000047> P60547 "Alfred A. Knopf Canada" .
+<http://rimmfdata.com/r/lackvt00000047> P60073 "[1996]" .
+<http://rimmfdata.com/r/lackvt00000047> P60069 "\u00A91996" .
+<http://rimmfdata.com/r/lackvt00000047> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000047> P60052 "LCCN    97209908" .
+<http://rimmfdata.com/r/lackvt00000047> P60052 "ISBN 0394281586" .
+<http://rimmfdata.com/r/lackvt00000047> P60052 <https://lccn.loc.gov/97209908> .
+<http://rimmfdata.com/r/lackvt00000047> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000047> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000047> <http://rimmf.com/vocab/R1063> "247 p." .
+<http://rimmfdata.com/r/lackvt00000047> <http://rimmf.com/vocab/R1062> "247" .
+<http://rimmfdata.com/r/lackvt00000047> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000047> P60539 "22 cm" .
+<http://rimmfdata.com/r/lackvt00000047> 0 <http://rimmfdata.com/r/lackvt00000048> .
+<http://rimmfdata.com/r/lackvt00000063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000063> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000063> .
+<http://rimmfdata.com/r/lackvt00000063> <http://rimmf.com/vocab/R1085> "lackvt00000063" .
+<http://rimmfdata.com/r/lackvt00000063> P60515 "La route d'Altamont" .
+<http://rimmfdata.com/r/lackvt00000063> P60493 "roman" .
+<http://rimmfdata.com/r/lackvt00000063> P60163 "Montr\u00E9al" .
+<http://rimmfdata.com/r/lackvt00000063> P60547 "\u00C9ditions HMH" .
+<http://rimmfdata.com/r/lackvt00000063> P60073 "1966" .
+<http://rimmfdata.com/r/lackvt00000063> P60516 "Collection L'Arbre" .
+<http://rimmfdata.com/r/lackvt00000063> P60081 "v. 10" .
+<http://rimmfdata.com/r/lackvt00000063> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000063> P60052 "LCCN    67083125" .
+<http://rimmfdata.com/r/lackvt00000063> P60052 "(OCoLC)1245834" .
+<http://rimmfdata.com/r/lackvt00000063> P60052 <https://lccn.loc.gov/67083125> .
+<http://rimmfdata.com/r/lackvt00000063> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000063> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000063> <http://rimmf.com/vocab/R1063> "261 pages" .
+<http://rimmfdata.com/r/lackvt00000063> <http://rimmf.com/vocab/R1062> "261" .
+<http://rimmfdata.com/r/lackvt00000063> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000063> P60539 "19 cm" .
+<http://rimmfdata.com/r/lackvt00000063> 0 <http://rimmfdata.com/r/lackvt00000064> .
+<http://rimmfdata.com/r/lackvt00000054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000054> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000054> .
+<http://rimmfdata.com/r/lackvt00000054> <http://rimmf.com/vocab/R1085> "lackvt00000054" .
+<http://rimmfdata.com/r/lackvt00000054> P60515 "Qui est le p\u00E8re?" .
+<http://rimmfdata.com/r/lackvt00000054> P60327 "F\u00E9lix Leclerc" .
+<http://rimmfdata.com/r/lackvt00000054> P60163 "[Montr\u00E9al]" .
+<http://rimmfdata.com/r/lackvt00000054> P60547 "Lem\u00E9ac" .
+<http://rimmfdata.com/r/lackvt00000054> P60073 "[1977]" .
+<http://rimmfdata.com/r/lackvt00000054> P60069 "\u00A91977" .
+<http://rimmfdata.com/r/lackvt00000054> P60328 "Th\u00E9\u00E2tre ; 63." .
+<http://rimmfdata.com/r/lackvt00000054> P60516 "Th\u00E9\u00E2tre" .
+<http://rimmfdata.com/r/lackvt00000054> P60081 "63" .
+<http://rimmfdata.com/r/lackvt00000054> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000054> P60052 "LCCN    77568260" .
+<http://rimmfdata.com/r/lackvt00000054> P60052 "ISBN 0776100629" .
+<http://rimmfdata.com/r/lackvt00000054> P60052 <https://lccn.loc.gov/77568260> .
+<http://rimmfdata.com/r/lackvt00000054> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000054> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000054> <http://rimmf.com/vocab/R1063> "xiii, 128 p." .
+<http://rimmfdata.com/r/lackvt00000054> <http://rimmf.com/vocab/R1062> "xiii, 128" .
+<http://rimmfdata.com/r/lackvt00000054> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000054> P60539 "20 cm" .
+<http://rimmfdata.com/r/lackvt00000054> 0 <http://rimmfdata.com/r/lackvt00000055> .
+<http://rimmfdata.com/r/lackvt00000035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000035> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000035> .
+<http://rimmfdata.com/r/lackvt00000035> <http://rimmf.com/vocab/R1085> "lackvt00000035" .
+<http://rimmfdata.com/r/lackvt00000035> P60515 "Sundogs" .
+<http://rimmfdata.com/r/lackvt00000035> P60493 "a novel" .
+<http://rimmfdata.com/r/lackvt00000035> P60327 "by Lee Maracle" .
+<http://rimmfdata.com/r/lackvt00000035> P60163 "Penticton, B.C." .
+<http://rimmfdata.com/r/lackvt00000035> P60547 "Theytus Books" .
+<http://rimmfdata.com/r/lackvt00000035> P60073 "[1992]" .
+<http://rimmfdata.com/r/lackvt00000035> P60069 "\u00A91992" .
+<http://rimmfdata.com/r/lackvt00000035> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000035> P60052 "LCCN    93111396" .
+<http://rimmfdata.com/r/lackvt00000035> P60052 "ISBN 0919441416 (pbk.)" .
+<http://rimmfdata.com/r/lackvt00000035> P60052 <https://lccn.loc.gov/93111396> .
+<http://rimmfdata.com/r/lackvt00000035> P60470 "Cover title" .
+<http://rimmfdata.com/r/lackvt00000035> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000035> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000035> <http://rimmf.com/vocab/R1063> "214 p." .
+<http://rimmfdata.com/r/lackvt00000035> <http://rimmf.com/vocab/R1062> "214" .
+<http://rimmfdata.com/r/lackvt00000035> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000035> P60539 "21 cm" .
+<http://rimmfdata.com/r/lackvt00000035> 0 <http://rimmfdata.com/r/lackvt00000036> .
+<http://rimmfdata.com/r/lackvt00000076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000076> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000076> .
+<http://rimmfdata.com/r/lackvt00000076> <http://rimmf.com/vocab/R1085> "lackvt00000076" .
+<http://rimmfdata.com/r/lackvt00000076> P60515 "Sunshine sketches of a little town" .
+<http://rimmfdata.com/r/lackvt00000076> P60493 "a critical edition" .
+<http://rimmfdata.com/r/lackvt00000076> P60327 "by Stephen Leacock" .
+<http://rimmfdata.com/r/lackvt00000076> P60327 "edited by Gerald Lynch" .
+<http://rimmfdata.com/r/lackvt00000076> P60163 "Ottawa" .
+<http://rimmfdata.com/r/lackvt00000076> P60547 "Tecumseh Press" .
+<http://rimmfdata.com/r/lackvt00000076> P60073 "1996" .
+<http://rimmfdata.com/r/lackvt00000076> P60516 "Canadian critical editions" .
+<http://rimmfdata.com/r/lackvt00000076> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000076> P60052 "ISBN 1896133320 (bound)" .
+<http://rimmfdata.com/r/lackvt00000076> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000076> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000076> <http://rimmf.com/vocab/R1063> "xviii, 225 p." .
+<http://rimmfdata.com/r/lackvt00000076> <http://rimmf.com/vocab/R1062> "xviii, 225" .
+<http://rimmfdata.com/r/lackvt00000076> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000076> P60539 "23 cm" .
+<http://rimmfdata.com/r/lackvt00000076> 0 <http://rimmfdata.com/r/lackvt00000077> .
+<http://rimmfdata.com/r/lackvt00000083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000083> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000083> .
+<http://rimmfdata.com/r/lackvt00000083> <http://rimmf.com/vocab/R1085> "lackvt00000083" .
+<http://rimmfdata.com/r/lackvt00000083> P60515 "Sunshine sketches of a little town" .
+<http://rimmfdata.com/r/lackvt00000083> P60327 "by Stephen Leacock" .
+<http://rimmfdata.com/r/lackvt00000083> P60163 "New York" .
+<http://rimmfdata.com/r/lackvt00000083> P60547 " J. Lane Co." .
+<http://rimmfdata.com/r/lackvt00000083> P60073 "[1912]" .
+<http://rimmfdata.com/r/lackvt00000083> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000083> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000083> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000083> <http://rimmf.com/vocab/R1063> "xii, 264 pages" .
+<http://rimmfdata.com/r/lackvt00000083> <http://rimmf.com/vocab/R1062> "xii, 264" .
+<http://rimmfdata.com/r/lackvt00000083> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000083> P60539 "20 cm" .
+<http://rimmfdata.com/r/lackvt00000083> 0 <http://rimmfdata.com/r/lackvt00000084> .
+<http://rimmfdata.com/r/lackvt00000043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000043> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000043> .
+<http://rimmfdata.com/r/lackvt00000043> <http://rimmf.com/vocab/R1085> "lackvt00000043" .
+<http://rimmfdata.com/r/lackvt00000043> P60515 "The book of negroes" .
+<http://rimmfdata.com/r/lackvt00000043> P60327 "Lawrence Hill" .
+<http://rimmfdata.com/r/lackvt00000043> P60163 "Toronto" .
+<http://rimmfdata.com/r/lackvt00000043> P60547 "HarperCollins" .
+<http://rimmfdata.com/r/lackvt00000043> P60073 "[2007]" .
+<http://rimmfdata.com/r/lackvt00000043> P60069 "\u00A92007" .
+<http://rimmfdata.com/r/lackvt00000043> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000043> P60052 "LCCN   2009464718" .
+<http://rimmfdata.com/r/lackvt00000043> P60052 "ISBN 9780002255073" .
+<http://rimmfdata.com/r/lackvt00000043> P60052 "ISBN 0002255073" .
+<http://rimmfdata.com/r/lackvt00000043> P60052 "(OCoLC)ocm70507153" .
+<http://rimmfdata.com/r/lackvt00000043> P60052 <https://lccn.loc.gov/2009464718> .
+<http://rimmfdata.com/r/lackvt00000043> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000043> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000043> <http://rimmf.com/vocab/R1063> "486 p." .
+<http://rimmfdata.com/r/lackvt00000043> <http://rimmf.com/vocab/R1062> "486" .
+<http://rimmfdata.com/r/lackvt00000043> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000043> P60539 "24 cm" .
+<http://rimmfdata.com/r/lackvt00000043> 0 <http://rimmfdata.com/r/lackvt00000044> .
+<http://rimmfdata.com/r/lackvt00000051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000051> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000051> .
+<http://rimmfdata.com/r/lackvt00000051> <http://rimmf.com/vocab/R1085> "lackvt00000051" .
+<http://rimmfdata.com/r/lackvt00000051> P60515 "The rez sisters" .
+<http://rimmfdata.com/r/lackvt00000051> P60493 "a play in two acts" .
+<http://rimmfdata.com/r/lackvt00000051> P60327 "by Tomson Highway" .
+<http://rimmfdata.com/r/lackvt00000051> P60163 "Toronto" .
+<http://rimmfdata.com/r/lackvt00000051> P60547 "CNIB" .
+<http://rimmfdata.com/r/lackvt00000051> P60073 "1992" .
+<http://rimmfdata.com/r/lackvt00000051> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000051> P60130 "Read by Donna Dudinsky" .
+<http://rimmfdata.com/r/lackvt00000051> P60050 <http://rdaregistry.info/termList/RDAMediaType/1001> .
+<http://rimmfdata.com/r/lackvt00000051> P60048 <http://rdaregistry.info/termList/RDACarrierType/1007> .
+<http://rimmfdata.com/r/lackvt00000051> <http://rimmf.com/vocab/R1063> "1 audiocassette" .
+<http://rimmfdata.com/r/lackvt00000051> <http://rimmf.com/vocab/R1062> "1" .
+<http://rimmfdata.com/r/lackvt00000051> <http://rimmf.com/vocab/R1064> <http://rdaregistry.info/termList/extent/1010> .
+<http://rimmfdata.com/r/lackvt00000051> 0 <http://rimmfdata.com/r/lackvt00000052> .
+<http://rimmfdata.com/r/lackvt00000039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000039> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000039> .
+<http://rimmfdata.com/r/lackvt00000039> <http://rimmf.com/vocab/R1085> "lackvt00000039" .
+<http://rimmfdata.com/r/lackvt00000039> P60515 "The rez sisters" .
+<http://rimmfdata.com/r/lackvt00000039> P60493 "a play in two acts" .
+<http://rimmfdata.com/r/lackvt00000039> P60327 "by Tomson Highway" .
+<http://rimmfdata.com/r/lackvt00000039> P60163 "Saskatoon" .
+<http://rimmfdata.com/r/lackvt00000039> P60547 "Fifth House" .
+<http://rimmfdata.com/r/lackvt00000039> P60073 "1988" .
+<http://rimmfdata.com/r/lackvt00000039> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000039> P60052 "LCCN    89124543" .
+<http://rimmfdata.com/r/lackvt00000039> P60052 "ISBN 092007944X" .
+<http://rimmfdata.com/r/lackvt00000039> P60052 "(OCoLC)18381242" .
+<http://rimmfdata.com/r/lackvt00000039> P60052 <https://lccn.loc.gov/89124543> .
+<http://rimmfdata.com/r/lackvt00000039> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000039> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000039> <http://rimmf.com/vocab/R1063> "xiii, 118 p." .
+<http://rimmfdata.com/r/lackvt00000039> <http://rimmf.com/vocab/R1062> "xiii, 118" .
+<http://rimmfdata.com/r/lackvt00000039> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000039> P60539 "22 cm" .
+<http://rimmfdata.com/r/lackvt00000039> 0 <http://rimmfdata.com/r/lackvt00000040> .
+<http://rimmfdata.com/r/lackvt00000062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/terms/BibliographicResource> .
+<http://rimmfdata.com/r/lackvt00000062> <http://rimmf.com/vocab/R1058> <http://rimmfdata.com/r/lackvt00000062> .
+<http://rimmfdata.com/r/lackvt00000062> <http://rimmf.com/vocab/R1085> "lackvt00000062" .
+<http://rimmfdata.com/r/lackvt00000062> P60515 "The road past Altamont" .
+<http://rimmfdata.com/r/lackvt00000062> P60327 "by Gabrielle Roy" .
+<http://rimmfdata.com/r/lackvt00000062> P60327 "translated from the French by Joyce Marshall" .
+<http://rimmfdata.com/r/lackvt00000062> P60163 "Lincoln [Nebraska]" .
+<http://rimmfdata.com/r/lackvt00000062> P60547 "University of Nebraska Press" .
+<http://rimmfdata.com/r/lackvt00000062> P60073 "[1993]" .
+<http://rimmfdata.com/r/lackvt00000062> P60051 <http://rdaregistry.info/termList/ModeIssue/1001> .
+<http://rimmfdata.com/r/lackvt00000062> P60052 "LCCN    93014195" .
+<http://rimmfdata.com/r/lackvt00000062> P60052 "ISBN 0803289480" .
+<http://rimmfdata.com/r/lackvt00000062> P60052 <https://lccn.loc.gov/93014195> .
+<http://rimmfdata.com/r/lackvt00000062> P60050 <http://rdaregistry.info/termList/RDAMediaType/1007> .
+<http://rimmfdata.com/r/lackvt00000062> P60048 <http://rdaregistry.info/termList/RDACarrierType/1049> .
+<http://rimmfdata.com/r/lackvt00000062> <http://rimmf.com/vocab/R1063> "146 pages" .
+<http://rimmfdata.com/r/lackvt00000062> <http://rimmf.com/vocab/R1062> "146" .
+<http://rimmfdata.com/r/lackvt00000062> <http://rimmf.com/vocab/R1066> "0" .
+<http://rimmfdata.com/r/lackvt00000062> P60539 "20 cm" .
+<http://rimmfdata.com/r/lackvt00000062> 0 <http://rimmfdata.com/r/lackvt00000058> .
